@@ -1,5 +1,6 @@
 extends Node
 
+onready var game_manager = get_node("/root/game_manager")
 onready var player = get_node("player")
 onready var camera = get_node("camera")
 onready var camera_tween = get_node("camera/camera_tween")
@@ -25,3 +26,6 @@ func move_camera():
 	var new_pos = Vector2(new_x, new_y)
 	camera_tween.interpolate_property(camera, "position", camera.position, new_pos, 0.001, Tween.TRANS_LINEAR, Tween.EASE_IN)
 	camera_tween.start()
+
+func _on_player_player_dead():
+	game_manager.load_new_scene("title")

@@ -6,6 +6,7 @@
 [node name="overworld" type="Node" index="0"]
 
 script = ExtResource( 1 )
+_sections_unfolded = [ "Transform" ]
 
 [node name="tilemap" type="TileMap" parent="." index="0"]
 
@@ -30,8 +31,7 @@ _sections_unfolded = [ "Cell" ]
 
 [node name="player" parent="." index="1" instance=ExtResource( 2 )]
 
-position = Vector2( 448, 240 )
-_sections_unfolded = [ "Transform" ]
+position = Vector2( 432, 240 )
 
 [node name="camera" type="Camera2D" parent="." index="2"]
 
@@ -67,5 +67,7 @@ playback_speed = 1.0
 playback/active = false
 playback/repeat = false
 playback/speed = 1.0
+
+[connection signal="player_dead" from="player" to="." method="_on_player_player_dead"]
 
 

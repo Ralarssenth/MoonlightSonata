@@ -61,8 +61,8 @@ animations = [ {
 [sub_resource type="CapsuleShape2D" id=2]
 
 custom_solver_bias = 0.0
-radius = 12.8012
-height = 15.1323
+radius = 6.71762
+height = 7.64252
 
 [node name="player" type="Area2D"]
 
@@ -82,17 +82,27 @@ __meta__ = {
 
 [node name="sprite" type="AnimatedSprite" parent="." index="0"]
 
-position = Vector2( 0, -4 )
-scale = Vector2( 2, 2 )
+position = Vector2( 0, -2 )
 frames = SubResource( 1 )
 animation = "down"
-frame = 7
+frame = 6
 playing = true
 _sections_unfolded = [ "Transform" ]
 
 [node name="collision" type="CollisionShape2D" parent="." index="1"]
 
 shape = SubResource( 2 )
-_sections_unfolded = [ "Transform" ]
+
+[node name="canvas" type="CanvasLayer" parent="." index="2"]
+
+layer = 1
+offset = Vector2( 0, 0 )
+rotation = 0.0
+scale = Vector2( 1, 1 )
+transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+
+[node name="health_area" type="Node2D" parent="canvas" index="0"]
+
+position = Vector2( 50.9695, 46.5374 )
 
 
