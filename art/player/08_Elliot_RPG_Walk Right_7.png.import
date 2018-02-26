@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/08_Elliot_RPG_Walk Right_7.png-60e307b033f6e03f261fd4335307c7e4.stex"
+
+[deps]
+
+source_file="res://art/player/08_Elliot_RPG_Walk Right_7.png"
+source_md5="eab5c50ada55b3b20e80823b071bc81c"
+
+dest_files=[ "res://.import/08_Elliot_RPG_Walk Right_7.png-60e307b033f6e03f261fd4335307c7e4.stex" ]
+dest_md5="69b39bff61d3266e16fa906d15cce546"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

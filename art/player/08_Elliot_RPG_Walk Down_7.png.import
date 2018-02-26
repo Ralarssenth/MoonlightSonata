@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/08_Elliot_RPG_Walk Down_7.png-e46c33d63e4ad4a6f6d058430ad70665.stex"
+
+[deps]
+
+source_file="res://art/player/08_Elliot_RPG_Walk Down_7.png"
+source_md5="084bcd70eb2d1feb58a9d5e5bc37b2a3"
+
+dest_files=[ "res://.import/08_Elliot_RPG_Walk Down_7.png-e46c33d63e4ad4a6f6d058430ad70665.stex" ]
+dest_md5="dc6ea0163f441333401650169c63bdc1"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
