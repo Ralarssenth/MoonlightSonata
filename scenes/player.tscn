@@ -64,7 +64,7 @@ custom_solver_bias = 0.0
 radius = 12.8012
 height = 15.1323
 
-[node name="player" type="Area2D" index="0"]
+[node name="player" type="Area2D"]
 
 position = Vector2( 469, 300.386 )
 input_pickable = true
@@ -75,6 +75,7 @@ angular_damp = 1.0
 audio_bus_override = false
 audio_bus_name = "Master"
 script = ExtResource( 1 )
+_sections_unfolded = [ "Transform" ]
 __meta__ = {
 "_edit_group_": true
 }
@@ -85,7 +86,7 @@ position = Vector2( 0, -4 )
 scale = Vector2( 2, 2 )
 frames = SubResource( 1 )
 animation = "down"
-frame = 4
+frame = 7
 playing = true
 _sections_unfolded = [ "Transform" ]
 
