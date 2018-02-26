@@ -67,6 +67,7 @@ height = 7.64252
 [node name="player" type="Area2D"]
 
 position = Vector2( 469, 300.386 )
+scale = Vector2( 2, 2 )
 input_pickable = true
 gravity_vec = Vector2( 0, 1 )
 gravity = 98.0
@@ -85,7 +86,7 @@ __meta__ = {
 position = Vector2( 0, -2 )
 frames = SubResource( 1 )
 animation = "down"
-frame = 6
+frame = 4
 playing = true
 _sections_unfolded = [ "Transform" ]
 
