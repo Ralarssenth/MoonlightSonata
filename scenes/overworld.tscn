@@ -1,7 +1,8 @@
-[gd_scene load_steps=3 format=2]
+[gd_scene load_steps=4 format=2]
 
 [ext_resource path="res://scenes/overworld.gd" type="Script" id=1]
-[ext_resource path="res://scenes/player.tscn" type="PackedScene" id=2]
+[ext_resource path="res://tilesets/overworld_tileset.tres" type="TileSet" id=2]
+[ext_resource path="res://scenes/player.tscn" type="PackedScene" id=3]
 
 [node name="overworld" type="Node" index="0"]
 
@@ -10,9 +11,10 @@ _sections_unfolded = [ "Transform" ]
 
 [node name="tilemap" type="TileMap" parent="." index="0"]
 
+scale = Vector2( 2, 2 )
 mode = 0
-tile_set = null
-cell_size = Vector2( 32, 32 )
+tile_set = ExtResource( 2 )
+cell_size = Vector2( 16, 16 )
 cell_quadrant_size = 16
 cell_custom_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
 cell_half_offset = 2
@@ -27,11 +29,11 @@ collision_mask = 1
 occluder_light_mask = 1
 format = 1
 tile_data = PoolIntArray(  )
-_sections_unfolded = [ "Cell" ]
+_sections_unfolded = [ "Transform" ]
 
-[node name="player" parent="." index="1" instance=ExtResource( 2 )]
+[node name="player" parent="." index="1" instance=ExtResource( 3 )]
 
-position = Vector2( 432, 240 )
+position = Vector2( 448, 240 )
 
 [node name="camera" type="Camera2D" parent="." index="2"]
 
