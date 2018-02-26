@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://art/title.png" type="Texture" id=1]
+[ext_resource path="res://scenes/title_screen.gd" type="Script" id=2]
+
+[node name="title_screen" type="Sprite" index="0"]
+
+position = Vector2( 514.025, 300.633 )
+scale = Vector2( 1.28604, 1 )
+texture = ExtResource( 1 )
+script = ExtResource( 2 )
+
+
