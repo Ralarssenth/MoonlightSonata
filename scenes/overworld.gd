@@ -29,3 +29,8 @@ func move_camera():
 
 func _on_player_player_dead():
 	game_manager.load_new_scene("title")
+
+func _on_cabin0_door_area_entered( area ):
+	game_manager.get_pos()
+	game_manager.load_new_scene("cabin0")
+	

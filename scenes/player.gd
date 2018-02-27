@@ -1,8 +1,8 @@
-extends Area2D
+extends KinematicBody2D
 
 var health_sprite = preload("res://scenes/health.tscn")
 
-var speed = 300
+var speed = 3
 var max_health = 5
 var current_health = max_health
 var vel = Vector2()
@@ -31,8 +31,7 @@ func do_move(delta):
 	input.x = int(Input.is_action_pressed("ui_right")) - int(Input.is_action_pressed("ui_left"))
 	input.y = int(Input.is_action_pressed("ui_down")) - int(Input.is_action_pressed("ui_up"))
 	vel = input.normalized() * speed
-	var pos = get_position() + vel * delta
-	set_position(pos)
+	move_and_collide(vel)
 
 func do_move_animations():
 	if vel == Vector2(0, 0):

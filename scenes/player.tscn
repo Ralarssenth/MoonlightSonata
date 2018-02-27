@@ -64,29 +64,23 @@ custom_solver_bias = 0.0
 radius = 6.71762
 height = 7.64252
 
-[node name="player" type="Area2D"]
+[node name="player" type="KinematicBody2D"]
 
 position = Vector2( 469, 300.386 )
 scale = Vector2( 2, 2 )
 input_pickable = true
-gravity_vec = Vector2( 0, 1 )
-gravity = 98.0
-linear_damp = 0.1
-angular_damp = 1.0
-audio_bus_override = false
-audio_bus_name = "Master"
+collision_layer = 1
+collision_mask = 1
+collision/safe_margin = 0.08
 script = ExtResource( 1 )
 _sections_unfolded = [ "Transform" ]
-__meta__ = {
-"_edit_group_": true
-}
 
 [node name="sprite" type="AnimatedSprite" parent="." index="0"]
 
 position = Vector2( 0, -2 )
 frames = SubResource( 1 )
 animation = "down"
-frame = 4
+frame = 7
 playing = true
 _sections_unfolded = [ "Transform" ]
 
@@ -105,5 +99,19 @@ transform = Transform2D( 1, 0, 0, 1, 0, 0 )
 [node name="health_area" type="Node2D" parent="canvas" index="0"]
 
 position = Vector2( 50.9695, 46.5374 )
+
+[node name="area" type="Area2D" parent="." index="3"]
+
+input_pickable = true
+gravity_vec = Vector2( 0, 1 )
+gravity = 98.0
+linear_damp = 0.1
+angular_damp = 1.0
+audio_bus_override = false
+audio_bus_name = "Master"
+
+[node name="collision2" type="CollisionShape2D" parent="area" index="0"]
+
+shape = SubResource( 2 )
 
 

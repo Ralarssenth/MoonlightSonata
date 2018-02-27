@@ -7,10 +7,10 @@ path="res://.import/cabin_window2.png-9dab13b62986d4ab71eccd7f56255096.stex"
 [deps]
 
 source_file="res://art/background/cabin_window2.png"
-source_md5="a8fb0c6baf9f5502fe422c366426a691"
+source_md5="04b6cb5ac16cdf0c8e1cfc691ba4cded"
 
 dest_files=[ "res://.import/cabin_window2.png-9dab13b62986d4ab71eccd7f56255096.stex" ]
-dest_md5="fb1db4bc64dcfc4461dbb4f91ac63255"
+dest_md5="7c30d1c28f99f24e8fe3e9f0215e6c62"
 
 [params]
 

@@ -4,15 +4,19 @@ extends Node
 var title_scene = preload("res://scenes/title_screen.tscn")
 var overworld_scene = preload("res://scenes/overworld.tscn")
 var button_scene = preload("res://scenes/Button.tscn")
+var cabin0_scene = preload("res://scenes/cabin0.tscn")
 # var game_over_scene = preload("res://scenes/game_over.tscn")
 
 # a dictionary to look up the scene objects by a name
 var scenes = { "title": title_scene,
 				"overworld": overworld_scene,
-				"button": button_scene }
+				"button": button_scene,
+				"cabin0": cabin0_scene}
 
 # the current scene that the player is on
 var current_primary_scene
+
+var last_position = Vector2()
 
 # an array of scenes currently displaying on top of other scenes and taking control
 var scenes_on_top = []
@@ -28,6 +32,8 @@ func load_new_scene(scene_name):
 	current_primary_scene.queue_free()
 	current_primary_scene = scenes[scene_name].instance()	
 	add_child(current_primary_scene)
+	if current_primary_scene == overworld_scene:
+		set_position()
 
 # loads a scene into the tree on top of the current scene and gives the scene on top control
 func load_scene_on_top(scene_name):
@@ -68,3 +74,11 @@ func start_all_processing(scene):
 		child.set_process(true)
 		child.set_physics_process(true)
 		child.set_process_input(true)
+
+func set_pos():
+	current_primary_scene.player.set_position(last_position)
+	print(last_position)
+
+func get_pos():
+	last_position = current_primary_scene.player.get_position() + Vector2(0, 8)
+	print(last_position)

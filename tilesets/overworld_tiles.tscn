@@ -1,4 +1,4 @@
-[gd_scene load_steps=85 format=2]
+[gd_scene load_steps=91 format=2]
 
 [ext_resource path="res://art/background/water0.png" type="Texture" id=1]
 [ext_resource path="res://art/background/water1.png" type="Texture" id=2]
@@ -62,6 +62,9 @@
 [ext_resource path="res://art/background/grass4.png" type="Texture" id=60]
 [ext_resource path="res://art/background/grass5.png" type="Texture" id=61]
 [ext_resource path="res://art/background/grass6.png" type="Texture" id=62]
+[ext_resource path="res://art/background/tree0.png" type="Texture" id=63]
+[ext_resource path="res://art/background/tree1.png" type="Texture" id=64]
+[ext_resource path="res://art/background/tree2.png" type="Texture" id=65]
 
 [sub_resource type="RectangleShape2D" id=1]
 
@@ -108,22 +111,22 @@ extents = Vector2( 8, 4 )
 custom_solver_bias = 0.0
 extents = Vector2( 8, 4 )
 
-[sub_resource type="RectangleShape2D" id=12]
+[sub_resource type="RectangleShape2D" id=10]
 
 custom_solver_bias = 0.0
 extents = Vector2( 8, 8 )
 
-[sub_resource type="RectangleShape2D" id=13]
+[sub_resource type="RectangleShape2D" id=11]
 
 custom_solver_bias = 0.0
 extents = Vector2( 8, 8 )
 
-[sub_resource type="ConvexPolygonShape2D" id=11]
+[sub_resource type="ConvexPolygonShape2D" id=12]
 
 custom_solver_bias = 0.0
 points = PoolVector2Array( 4, -2, 4, 8, -8, 8, -8, -8 )
 
-[sub_resource type="ConvexPolygonShape2D" id=10]
+[sub_resource type="ConvexPolygonShape2D" id=13]
 
 custom_solver_bias = 0.0
 points = PoolVector2Array( 7, -8, 7, 8, -6, 8, -6, -2 )
@@ -163,17 +166,32 @@ extents = Vector2( 8, 2 )
 custom_solver_bias = 0.0
 extents = Vector2( 8, 8 )
 
-[sub_resource type="ConvexPolygonShape2D" id=22]
+[sub_resource type="ConvexPolygonShape2D" id=21]
 
 custom_solver_bias = 0.0
 points = PoolVector2Array( 4, -8, 2, 8, -8, 8, -8, -8 )
 
-[sub_resource type="RectangleShape2D" id=23]
+[sub_resource type="RectangleShape2D" id=22]
 
 custom_solver_bias = 0.0
 extents = Vector2( 5, 2 )
 
-[node name="overworld_tiles" type="Node2D" index="0"]
+[sub_resource type="RectangleShape2D" id=23]
+
+custom_solver_bias = 0.0
+extents = Vector2( 9, 15 )
+
+[sub_resource type="RectangleShape2D" id=24]
+
+custom_solver_bias = 0.0
+extents = Vector2( 9, 15 )
+
+[sub_resource type="RectangleShape2D" id=25]
+
+custom_solver_bias = 0.0
+extents = Vector2( 9, 15 )
+
+[node name="overworld_tiles" type="Node2D"]
 
 [node name="water0" type="Sprite" parent="." index="0"]
 
@@ -201,7 +219,7 @@ shape = SubResource( 1 )
 [node name="water1" type="Sprite" parent="." index="1"]
 
 editor/display_folded = true
-position = Vector2( 32, 8 )
+position = Vector2( 24, 8 )
 texture = ExtResource( 2 )
 __meta__ = {
 "_edit_group_": true
@@ -224,7 +242,7 @@ shape = SubResource( 2 )
 [node name="water2" type="Sprite" parent="." index="2"]
 
 editor/display_folded = true
-position = Vector2( 56, 8 )
+position = Vector2( 40, 8 )
 texture = ExtResource( 3 )
 __meta__ = {
 "_edit_group_": true
@@ -247,7 +265,7 @@ shape = SubResource( 3 )
 [node name="water3" type="Sprite" parent="." index="3"]
 
 editor/display_folded = true
-position = Vector2( 8, 32 )
+position = Vector2( 8, 24 )
 texture = ExtResource( 4 )
 __meta__ = {
 "_edit_group_": true
@@ -270,7 +288,7 @@ shape = SubResource( 4 )
 [node name="water4" type="Sprite" parent="." index="4"]
 
 editor/display_folded = true
-position = Vector2( 32, 32 )
+position = Vector2( 24, 24 )
 texture = ExtResource( 5 )
 __meta__ = {
 "_edit_group_": true
@@ -293,7 +311,7 @@ shape = SubResource( 5 )
 [node name="water5" type="Sprite" parent="." index="5"]
 
 editor/display_folded = true
-position = Vector2( 56, 32 )
+position = Vector2( 40, 24 )
 texture = ExtResource( 6 )
 __meta__ = {
 "_edit_group_": true
@@ -316,7 +334,7 @@ shape = SubResource( 6 )
 [node name="water6" type="Sprite" parent="." index="6"]
 
 editor/display_folded = true
-position = Vector2( 8, 56 )
+position = Vector2( 8, 40 )
 texture = ExtResource( 7 )
 __meta__ = {
 "_edit_group_": true
@@ -344,7 +362,7 @@ __meta__ = {
 [node name="water7" type="Sprite" parent="." index="7"]
 
 editor/display_folded = true
-position = Vector2( 32, 56 )
+position = Vector2( 24, 40 )
 texture = ExtResource( 8 )
 __meta__ = {
 "_edit_group_": true
@@ -369,7 +387,7 @@ _sections_unfolded = [ "Transform" ]
 [node name="water8" type="Sprite" parent="." index="8"]
 
 editor/display_folded = true
-position = Vector2( 56, 56 )
+position = Vector2( 40, 40 )
 texture = ExtResource( 9 )
 __meta__ = {
 "_edit_group_": true
@@ -394,7 +412,7 @@ _sections_unfolded = [ "Transform" ]
 [node name="roof0" type="Sprite" parent="." index="9"]
 
 editor/display_folded = true
-position = Vector2( 104, 32 )
+position = Vector2( 88, 24 )
 texture = ExtResource( 10 )
 __meta__ = {
 "_edit_group_": true
@@ -412,12 +430,12 @@ bounce = 0.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="roof0/StaticBody2D" index="0"]
 
-shape = SubResource( 12 )
+shape = SubResource( 10 )
 
 [node name="roof1" type="Sprite" parent="." index="10"]
 
 editor/display_folded = true
-position = Vector2( 128, 32 )
+position = Vector2( 104, 24 )
 texture = ExtResource( 11 )
 __meta__ = {
 "_edit_group_": true
@@ -435,12 +453,12 @@ bounce = 0.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="roof1/StaticBody2D" index="0"]
 
-shape = SubResource( 13 )
+shape = SubResource( 11 )
 
 [node name="roof2" type="Sprite" parent="." index="11"]
 
 editor/display_folded = true
-position = Vector2( 152, 32 )
+position = Vector2( 120, 24 )
 texture = ExtResource( 12 )
 __meta__ = {
 "_edit_group_": true
@@ -458,12 +476,12 @@ bounce = 0.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="roof2/StaticBody2D" index="0"]
 
-shape = SubResource( 11 )
+shape = SubResource( 12 )
 
 [node name="roof3" type="Sprite" parent="." index="12"]
 
 editor/display_folded = true
-position = Vector2( 80, 32 )
+position = Vector2( 72, 24 )
 texture = ExtResource( 13 )
 __meta__ = {
 "_edit_group_": true
@@ -482,13 +500,13 @@ bounce = 0.0
 [node name="CollisionShape2D" type="CollisionShape2D" parent="roof3/StaticBody2D" index="0"]
 
 position = Vector2( 1, 0 )
-shape = SubResource( 10 )
+shape = SubResource( 13 )
 _sections_unfolded = [ "Transform" ]
 
 [node name="roof4" type="Sprite" parent="." index="13"]
 
 editor/display_folded = true
-position = Vector2( 104, 8 )
+position = Vector2( 88, 8 )
 texture = ExtResource( 14 )
 __meta__ = {
 "_edit_group_": true
@@ -511,7 +529,7 @@ shape = SubResource( 14 )
 [node name="roof5" type="Sprite" parent="." index="14"]
 
 editor/display_folded = true
-position = Vector2( 128, 8 )
+position = Vector2( 104, 8 )
 texture = ExtResource( 15 )
 __meta__ = {
 "_edit_group_": true
@@ -534,7 +552,7 @@ shape = SubResource( 15 )
 [node name="cabin_window0" type="Sprite" parent="." index="15"]
 
 editor/display_folded = true
-position = Vector2( 80, 56 )
+position = Vector2( 72, 40 )
 texture = ExtResource( 16 )
 __meta__ = {
 "_edit_group_": true
@@ -557,7 +575,7 @@ shape = SubResource( 16 )
 [node name="cabin_window1" type="Sprite" parent="." index="16"]
 
 editor/display_folded = true
-position = Vector2( 104, 56 )
+position = Vector2( 88, 40 )
 texture = ExtResource( 17 )
 __meta__ = {
 "_edit_group_": true
@@ -580,7 +598,7 @@ shape = SubResource( 17 )
 [node name="cabin_window2" type="Sprite" parent="." index="17"]
 
 editor/display_folded = true
-position = Vector2( 80, 80 )
+position = Vector2( 72, 56 )
 texture = ExtResource( 18 )
 __meta__ = {
 "_edit_group_": true
@@ -605,7 +623,7 @@ _sections_unfolded = [ "Transform" ]
 [node name="cabin_window3" type="Sprite" parent="." index="18"]
 
 editor/display_folded = true
-position = Vector2( 104, 80 )
+position = Vector2( 88, 56 )
 texture = ExtResource( 19 )
 __meta__ = {
 "_edit_group_": true
@@ -629,36 +647,35 @@ _sections_unfolded = [ "Transform" ]
 
 [node name="cabin_door0" type="Sprite" parent="." index="19"]
 
-editor/display_folded = true
-position = Vector2( 128, 56 )
+position = Vector2( 104, 40 )
 texture = ExtResource( 20 )
 __meta__ = {
 "_edit_group_": true
 }
 
-[node name="Area2D" type="Area2D" parent="cabin_door0" index="0"]
+[node name="StaticBody2D" type="StaticBody2D" parent="cabin_door0" index="0"]
 
 input_pickable = false
-gravity_vec = Vector2( 0, 1 )
-gravity = 98.0
-linear_damp = 0.1
-angular_damp = 1.0
-audio_bus_override = false
-audio_bus_name = "Master"
+collision_layer = 1
+collision_mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="cabin_door0/Area2D" index="0"]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="cabin_door0/StaticBody2D" index="0"]
 
 shape = SubResource( 20 )
 
 [node name="cabin_door1" type="Sprite" parent="." index="20"]
 
-position = Vector2( 128, 80 )
+position = Vector2( 104, 56 )
 texture = ExtResource( 21 )
 
 [node name="cabin_right0" type="Sprite" parent="." index="21"]
 
 editor/display_folded = true
-position = Vector2( 152, 56 )
+position = Vector2( 120, 40 )
 texture = ExtResource( 22 )
 __meta__ = {
 "_edit_group_": true
@@ -676,12 +693,12 @@ bounce = 0.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="cabin_right0/StaticBody2D" index="0"]
 
-shape = SubResource( 22 )
+shape = SubResource( 21 )
 
 [node name="cabin_right1" type="Sprite" parent="." index="22"]
 
 editor/display_folded = true
-position = Vector2( 152, 80 )
+position = Vector2( 120, 56 )
 texture = ExtResource( 23 )
 __meta__ = {
 "_edit_group_": true
@@ -700,7 +717,7 @@ bounce = 0.0
 [node name="CollisionShape2D" type="CollisionShape2D" parent="cabin_right1/StaticBody2D" index="0"]
 
 position = Vector2( -3, -6 )
-shape = SubResource( 23 )
+shape = SubResource( 22 )
 _sections_unfolded = [ "Transform" ]
 
 [node name="dirt0" type="Sprite" parent="." index="23"]
@@ -897,5 +914,74 @@ texture = ExtResource( 61 )
 
 position = Vector2( 128, 176 )
 texture = ExtResource( 62 )
+
+[node name="tree0" type="Sprite" parent="." index="62"]
+
+position = Vector2( 80, 208 )
+texture = ExtResource( 63 )
+__meta__ = {
+"_edit_group_": true
+}
+
+[node name="StaticBody2D" type="StaticBody2D" parent="tree0" index="0"]
+
+input_pickable = false
+collision_layer = 1
+collision_mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="tree0/StaticBody2D" index="0"]
+
+position = Vector2( 0, -3 )
+shape = SubResource( 23 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="tree1" type="Sprite" parent="." index="63"]
+
+position = Vector2( 104, 208 )
+texture = ExtResource( 64 )
+__meta__ = {
+"_edit_group_": true
+}
+
+[node name="StaticBody2D" type="StaticBody2D" parent="tree1" index="0"]
+
+input_pickable = false
+collision_layer = 1
+collision_mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="tree1/StaticBody2D" index="0"]
+
+position = Vector2( 0, -3 )
+shape = SubResource( 24 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="tree2" type="Sprite" parent="." index="64"]
+
+position = Vector2( 128, 208 )
+texture = ExtResource( 65 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="tree2" index="0"]
+
+input_pickable = false
+collision_layer = 1
+collision_mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="tree2/StaticBody2D" index="0"]
+
+position = Vector2( 0, -3 )
+shape = SubResource( 25 )
+_sections_unfolded = [ "Transform" ]
 
 
