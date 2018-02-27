@@ -77,8 +77,6 @@ func start_all_processing(scene):
 
 func set_pos():
 	current_primary_scene.player.set_position(last_position)
-	print(last_position)
 
 func get_pos():
 	last_position = current_primary_scene.player.get_position() + Vector2(0, 8)
-	print(last_position)

@@ -16,6 +16,9 @@ var t = 0
 
 func _ready():
 	update_healthbar()
+	set_physics_process(false)
+	
+func _on_spawn_timer_timeout():
 	set_physics_process(true)
 
 func _physics_process(delta):
@@ -69,3 +72,4 @@ func take_damage(dmg):
 	update_healthbar()
 	if current_health == 0:
 		emit_signal("player_dead")
+

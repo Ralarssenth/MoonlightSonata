@@ -1,4 +1,4 @@
-[gd_scene load_steps=91 format=2]
+[gd_scene load_steps=86 format=2]
 
 [ext_resource path="res://art/background/water0.png" type="Texture" id=1]
 [ext_resource path="res://art/background/water1.png" type="Texture" id=2]
@@ -99,99 +99,74 @@ extents = Vector2( 8, 8 )
 [sub_resource type="RectangleShape2D" id=7]
 
 custom_solver_bias = 0.0
-extents = Vector2( 8, 4 )
+extents = Vector2( 8, 8 )
 
 [sub_resource type="RectangleShape2D" id=8]
 
 custom_solver_bias = 0.0
-extents = Vector2( 8, 4 )
-
-[sub_resource type="RectangleShape2D" id=9]
-
-custom_solver_bias = 0.0
-extents = Vector2( 8, 4 )
-
-[sub_resource type="RectangleShape2D" id=10]
-
-custom_solver_bias = 0.0
 extents = Vector2( 8, 8 )
 
-[sub_resource type="RectangleShape2D" id=11]
-
-custom_solver_bias = 0.0
-extents = Vector2( 8, 8 )
-
-[sub_resource type="ConvexPolygonShape2D" id=12]
+[sub_resource type="ConvexPolygonShape2D" id=9]
 
 custom_solver_bias = 0.0
 points = PoolVector2Array( 4, -2, 4, 8, -8, 8, -8, -8 )
 
-[sub_resource type="ConvexPolygonShape2D" id=13]
+[sub_resource type="ConvexPolygonShape2D" id=10]
 
 custom_solver_bias = 0.0
 points = PoolVector2Array( 7, -8, 7, 8, -6, 8, -6, -2 )
 
-[sub_resource type="ConvexPolygonShape2D" id=14]
+[sub_resource type="ConvexPolygonShape2D" id=11]
 
 custom_solver_bias = 0.0
 points = PoolVector2Array( 8, 2, 8, 8, -8, 8, 3, 2 )
 
-[sub_resource type="ConvexPolygonShape2D" id=15]
+[sub_resource type="ConvexPolygonShape2D" id=12]
 
 custom_solver_bias = 0.0
 points = PoolVector2Array( -4, 2, 8, 8, -8, 8, -8, 2 )
 
-[sub_resource type="ConvexPolygonShape2D" id=16]
+[sub_resource type="ConvexPolygonShape2D" id=13]
 
 custom_solver_bias = 0.0
 points = PoolVector2Array( 8, -8, 8, 8, -3, 8, -5, -8 )
+
+[sub_resource type="RectangleShape2D" id=14]
+
+custom_solver_bias = 0.0
+extents = Vector2( 8, 8 )
+
+[sub_resource type="RectangleShape2D" id=15]
+
+custom_solver_bias = 0.0
+extents = Vector2( 5.5, 8 )
+
+[sub_resource type="RectangleShape2D" id=16]
+
+custom_solver_bias = 0.0
+extents = Vector2( 8, 8 )
 
 [sub_resource type="RectangleShape2D" id=17]
 
 custom_solver_bias = 0.0
 extents = Vector2( 8, 8 )
 
-[sub_resource type="RectangleShape2D" id=18]
-
-custom_solver_bias = 0.0
-extents = Vector2( 5.5, 2 )
-
-[sub_resource type="RectangleShape2D" id=19]
-
-custom_solver_bias = 0.0
-extents = Vector2( 8, 2 )
-
-[sub_resource type="RectangleShape2D" id=20]
-
-custom_solver_bias = 0.0
-extents = Vector2( 8, 8 )
-
-[sub_resource type="ConvexPolygonShape2D" id=21]
+[sub_resource type="ConvexPolygonShape2D" id=18]
 
 custom_solver_bias = 0.0
 points = PoolVector2Array( 4, -8, 2, 8, -8, 8, -8, -8 )
 
-[sub_resource type="RectangleShape2D" id=22]
+[sub_resource type="RectangleShape2D" id=19]
 
 custom_solver_bias = 0.0
-extents = Vector2( 5, 2 )
+extents = Vector2( 5, 8 )
 
-[sub_resource type="RectangleShape2D" id=23]
-
-custom_solver_bias = 0.0
-extents = Vector2( 9, 15 )
-
-[sub_resource type="RectangleShape2D" id=24]
+[sub_resource type="RectangleShape2D" id=20]
 
 custom_solver_bias = 0.0
-extents = Vector2( 9, 15 )
+extents = Vector2( 9, 18 )
 
-[sub_resource type="RectangleShape2D" id=25]
-
-custom_solver_bias = 0.0
-extents = Vector2( 9, 15 )
-
-[node name="overworld_tiles" type="Node2D"]
+[node name="overworld_tiles" type="Node2D" index="0"]
 
 [node name="water0" type="Sprite" parent="." index="0"]
 
@@ -340,7 +315,7 @@ __meta__ = {
 "_edit_group_": true
 }
 
-[node name="StaticBody2D" type="StaticBody2D" parent="water6" index="0"]
+[node name="StaticBody2D2" type="StaticBody2D" parent="water6" index="0"]
 
 input_pickable = false
 collision_layer = 1
@@ -350,14 +325,9 @@ constant_angular_velocity = 0.0
 friction = 1.0
 bounce = 0.0
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="water6/StaticBody2D" index="0"]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="water6/StaticBody2D2" index="0"]
 
-position = Vector2( 0, -4 )
-shape = SubResource( 7 )
-_sections_unfolded = [ "Transform" ]
-__meta__ = {
-"_edit_group_": true
-}
+shape = SubResource( 6 )
 
 [node name="water7" type="Sprite" parent="." index="7"]
 
@@ -368,7 +338,7 @@ __meta__ = {
 "_edit_group_": true
 }
 
-[node name="StaticBody2D" type="StaticBody2D" parent="water7" index="0"]
+[node name="StaticBody2D3" type="StaticBody2D" parent="water7" index="0"]
 
 input_pickable = false
 collision_layer = 1
@@ -378,11 +348,9 @@ constant_angular_velocity = 0.0
 friction = 1.0
 bounce = 0.0
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="water7/StaticBody2D" index="0"]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="water7/StaticBody2D3" index="0"]
 
-position = Vector2( 0, -4 )
-shape = SubResource( 8 )
-_sections_unfolded = [ "Transform" ]
+shape = SubResource( 6 )
 
 [node name="water8" type="Sprite" parent="." index="8"]
 
@@ -393,7 +361,7 @@ __meta__ = {
 "_edit_group_": true
 }
 
-[node name="StaticBody2D" type="StaticBody2D" parent="water8" index="0"]
+[node name="StaticBody2D4" type="StaticBody2D" parent="water8" index="0"]
 
 input_pickable = false
 collision_layer = 1
@@ -403,11 +371,9 @@ constant_angular_velocity = 0.0
 friction = 1.0
 bounce = 0.0
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="water8/StaticBody2D" index="0"]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="water8/StaticBody2D4" index="0"]
 
-position = Vector2( 0, -4 )
-shape = SubResource( 9 )
-_sections_unfolded = [ "Transform" ]
+shape = SubResource( 6 )
 
 [node name="roof0" type="Sprite" parent="." index="9"]
 
@@ -430,7 +396,7 @@ bounce = 0.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="roof0/StaticBody2D" index="0"]
 
-shape = SubResource( 10 )
+shape = SubResource( 7 )
 
 [node name="roof1" type="Sprite" parent="." index="10"]
 
@@ -453,7 +419,7 @@ bounce = 0.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="roof1/StaticBody2D" index="0"]
 
-shape = SubResource( 11 )
+shape = SubResource( 8 )
 
 [node name="roof2" type="Sprite" parent="." index="11"]
 
@@ -476,7 +442,7 @@ bounce = 0.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="roof2/StaticBody2D" index="0"]
 
-shape = SubResource( 12 )
+shape = SubResource( 9 )
 
 [node name="roof3" type="Sprite" parent="." index="12"]
 
@@ -500,7 +466,7 @@ bounce = 0.0
 [node name="CollisionShape2D" type="CollisionShape2D" parent="roof3/StaticBody2D" index="0"]
 
 position = Vector2( 1, 0 )
-shape = SubResource( 13 )
+shape = SubResource( 10 )
 _sections_unfolded = [ "Transform" ]
 
 [node name="roof4" type="Sprite" parent="." index="13"]
@@ -524,7 +490,7 @@ bounce = 0.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="roof4/StaticBody2D" index="0"]
 
-shape = SubResource( 14 )
+shape = SubResource( 11 )
 
 [node name="roof5" type="Sprite" parent="." index="14"]
 
@@ -547,7 +513,7 @@ bounce = 0.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="roof5/StaticBody2D" index="0"]
 
-shape = SubResource( 15 )
+shape = SubResource( 12 )
 
 [node name="cabin_window0" type="Sprite" parent="." index="15"]
 
@@ -570,7 +536,7 @@ bounce = 0.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="cabin_window0/StaticBody2D" index="0"]
 
-shape = SubResource( 16 )
+shape = SubResource( 13 )
 
 [node name="cabin_window1" type="Sprite" parent="." index="16"]
 
@@ -593,7 +559,7 @@ bounce = 0.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="cabin_window1/StaticBody2D" index="0"]
 
-shape = SubResource( 17 )
+shape = SubResource( 14 )
 
 [node name="cabin_window2" type="Sprite" parent="." index="17"]
 
@@ -616,8 +582,8 @@ bounce = 0.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="cabin_window2/StaticBody2D" index="0"]
 
-position = Vector2( 2.5, -6 )
-shape = SubResource( 18 )
+position = Vector2( 2.5, 0 )
+shape = SubResource( 15 )
 _sections_unfolded = [ "Transform" ]
 
 [node name="cabin_window3" type="Sprite" parent="." index="18"]
@@ -641,12 +607,12 @@ bounce = 0.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="cabin_window3/StaticBody2D" index="0"]
 
-position = Vector2( 0, -6 )
-shape = SubResource( 19 )
+shape = SubResource( 16 )
 _sections_unfolded = [ "Transform" ]
 
 [node name="cabin_door0" type="Sprite" parent="." index="19"]
 
+editor/display_folded = true
 position = Vector2( 104, 40 )
 texture = ExtResource( 20 )
 __meta__ = {
@@ -665,7 +631,7 @@ bounce = 0.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="cabin_door0/StaticBody2D" index="0"]
 
-shape = SubResource( 20 )
+shape = SubResource( 17 )
 
 [node name="cabin_door1" type="Sprite" parent="." index="20"]
 
@@ -693,7 +659,7 @@ bounce = 0.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="cabin_right0/StaticBody2D" index="0"]
 
-shape = SubResource( 21 )
+shape = SubResource( 18 )
 
 [node name="cabin_right1" type="Sprite" parent="." index="22"]
 
@@ -716,8 +682,8 @@ bounce = 0.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="cabin_right1/StaticBody2D" index="0"]
 
-position = Vector2( -3, -6 )
-shape = SubResource( 22 )
+position = Vector2( -3, 0 )
+shape = SubResource( 19 )
 _sections_unfolded = [ "Transform" ]
 
 [node name="dirt0" type="Sprite" parent="." index="23"]
@@ -917,6 +883,7 @@ texture = ExtResource( 62 )
 
 [node name="tree0" type="Sprite" parent="." index="62"]
 
+editor/display_folded = true
 position = Vector2( 80, 208 )
 texture = ExtResource( 63 )
 __meta__ = {
@@ -935,19 +902,19 @@ bounce = 0.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="tree0/StaticBody2D" index="0"]
 
-position = Vector2( 0, -3 )
-shape = SubResource( 23 )
+shape = SubResource( 20 )
 _sections_unfolded = [ "Transform" ]
 
 [node name="tree1" type="Sprite" parent="." index="63"]
 
+editor/display_folded = true
 position = Vector2( 104, 208 )
 texture = ExtResource( 64 )
 __meta__ = {
 "_edit_group_": true
 }
 
-[node name="StaticBody2D" type="StaticBody2D" parent="tree1" index="0"]
+[node name="StaticBody2D2" type="StaticBody2D" parent="tree1" index="0"]
 
 input_pickable = false
 collision_layer = 1
@@ -957,18 +924,21 @@ constant_angular_velocity = 0.0
 friction = 1.0
 bounce = 0.0
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="tree1/StaticBody2D" index="0"]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="tree1/StaticBody2D2" index="0"]
 
-position = Vector2( 0, -3 )
-shape = SubResource( 24 )
+shape = SubResource( 20 )
 _sections_unfolded = [ "Transform" ]
 
 [node name="tree2" type="Sprite" parent="." index="64"]
 
+editor/display_folded = true
 position = Vector2( 128, 208 )
 texture = ExtResource( 65 )
+__meta__ = {
+"_edit_group_": true
+}
 
-[node name="StaticBody2D" type="StaticBody2D" parent="tree2" index="0"]
+[node name="StaticBody2D3" type="StaticBody2D" parent="tree2" index="0"]
 
 input_pickable = false
 collision_layer = 1
@@ -978,10 +948,9 @@ constant_angular_velocity = 0.0
 friction = 1.0
 bounce = 0.0
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="tree2/StaticBody2D" index="0"]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="tree2/StaticBody2D3" index="0"]
 
-position = Vector2( 0, -3 )
-shape = SubResource( 25 )
+shape = SubResource( 20 )
 _sections_unfolded = [ "Transform" ]
 
 

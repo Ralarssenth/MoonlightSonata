@@ -58,11 +58,10 @@ animations = [ {
 "speed": 10.0
 } ]
 
-[sub_resource type="CapsuleShape2D" id=2]
+[sub_resource type="CircleShape2D" id=2]
 
 custom_solver_bias = 0.0
-radius = 6.71762
-height = 7.64252
+radius = 5.0
 
 [node name="player" type="KinematicBody2D"]
 
@@ -80,13 +79,13 @@ _sections_unfolded = [ "Transform" ]
 position = Vector2( 0, -2 )
 frames = SubResource( 1 )
 animation = "down"
-frame = 7
-playing = true
 _sections_unfolded = [ "Transform" ]
 
 [node name="collision" type="CollisionShape2D" parent="." index="1"]
 
+position = Vector2( 0, 6 )
 shape = SubResource( 2 )
+_sections_unfolded = [ "Transform" ]
 
 [node name="canvas" type="CanvasLayer" parent="." index="2"]
 
@@ -112,6 +111,17 @@ audio_bus_name = "Master"
 
 [node name="collision2" type="CollisionShape2D" parent="area" index="0"]
 
+position = Vector2( 0, 6 )
 shape = SubResource( 2 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="spawn_timer" type="Timer" parent="." index="4"]
+
+process_mode = 1
+wait_time = 0.5
+one_shot = true
+autostart = true
+
+[connection signal="timeout" from="spawn_timer" to="." method="_on_spawn_timer_timeout"]
 
 
