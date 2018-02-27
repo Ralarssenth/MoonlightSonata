@@ -9,12 +9,14 @@ var vel = Vector2()
 
 signal player_dead
 
+onready var game_manager = get_node("/root/game_manager")
 onready var sprite = get_node("sprite")
 onready var health_area = get_node("canvas/health_area")
 
 var t = 0
 
 func _ready():
+	connect("player_dead", game_manager, "_on_player_dead")
 	update_healthbar()
 	set_physics_process(false)
 	
@@ -26,7 +28,7 @@ func _physics_process(delta):
 	do_move_animations()
 	t += delta
 	if t >= 3:
-		# take_damage(1)
+		take_damage(1)
 		t = 0
 
 func do_move(delta):

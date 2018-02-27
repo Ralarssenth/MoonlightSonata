@@ -16,8 +16,6 @@ var scenes = { "title": title_scene,
 # the current scene that the player is on
 var current_primary_scene
 
-var last_position = Vector2()
-
 # an array of scenes currently displaying on top of other scenes and taking control
 var scenes_on_top = []
 
@@ -75,8 +73,9 @@ func start_all_processing(scene):
 		child.set_physics_process(true)
 		child.set_process_input(true)
 
-func set_pos():
-	current_primary_scene.player.set_position(last_position)
+func set_player_location(node_name, offset):
+	var pos = current_primary_scene.get_node(node_name).get_position() + offset
+	current_primary_scene.player.set_position(pos)
 
-func get_pos():
-	last_position = current_primary_scene.player.get_position() + Vector2(0, 8)
+func _on_player_dead():
+	load_new_scene("title")

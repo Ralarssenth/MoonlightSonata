@@ -13,4 +13,4 @@ func _process(delta):
 
 func _on_door_area_entered( area ):
 	game_manager.load_new_scene("overworld")
-	game_manager.set_pos()
+	game_manager.set_player_location("cabin0_door", Vector2(0, 8))

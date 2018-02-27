@@ -166,7 +166,7 @@ extents = Vector2( 5, 8 )
 custom_solver_bias = 0.0
 extents = Vector2( 9, 18 )
 
-[node name="overworld_tiles" type="Node2D" index="0"]
+[node name="overworld_tiles" type="Node2D"]
 
 [node name="water0" type="Sprite" parent="." index="0"]
 

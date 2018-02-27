@@ -27,10 +27,6 @@ func move_camera():
 	camera_tween.interpolate_property(camera, "position", camera.position, new_pos, 0.001, Tween.TRANS_LINEAR, Tween.EASE_IN)
 	camera_tween.start()
 
-func _on_player_player_dead():
-	game_manager.load_new_scene("title")
-
 func _on_cabin0_door_area_entered( area ):
-	game_manager.get_pos()
 	game_manager.load_new_scene("cabin0")
-	
+	game_manager.set_player_location("door", Vector2(0, 50))

@@ -8,4 +8,4 @@ func _ready():
 
 func _process(delta):
 	if Input.is_action_pressed("ui_select") || Input.is_action_pressed("ui_accept"):
-		game_manager.load_new_scene("overworld")
+		game_manager.load_new_scene("cabin0")
