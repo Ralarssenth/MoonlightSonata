@@ -77,7 +77,7 @@ animations = [ {
 [sub_resource type="RectangleShape2D" id=2]
 
 custom_solver_bias = 0.0
-extents = Vector2( 5, 4 )
+extents = Vector2( 4, 4 )
 
 [node name="player" type="KinematicBody2D" index="0"]
 
@@ -99,7 +99,7 @@ _sections_unfolded = [ "Transform" ]
 
 [node name="collision" type="CollisionShape2D" parent="." index="1"]
 
-position = Vector2( 0, 3 )
+position = Vector2( 0, 2 )
 shape = SubResource( 2 )
 _sections_unfolded = [ "Transform" ]
 
@@ -129,7 +129,7 @@ audio_bus_name = "Master"
 
 [node name="collision2" type="CollisionShape2D" parent="area" index="0"]
 
-position = Vector2( 0.358475, 3 )
+position = Vector2( 0.35849, 2 )
 shape = SubResource( 2 )
 _sections_unfolded = [ "Transform" ]
 

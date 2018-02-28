@@ -14,7 +14,7 @@ extents = Vector2( 16, 16 )
 custom_solver_bias = 0.0
 extents = Vector2( 4, 2 )
 
-[node name="overworld" type="Node" index="0"]
+[node name="overworld" type="Node"]
 
 script = ExtResource( 1 )
 _sections_unfolded = [ "Transform" ]

@@ -94,7 +94,6 @@ __meta__ = {
 position = Vector2( 112, 210.667 )
 frames = SubResource( 1 )
 animation = "default"
-frame = 1
 playing = true
 
 [node name="torch1" type="AnimatedSprite" parent="foreground" index="1"]
@@ -102,6 +101,7 @@ playing = true
 position = Vector2( 202.667, 66.6667 )
 frames = SubResource( 1 )
 animation = "default"
+frame = 2
 playing = true
 
 [node name="torch2" type="AnimatedSprite" parent="foreground" index="2"]
@@ -109,6 +109,7 @@ playing = true
 position = Vector2( 306.667, 66.6667 )
 frames = SubResource( 1 )
 animation = "default"
+frame = 2
 playing = true
 
 [node name="torch3" type="AnimatedSprite" parent="foreground" index="3"]
@@ -116,7 +117,7 @@ playing = true
 position = Vector2( 405.333, 66.6667 )
 frames = SubResource( 1 )
 animation = "default"
-frame = 2
+frame = 1
 playing = true
 
 [node name="torch4" type="AnimatedSprite" parent="foreground" index="4"]
@@ -124,7 +125,7 @@ playing = true
 position = Vector2( 514.667, 66.6667 )
 frames = SubResource( 1 )
 animation = "default"
-frame = 2
+frame = 1
 playing = true
 
 [node name="torch5" type="AnimatedSprite" parent="foreground" index="5"]
@@ -132,7 +133,6 @@ playing = true
 position = Vector2( 600, 34.6667 )
 frames = SubResource( 1 )
 animation = "default"
-frame = 1
 playing = true
 
 [node name="torch6" type="AnimatedSprite" parent="foreground" index="6"]
@@ -140,7 +140,6 @@ playing = true
 position = Vector2( -120, 50.6667 )
 frames = SubResource( 1 )
 animation = "default"
-frame = 1
 playing = true
 
 [node name="torch7" type="AnimatedSprite" parent="foreground" index="7"]
@@ -148,6 +147,7 @@ playing = true
 position = Vector2( -24, 226.667 )
 frames = SubResource( 1 )
 animation = "default"
+frame = 2
 playing = true
 
 [node name="camera" type="Camera2D" parent="." index="2"]
