@@ -27,9 +27,9 @@ func _on_spawn_timer_timeout():
 
 func _physics_process(delta):
 	update_healthbar()
+	do_move_animations()
 	if can_move == true:
 		do_move(delta)
-		do_move_animations()
 	t += delta
 	if t >= 3:
 		# take_damage(1)

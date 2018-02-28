@@ -79,6 +79,7 @@ _sections_unfolded = [ "Cell", "Transform" ]
 [node name="player" parent="." index="3" instance=ExtResource( 3 )]
 
 position = Vector2( 448, 240 )
+scale = Vector2( 2.5, 2.5 )
 collision/safe_margin = 0.8
 _sections_unfolded = [ "Transform", "collision" ]
 
