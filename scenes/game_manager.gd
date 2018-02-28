@@ -9,6 +9,8 @@ var sewer_scene = preload("res://scenes/sewer.tscn")
 var scene_selector_scene = preload("res://scenes/scene_selector.tscn")
 # var game_over_scene = preload("res://scenes/game_over.tscn")
 
+onready var canvas = get_node("canvas")
+
 # a dictionary to look up the scene objects by a name
 var scenes = { "title": title_scene,
 				"overworld": overworld_scene,
@@ -46,7 +48,7 @@ func load_scene_on_top(scene_name):
 	else:
 		stop_all_processing(scenes_on_top[0])
 	scenes_on_top.push_front(scenes[scene_name].instance())
-	add_child(scenes_on_top[0])
+	canvas.add_child(scenes_on_top[0])
 	
 # closes the currently loaded scene on top and gives control back to the current scene
 func close_scene_on_top():
