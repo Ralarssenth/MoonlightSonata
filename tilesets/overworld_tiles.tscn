@@ -1,4 +1,4 @@
-[gd_scene load_steps=86 format=2]
+[gd_scene load_steps=88 format=2]
 
 [ext_resource path="res://art/background/water0.png" type="Texture" id=1]
 [ext_resource path="res://art/background/water1.png" type="Texture" id=2]
@@ -65,6 +65,7 @@
 [ext_resource path="res://art/background/tree0.png" type="Texture" id=63]
 [ext_resource path="res://art/background/tree1.png" type="Texture" id=64]
 [ext_resource path="res://art/background/tree2.png" type="Texture" id=65]
+[ext_resource path="res://art/background/well0.png" type="Texture" id=66]
 
 [sub_resource type="RectangleShape2D" id=1]
 
@@ -165,6 +166,11 @@ extents = Vector2( 5, 8 )
 
 custom_solver_bias = 0.0
 extents = Vector2( 9, 18 )
+
+[sub_resource type="RectangleShape2D" id=21]
+
+custom_solver_bias = 0.0
+extents = Vector2( 7, 6 )
 
 [node name="overworld_tiles" type="Node2D"]
 
@@ -688,203 +694,203 @@ _sections_unfolded = [ "Transform" ]
 
 [node name="dirt0" type="Sprite" parent="." index="23"]
 
-position = Vector2( 8, 80 )
+position = Vector2( 8, 56 )
 texture = ExtResource( 24 )
 
 [node name="dirt1" type="Sprite" parent="." index="24"]
 
-position = Vector2( 32, 80 )
+position = Vector2( 24, 56 )
 texture = ExtResource( 25 )
 
 [node name="dirt2" type="Sprite" parent="." index="25"]
 
-position = Vector2( 56, 80 )
+position = Vector2( 40, 56 )
 texture = ExtResource( 26 )
 
 [node name="dirt3" type="Sprite" parent="." index="26"]
 
-position = Vector2( 8, 104 )
+position = Vector2( 8, 72 )
 texture = ExtResource( 27 )
 
 [node name="dirt4" type="Sprite" parent="." index="27"]
 
-position = Vector2( 128, 152 )
+position = Vector2( 24, 72 )
 texture = ExtResource( 28 )
 
 [node name="dirt5" type="Sprite" parent="." index="28"]
 
-position = Vector2( 56, 104 )
+position = Vector2( 40, 72 )
 texture = ExtResource( 29 )
 
 [node name="dirt6" type="Sprite" parent="." index="29"]
 
-position = Vector2( 8, 128 )
+position = Vector2( 8, 88 )
 texture = ExtResource( 30 )
 
 [node name="dirt7" type="Sprite" parent="." index="30"]
 
-position = Vector2( 32, 128 )
+position = Vector2( 24, 88 )
 texture = ExtResource( 31 )
 
 [node name="dirt8" type="Sprite" parent="." index="31"]
 
-position = Vector2( 56, 128 )
+position = Vector2( 40, 88 )
 texture = ExtResource( 32 )
 
 [node name="dirt9" type="Sprite" parent="." index="32"]
 
-position = Vector2( 8, 152 )
+position = Vector2( 8, 104 )
 texture = ExtResource( 33 )
 
 [node name="dirt10" type="Sprite" parent="." index="33"]
 
-position = Vector2( 56, 152 )
+position = Vector2( 24, 104 )
 texture = ExtResource( 34 )
 
 [node name="dirt11" type="Sprite" parent="." index="34"]
 
-position = Vector2( 104, 152 )
+position = Vector2( 40, 104 )
 texture = ExtResource( 35 )
 
 [node name="dirt12" type="Sprite" parent="." index="35"]
 
-position = Vector2( 8, 200 )
+position = Vector2( 8, 120 )
 texture = ExtResource( 36 )
 
 [node name="dirt13" type="Sprite" parent="." index="36"]
 
-position = Vector2( 56, 200 )
+position = Vector2( 24, 120 )
 texture = ExtResource( 37 )
 
 [node name="dirt14" type="Sprite" parent="." index="37"]
 
-position = Vector2( 80, 152 )
+position = Vector2( 40, 120 )
 texture = ExtResource( 38 )
 
 [node name="dirt15" type="Sprite" parent="." index="38"]
 
-position = Vector2( 80, 128 )
+position = Vector2( 8, 136 )
 texture = ExtResource( 39 )
 
 [node name="dirt16" type="Sprite" parent="." index="39"]
 
-position = Vector2( 80, 104 )
+position = Vector2( 24, 136 )
 texture = ExtResource( 40 )
 
 [node name="dirt17" type="Sprite" parent="." index="40"]
 
-position = Vector2( 32, 224 )
+position = Vector2( 40, 136 )
 texture = ExtResource( 41 )
 
 [node name="dirt18" type="Sprite" parent="." index="41"]
 
-position = Vector2( 32, 272 )
+position = Vector2( 8, 152 )
 texture = ExtResource( 42 )
 
 [node name="dirt19" type="Sprite" parent="." index="42"]
 
-position = Vector2( 8, 248 )
+position = Vector2( 24, 152 )
 texture = ExtResource( 43 )
 
 [node name="dirt20" type="Sprite" parent="." index="43"]
 
-position = Vector2( 56, 248 )
+position = Vector2( 40, 152 )
 texture = ExtResource( 44 )
 
 [node name="dirt21" type="Sprite" parent="." index="44"]
 
-position = Vector2( 32, 152 )
+position = Vector2( 8, 168 )
 texture = ExtResource( 45 )
 
 [node name="dirt22" type="Sprite" parent="." index="45"]
 
-position = Vector2( 32, 200 )
+position = Vector2( 24, 168 )
 texture = ExtResource( 46 )
 
 [node name="dirt23" type="Sprite" parent="." index="46"]
 
-position = Vector2( 56, 176 )
+position = Vector2( 40, 168 )
 texture = ExtResource( 47 )
 
 [node name="dirt24" type="Sprite" parent="." index="47"]
 
-position = Vector2( 8, 176 )
+position = Vector2( 8, 184 )
 texture = ExtResource( 48 )
 
 [node name="dirt25" type="Sprite" parent="." index="48"]
 
-position = Vector2( 32, 176 )
+position = Vector2( 24, 184 )
 texture = ExtResource( 49 )
 
 [node name="dirt26" type="Sprite" parent="." index="49"]
 
-position = Vector2( 8, 224 )
+position = Vector2( 40, 184 )
 texture = ExtResource( 50 )
 
 [node name="dirt27" type="Sprite" parent="." index="50"]
 
-position = Vector2( 56, 224 )
+position = Vector2( 8, 200 )
 texture = ExtResource( 51 )
 
 [node name="dirt28" type="Sprite" parent="." index="51"]
 
-position = Vector2( 8, 272 )
+position = Vector2( 24, 200 )
 texture = ExtResource( 52 )
 
 [node name="dirt29" type="Sprite" parent="." index="52"]
 
-position = Vector2( 56, 272 )
+position = Vector2( 40, 200 )
 texture = ExtResource( 53 )
 
 [node name="flowers0" type="Sprite" parent="." index="53"]
 
-position = Vector2( 128, 104 )
+position = Vector2( 56, 72 )
 texture = ExtResource( 54 )
 
 [node name="flowers1" type="Sprite" parent="." index="54"]
 
-position = Vector2( 128, 128 )
+position = Vector2( 72, 72 )
 texture = ExtResource( 55 )
 
 [node name="grass0" type="Sprite" parent="." index="55"]
 
-position = Vector2( 80, 176 )
+position = Vector2( 88, 72 )
 texture = ExtResource( 56 )
 
 [node name="grass1" type="Sprite" parent="." index="56"]
 
-position = Vector2( 32, 248 )
+position = Vector2( 104, 72 )
 texture = ExtResource( 57 )
 
 [node name="grass2" type="Sprite" parent="." index="57"]
 
-position = Vector2( 32, 104 )
+position = Vector2( 120, 72 )
 texture = ExtResource( 58 )
 
 [node name="grass3" type="Sprite" parent="." index="58"]
 
-position = Vector2( 104, 104 )
+position = Vector2( 56, 88 )
 texture = ExtResource( 59 )
 
 [node name="grass4" type="Sprite" parent="." index="59"]
 
-position = Vector2( 104, 128 )
+position = Vector2( 72, 88 )
 texture = ExtResource( 60 )
 
 [node name="grass5" type="Sprite" parent="." index="60"]
 
-position = Vector2( 104, 176 )
+position = Vector2( 88, 88 )
 texture = ExtResource( 61 )
 
 [node name="grass6" type="Sprite" parent="." index="61"]
 
-position = Vector2( 128, 176 )
+position = Vector2( 104, 88 )
 texture = ExtResource( 62 )
 
 [node name="tree0" type="Sprite" parent="." index="62"]
 
 editor/display_folded = true
-position = Vector2( 80, 208 )
+position = Vector2( 144, 24 )
 texture = ExtResource( 63 )
 __meta__ = {
 "_edit_group_": true
@@ -908,7 +914,7 @@ _sections_unfolded = [ "Transform" ]
 [node name="tree1" type="Sprite" parent="." index="63"]
 
 editor/display_folded = true
-position = Vector2( 104, 208 )
+position = Vector2( 168, 24 )
 texture = ExtResource( 64 )
 __meta__ = {
 "_edit_group_": true
@@ -932,7 +938,7 @@ _sections_unfolded = [ "Transform" ]
 [node name="tree2" type="Sprite" parent="." index="64"]
 
 editor/display_folded = true
-position = Vector2( 128, 208 )
+position = Vector2( 192, 24 )
 texture = ExtResource( 65 )
 __meta__ = {
 "_edit_group_": true
@@ -951,6 +957,27 @@ bounce = 0.0
 [node name="CollisionShape2D" type="CollisionShape2D" parent="tree2/StaticBody2D3" index="0"]
 
 shape = SubResource( 20 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="well0" type="Sprite" parent="." index="65"]
+
+position = Vector2( 120, 88 )
+texture = ExtResource( 66 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="well0" index="0"]
+
+input_pickable = false
+collision_layer = 1
+collision_mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="well0/StaticBody2D" index="0"]
+
+position = Vector2( 0, 1 )
+shape = SubResource( 21 )
 _sections_unfolded = [ "Transform" ]
 
 

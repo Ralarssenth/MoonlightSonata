@@ -1,4 +1,4 @@
-[gd_scene load_steps=5 format=2]
+[gd_scene load_steps=6 format=2]
 
 [ext_resource path="res://scenes/overworld.gd" type="Script" id=1]
 [ext_resource path="res://tilesets/overworld_tileset.tres" type="TileSet" id=2]
@@ -8,6 +8,11 @@
 
 custom_solver_bias = 0.0
 extents = Vector2( 16, 16 )
+
+[sub_resource type="RectangleShape2D" id=2]
+
+custom_solver_bias = 0.0
+extents = Vector2( 4, 2 )
 
 [node name="overworld" type="Node"]
 
@@ -55,7 +60,7 @@ collision_layer = 1
 collision_mask = 1
 occluder_light_mask = 1
 format = 1
-tile_data = PoolIntArray( -262124, 62, 0, -262121, 62, 0, -262118, 62, 0, -131044, 62, 0, -65518, 62, 0, -65515, 62, 0, 30, 62, 0, 65563, 62, 0, 131088, 62, 0, 196628, 62, 0, 327701, 62, 0, 327704, 62, 0, 327709, 62, 0, 393243, 62, 0, 458769, 62, 0, 589853, 62, 0, 1048562, 64, 0, 1048565, 63, 0, 1048570, 63, 0, 1114099, 64, 0, 1179634, 64, 0, 1179637, 63, 0, 1179642, 63, 0, 1114119, 64, 0, 1114123, 64, 0, 1245171, 64, 0, 1245177, 63, 0, 1179649, 64, 0, 1179663, 64, 0, 1310706, 64, 0, 1310715, 64, 0, 1245188, 64, 0, 1245193, 64, 0, 1245196, 64, 0, 1245201, 64, 0, 1376243, 64, 0, 1376254, 64, 0, 1441780, 64, 0, 1441782, 64, 0, 1376257, 64, 0, 1376262, 64, 0, 1376272, 64, 0, 1507313, 64, 0, 1507317, 64, 0, 1507319, 64, 0, 1441810, 64, 0, 1572851, 64, 0, 1572856, 64, 0, 1572858, 64, 0, 1638393, 64, 0, 1638395, 64, 0, 1572868, 64, 0, 1572877, 64, 0, 1703926, 64, 0, 1703934, 64, 0, 1638406, 64, 0, 1638417, 64, 0, 1769468, 64, 0, 1769474, 64, 0, 1769487, 64, 0, 1835017, 64, 0, 1966079, 64, 0 )
+tile_data = PoolIntArray( -262124, 62, 0, -262121, 62, 0, -262118, 62, 0, -131044, 62, 0, -65518, 62, 0, -65515, 62, 0, 30, 62, 0, 65563, 62, 0, 131088, 62, 0, 196628, 62, 0, 327701, 62, 0, 327704, 62, 0, 327709, 62, 0, 393243, 62, 0, 458769, 62, 0, 589853, 62, 0, 720915, 65, 0, 1048562, 64, 0, 1048565, 63, 0, 1048570, 63, 0, 1114099, 64, 0, 1179634, 64, 0, 1179637, 63, 0, 1179642, 63, 0, 1114119, 64, 0, 1114123, 64, 0, 1245171, 64, 0, 1245177, 63, 0, 1179649, 64, 0, 1179663, 64, 0, 1310706, 64, 0, 1310715, 64, 0, 1245188, 64, 0, 1245193, 64, 0, 1245196, 64, 0, 1245201, 64, 0, 1376243, 64, 0, 1376254, 64, 0, 1441780, 64, 0, 1441782, 64, 0, 1376257, 64, 0, 1376262, 64, 0, 1376272, 64, 0, 1507313, 64, 0, 1507317, 64, 0, 1507319, 64, 0, 1441810, 64, 0, 1572851, 64, 0, 1572856, 64, 0, 1572858, 64, 0, 1572861, 65, 0, 1638393, 64, 0, 1638395, 64, 0, 1572868, 64, 0, 1572877, 64, 0, 1703926, 64, 0, 1703934, 64, 0, 1638406, 64, 0, 1638417, 64, 0, 1769468, 64, 0, 1769474, 64, 0, 1769487, 64, 0, 1835017, 64, 0, 1966079, 64, 0 )
 _sections_unfolded = [ "Cell", "Transform" ]
 
 [node name="player" parent="." index="2" instance=ExtResource( 3 )]
@@ -115,6 +120,56 @@ audio_bus_name = "Master"
 position = Vector2( 0, -16 )
 shape = SubResource( 1 )
 
+[node name="well0_door" type="Area2D" parent="." index="5"]
+
+position = Vector2( -120, 1128 )
+scale = Vector2( 3, 3 )
+input_pickable = true
+gravity_vec = Vector2( 0, 1 )
+gravity = 98.0
+linear_damp = 0.1
+angular_damp = 1.0
+audio_bus_override = false
+audio_bus_name = "Master"
+__meta__ = {
+"_edit_group_": true
+}
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="well0_door" index="0"]
+
+position = Vector2( 0, -5 )
+shape = SubResource( 2 )
+one_way_collision = true
+_sections_unfolded = [ "Transform" ]
+
+[node name="well1_door" type="Area2D" parent="." index="6"]
+
+position = Vector2( 936, 552 )
+scale = Vector2( 3, 3 )
+input_pickable = true
+gravity_vec = Vector2( 0, 1 )
+gravity = 98.0
+linear_damp = 0.1
+angular_damp = 1.0
+audio_bus_override = false
+audio_bus_name = "Master"
+__meta__ = {
+"_edit_group_": true
+}
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="well1_door" index="0"]
+
+position = Vector2( 0, -5 )
+shape = SubResource( 2 )
+one_way_collision = true
+_sections_unfolded = [ "Transform" ]
+
 [connection signal="area_entered" from="cabin0_door" to="." method="_on_cabin0_door_area_entered"]
+
+[connection signal="area_entered" from="well0_door" to="." method="_on_well0_door_area_entered"]
+
+[connection signal="area_entered" from="well1_door" to="." method="_on_well0_door_area_entered"]
+
+[connection signal="area_entered" from="well1_door" to="." method="_on_well1_door_area_entered"]
 
 

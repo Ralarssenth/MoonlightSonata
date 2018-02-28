@@ -3,17 +3,25 @@ extends Node
 # the game scenes that can be accessed by the game_manager
 var title_scene = preload("res://scenes/title_screen.tscn")
 var overworld_scene = preload("res://scenes/overworld.tscn")
-var button_scene = preload("res://scenes/Button.tscn")
+var menu_scene = preload("res://scenes/menu.tscn")
 var cabin0_scene = preload("res://scenes/cabin0.tscn")
+var sewer_scene = preload("res://scenes/sewer.tscn")
+var scene_selector_scene = preload("res://scenes/scene_selector.tscn")
 # var game_over_scene = preload("res://scenes/game_over.tscn")
 
 # a dictionary to look up the scene objects by a name
 var scenes = { "title": title_scene,
 				"overworld": overworld_scene,
-				"button": button_scene,
-				"cabin0": cabin0_scene}
+				"menu": menu_scene,
+				"cabin0": cabin0_scene,
+				"sewer": sewer_scene,
+				"scene_selector": scene_selector_scene}
 
-# the current scene that the player is on
+#player stats
+const starting_health = 5
+var current_health = starting_health
+
+# the current scene that the Player(person) is on
 var current_primary_scene
 
 # an array of scenes currently displaying on top of other scenes and taking control
@@ -30,8 +38,6 @@ func load_new_scene(scene_name):
 	current_primary_scene.queue_free()
 	current_primary_scene = scenes[scene_name].instance()	
 	add_child(current_primary_scene)
-	if current_primary_scene == overworld_scene:
-		set_position()
 
 # loads a scene into the tree on top of the current scene and gives the scene on top control
 func load_scene_on_top(scene_name):
@@ -53,7 +59,7 @@ func close_scene_on_top():
 		
 func _input(event):
 	if event.is_action_pressed("ui_focus_next"):
-		load_scene_on_top("button")
+		load_scene_on_top("menu")
 		
 func stop_all_processing(scene):
 	scene.set_process(false)
@@ -77,5 +83,11 @@ func set_player_location(node_name, offset):
 	var pos = current_primary_scene.get_node(node_name).get_position() + offset
 	current_primary_scene.player.set_position(pos)
 
-func _on_player_dead():
-	load_new_scene("title")
+func set_player_details(health):
+	current_health = health
+	if current_health <= 0:
+		load_new_scene("title")
+
+func get_player_details():
+	var player = current_primary_scene.get_node("player")
+	player.current_health = current_health

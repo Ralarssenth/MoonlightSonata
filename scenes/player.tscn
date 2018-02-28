@@ -63,7 +63,7 @@ animations = [ {
 custom_solver_bias = 0.0
 radius = 5.0
 
-[node name="player" type="KinematicBody2D" index="0"]
+[node name="player" type="KinematicBody2D"]
 
 position = Vector2( 469, 300.386 )
 scale = Vector2( 2, 2 )
@@ -92,12 +92,13 @@ _sections_unfolded = [ "Transform" ]
 layer = 1
 offset = Vector2( 0, 0 )
 rotation = 0.0
-scale = Vector2( 1, 1 )
-transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+scale = Vector2( 0.5, 0.5 )
+transform = Transform2D( 0.5, 0, 0, 0.5, 0, 0 )
 
 [node name="health_area" type="Node2D" parent="canvas" index="0"]
 
 position = Vector2( 50.9695, 46.5374 )
+_sections_unfolded = [ "Transform" ]
 
 [node name="area" type="Area2D" parent="." index="3"]
 

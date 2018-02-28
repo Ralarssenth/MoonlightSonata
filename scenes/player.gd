@@ -4,8 +4,10 @@ var health_sprite = preload("res://scenes/health.tscn")
 
 var speed = 3
 var max_health = 5
-var current_health = max_health
+var current_health
 var vel = Vector2()
+var can_move
+
 
 signal player_dead
 
@@ -16,19 +18,21 @@ onready var health_area = get_node("canvas/health_area")
 var t = 0
 
 func _ready():
-	connect("player_dead", game_manager, "_on_player_dead")
-	update_healthbar()
-	set_physics_process(false)
+	game_manager.get_player_details()
+	set_physics_process(true)
+	can_move = false
 	
 func _on_spawn_timer_timeout():
-	set_physics_process(true)
+	can_move = true
 
 func _physics_process(delta):
-	do_move(delta)
-	do_move_animations()
+	update_healthbar()
+	if can_move == true:
+		do_move(delta)
+		do_move_animations()
 	t += delta
 	if t >= 3:
-		take_damage(1)
+		# take_damage(1)
 		t = 0
 
 func do_move(delta):
@@ -72,6 +76,7 @@ func take_damage(dmg):
 	current_health = clamp(current_health, 0, current_health - dmg)
 	print("Took " + str(dmg) + " damage. Current health = " + str(current_health) + "/" + str(max_health))
 	update_healthbar()
-	if current_health == 0:
-		emit_signal("player_dead")
+	update_player()
 
+func update_player():
+	game_manager.set_player_details(current_health)

@@ -1,85 +1,142 @@
-[gd_resource type="TileSet" load_steps=82 format=2]
+[gd_resource type="TileSet" load_steps=131 format=2]
 
 [ext_resource path="res://art/interiors/bounds0.png" type="Texture" id=1]
 [ext_resource path="res://art/interiors/bounds1.png" type="Texture" id=2]
 [ext_resource path="res://art/interiors/floor1.png" type="Texture" id=3]
-[ext_resource path="res://art/interiors/floor2.png" type="Texture" id=4]
-[ext_resource path="res://art/interiors/rug0.png" type="Texture" id=5]
-[ext_resource path="res://art/interiors/rug1.png" type="Texture" id=6]
-[ext_resource path="res://art/interiors/rug2.png" type="Texture" id=7]
-[ext_resource path="res://art/interiors/rug3.png" type="Texture" id=8]
-[ext_resource path="res://art/interiors/rug4.png" type="Texture" id=9]
-[ext_resource path="res://art/interiors/rug5.png" type="Texture" id=10]
-[ext_resource path="res://art/interiors/rug6.png" type="Texture" id=11]
-[ext_resource path="res://art/interiors/rug7.png" type="Texture" id=12]
-[ext_resource path="res://art/interiors/bounds2.png" type="Texture" id=13]
-[ext_resource path="res://art/interiors/rug8.png" type="Texture" id=14]
-[ext_resource path="res://art/interiors/shadow0.png" type="Texture" id=15]
-[ext_resource path="res://art/interiors/shadow1.png" type="Texture" id=16]
-[ext_resource path="res://art/interiors/shadow2.png" type="Texture" id=17]
-[ext_resource path="res://art/interiors/shadow3.png" type="Texture" id=18]
-[ext_resource path="res://art/interiors/shadow4.png" type="Texture" id=19]
-[ext_resource path="res://art/interiors/wall.png" type="Texture" id=20]
-[ext_resource path="res://art/interiors/window0.png" type="Texture" id=21]
-[ext_resource path="res://art/interiors/window1.png" type="Texture" id=22]
-[ext_resource path="res://art/interiors/window2.png" type="Texture" id=23]
-[ext_resource path="res://art/interiors/bounds3.png" type="Texture" id=24]
-[ext_resource path="res://art/interiors/window3.png" type="Texture" id=25]
-[ext_resource path="res://art/interiors/window4.png" type="Texture" id=26]
-[ext_resource path="res://art/interiors/window5.png" type="Texture" id=27]
-[ext_resource path="res://art/interiors/window6.png" type="Texture" id=28]
-[ext_resource path="res://art/interiors/window7.png" type="Texture" id=29]
-[ext_resource path="res://art/interiors/window8.png" type="Texture" id=30]
-[ext_resource path="res://art/interiors/door0.png" type="Texture" id=31]
-[ext_resource path="res://art/interiors/door1.png" type="Texture" id=32]
-[ext_resource path="res://art/interiors/bed.png" type="Texture" id=33]
-[ext_resource path="res://art/interiors/floor.png" type="Texture" id=34]
-[ext_resource path="res://art/interiors/bounds4.png" type="Texture" id=35]
-[ext_resource path="res://art/interiors/chair0.png" type="Texture" id=36]
-[ext_resource path="res://art/interiors/chair1.png" type="Texture" id=37]
-[ext_resource path="res://art/interiors/chair2.png" type="Texture" id=38]
-[ext_resource path="res://art/interiors/chair3.png" type="Texture" id=39]
-[ext_resource path="res://art/interiors/chest0.png" type="Texture" id=40]
-[ext_resource path="res://art/interiors/chest1.png" type="Texture" id=41]
-[ext_resource path="res://art/interiors/chest2.png" type="Texture" id=42]
-[ext_resource path="res://art/interiors/curtains_blue0.png" type="Texture" id=43]
-[ext_resource path="res://art/interiors/bounds5.png" type="Texture" id=44]
-[ext_resource path="res://art/interiors/curtains_blue1.png" type="Texture" id=45]
-[ext_resource path="res://art/interiors/curtains_blue2.png" type="Texture" id=46]
-[ext_resource path="res://art/interiors/curtains_blue3.png" type="Texture" id=47]
-[ext_resource path="res://art/interiors/curtains_blue4.png" type="Texture" id=48]
-[ext_resource path="res://art/interiors/curtains_blue5.png" type="Texture" id=49]
-[ext_resource path="res://art/interiors/curtains_blue6.png" type="Texture" id=50]
-[ext_resource path="res://art/interiors/floor_blackandwhite.png" type="Texture" id=51]
-[ext_resource path="res://art/interiors/floor_stone0.png" type="Texture" id=52]
-[ext_resource path="res://art/interiors/floor_stone1.png" type="Texture" id=53]
-[ext_resource path="res://art/interiors/pot0.png" type="Texture" id=54]
-[ext_resource path="res://art/interiors/bounds6.png" type="Texture" id=55]
-[ext_resource path="res://art/interiors/pot1.png" type="Texture" id=56]
-[ext_resource path="res://art/interiors/pot2.png" type="Texture" id=57]
-[ext_resource path="res://art/interiors/table0.png" type="Texture" id=58]
-[ext_resource path="res://art/interiors/table1.png" type="Texture" id=59]
-[ext_resource path="res://art/interiors/table2.png" type="Texture" id=60]
-[ext_resource path="res://art/interiors/table3.png" type="Texture" id=61]
-[ext_resource path="res://art/interiors/table4.png" type="Texture" id=62]
-[ext_resource path="res://art/interiors/table5.png" type="Texture" id=63]
-[ext_resource path="res://art/interiors/table6.png" type="Texture" id=64]
-[ext_resource path="res://art/interiors/table7.png" type="Texture" id=65]
-[ext_resource path="res://art/interiors/bounds7.png" type="Texture" id=66]
-[ext_resource path="res://art/interiors/table8.png" type="Texture" id=67]
-[ext_resource path="res://art/interiors/bounds9.png" type="Texture" id=68]
-[ext_resource path="res://art/interiors/bounds10.png" type="Texture" id=69]
-[ext_resource path="res://art/interiors/bounds11.png" type="Texture" id=70]
-[ext_resource path="res://art/interiors/bounds12.png" type="Texture" id=71]
-[ext_resource path="res://art/interiors/bounds8.png" type="Texture" id=72]
-[ext_resource path="res://art/interiors/floor0.png" type="Texture" id=73]
+[ext_resource path="res://art/interiors/sewer_floor12.png" type="Texture" id=4]
+[ext_resource path="res://art/interiors/sewer_floor13.png" type="Texture" id=5]
+[ext_resource path="res://art/interiors/sewer_floor14.png" type="Texture" id=6]
+[ext_resource path="res://art/interiors/sewer_floor15.png" type="Texture" id=7]
+[ext_resource path="res://art/interiors/sewer_floor16.png" type="Texture" id=8]
+[ext_resource path="res://art/interiors/sewer_floor17.png" type="Texture" id=9]
+[ext_resource path="res://art/interiors/sewer_floor18.png" type="Texture" id=10]
+[ext_resource path="res://art/interiors/sewer_floor19.png" type="Texture" id=11]
+[ext_resource path="res://art/interiors/sewer_floor20.png" type="Texture" id=12]
+[ext_resource path="res://art/interiors/sewer_floor21.png" type="Texture" id=13]
+[ext_resource path="res://art/interiors/floor2.png" type="Texture" id=14]
+[ext_resource path="res://art/interiors/sewer_wall0.png" type="Texture" id=15]
+[ext_resource path="res://art/interiors/sewer_wall1.png" type="Texture" id=16]
+[ext_resource path="res://art/interiors/sewer_wall2.png" type="Texture" id=17]
+[ext_resource path="res://art/interiors/stairs_stone0.png" type="Texture" id=18]
+[ext_resource path="res://art/interiors/stairs_stone1.png" type="Texture" id=19]
+[ext_resource path="res://art/interiors/stairs_stone2.png" type="Texture" id=20]
+[ext_resource path="res://art/interiors/stairs_stone3.png" type="Texture" id=21]
+[ext_resource path="res://art/interiors/stairs_stone4.png" type="Texture" id=22]
+[ext_resource path="res://art/interiors/torch0.png" type="Texture" id=23]
+[ext_resource path="res://art/interiors/sewer_door1.png" type="Texture" id=24]
+[ext_resource path="res://art/interiors/rug0.png" type="Texture" id=25]
+[ext_resource path="res://art/interiors/sewer_door0.png" type="Texture" id=26]
+[ext_resource path="res://art/interiors/sewer_door2.png" type="Texture" id=27]
+[ext_resource path="res://art/interiors/rug1.png" type="Texture" id=28]
+[ext_resource path="res://art/interiors/rug2.png" type="Texture" id=29]
+[ext_resource path="res://art/interiors/rug3.png" type="Texture" id=30]
+[ext_resource path="res://art/interiors/rug4.png" type="Texture" id=31]
+[ext_resource path="res://art/interiors/rug5.png" type="Texture" id=32]
+[ext_resource path="res://art/interiors/rug6.png" type="Texture" id=33]
+[ext_resource path="res://art/interiors/rug7.png" type="Texture" id=34]
+[ext_resource path="res://art/interiors/bounds2.png" type="Texture" id=35]
+[ext_resource path="res://art/interiors/rug8.png" type="Texture" id=36]
+[ext_resource path="res://art/interiors/shadow0.png" type="Texture" id=37]
+[ext_resource path="res://art/interiors/shadow1.png" type="Texture" id=38]
+[ext_resource path="res://art/interiors/shadow2.png" type="Texture" id=39]
+[ext_resource path="res://art/interiors/shadow3.png" type="Texture" id=40]
+[ext_resource path="res://art/interiors/shadow4.png" type="Texture" id=41]
+[ext_resource path="res://art/interiors/wall.png" type="Texture" id=42]
+[ext_resource path="res://art/interiors/window0.png" type="Texture" id=43]
+[ext_resource path="res://art/interiors/window1.png" type="Texture" id=44]
+[ext_resource path="res://art/interiors/window2.png" type="Texture" id=45]
+[ext_resource path="res://art/interiors/bounds3.png" type="Texture" id=46]
+[ext_resource path="res://art/interiors/window3.png" type="Texture" id=47]
+[ext_resource path="res://art/interiors/window4.png" type="Texture" id=48]
+[ext_resource path="res://art/interiors/window5.png" type="Texture" id=49]
+[ext_resource path="res://art/interiors/window6.png" type="Texture" id=50]
+[ext_resource path="res://art/interiors/window7.png" type="Texture" id=51]
+[ext_resource path="res://art/interiors/window8.png" type="Texture" id=52]
+[ext_resource path="res://art/interiors/door0.png" type="Texture" id=53]
+[ext_resource path="res://art/interiors/door1.png" type="Texture" id=54]
+[ext_resource path="res://art/interiors/bed.png" type="Texture" id=55]
+[ext_resource path="res://art/interiors/floor.png" type="Texture" id=56]
+[ext_resource path="res://art/interiors/bounds4.png" type="Texture" id=57]
+[ext_resource path="res://art/interiors/chair0.png" type="Texture" id=58]
+[ext_resource path="res://art/interiors/chair1.png" type="Texture" id=59]
+[ext_resource path="res://art/interiors/chair2.png" type="Texture" id=60]
+[ext_resource path="res://art/interiors/chair3.png" type="Texture" id=61]
+[ext_resource path="res://art/interiors/chest0.png" type="Texture" id=62]
+[ext_resource path="res://art/interiors/chest1.png" type="Texture" id=63]
+[ext_resource path="res://art/interiors/chest2.png" type="Texture" id=64]
+[ext_resource path="res://art/interiors/curtains_blue0.png" type="Texture" id=65]
+[ext_resource path="res://art/interiors/bounds5.png" type="Texture" id=66]
+[ext_resource path="res://art/interiors/curtains_blue1.png" type="Texture" id=67]
+[ext_resource path="res://art/interiors/curtains_blue2.png" type="Texture" id=68]
+[ext_resource path="res://art/interiors/curtains_blue3.png" type="Texture" id=69]
+[ext_resource path="res://art/interiors/curtains_blue4.png" type="Texture" id=70]
+[ext_resource path="res://art/interiors/curtains_blue5.png" type="Texture" id=71]
+[ext_resource path="res://art/interiors/curtains_blue6.png" type="Texture" id=72]
+[ext_resource path="res://art/interiors/floor_blackandwhite.png" type="Texture" id=73]
+[ext_resource path="res://art/interiors/floor_stone0.png" type="Texture" id=74]
+[ext_resource path="res://art/interiors/floor_stone1.png" type="Texture" id=75]
+[ext_resource path="res://art/interiors/pot0.png" type="Texture" id=76]
+[ext_resource path="res://art/interiors/bounds6.png" type="Texture" id=77]
+[ext_resource path="res://art/interiors/pot1.png" type="Texture" id=78]
+[ext_resource path="res://art/interiors/pot2.png" type="Texture" id=79]
+[ext_resource path="res://art/interiors/table0.png" type="Texture" id=80]
+[ext_resource path="res://art/interiors/table1.png" type="Texture" id=81]
+[ext_resource path="res://art/interiors/table2.png" type="Texture" id=82]
+[ext_resource path="res://art/interiors/table3.png" type="Texture" id=83]
+[ext_resource path="res://art/interiors/table4.png" type="Texture" id=84]
+[ext_resource path="res://art/interiors/table5.png" type="Texture" id=85]
+[ext_resource path="res://art/interiors/table6.png" type="Texture" id=86]
+[ext_resource path="res://art/interiors/table7.png" type="Texture" id=87]
+[ext_resource path="res://art/interiors/bounds7.png" type="Texture" id=88]
+[ext_resource path="res://art/interiors/table8.png" type="Texture" id=89]
+[ext_resource path="res://art/interiors/bounds9.png" type="Texture" id=90]
+[ext_resource path="res://art/interiors/bounds10.png" type="Texture" id=91]
+[ext_resource path="res://art/interiors/bounds11.png" type="Texture" id=92]
+[ext_resource path="res://art/interiors/bounds12.png" type="Texture" id=93]
+[ext_resource path="res://art/interiors/bounds13.png" type="Texture" id=94]
+[ext_resource path="res://art/interiors/bounds14.png" type="Texture" id=95]
+[ext_resource path="res://art/interiors/bounds15.png" type="Texture" id=96]
+[ext_resource path="res://art/interiors/bounds16.png" type="Texture" id=97]
+[ext_resource path="res://art/interiors/bounds17.png" type="Texture" id=98]
+[ext_resource path="res://art/interiors/bounds8.png" type="Texture" id=99]
+[ext_resource path="res://art/interiors/bounds18.png" type="Texture" id=100]
+[ext_resource path="res://art/interiors/bounds19.png" type="Texture" id=101]
+[ext_resource path="res://art/interiors/bounds20.png" type="Texture" id=102]
+[ext_resource path="res://art/interiors/bounds21.png" type="Texture" id=103]
+[ext_resource path="res://art/interiors/bounds22.png" type="Texture" id=104]
+[ext_resource path="res://art/interiors/bounds23.png" type="Texture" id=105]
+[ext_resource path="res://art/interiors/bounds24.png" type="Texture" id=106]
+[ext_resource path="res://art/interiors/bounds25.png" type="Texture" id=107]
+[ext_resource path="res://art/interiors/sewer_floor0.png" type="Texture" id=108]
+[ext_resource path="res://art/interiors/sewer_floor1.png" type="Texture" id=109]
+[ext_resource path="res://art/interiors/floor0.png" type="Texture" id=110]
+[ext_resource path="res://art/interiors/sewer_floor2.png" type="Texture" id=111]
+[ext_resource path="res://art/interiors/sewer_floor3.png" type="Texture" id=112]
+[ext_resource path="res://art/interiors/sewer_floor4.png" type="Texture" id=113]
+[ext_resource path="res://art/interiors/sewer_floor5.png" type="Texture" id=114]
+[ext_resource path="res://art/interiors/sewer_floor6.png" type="Texture" id=115]
+[ext_resource path="res://art/interiors/sewer_floor7.png" type="Texture" id=116]
+[ext_resource path="res://art/interiors/sewer_floor8.png" type="Texture" id=117]
+[ext_resource path="res://art/interiors/sewer_floor9.png" type="Texture" id=118]
+[ext_resource path="res://art/interiors/sewer_floor10.png" type="Texture" id=119]
+[ext_resource path="res://art/interiors/sewer_floor11.png" type="Texture" id=120]
 
 [sub_resource type="RectangleShape2D" id=1]
 
 custom_solver_bias = 0.0
 extents = Vector2( 8, 8 )
 
-[sub_resource type="RectangleShape2D" id=4]
+[sub_resource type="RectangleShape2D" id=8]
+
+custom_solver_bias = 0.0
+extents = Vector2( 10, 10 )
+
+[sub_resource type="RectangleShape2D" id=9]
+
+custom_solver_bias = 0.0
+extents = Vector2( 8, 8 )
+
+[sub_resource type="RectangleShape2D" id=10]
 
 custom_solver_bias = 0.0
 extents = Vector2( 8, 24 )
@@ -94,7 +151,7 @@ extents = Vector2( 24, 32 )
 custom_solver_bias = 0.0
 extents = Vector2( 8, 32 )
 
-[sub_resource type="RectangleShape2D" id=10]
+[sub_resource type="RectangleShape2D" id=4]
 
 custom_solver_bias = 0.0
 extents = Vector2( 8, 8 )
@@ -104,12 +161,12 @@ extents = Vector2( 8, 8 )
 custom_solver_bias = 0.0
 extents = Vector2( 12, 12 )
 
-[sub_resource type="RectangleShape2D" id=11]
+[sub_resource type="RectangleShape2D" id=6]
 
 custom_solver_bias = 0.0
 extents = Vector2( 8, 8 )
 
-[sub_resource type="RectangleShape2D" id=9]
+[sub_resource type="RectangleShape2D" id=7]
 
 custom_solver_bias = 0.0
 extents = Vector2( 8, 8 )
@@ -145,7 +202,7 @@ extents = Vector2( 8, 8 )
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
 2/name = "bounds2"
-2/texture = ExtResource( 13 )
+2/texture = ExtResource( 35 )
 2/tex_offset = Vector2( 0, 0 )
 2/modulate = Color( 1, 1, 1, 1 )
 2/region = Rect2( 0, 0, 16, 16 )
@@ -159,7 +216,7 @@ extents = Vector2( 8, 8 )
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
 3/name = "bounds3"
-3/texture = ExtResource( 24 )
+3/texture = ExtResource( 46 )
 3/tex_offset = Vector2( 0, 0 )
 3/modulate = Color( 1, 1, 1, 1 )
 3/region = Rect2( 0, 0, 16, 16 )
@@ -173,7 +230,7 @@ extents = Vector2( 8, 8 )
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
 4/name = "bounds4"
-4/texture = ExtResource( 35 )
+4/texture = ExtResource( 57 )
 4/tex_offset = Vector2( 0, 0 )
 4/modulate = Color( 1, 1, 1, 1 )
 4/region = Rect2( 0, 0, 16, 16 )
@@ -187,7 +244,7 @@ extents = Vector2( 8, 8 )
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
 5/name = "bounds5"
-5/texture = ExtResource( 44 )
+5/texture = ExtResource( 66 )
 5/tex_offset = Vector2( 0, 0 )
 5/modulate = Color( 1, 1, 1, 1 )
 5/region = Rect2( 0, 0, 16, 16 )
@@ -201,7 +258,7 @@ extents = Vector2( 8, 8 )
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
 6/name = "bounds6"
-6/texture = ExtResource( 55 )
+6/texture = ExtResource( 77 )
 6/tex_offset = Vector2( 0, 0 )
 6/modulate = Color( 1, 1, 1, 1 )
 6/region = Rect2( 0, 0, 16, 16 )
@@ -215,7 +272,7 @@ extents = Vector2( 8, 8 )
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
 7/name = "bounds7"
-7/texture = ExtResource( 66 )
+7/texture = ExtResource( 88 )
 7/tex_offset = Vector2( 0, 0 )
 7/modulate = Color( 1, 1, 1, 1 )
 7/region = Rect2( 0, 0, 16, 16 )
@@ -229,7 +286,7 @@ extents = Vector2( 8, 8 )
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
 8/name = "bounds8"
-8/texture = ExtResource( 72 )
+8/texture = ExtResource( 99 )
 8/tex_offset = Vector2( 0, 0 )
 8/modulate = Color( 1, 1, 1, 1 )
 8/region = Rect2( 0, 0, 16, 16 )
@@ -243,7 +300,7 @@ extents = Vector2( 8, 8 )
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
 9/name = "floor0"
-9/texture = ExtResource( 73 )
+9/texture = ExtResource( 110 )
 9/tex_offset = Vector2( 0, 0 )
 9/modulate = Color( 1, 1, 1, 1 )
 9/region = Rect2( 0, 0, 16, 16 )
@@ -261,7 +318,7 @@ extents = Vector2( 8, 8 )
 10/navigation_offset = Vector2( 8, 8 )
 10/shapes = [  ]
 11/name = "floor2"
-11/texture = ExtResource( 4 )
+11/texture = ExtResource( 14 )
 11/tex_offset = Vector2( 0, 0 )
 11/modulate = Color( 1, 1, 1, 1 )
 11/region = Rect2( 0, 0, 16, 16 )
@@ -270,7 +327,7 @@ extents = Vector2( 8, 8 )
 11/navigation_offset = Vector2( 8, 8 )
 11/shapes = [  ]
 12/name = "rug0"
-12/texture = ExtResource( 5 )
+12/texture = ExtResource( 25 )
 12/tex_offset = Vector2( 0, 0 )
 12/modulate = Color( 1, 1, 1, 1 )
 12/region = Rect2( 0, 0, 16, 16 )
@@ -279,7 +336,7 @@ extents = Vector2( 8, 8 )
 12/navigation_offset = Vector2( 8, 8 )
 12/shapes = [  ]
 13/name = "rug1"
-13/texture = ExtResource( 6 )
+13/texture = ExtResource( 28 )
 13/tex_offset = Vector2( 0, 0 )
 13/modulate = Color( 1, 1, 1, 1 )
 13/region = Rect2( 0, 0, 16, 16 )
@@ -288,7 +345,7 @@ extents = Vector2( 8, 8 )
 13/navigation_offset = Vector2( 8, 8 )
 13/shapes = [  ]
 14/name = "rug2"
-14/texture = ExtResource( 7 )
+14/texture = ExtResource( 29 )
 14/tex_offset = Vector2( 0, 0 )
 14/modulate = Color( 1, 1, 1, 1 )
 14/region = Rect2( 0, 0, 16, 16 )
@@ -297,7 +354,7 @@ extents = Vector2( 8, 8 )
 14/navigation_offset = Vector2( 8, 8 )
 14/shapes = [  ]
 15/name = "rug3"
-15/texture = ExtResource( 8 )
+15/texture = ExtResource( 30 )
 15/tex_offset = Vector2( 0, 0 )
 15/modulate = Color( 1, 1, 1, 1 )
 15/region = Rect2( 0, 0, 16, 16 )
@@ -306,7 +363,7 @@ extents = Vector2( 8, 8 )
 15/navigation_offset = Vector2( 8, 8 )
 15/shapes = [  ]
 16/name = "rug4"
-16/texture = ExtResource( 9 )
+16/texture = ExtResource( 31 )
 16/tex_offset = Vector2( 0, 0 )
 16/modulate = Color( 1, 1, 1, 1 )
 16/region = Rect2( 0, 0, 16, 16 )
@@ -315,7 +372,7 @@ extents = Vector2( 8, 8 )
 16/navigation_offset = Vector2( 8, 8 )
 16/shapes = [  ]
 17/name = "rug5"
-17/texture = ExtResource( 10 )
+17/texture = ExtResource( 32 )
 17/tex_offset = Vector2( 0, 0 )
 17/modulate = Color( 1, 1, 1, 1 )
 17/region = Rect2( 0, 0, 16, 16 )
@@ -324,7 +381,7 @@ extents = Vector2( 8, 8 )
 17/navigation_offset = Vector2( 8, 8 )
 17/shapes = [  ]
 18/name = "rug6"
-18/texture = ExtResource( 11 )
+18/texture = ExtResource( 33 )
 18/tex_offset = Vector2( 0, 0 )
 18/modulate = Color( 1, 1, 1, 1 )
 18/region = Rect2( 0, 0, 16, 16 )
@@ -333,7 +390,7 @@ extents = Vector2( 8, 8 )
 18/navigation_offset = Vector2( 8, 8 )
 18/shapes = [  ]
 19/name = "rug7"
-19/texture = ExtResource( 12 )
+19/texture = ExtResource( 34 )
 19/tex_offset = Vector2( 0, 0 )
 19/modulate = Color( 1, 1, 1, 1 )
 19/region = Rect2( 0, 0, 16, 16 )
@@ -342,7 +399,7 @@ extents = Vector2( 8, 8 )
 19/navigation_offset = Vector2( 8, 8 )
 19/shapes = [  ]
 20/name = "rug8"
-20/texture = ExtResource( 14 )
+20/texture = ExtResource( 36 )
 20/tex_offset = Vector2( 0, 0 )
 20/modulate = Color( 1, 1, 1, 1 )
 20/region = Rect2( 0, 0, 16, 16 )
@@ -351,7 +408,7 @@ extents = Vector2( 8, 8 )
 20/navigation_offset = Vector2( 8, 8 )
 20/shapes = [  ]
 21/name = "shadow0"
-21/texture = ExtResource( 15 )
+21/texture = ExtResource( 37 )
 21/tex_offset = Vector2( 0, 0 )
 21/modulate = Color( 1, 1, 1, 1 )
 21/region = Rect2( 0, 0, 16, 16 )
@@ -360,7 +417,7 @@ extents = Vector2( 8, 8 )
 21/navigation_offset = Vector2( 8, 8 )
 21/shapes = [  ]
 22/name = "shadow1"
-22/texture = ExtResource( 16 )
+22/texture = ExtResource( 38 )
 22/tex_offset = Vector2( 0, 0 )
 22/modulate = Color( 1, 1, 1, 1 )
 22/region = Rect2( 0, 0, 16, 16 )
@@ -369,7 +426,7 @@ extents = Vector2( 8, 8 )
 22/navigation_offset = Vector2( 8, 8 )
 22/shapes = [  ]
 23/name = "shadow2"
-23/texture = ExtResource( 17 )
+23/texture = ExtResource( 39 )
 23/tex_offset = Vector2( 0, 0 )
 23/modulate = Color( 1, 1, 1, 1 )
 23/region = Rect2( 0, 0, 16, 16 )
@@ -378,7 +435,7 @@ extents = Vector2( 8, 8 )
 23/navigation_offset = Vector2( 8, 8 )
 23/shapes = [  ]
 24/name = "shadow3"
-24/texture = ExtResource( 18 )
+24/texture = ExtResource( 40 )
 24/tex_offset = Vector2( 0, 0 )
 24/modulate = Color( 1, 1, 1, 1 )
 24/region = Rect2( 0, 0, 16, 16 )
@@ -387,7 +444,7 @@ extents = Vector2( 8, 8 )
 24/navigation_offset = Vector2( 8, 8 )
 24/shapes = [  ]
 25/name = "shadow4"
-25/texture = ExtResource( 19 )
+25/texture = ExtResource( 41 )
 25/tex_offset = Vector2( 0, 0 )
 25/modulate = Color( 1, 1, 1, 1 )
 25/region = Rect2( 0, 0, 16, 16 )
@@ -396,7 +453,7 @@ extents = Vector2( 8, 8 )
 25/navigation_offset = Vector2( 8, 8 )
 25/shapes = [  ]
 26/name = "wall"
-26/texture = ExtResource( 20 )
+26/texture = ExtResource( 42 )
 26/tex_offset = Vector2( 0, 0 )
 26/modulate = Color( 1, 1, 1, 1 )
 26/region = Rect2( 0, 0, 16, 64 )
@@ -406,11 +463,11 @@ extents = Vector2( 8, 8 )
 26/shapes = [ {
 "autotile_coord": Vector2( 0, 0 ),
 "one_way": false,
-"shape": SubResource( 4 ),
+"shape": SubResource( 10 ),
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 24 )
 } ]
 27/name = "window0"
-27/texture = ExtResource( 21 )
+27/texture = ExtResource( 43 )
 27/tex_offset = Vector2( 0, 0 )
 27/modulate = Color( 1, 1, 1, 1 )
 27/region = Rect2( 0, 0, 16, 16 )
@@ -419,7 +476,7 @@ extents = Vector2( 8, 8 )
 27/navigation_offset = Vector2( 8, 8 )
 27/shapes = [  ]
 28/name = "window1"
-28/texture = ExtResource( 22 )
+28/texture = ExtResource( 44 )
 28/tex_offset = Vector2( 0, 0 )
 28/modulate = Color( 1, 1, 1, 1 )
 28/region = Rect2( 0, 0, 16, 16 )
@@ -428,7 +485,7 @@ extents = Vector2( 8, 8 )
 28/navigation_offset = Vector2( 8, 8 )
 28/shapes = [  ]
 29/name = "window2"
-29/texture = ExtResource( 23 )
+29/texture = ExtResource( 45 )
 29/tex_offset = Vector2( 0, 0 )
 29/modulate = Color( 1, 1, 1, 1 )
 29/region = Rect2( 0, 0, 16, 16 )
@@ -437,7 +494,7 @@ extents = Vector2( 8, 8 )
 29/navigation_offset = Vector2( 8, 8 )
 29/shapes = [  ]
 30/name = "window3"
-30/texture = ExtResource( 25 )
+30/texture = ExtResource( 47 )
 30/tex_offset = Vector2( 0, 0 )
 30/modulate = Color( 1, 1, 1, 1 )
 30/region = Rect2( 0, 0, 16, 16 )
@@ -446,7 +503,7 @@ extents = Vector2( 8, 8 )
 30/navigation_offset = Vector2( 8, 8 )
 30/shapes = [  ]
 31/name = "window4"
-31/texture = ExtResource( 26 )
+31/texture = ExtResource( 48 )
 31/tex_offset = Vector2( 0, 0 )
 31/modulate = Color( 1, 1, 1, 1 )
 31/region = Rect2( 0, 0, 16, 16 )
@@ -455,7 +512,7 @@ extents = Vector2( 8, 8 )
 31/navigation_offset = Vector2( 8, 8 )
 31/shapes = [  ]
 32/name = "window5"
-32/texture = ExtResource( 27 )
+32/texture = ExtResource( 49 )
 32/tex_offset = Vector2( 0, 0 )
 32/modulate = Color( 1, 1, 1, 1 )
 32/region = Rect2( 0, 0, 16, 16 )
@@ -464,7 +521,7 @@ extents = Vector2( 8, 8 )
 32/navigation_offset = Vector2( 8, 8 )
 32/shapes = [  ]
 33/name = "window6"
-33/texture = ExtResource( 28 )
+33/texture = ExtResource( 50 )
 33/tex_offset = Vector2( 0, 0 )
 33/modulate = Color( 1, 1, 1, 1 )
 33/region = Rect2( 0, 0, 16, 16 )
@@ -473,7 +530,7 @@ extents = Vector2( 8, 8 )
 33/navigation_offset = Vector2( 8, 8 )
 33/shapes = [  ]
 34/name = "window7"
-34/texture = ExtResource( 29 )
+34/texture = ExtResource( 51 )
 34/tex_offset = Vector2( 0, 0 )
 34/modulate = Color( 1, 1, 1, 1 )
 34/region = Rect2( 0, 0, 16, 16 )
@@ -482,7 +539,7 @@ extents = Vector2( 8, 8 )
 34/navigation_offset = Vector2( 8, 8 )
 34/shapes = [  ]
 35/name = "window8"
-35/texture = ExtResource( 30 )
+35/texture = ExtResource( 52 )
 35/tex_offset = Vector2( 0, 0 )
 35/modulate = Color( 1, 1, 1, 1 )
 35/region = Rect2( 0, 0, 16, 16 )
@@ -491,7 +548,7 @@ extents = Vector2( 8, 8 )
 35/navigation_offset = Vector2( 8, 8 )
 35/shapes = [  ]
 36/name = "door0"
-36/texture = ExtResource( 31 )
+36/texture = ExtResource( 53 )
 36/tex_offset = Vector2( 0, 0 )
 36/modulate = Color( 1, 1, 1, 1 )
 36/region = Rect2( 0, 0, 32, 48 )
@@ -500,7 +557,7 @@ extents = Vector2( 8, 8 )
 36/navigation_offset = Vector2( 16, 24 )
 36/shapes = [  ]
 37/name = "door1"
-37/texture = ExtResource( 32 )
+37/texture = ExtResource( 54 )
 37/tex_offset = Vector2( 0, 0 )
 37/modulate = Color( 1, 1, 1, 1 )
 37/region = Rect2( 0, 0, 32, 48 )
@@ -509,7 +566,7 @@ extents = Vector2( 8, 8 )
 37/navigation_offset = Vector2( 16, 24 )
 37/shapes = [  ]
 38/name = "bed"
-38/texture = ExtResource( 33 )
+38/texture = ExtResource( 55 )
 38/tex_offset = Vector2( 0, 0 )
 38/modulate = Color( 1, 1, 1, 1 )
 38/region = Rect2( 0, 0, 48, 64 )
@@ -523,7 +580,7 @@ extents = Vector2( 8, 8 )
 "shape_transform": Transform2D( 1, 0, 0, 1, 24, 32 )
 } ]
 39/name = "floor"
-39/texture = ExtResource( 34 )
+39/texture = ExtResource( 56 )
 39/tex_offset = Vector2( 0, 0 )
 39/modulate = Color( 1, 1, 1, 1 )
 39/region = Rect2( 0, 0, 48, 16 )
@@ -532,7 +589,7 @@ extents = Vector2( 8, 8 )
 39/navigation_offset = Vector2( 24, 8 )
 39/shapes = [  ]
 40/name = "wall0"
-40/texture = ExtResource( 20 )
+40/texture = ExtResource( 42 )
 40/tex_offset = Vector2( 0, 0 )
 40/modulate = Color( 1, 1, 1, 1 )
 40/region = Rect2( 0, 0, 16, 64 )
@@ -546,7 +603,7 @@ extents = Vector2( 8, 8 )
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 32 )
 } ]
 41/name = "wall1"
-41/texture = ExtResource( 20 )
+41/texture = ExtResource( 42 )
 41/tex_offset = Vector2( 0, 0 )
 41/modulate = Color( 1, 1, 1, 1 )
 41/region = Rect2( 0, 0, 16, 64 )
@@ -555,7 +612,7 @@ extents = Vector2( 8, 8 )
 41/navigation_offset = Vector2( 8, 32 )
 41/shapes = [  ]
 42/name = "chair0"
-42/texture = ExtResource( 36 )
+42/texture = ExtResource( 58 )
 42/tex_offset = Vector2( 0, 0 )
 42/modulate = Color( 1, 1, 1, 1 )
 42/region = Rect2( 0, 0, 16, 32 )
@@ -565,11 +622,11 @@ extents = Vector2( 8, 8 )
 42/shapes = [ {
 "autotile_coord": Vector2( 0, 0 ),
 "one_way": false,
-"shape": SubResource( 10 ),
+"shape": SubResource( 4 ),
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 24 )
 } ]
 43/name = "chair1"
-43/texture = ExtResource( 37 )
+43/texture = ExtResource( 59 )
 43/tex_offset = Vector2( 0, 0 )
 43/modulate = Color( 1, 1, 1, 1 )
 43/region = Rect2( 0, 0, 16, 32 )
@@ -579,11 +636,11 @@ extents = Vector2( 8, 8 )
 43/shapes = [ {
 "autotile_coord": Vector2( 0, 0 ),
 "one_way": false,
-"shape": SubResource( 10 ),
+"shape": SubResource( 4 ),
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 24 )
 } ]
 44/name = "chair2"
-44/texture = ExtResource( 38 )
+44/texture = ExtResource( 60 )
 44/tex_offset = Vector2( 0, 0 )
 44/modulate = Color( 1, 1, 1, 1 )
 44/region = Rect2( 0, 0, 16, 32 )
@@ -593,11 +650,11 @@ extents = Vector2( 8, 8 )
 44/shapes = [ {
 "autotile_coord": Vector2( 0, 0 ),
 "one_way": false,
-"shape": SubResource( 10 ),
+"shape": SubResource( 4 ),
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 24 )
 } ]
 45/name = "chair3"
-45/texture = ExtResource( 39 )
+45/texture = ExtResource( 61 )
 45/tex_offset = Vector2( 0, 0 )
 45/modulate = Color( 1, 1, 1, 1 )
 45/region = Rect2( 0, 0, 16, 32 )
@@ -607,11 +664,11 @@ extents = Vector2( 8, 8 )
 45/shapes = [ {
 "autotile_coord": Vector2( 0, 0 ),
 "one_way": false,
-"shape": SubResource( 10 ),
+"shape": SubResource( 4 ),
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 24 )
 } ]
 46/name = "chest0"
-46/texture = ExtResource( 40 )
+46/texture = ExtResource( 62 )
 46/tex_offset = Vector2( 0, 0 )
 46/modulate = Color( 1, 1, 1, 1 )
 46/region = Rect2( 0, 0, 32, 32 )
@@ -625,7 +682,7 @@ extents = Vector2( 8, 8 )
 "shape_transform": Transform2D( 1, 0, 0, 1, 16, 16 )
 } ]
 47/name = "chest1"
-47/texture = ExtResource( 41 )
+47/texture = ExtResource( 63 )
 47/tex_offset = Vector2( 0, 0 )
 47/modulate = Color( 1, 1, 1, 1 )
 47/region = Rect2( 0, 0, 32, 32 )
@@ -639,7 +696,7 @@ extents = Vector2( 8, 8 )
 "shape_transform": Transform2D( 1, 0, 0, 1, 16, 16 )
 } ]
 48/name = "chest2"
-48/texture = ExtResource( 42 )
+48/texture = ExtResource( 64 )
 48/tex_offset = Vector2( 0, 0 )
 48/modulate = Color( 1, 1, 1, 1 )
 48/region = Rect2( 0, 0, 32, 32 )
@@ -653,7 +710,7 @@ extents = Vector2( 8, 8 )
 "shape_transform": Transform2D( 1, 0, 0, 1, 16, 16 )
 } ]
 49/name = "curtains_blue0"
-49/texture = ExtResource( 43 )
+49/texture = ExtResource( 65 )
 49/tex_offset = Vector2( 0, 0 )
 49/modulate = Color( 1, 1, 1, 1 )
 49/region = Rect2( 0, 0, 16, 16 )
@@ -662,7 +719,7 @@ extents = Vector2( 8, 8 )
 49/navigation_offset = Vector2( 8, 8 )
 49/shapes = [  ]
 50/name = "curtains_blue1"
-50/texture = ExtResource( 45 )
+50/texture = ExtResource( 67 )
 50/tex_offset = Vector2( 0, 0 )
 50/modulate = Color( 1, 1, 1, 1 )
 50/region = Rect2( 0, 0, 16, 16 )
@@ -671,7 +728,7 @@ extents = Vector2( 8, 8 )
 50/navigation_offset = Vector2( 8, 8 )
 50/shapes = [  ]
 51/name = "curtains_blue2"
-51/texture = ExtResource( 46 )
+51/texture = ExtResource( 68 )
 51/tex_offset = Vector2( 0, 0 )
 51/modulate = Color( 1, 1, 1, 1 )
 51/region = Rect2( 0, 0, 16, 16 )
@@ -680,7 +737,7 @@ extents = Vector2( 8, 8 )
 51/navigation_offset = Vector2( 8, 8 )
 51/shapes = [  ]
 52/name = "curtains_blue3"
-52/texture = ExtResource( 47 )
+52/texture = ExtResource( 69 )
 52/tex_offset = Vector2( 0, 0 )
 52/modulate = Color( 1, 1, 1, 1 )
 52/region = Rect2( 0, 0, 16, 16 )
@@ -689,7 +746,7 @@ extents = Vector2( 8, 8 )
 52/navigation_offset = Vector2( 8, 8 )
 52/shapes = [  ]
 53/name = "curtains_blue4"
-53/texture = ExtResource( 48 )
+53/texture = ExtResource( 70 )
 53/tex_offset = Vector2( 0, 0 )
 53/modulate = Color( 1, 1, 1, 1 )
 53/region = Rect2( 0, 0, 16, 16 )
@@ -698,7 +755,7 @@ extents = Vector2( 8, 8 )
 53/navigation_offset = Vector2( 8, 8 )
 53/shapes = [  ]
 54/name = "curtains_blue5"
-54/texture = ExtResource( 49 )
+54/texture = ExtResource( 71 )
 54/tex_offset = Vector2( 0, 0 )
 54/modulate = Color( 1, 1, 1, 1 )
 54/region = Rect2( 0, 0, 16, 16 )
@@ -707,7 +764,7 @@ extents = Vector2( 8, 8 )
 54/navigation_offset = Vector2( 8, 8 )
 54/shapes = [  ]
 55/name = "curtains_blue6"
-55/texture = ExtResource( 50 )
+55/texture = ExtResource( 72 )
 55/tex_offset = Vector2( 0, 0 )
 55/modulate = Color( 1, 1, 1, 1 )
 55/region = Rect2( 0, 0, 16, 16 )
@@ -716,7 +773,7 @@ extents = Vector2( 8, 8 )
 55/navigation_offset = Vector2( 8, 8 )
 55/shapes = [  ]
 56/name = "floor_blackandwhite"
-56/texture = ExtResource( 51 )
+56/texture = ExtResource( 73 )
 56/tex_offset = Vector2( 0, 0 )
 56/modulate = Color( 1, 1, 1, 1 )
 56/region = Rect2( 0, 0, 16, 16 )
@@ -725,7 +782,7 @@ extents = Vector2( 8, 8 )
 56/navigation_offset = Vector2( 8, 8 )
 56/shapes = [  ]
 57/name = "floor_stone0"
-57/texture = ExtResource( 52 )
+57/texture = ExtResource( 74 )
 57/tex_offset = Vector2( 0, 0 )
 57/modulate = Color( 1, 1, 1, 1 )
 57/region = Rect2( 0, 0, 16, 16 )
@@ -734,7 +791,7 @@ extents = Vector2( 8, 8 )
 57/navigation_offset = Vector2( 8, 8 )
 57/shapes = [  ]
 58/name = "floor_stone1"
-58/texture = ExtResource( 53 )
+58/texture = ExtResource( 75 )
 58/tex_offset = Vector2( 0, 0 )
 58/modulate = Color( 1, 1, 1, 1 )
 58/region = Rect2( 0, 0, 16, 16 )
@@ -743,7 +800,7 @@ extents = Vector2( 8, 8 )
 58/navigation_offset = Vector2( 8, 8 )
 58/shapes = [  ]
 59/name = "pot0"
-59/texture = ExtResource( 54 )
+59/texture = ExtResource( 76 )
 59/tex_offset = Vector2( 0, 0 )
 59/modulate = Color( 1, 1, 1, 1 )
 59/region = Rect2( 0, 0, 16, 16 )
@@ -753,11 +810,11 @@ extents = Vector2( 8, 8 )
 59/shapes = [ {
 "autotile_coord": Vector2( 0, 0 ),
 "one_way": false,
-"shape": SubResource( 11 ),
+"shape": SubResource( 6 ),
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
 60/name = "pot1"
-60/texture = ExtResource( 56 )
+60/texture = ExtResource( 78 )
 60/tex_offset = Vector2( 0, 0 )
 60/modulate = Color( 1, 1, 1, 1 )
 60/region = Rect2( 0, 0, 16, 16 )
@@ -767,11 +824,11 @@ extents = Vector2( 8, 8 )
 60/shapes = [ {
 "autotile_coord": Vector2( 0, 0 ),
 "one_way": false,
-"shape": SubResource( 11 ),
+"shape": SubResource( 6 ),
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
 61/name = "pot2"
-61/texture = ExtResource( 57 )
+61/texture = ExtResource( 79 )
 61/tex_offset = Vector2( 0, 0 )
 61/modulate = Color( 1, 1, 1, 1 )
 61/region = Rect2( 0, 0, 16, 16 )
@@ -781,11 +838,11 @@ extents = Vector2( 8, 8 )
 61/shapes = [ {
 "autotile_coord": Vector2( 0, 0 ),
 "one_way": false,
-"shape": SubResource( 11 ),
+"shape": SubResource( 6 ),
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
 62/name = "table0"
-62/texture = ExtResource( 58 )
+62/texture = ExtResource( 80 )
 62/tex_offset = Vector2( 0, 0 )
 62/modulate = Color( 1, 1, 1, 1 )
 62/region = Rect2( 0, 0, 16, 16 )
@@ -795,11 +852,11 @@ extents = Vector2( 8, 8 )
 62/shapes = [ {
 "autotile_coord": Vector2( 0, 0 ),
 "one_way": false,
-"shape": SubResource( 9 ),
+"shape": SubResource( 7 ),
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
 63/name = "table1"
-63/texture = ExtResource( 59 )
+63/texture = ExtResource( 81 )
 63/tex_offset = Vector2( 0, 0 )
 63/modulate = Color( 1, 1, 1, 1 )
 63/region = Rect2( 0, 0, 16, 16 )
@@ -809,11 +866,11 @@ extents = Vector2( 8, 8 )
 63/shapes = [ {
 "autotile_coord": Vector2( 0, 0 ),
 "one_way": false,
-"shape": SubResource( 9 ),
+"shape": SubResource( 7 ),
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
 64/name = "table2"
-64/texture = ExtResource( 60 )
+64/texture = ExtResource( 82 )
 64/tex_offset = Vector2( 0, 0 )
 64/modulate = Color( 1, 1, 1, 1 )
 64/region = Rect2( 0, 0, 16, 16 )
@@ -823,11 +880,11 @@ extents = Vector2( 8, 8 )
 64/shapes = [ {
 "autotile_coord": Vector2( 0, 0 ),
 "one_way": false,
-"shape": SubResource( 9 ),
+"shape": SubResource( 7 ),
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
 65/name = "table3"
-65/texture = ExtResource( 61 )
+65/texture = ExtResource( 83 )
 65/tex_offset = Vector2( 0, 0 )
 65/modulate = Color( 1, 1, 1, 1 )
 65/region = Rect2( 0, 0, 16, 16 )
@@ -837,11 +894,11 @@ extents = Vector2( 8, 8 )
 65/shapes = [ {
 "autotile_coord": Vector2( 0, 0 ),
 "one_way": false,
-"shape": SubResource( 9 ),
+"shape": SubResource( 7 ),
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
 66/name = "table4"
-66/texture = ExtResource( 62 )
+66/texture = ExtResource( 84 )
 66/tex_offset = Vector2( 0, 0 )
 66/modulate = Color( 1, 1, 1, 1 )
 66/region = Rect2( 0, 0, 16, 16 )
@@ -851,11 +908,11 @@ extents = Vector2( 8, 8 )
 66/shapes = [ {
 "autotile_coord": Vector2( 0, 0 ),
 "one_way": false,
-"shape": SubResource( 9 ),
+"shape": SubResource( 7 ),
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
 67/name = "table5"
-67/texture = ExtResource( 63 )
+67/texture = ExtResource( 85 )
 67/tex_offset = Vector2( 0, 0 )
 67/modulate = Color( 1, 1, 1, 1 )
 67/region = Rect2( 0, 0, 16, 16 )
@@ -865,11 +922,11 @@ extents = Vector2( 8, 8 )
 67/shapes = [ {
 "autotile_coord": Vector2( 0, 0 ),
 "one_way": false,
-"shape": SubResource( 9 ),
+"shape": SubResource( 7 ),
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
 68/name = "table6"
-68/texture = ExtResource( 64 )
+68/texture = ExtResource( 86 )
 68/tex_offset = Vector2( 0, 0 )
 68/modulate = Color( 1, 1, 1, 1 )
 68/region = Rect2( 0, 0, 16, 16 )
@@ -879,11 +936,11 @@ extents = Vector2( 8, 8 )
 68/shapes = [ {
 "autotile_coord": Vector2( 0, 0 ),
 "one_way": false,
-"shape": SubResource( 9 ),
+"shape": SubResource( 7 ),
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
 69/name = "table7"
-69/texture = ExtResource( 65 )
+69/texture = ExtResource( 87 )
 69/tex_offset = Vector2( 0, 0 )
 69/modulate = Color( 1, 1, 1, 1 )
 69/region = Rect2( 0, 0, 16, 16 )
@@ -893,11 +950,11 @@ extents = Vector2( 8, 8 )
 69/shapes = [ {
 "autotile_coord": Vector2( 0, 0 ),
 "one_way": false,
-"shape": SubResource( 9 ),
+"shape": SubResource( 7 ),
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
 70/name = "table8"
-70/texture = ExtResource( 67 )
+70/texture = ExtResource( 89 )
 70/tex_offset = Vector2( 0, 0 )
 70/modulate = Color( 1, 1, 1, 1 )
 70/region = Rect2( 0, 0, 16, 16 )
@@ -907,11 +964,11 @@ extents = Vector2( 8, 8 )
 70/shapes = [ {
 "autotile_coord": Vector2( 0, 0 ),
 "one_way": false,
-"shape": SubResource( 9 ),
+"shape": SubResource( 7 ),
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
 71/name = "bounds9"
-71/texture = ExtResource( 68 )
+71/texture = ExtResource( 90 )
 71/tex_offset = Vector2( 0, 0 )
 71/modulate = Color( 1, 1, 1, 1 )
 71/region = Rect2( 0, 0, 16, 16 )
@@ -925,7 +982,7 @@ extents = Vector2( 8, 8 )
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
 72/name = "bounds10"
-72/texture = ExtResource( 69 )
+72/texture = ExtResource( 91 )
 72/tex_offset = Vector2( 0, 0 )
 72/modulate = Color( 1, 1, 1, 1 )
 72/region = Rect2( 0, 0, 16, 16 )
@@ -939,7 +996,7 @@ extents = Vector2( 8, 8 )
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
 73/name = "bounds11"
-73/texture = ExtResource( 70 )
+73/texture = ExtResource( 92 )
 73/tex_offset = Vector2( 0, 0 )
 73/modulate = Color( 1, 1, 1, 1 )
 73/region = Rect2( 0, 0, 16, 16 )
@@ -953,7 +1010,7 @@ extents = Vector2( 8, 8 )
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
 74/name = "bounds12"
-74/texture = ExtResource( 71 )
+74/texture = ExtResource( 93 )
 74/tex_offset = Vector2( 0, 0 )
 74/modulate = Color( 1, 1, 1, 1 )
 74/region = Rect2( 0, 0, 16, 16 )
@@ -966,4 +1023,516 @@ extents = Vector2( 8, 8 )
 "shape": SubResource( 1 ),
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
+75/name = "bounds13"
+75/texture = ExtResource( 94 )
+75/tex_offset = Vector2( 0, 0 )
+75/modulate = Color( 1, 1, 1, 1 )
+75/region = Rect2( 0, 0, 16, 16 )
+75/is_autotile = false
+75/occluder_offset = Vector2( 8, 8 )
+75/navigation_offset = Vector2( 8, 8 )
+75/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"shape": SubResource( 8 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
+} ]
+76/name = "bounds14"
+76/texture = ExtResource( 95 )
+76/tex_offset = Vector2( 0, 0 )
+76/modulate = Color( 1, 1, 1, 1 )
+76/region = Rect2( 0, 0, 16, 16 )
+76/is_autotile = false
+76/occluder_offset = Vector2( 8, 8 )
+76/navigation_offset = Vector2( 8, 8 )
+76/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"shape": SubResource( 8 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
+} ]
+77/name = "bounds15"
+77/texture = ExtResource( 96 )
+77/tex_offset = Vector2( 0, 0 )
+77/modulate = Color( 1, 1, 1, 1 )
+77/region = Rect2( 0, 0, 16, 16 )
+77/is_autotile = false
+77/occluder_offset = Vector2( 8, 8 )
+77/navigation_offset = Vector2( 8, 8 )
+77/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"shape": SubResource( 8 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
+} ]
+78/name = "bounds16"
+78/texture = ExtResource( 97 )
+78/tex_offset = Vector2( 0, 0 )
+78/modulate = Color( 1, 1, 1, 1 )
+78/region = Rect2( 0, 0, 16, 16 )
+78/is_autotile = false
+78/occluder_offset = Vector2( 8, 8 )
+78/navigation_offset = Vector2( 8, 8 )
+78/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"shape": SubResource( 8 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
+} ]
+79/name = "bounds17"
+79/texture = ExtResource( 98 )
+79/tex_offset = Vector2( 0, 0 )
+79/modulate = Color( 1, 1, 1, 1 )
+79/region = Rect2( 0, 0, 16, 16 )
+79/is_autotile = false
+79/occluder_offset = Vector2( 8, 8 )
+79/navigation_offset = Vector2( 8, 8 )
+79/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"shape": SubResource( 8 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
+} ]
+80/name = "bounds18"
+80/texture = ExtResource( 100 )
+80/tex_offset = Vector2( 0, 0 )
+80/modulate = Color( 1, 1, 1, 1 )
+80/region = Rect2( 0, 0, 16, 16 )
+80/is_autotile = false
+80/occluder_offset = Vector2( 8, 8 )
+80/navigation_offset = Vector2( 8, 8 )
+80/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"shape": SubResource( 8 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
+} ]
+81/name = "bounds19"
+81/texture = ExtResource( 101 )
+81/tex_offset = Vector2( 0, 0 )
+81/modulate = Color( 1, 1, 1, 1 )
+81/region = Rect2( 0, 0, 16, 16 )
+81/is_autotile = false
+81/occluder_offset = Vector2( 8, 8 )
+81/navigation_offset = Vector2( 8, 8 )
+81/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"shape": SubResource( 8 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
+} ]
+82/name = "bounds20"
+82/texture = ExtResource( 102 )
+82/tex_offset = Vector2( 0, 0 )
+82/modulate = Color( 1, 1, 1, 1 )
+82/region = Rect2( 0, 0, 16, 16 )
+82/is_autotile = false
+82/occluder_offset = Vector2( 8, 8 )
+82/navigation_offset = Vector2( 8, 8 )
+82/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"shape": SubResource( 8 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
+} ]
+83/name = "bounds21"
+83/texture = ExtResource( 103 )
+83/tex_offset = Vector2( 0, 0 )
+83/modulate = Color( 1, 1, 1, 1 )
+83/region = Rect2( 0, 0, 16, 16 )
+83/is_autotile = false
+83/occluder_offset = Vector2( 8, 8 )
+83/navigation_offset = Vector2( 8, 8 )
+83/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"shape": SubResource( 8 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
+} ]
+84/name = "bounds22"
+84/texture = ExtResource( 104 )
+84/tex_offset = Vector2( 0, 0 )
+84/modulate = Color( 1, 1, 1, 1 )
+84/region = Rect2( 0, 0, 16, 16 )
+84/is_autotile = false
+84/occluder_offset = Vector2( 8, 8 )
+84/navigation_offset = Vector2( 8, 8 )
+84/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"shape": SubResource( 8 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
+} ]
+85/name = "bounds23"
+85/texture = ExtResource( 105 )
+85/tex_offset = Vector2( 0, 0 )
+85/modulate = Color( 1, 1, 1, 1 )
+85/region = Rect2( 0, 0, 16, 16 )
+85/is_autotile = false
+85/occluder_offset = Vector2( 8, 8 )
+85/navigation_offset = Vector2( 8, 8 )
+85/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"shape": SubResource( 8 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
+} ]
+86/name = "bounds24"
+86/texture = ExtResource( 106 )
+86/tex_offset = Vector2( 0, 0 )
+86/modulate = Color( 1, 1, 1, 1 )
+86/region = Rect2( 0, 0, 16, 16 )
+86/is_autotile = false
+86/occluder_offset = Vector2( 8, 8 )
+86/navigation_offset = Vector2( 8, 8 )
+86/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"shape": SubResource( 8 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
+} ]
+87/name = "bounds25"
+87/texture = ExtResource( 107 )
+87/tex_offset = Vector2( 0, 0 )
+87/modulate = Color( 1, 1, 1, 1 )
+87/region = Rect2( 0, 0, 16, 16 )
+87/is_autotile = false
+87/occluder_offset = Vector2( 8, 8 )
+87/navigation_offset = Vector2( 8, 8 )
+87/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"shape": SubResource( 8 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
+} ]
+88/name = "sewer_floor0"
+88/texture = ExtResource( 108 )
+88/tex_offset = Vector2( 0, 0 )
+88/modulate = Color( 1, 1, 1, 1 )
+88/region = Rect2( 0, 0, 16, 16 )
+88/is_autotile = false
+88/occluder_offset = Vector2( 8, 8 )
+88/navigation_offset = Vector2( 8, 8 )
+88/shapes = [  ]
+89/name = "sewer_floor1"
+89/texture = ExtResource( 109 )
+89/tex_offset = Vector2( 0, 0 )
+89/modulate = Color( 1, 1, 1, 1 )
+89/region = Rect2( 0, 0, 16, 16 )
+89/is_autotile = false
+89/occluder_offset = Vector2( 8, 8 )
+89/navigation_offset = Vector2( 8, 8 )
+89/shapes = [  ]
+90/name = "sewer_floor2"
+90/texture = ExtResource( 111 )
+90/tex_offset = Vector2( 0, 0 )
+90/modulate = Color( 1, 1, 1, 1 )
+90/region = Rect2( 0, 0, 16, 16 )
+90/is_autotile = false
+90/occluder_offset = Vector2( 8, 8 )
+90/navigation_offset = Vector2( 8, 8 )
+90/shapes = [  ]
+91/name = "sewer_floor3"
+91/texture = ExtResource( 112 )
+91/tex_offset = Vector2( 0, 0 )
+91/modulate = Color( 1, 1, 1, 1 )
+91/region = Rect2( 0, 0, 16, 16 )
+91/is_autotile = false
+91/occluder_offset = Vector2( 8, 8 )
+91/navigation_offset = Vector2( 8, 8 )
+91/shapes = [  ]
+92/name = "sewer_floor4"
+92/texture = ExtResource( 113 )
+92/tex_offset = Vector2( 0, 0 )
+92/modulate = Color( 1, 1, 1, 1 )
+92/region = Rect2( 0, 0, 16, 16 )
+92/is_autotile = false
+92/occluder_offset = Vector2( 8, 8 )
+92/navigation_offset = Vector2( 8, 8 )
+92/shapes = [  ]
+93/name = "sewer_floor5"
+93/texture = ExtResource( 114 )
+93/tex_offset = Vector2( 0, 0 )
+93/modulate = Color( 1, 1, 1, 1 )
+93/region = Rect2( 0, 0, 16, 16 )
+93/is_autotile = false
+93/occluder_offset = Vector2( 8, 8 )
+93/navigation_offset = Vector2( 8, 8 )
+93/shapes = [  ]
+94/name = "sewer_floor6"
+94/texture = ExtResource( 115 )
+94/tex_offset = Vector2( 0, 0 )
+94/modulate = Color( 1, 1, 1, 1 )
+94/region = Rect2( 0, 0, 16, 16 )
+94/is_autotile = false
+94/occluder_offset = Vector2( 8, 8 )
+94/navigation_offset = Vector2( 8, 8 )
+94/shapes = [  ]
+95/name = "sewer_floor7"
+95/texture = ExtResource( 116 )
+95/tex_offset = Vector2( 0, 0 )
+95/modulate = Color( 1, 1, 1, 1 )
+95/region = Rect2( 0, 0, 16, 16 )
+95/is_autotile = false
+95/occluder_offset = Vector2( 8, 8 )
+95/navigation_offset = Vector2( 8, 8 )
+95/shapes = [  ]
+96/name = "sewer_floor8"
+96/texture = ExtResource( 117 )
+96/tex_offset = Vector2( 0, 0 )
+96/modulate = Color( 1, 1, 1, 1 )
+96/region = Rect2( 0, 0, 16, 16 )
+96/is_autotile = false
+96/occluder_offset = Vector2( 8, 8 )
+96/navigation_offset = Vector2( 8, 8 )
+96/shapes = [  ]
+97/name = "sewer_floor9"
+97/texture = ExtResource( 118 )
+97/tex_offset = Vector2( 0, 0 )
+97/modulate = Color( 1, 1, 1, 1 )
+97/region = Rect2( 0, 0, 16, 16 )
+97/is_autotile = false
+97/occluder_offset = Vector2( 8, 8 )
+97/navigation_offset = Vector2( 8, 8 )
+97/shapes = [  ]
+98/name = "sewer_floor10"
+98/texture = ExtResource( 119 )
+98/tex_offset = Vector2( 0, 0 )
+98/modulate = Color( 1, 1, 1, 1 )
+98/region = Rect2( 0, 0, 16, 16 )
+98/is_autotile = false
+98/occluder_offset = Vector2( 8, 8 )
+98/navigation_offset = Vector2( 8, 8 )
+98/shapes = [  ]
+99/name = "sewer_floor11"
+99/texture = ExtResource( 120 )
+99/tex_offset = Vector2( 0, 0 )
+99/modulate = Color( 1, 1, 1, 1 )
+99/region = Rect2( 0, 0, 16, 16 )
+99/is_autotile = false
+99/occluder_offset = Vector2( 8, 8 )
+99/navigation_offset = Vector2( 8, 8 )
+99/shapes = [  ]
+100/name = "sewer_floor12"
+100/texture = ExtResource( 4 )
+100/tex_offset = Vector2( 0, 0 )
+100/modulate = Color( 1, 1, 1, 1 )
+100/region = Rect2( 0, 0, 16, 16 )
+100/is_autotile = false
+100/occluder_offset = Vector2( 8, 8 )
+100/navigation_offset = Vector2( 8, 8 )
+100/shapes = [  ]
+101/name = "sewer_floor13"
+101/texture = ExtResource( 5 )
+101/tex_offset = Vector2( 0, 0 )
+101/modulate = Color( 1, 1, 1, 1 )
+101/region = Rect2( 0, 0, 16, 16 )
+101/is_autotile = false
+101/occluder_offset = Vector2( 8, 8 )
+101/navigation_offset = Vector2( 8, 8 )
+101/shapes = [  ]
+102/name = "sewer_floor14"
+102/texture = ExtResource( 6 )
+102/tex_offset = Vector2( 0, 0 )
+102/modulate = Color( 1, 1, 1, 1 )
+102/region = Rect2( 0, 0, 16, 16 )
+102/is_autotile = false
+102/occluder_offset = Vector2( 8, 8 )
+102/navigation_offset = Vector2( 8, 8 )
+102/shapes = [  ]
+103/name = "sewer_floor15"
+103/texture = ExtResource( 7 )
+103/tex_offset = Vector2( 0, 0 )
+103/modulate = Color( 1, 1, 1, 1 )
+103/region = Rect2( 0, 0, 16, 16 )
+103/is_autotile = false
+103/occluder_offset = Vector2( 8, 8 )
+103/navigation_offset = Vector2( 8, 8 )
+103/shapes = [  ]
+104/name = "sewer_floor16"
+104/texture = ExtResource( 8 )
+104/tex_offset = Vector2( 0, 0 )
+104/modulate = Color( 1, 1, 1, 1 )
+104/region = Rect2( 0, 0, 16, 16 )
+104/is_autotile = false
+104/occluder_offset = Vector2( 8, 8 )
+104/navigation_offset = Vector2( 8, 8 )
+104/shapes = [  ]
+105/name = "sewer_floor17"
+105/texture = ExtResource( 9 )
+105/tex_offset = Vector2( 0, 0 )
+105/modulate = Color( 1, 1, 1, 1 )
+105/region = Rect2( 0, 0, 16, 16 )
+105/is_autotile = false
+105/occluder_offset = Vector2( 8, 8 )
+105/navigation_offset = Vector2( 8, 8 )
+105/shapes = [  ]
+106/name = "sewer_floor18"
+106/texture = ExtResource( 10 )
+106/tex_offset = Vector2( 0, 0 )
+106/modulate = Color( 1, 1, 1, 1 )
+106/region = Rect2( 0, 0, 16, 16 )
+106/is_autotile = false
+106/occluder_offset = Vector2( 8, 8 )
+106/navigation_offset = Vector2( 8, 8 )
+106/shapes = [  ]
+107/name = "sewer_floor19"
+107/texture = ExtResource( 11 )
+107/tex_offset = Vector2( 0, 0 )
+107/modulate = Color( 1, 1, 1, 1 )
+107/region = Rect2( 0, 0, 16, 16 )
+107/is_autotile = false
+107/occluder_offset = Vector2( 8, 8 )
+107/navigation_offset = Vector2( 8, 8 )
+107/shapes = [  ]
+108/name = "sewer_floor20"
+108/texture = ExtResource( 12 )
+108/tex_offset = Vector2( 0, 0 )
+108/modulate = Color( 1, 1, 1, 1 )
+108/region = Rect2( 0, 0, 16, 16 )
+108/is_autotile = false
+108/occluder_offset = Vector2( 8, 8 )
+108/navigation_offset = Vector2( 8, 8 )
+108/shapes = [  ]
+109/name = "sewer_floor21"
+109/texture = ExtResource( 13 )
+109/tex_offset = Vector2( 0, 0 )
+109/modulate = Color( 1, 1, 1, 1 )
+109/region = Rect2( 0, 0, 16, 16 )
+109/is_autotile = false
+109/occluder_offset = Vector2( 8, 8 )
+109/navigation_offset = Vector2( 8, 8 )
+109/shapes = [  ]
+110/name = "sewer_wall0"
+110/texture = ExtResource( 15 )
+110/tex_offset = Vector2( 0, 0 )
+110/modulate = Color( 1, 1, 1, 1 )
+110/region = Rect2( 0, 0, 16, 16 )
+110/is_autotile = false
+110/occluder_offset = Vector2( 8, 8 )
+110/navigation_offset = Vector2( 8, 8 )
+110/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"shape": SubResource( 8 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
+} ]
+111/name = "sewer_wall1"
+111/texture = ExtResource( 16 )
+111/tex_offset = Vector2( 0, 0 )
+111/modulate = Color( 1, 1, 1, 1 )
+111/region = Rect2( 0, 0, 16, 16 )
+111/is_autotile = false
+111/occluder_offset = Vector2( 8, 8 )
+111/navigation_offset = Vector2( 8, 8 )
+111/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"shape": SubResource( 8 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
+} ]
+112/name = "sewer_wall2"
+112/texture = ExtResource( 17 )
+112/tex_offset = Vector2( 0, 0 )
+112/modulate = Color( 1, 1, 1, 1 )
+112/region = Rect2( 0, 0, 16, 16 )
+112/is_autotile = false
+112/occluder_offset = Vector2( 8, 8 )
+112/navigation_offset = Vector2( 8, 8 )
+112/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"shape": SubResource( 9 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
+} ]
+113/name = "stairs_stone0"
+113/texture = ExtResource( 18 )
+113/tex_offset = Vector2( 0, 0 )
+113/modulate = Color( 1, 1, 1, 1 )
+113/region = Rect2( 0, 0, 16, 16 )
+113/is_autotile = false
+113/occluder_offset = Vector2( 8, 8 )
+113/navigation_offset = Vector2( 8, 8 )
+113/shapes = [  ]
+114/name = "stairs_stone1"
+114/texture = ExtResource( 19 )
+114/tex_offset = Vector2( 0, 0 )
+114/modulate = Color( 1, 1, 1, 1 )
+114/region = Rect2( 0, 0, 16, 16 )
+114/is_autotile = false
+114/occluder_offset = Vector2( 8, 8 )
+114/navigation_offset = Vector2( 8, 8 )
+114/shapes = [  ]
+115/name = "stairs_stone2"
+115/texture = ExtResource( 20 )
+115/tex_offset = Vector2( 0, 0 )
+115/modulate = Color( 1, 1, 1, 1 )
+115/region = Rect2( 0, 0, 16, 16 )
+115/is_autotile = false
+115/occluder_offset = Vector2( 8, 8 )
+115/navigation_offset = Vector2( 8, 8 )
+115/shapes = [  ]
+116/name = "stairs_stone3"
+116/texture = ExtResource( 21 )
+116/tex_offset = Vector2( 0, 0 )
+116/modulate = Color( 1, 1, 1, 1 )
+116/region = Rect2( 0, 0, 16, 16 )
+116/is_autotile = false
+116/occluder_offset = Vector2( 8, 8 )
+116/navigation_offset = Vector2( 8, 8 )
+116/shapes = [  ]
+117/name = "stairs_stone4"
+117/texture = ExtResource( 22 )
+117/tex_offset = Vector2( 0, 0 )
+117/modulate = Color( 1, 1, 1, 1 )
+117/region = Rect2( 0, 0, 16, 16 )
+117/is_autotile = false
+117/occluder_offset = Vector2( 8, 8 )
+117/navigation_offset = Vector2( 8, 8 )
+117/shapes = [  ]
+118/name = "torch0"
+118/texture = ExtResource( 23 )
+118/tex_offset = Vector2( 0, 0 )
+118/modulate = Color( 1, 1, 1, 1 )
+118/region = Rect2( 0, 0, 16, 16 )
+118/is_autotile = false
+118/occluder_offset = Vector2( 8, 8 )
+118/navigation_offset = Vector2( 8, 8 )
+118/shapes = [  ]
+119/name = "sewer_door1"
+119/texture = ExtResource( 24 )
+119/tex_offset = Vector2( 0, 0 )
+119/modulate = Color( 1, 1, 1, 1 )
+119/region = Rect2( 0, 0, 16, 16 )
+119/is_autotile = false
+119/occluder_offset = Vector2( 8, 8 )
+119/navigation_offset = Vector2( 8, 8 )
+119/shapes = [  ]
+120/name = "sewer_door0"
+120/texture = ExtResource( 26 )
+120/tex_offset = Vector2( 0, 0 )
+120/modulate = Color( 1, 1, 1, 1 )
+120/region = Rect2( 0, 0, 16, 16 )
+120/is_autotile = false
+120/occluder_offset = Vector2( 8, 8 )
+120/navigation_offset = Vector2( 8, 8 )
+120/shapes = [  ]
+121/name = "sewer_door2"
+121/texture = ExtResource( 24 )
+121/tex_offset = Vector2( 0, 0 )
+121/modulate = Color( 1, 1, 1, 1 )
+121/region = Rect2( 0, 0, 16, 16 )
+121/is_autotile = false
+121/occluder_offset = Vector2( 8, 8 )
+121/navigation_offset = Vector2( 8, 8 )
+121/shapes = [  ]
+122/name = "sewer_door3"
+122/texture = ExtResource( 27 )
+122/tex_offset = Vector2( 0, 0 )
+122/modulate = Color( 1, 1, 1, 1 )
+122/region = Rect2( 0, 0, 16, 16 )
+122/is_autotile = false
+122/occluder_offset = Vector2( 8, 8 )
+122/navigation_offset = Vector2( 8, 8 )
+122/shapes = [  ]
 

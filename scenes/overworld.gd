@@ -30,3 +30,11 @@ func move_camera():
 func _on_cabin0_door_area_entered( area ):
 	game_manager.load_new_scene("cabin0")
 	game_manager.set_player_location("door", Vector2(0, 50))
+
+func _on_well0_door_area_entered( area ):
+	game_manager.load_new_scene("sewer")
+	game_manager.set_player_location("door0", Vector2(0, 50))
+
+func _on_well1_door_area_entered( area ):
+	game_manager.load_new_scene("sewer")
+	game_manager.set_player_location("door1", Vector2(0, 50))
