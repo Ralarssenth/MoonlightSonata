@@ -44,42 +44,36 @@ func load_new_scene(scene_name):
 # loads a scene into the tree on top of the current scene and gives the scene on top control
 func load_scene_on_top(scene_name):
 	if scenes_on_top.empty():
-		stop_all_processing(current_primary_scene)
+		current_primary_scene.set_pause_mode(Node.PAUSE_MODE_STOP)
 	else:
-		stop_all_processing(scenes_on_top[0])
+		scenes_on_top[0].set_pause_mode(Node.PAUSE_MODE_STOP)
 	scenes_on_top.push_front(scenes[scene_name].instance())
 	canvas.add_child(scenes_on_top[0])
+	get_tree().paused = true;
 	
-# closes the currently loaded scene on top and gives control back to the current scene
+# closes the currently loaded scene on top and gives control back to the current scene (or top-most scene on top)
 func close_scene_on_top():
 	scenes_on_top[0].queue_free()
 	scenes_on_top.remove(0)
 	if scenes_on_top.empty():
-		start_all_processing(current_primary_scene)
+		current_primary_scene.set_pause_mode(Node.PAUSE_MODE_INHERIT)
+		get_tree().paused = false;
 	else:
-		start_all_processing(scenes_on_top[0])
+		scenes_on_top[0].set_pause_mode(Node.PAUSE_MODE_INHERIT)
+		
+# closes all scenes on top. useful for loading a new scene when several scenes on top are open
+func close_all_scenes_on_top():
+	var size = scenes_on_top.size() - 1
+	while size >= 0:
+		scenes_on_top[size].queue_free()
+		scenes_on_top.remove(size)
+		size -= 1
+		
+	get_tree().paused = false;
 		
 func _input(event):
 	if event.is_action_pressed("ui_focus_next"):
 		load_scene_on_top("menu")
-		
-func stop_all_processing(scene):
-	scene.set_process(false)
-	scene.set_physics_process(false)
-	scene.set_process_input(false)
-	for child in scene.get_children():
-		child.set_process(false)
-		child.set_physics_process(false)
-		child.set_process_input(false)
-	
-func start_all_processing(scene):
-	scene.set_process(true)
-	scene.set_physics_process(true)
-	scene.set_process_input(true)
-	for child in scene.get_children():
-		child.set_process(true)
-		child.set_physics_process(true)
-		child.set_process_input(true)
 
 func set_player_location(node_name, offset):
 	var pos = current_primary_scene.get_node(node_name).get_position() + offset

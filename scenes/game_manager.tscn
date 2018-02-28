@@ -2,10 +2,11 @@
 
 [ext_resource path="res://scenes/game_manager.gd" type="Script" id=1]
 
-[node name="game_manager" type="Node" index="0"]
+[node name="game_manager" type="Node"]
 
+pause_mode = 2
 script = ExtResource( 1 )
-_sections_unfolded = [ "Transform" ]
+_sections_unfolded = [ "Pause", "Transform" ]
 
 [node name="canvas" type="CanvasLayer" parent="." index="0"]
 
