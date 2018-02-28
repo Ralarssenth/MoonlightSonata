@@ -126,11 +126,6 @@
 custom_solver_bias = 0.0
 extents = Vector2( 8, 8 )
 
-[sub_resource type="RectangleShape2D" id=8]
-
-custom_solver_bias = 0.0
-extents = Vector2( 10, 10 )
-
 [sub_resource type="RectangleShape2D" id=9]
 
 custom_solver_bias = 0.0
@@ -170,6 +165,11 @@ extents = Vector2( 8, 8 )
 
 custom_solver_bias = 0.0
 extents = Vector2( 8, 8 )
+
+[sub_resource type="RectangleShape2D" id=8]
+
+custom_solver_bias = 0.0
+extents = Vector2( 10, 10 )
 
 [resource]
 
@@ -1414,7 +1414,7 @@ extents = Vector2( 8, 8 )
 110/shapes = [ {
 "autotile_coord": Vector2( 0, 0 ),
 "one_way": false,
-"shape": SubResource( 8 ),
+"shape": SubResource( 9 ),
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
 111/name = "sewer_wall1"
@@ -1428,7 +1428,7 @@ extents = Vector2( 8, 8 )
 111/shapes = [ {
 "autotile_coord": Vector2( 0, 0 ),
 "one_way": false,
-"shape": SubResource( 8 ),
+"shape": SubResource( 9 ),
 "shape_transform": Transform2D( 1, 0, 0, 1, 8, 8 )
 } ]
 112/name = "sewer_wall2"

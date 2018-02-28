@@ -2,7 +2,7 @@ extends KinematicBody2D
 
 var health_sprite = preload("res://scenes/health.tscn")
 
-var speed = 3
+var speed = 300
 var max_health = 5
 var current_health
 var vel = Vector2()
@@ -27,9 +27,9 @@ func _on_spawn_timer_timeout():
 
 func _physics_process(delta):
 	update_healthbar()
+	do_move_animations()
 	if can_move == true:
 		do_move(delta)
-		do_move_animations()
 	t += delta
 	if t >= 3:
 		# take_damage(1)
@@ -40,7 +40,7 @@ func do_move(delta):
 	input.x = int(Input.is_action_pressed("ui_right")) - int(Input.is_action_pressed("ui_left"))
 	input.y = int(Input.is_action_pressed("ui_down")) - int(Input.is_action_pressed("ui_up"))
 	vel = input.normalized() * speed
-	move_and_collide(vel)
+	move_and_slide(vel)
 
 func do_move_animations():
 	if vel == Vector2(0, 0):
