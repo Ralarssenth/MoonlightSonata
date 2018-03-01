@@ -20,8 +20,15 @@ var scenes = { "title": title_scene,
 				"scene_selector": scene_selector_scene}
 
 #player stats
-const starting_health = 5
-var current_health = starting_health
+var player_data = { "max_health": 0,
+					"current_health": 0,
+					"max_stamina": 0,
+					"current_stamina": 0,
+					"speed": 0,
+					"sprint_speed": 0,
+					"sprint_stamina_cost": 0,
+					"stamina_recovery_rate": 0,
+					"out_of_stamina": false }					
 
 # the current scene that the Player(person) is on
 var current_primary_scene
@@ -79,11 +86,30 @@ func set_player_location(node_name, offset):
 	var pos = current_primary_scene.get_node(node_name).get_position() + offset
 	current_primary_scene.player.set_position(pos)
 
-func set_player_details(health):
-	current_health = health
-	if current_health <= 0:
+func set_player_details(player):
+	if player.current_health <= 0:
 		load_new_scene("title")
+	player_data.max_health = player.max_health
+	player_data.current_health = player.current_health
+	player_data.max_stamina = player.max_stamina
+	player_data.current_stamina = player.current_stamina
+	player_data.speed = player.speed
+	player_data.sprint_speed = player.sprint_speed
+	player_data.sprint_stamina_cost = player.sprint_stamina_cost
+	player_data.stamina_recovery_rate = player.stamina_recovery_rate
+	player_data.out_of_stamina = player.out_of_stamina
 
-func get_player_details():
+func initialize_player():
 	var player = current_primary_scene.get_node("player")
-	player.current_health = current_health
+	if player_data.max_health == 0:
+		player.load_defaults()
+	else:
+		player.max_health = player_data.max_health
+		player.current_health = player_data.current_health
+		player.max_stamina = player_data.max_stamina
+		player.current_stamina = player_data.current_stamina
+		player.speed = player_data.speed
+		player.sprint_speed = player_data.sprint_speed
+		player.sprint_stamina_cost = player_data.sprint_stamina_cost
+		player.stamina_recovery_rate = player_data.stamina_recovery_rate
+		player.out_of_stamina = player_data.out_of_stamina
