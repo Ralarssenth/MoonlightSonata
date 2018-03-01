@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/expired_portal.png-7d56644f8126514c034ec22ea47879c4.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/gateways/expired_portal.png"
+source_md5="d49a42e6357e745919a4117efe6467c8"
+
+dest_files=[ "res://.import/expired_portal.png-7d56644f8126514c034ec22ea47879c4.stex" ]
+dest_md5="71b677cb1e24bafc365c74e5fd9d24eb"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

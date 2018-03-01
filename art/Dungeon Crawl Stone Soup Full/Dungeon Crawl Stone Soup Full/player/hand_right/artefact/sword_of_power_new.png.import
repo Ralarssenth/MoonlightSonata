@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/sword_of_power_new.png-62e3e151cfa37e81d32a9215fcaf86a3.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/artefact/sword_of_power_new.png"
+source_md5="70fe96023c0113cffcfacfd82c9414cc"
+
+dest_files=[ "res://.import/sword_of_power_new.png-62e3e151cfa37e81d32a9215fcaf86a3.stex" ]
+dest_md5="49519c08dd172686686dfbd9c86f3e39"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

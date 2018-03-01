@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/dithmenos_shadow_step.png-96ced964e5f8b9167e129544f2c5eaf3.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/invocations/dithmenos_shadow_step.png"
+source_md5="b5cc67f31db71f7713f577c3f68448a3"
+
+dest_files=[ "res://.import/dithmenos_shadow_step.png-96ced964e5f8b9167e129544f2c5eaf3.stex" ]
+dest_md5="552d3790e9ec337ec8e225ec0e5a052a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

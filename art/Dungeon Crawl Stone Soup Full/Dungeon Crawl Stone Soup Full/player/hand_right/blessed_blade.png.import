@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/blessed_blade.png-e4a4b26c2f64ca223b81b0ef3a88491d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/blessed_blade.png"
+source_md5="5d4f684123e24f4479b13452e29be5e8"
+
+dest_files=[ "res://.import/blessed_blade.png-e4a4b26c2f64ca223b81b0ef3a88491d.stex" ]
+dest_md5="a2817641fc56fcea1549bc656fb73bc4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

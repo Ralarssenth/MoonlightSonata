@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shield_draconic_knight.png-855b37ff083c584c18464452117fb3f0.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_left/shield_draconic_knight.png"
+source_md5="6ad0557550809cbc7b9ca68fb02fd2e7"
+
+dest_files=[ "res://.import/shield_draconic_knight.png-855b37ff083c584c18464452117fb3f0.stex" ]
+dest_md5="556b756c3612cf074a0962c5623bd7aa"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

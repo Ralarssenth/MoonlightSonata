@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/titan_new.png-a7ad7d4321779f73e6ee89c61af15f68.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/titan_new.png"
+source_md5="42e192e5ca424b8e16df8fcdda621790"
+
+dest_files=[ "res://.import/titan_new.png-a7ad7d4321779f73e6ee89c61af15f68.stex" ]
+dest_md5="723e8127e524fdfde772afc7684fa955"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

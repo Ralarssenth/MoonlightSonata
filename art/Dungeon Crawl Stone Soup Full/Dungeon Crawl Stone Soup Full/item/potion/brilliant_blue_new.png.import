@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/brilliant_blue_new.png-e047cc72b868c9b98eb87b4f162b04d6.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/potion/brilliant_blue_new.png"
+source_md5="d2c212f8e9c5f275a5636f64e9be48e1"
+
+dest_files=[ "res://.import/brilliant_blue_new.png-e047cc72b868c9b98eb87b4f162b04d6.stex" ]
+dest_md5="873a00b793cf587352dcf93d6500ebdf"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

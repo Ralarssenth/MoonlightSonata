@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/qazlal_upheaval.png-439f52d8f39aa64c7f5ec187a7fda74c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/invocations/qazlal_upheaval.png"
+source_md5="5ca340b7d2a8ef713ef2b3c65e96d14e"
+
+dest_files=[ "res://.import/qazlal_upheaval.png-439f52d8f39aa64c7f5ec187a7fda74c.stex" ]
+dest_md5="b232c424ec12cece4af1f7a9f9367321"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

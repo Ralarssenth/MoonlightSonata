@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/lernaean_hydra.png-da59a6f26df529fb8b56d7d6cfcbf3ad.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/lernaean_hydra.png"
+source_md5="4401f5e435410f0545a4c77b1ab5a780"
+
+dest_files=[ "res://.import/lernaean_hydra.png-da59a6f26df529fb8b56d7d6cfcbf3ad.stex" ]
+dest_md5="d6a40bff3c2d65b842353f9040ce9022"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

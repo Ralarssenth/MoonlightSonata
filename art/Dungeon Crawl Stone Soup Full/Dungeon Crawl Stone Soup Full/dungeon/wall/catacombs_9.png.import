@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/catacombs_9.png-5bc597d71c9d59d821e7e5f87bf22720.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/catacombs_9.png"
+source_md5="dbd69472da04ab2d5cf459aa8a9318e7"
+
+dest_files=[ "res://.import/catacombs_9.png-5bc597d71c9d59d821e7e5f87bf22720.stex" ]
+dest_md5="16eca9d0236ec61649c12ff9909b8ff2"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

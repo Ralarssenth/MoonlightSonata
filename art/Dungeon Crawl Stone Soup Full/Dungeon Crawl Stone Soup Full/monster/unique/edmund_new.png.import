@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/edmund_new.png-31f173ed45ce79511661638b28dbb001.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/edmund_new.png"
+source_md5="d702559c0ea92d37f1d07a9978ec671c"
+
+dest_files=[ "res://.import/edmund_new.png-31f173ed45ce79511661638b28dbb001.stex" ]
+dest_md5="f21091d6c208142349a18c511d0ad9a4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

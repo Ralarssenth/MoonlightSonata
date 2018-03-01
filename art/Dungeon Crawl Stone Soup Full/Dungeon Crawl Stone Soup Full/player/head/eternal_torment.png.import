@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/eternal_torment.png-eade325f3af0ab59f2018d1ceea584ed.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/head/eternal_torment.png"
+source_md5="e14ccea1de0d5bfd10d2f2a408123bf6"
+
+dest_files=[ "res://.import/eternal_torment.png-eade325f3af0ab59f2018d1ceea584ed.stex" ]
+dest_md5="47ffce315fd5013842b52bb705a8f740"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

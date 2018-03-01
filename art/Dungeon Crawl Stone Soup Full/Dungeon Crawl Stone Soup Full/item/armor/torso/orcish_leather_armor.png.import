@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/orcish_leather_armor.png-490bdf83843953d9b53572812c348fb9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/torso/orcish_leather_armor.png"
+source_md5="cd9895a49f37b57bc45faddb7ab8b5d1"
+
+dest_files=[ "res://.import/orcish_leather_armor.png-490bdf83843953d9b53572812c348fb9.stex" ]
+dest_md5="660ad3c95b14b8d87b3c1077e3581abe"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

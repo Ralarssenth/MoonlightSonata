@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/abyss_lightred_2.png-f256c95a3d2b997b5803e568aeffe763.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/abyss/abyss_lightred_2.png"
+source_md5="041f3806fe4fa02d54ef7114d90ad926"
+
+dest_files=[ "res://.import/abyss_lightred_2.png-f256c95a3d2b997b5803e568aeffe763.stex" ]
+dest_md5="19e4afea8c14ad9e8fbc751c5f368f74"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

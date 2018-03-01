@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/glove_grayfist.png-b71909bd4992e6b18e2b953a6befd474.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/gloves/glove_grayfist.png"
+source_md5="ef760645ee524a0c10573725ef96749e"
+
+dest_files=[ "res://.import/glove_grayfist.png-b71909bd4992e6b18e2b953a6befd474.stex" ]
+dest_md5="c278c08795102e4af77de32ca61666ab"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

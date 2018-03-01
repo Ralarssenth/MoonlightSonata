@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/giant_lizard.png-41b6ebe959076e2fd47729ef1d8f8e9c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/giant_lizard.png"
+source_md5="4033096cab6cff63504a01951443978f"
+
+dest_files=[ "res://.import/giant_lizard.png-41b6ebe959076e2fd47729ef1d8f8e9c.stex" ]
+dest_md5="f5abbcb3b69345d3b7aea7d55fb496d0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

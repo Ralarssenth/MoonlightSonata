@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spwpn_singing_sword.png-1127c203ed2d9c64e4355e7088169540.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/artefact/spwpn_singing_sword.png"
+source_md5="d38e668c27b8b3f0f3f7db95d2b2bb6f"
+
+dest_files=[ "res://.import/spwpn_singing_sword.png-1127c203ed2d9c64e4355e7088169540.stex" ]
+dest_md5="9a863cb1d0069a16c77c3d3f509eb102"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

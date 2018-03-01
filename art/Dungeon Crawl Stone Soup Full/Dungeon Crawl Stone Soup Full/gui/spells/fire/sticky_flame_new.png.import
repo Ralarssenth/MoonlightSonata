@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/sticky_flame_new.png-6dc0ab2683ead474239e9354bdc5618c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/fire/sticky_flame_new.png"
+source_md5="39502687aa4e6b1b8f83ef00d48863a4"
+
+dest_files=[ "res://.import/sticky_flame_new.png-6dc0ab2683ead474239e9354bdc5618c.stex" ]
+dest_md5="fbb6deaba39607a1eb9dfa6c9f34e20a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

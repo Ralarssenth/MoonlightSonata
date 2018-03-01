@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/urand_dyrovepreva_old.png-850ae5a8c65d85b903830b34c7351ffc.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/artefact/urand_dyrovepreva_old.png"
+source_md5="5f24982593e612d11a5b667a6de82982"
+
+dest_files=[ "res://.import/urand_dyrovepreva_old.png-850ae5a8c65d85b903830b34c7351ffc.stex" ]
+dest_md5="19fac4eeab6cbd7db348f9108c689b5e"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

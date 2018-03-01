@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/urand_plutonium_new.png-c17e882b9debe0406f017c2f38db6dcb.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/artefact/urand_plutonium_new.png"
+source_md5="f36c56fb3fe72eae125a7f20483f980b"
+
+dest_files=[ "res://.import/urand_plutonium_new.png-c17e882b9debe0406f017c2f38db6dcb.stex" ]
+dest_md5="535b32f101cab4de4af452d8d786cfd4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

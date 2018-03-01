@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shroud_of_golubria.png-bf2a71f4ce8466fd043c2be8633c1b7c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/translocation/shroud_of_golubria.png"
+source_md5="ad84cb24a940f187779766bbf99a91b8"
+
+dest_files=[ "res://.import/shroud_of_golubria.png-bf2a71f4ce8466fd043c2be8633c1b7c.stex" ]
+dest_md5="8a4611429e8dab7cb43e4e6d4b364c43"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

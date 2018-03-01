@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/eye_of_devastation_new.png-6f7bbbf5554ad36e75d38b1d280e6e2c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/eyes/eye_of_devastation_new.png"
+source_md5="fd646305d517b8ec225ac09f6c2b0da2"
+
+dest_files=[ "res://.import/eye_of_devastation_new.png-6f7bbbf5554ad36e75d38b1d280e6e2c.stex" ]
+dest_md5="be4bd16fb371f48a51054a3c6cb47f84"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

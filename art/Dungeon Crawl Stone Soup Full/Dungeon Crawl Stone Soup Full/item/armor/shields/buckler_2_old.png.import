@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/buckler_2_old.png-7216db973d8d5ed86e3d30c58f3e9d95.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/shields/buckler_2_old.png"
+source_md5="bbaea4e58378cbf224f03207cabc2b19"
+
+dest_files=[ "res://.import/buckler_2_old.png-7216db973d8d5ed86e3d30c58f3e9d95.stex" ]
+dest_md5="a9be5605168bedcae5db0776912be9ad"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

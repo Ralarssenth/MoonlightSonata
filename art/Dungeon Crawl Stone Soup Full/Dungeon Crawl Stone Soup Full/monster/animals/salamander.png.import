@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/salamander.png-7ff957ff1edc79fbc83d8c2c98a59272.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/salamander.png"
+source_md5="49d65469d1e40720bed7f7e77cf74732"
+
+dest_files=[ "res://.import/salamander.png-7ff957ff1edc79fbc83d8c2c98a59272.stex" ]
+dest_md5="391d8e4e3c11f7f91e2a4162bd878bf5"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

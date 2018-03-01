@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/deep_elf_blademaster.png-2308f9d6f2a5b7ff0382a70b683eb26a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/deep_elf_blademaster.png"
+source_md5="a4f0c2f39755e2a4ae6d752e87521fc9"
+
+dest_files=[ "res://.import/deep_elf_blademaster.png-2308f9d6f2a5b7ff0382a70b683eb26a.stex" ]
+dest_md5="561f52abc9fe47698f84c775efb311d7"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/vault_guard_new.png-24d4649a34af4f1c13577f895d996df2.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/vault/vault_guard_new.png"
+source_md5="abd3641ddfe7a8c29912d55b1e2eb4d2"
+
+dest_files=[ "res://.import/vault_guard_new.png-24d4649a34af4f1c13577f895d996df2.stex" ]
+dest_md5="b60e5c7d1cc56066910971ef367127db"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

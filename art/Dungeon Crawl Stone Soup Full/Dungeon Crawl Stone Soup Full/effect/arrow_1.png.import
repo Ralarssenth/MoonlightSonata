@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/arrow_1.png-d733801fac2b5b31badc0d7e1218942b.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/arrow_1.png"
+source_md5="44a9cb3ab552ddf9eecfa144954436fc"
+
+dest_files=[ "res://.import/arrow_1.png-d733801fac2b5b31badc0d7e1218942b.stex" ]
+dest_md5="69c6e77317a83433a32cacb54026a4ac"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

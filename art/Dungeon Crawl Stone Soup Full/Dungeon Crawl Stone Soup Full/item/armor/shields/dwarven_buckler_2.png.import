@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/dwarven_buckler_2.png-4590e843de9a9bdeb10dbdafc873cca7.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/shields/dwarven_buckler_2.png"
+source_md5="af18c5aa4c150020a4ef3e0e993f3e71"
+
+dest_files=[ "res://.import/dwarven_buckler_2.png-4590e843de9a9bdeb10dbdafc873cca7.stex" ]
+dest_md5="d17ded940ac6d49965a41aa1b3901708"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

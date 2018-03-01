@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/beef_jerky_new.png-20600db4002694d5fdf7a3dc455fc988.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/food/beef_jerky_new.png"
+source_md5="8426cf6aef884be17cbd058b1f7020bb"
+
+dest_files=[ "res://.import/beef_jerky_new.png-20600db4002694d5fdf7a3dc455fc988.stex" ]
+dest_md5="a0e1c51a7217b997141401b4c767545e"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

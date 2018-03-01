@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/battle_axe_1.png-1accb8b5eaf200dbc6e22c91df41be6e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/battle_axe_1.png"
+source_md5="4a8a653687448d31245b22f8f3ee3b3a"
+
+dest_files=[ "res://.import/battle_axe_1.png-1accb8b5eaf200dbc6e22c91df41be6e.stex" ]
+dest_md5="c5f3df70a061a5081eaae20ff8e7fd7b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

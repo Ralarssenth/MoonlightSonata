@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/lair7b.png-32051683a9bd988b756e73ea15ff7009.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/lair7b.png"
+source_md5="5c067d698374f14004a2fca0fd91043d"
+
+dest_files=[ "res://.import/lair7b.png-32051683a9bd988b756e73ea15ff7009.stex" ]
+dest_md5="40a59b96b8223ef0fe81a8d9b6528571"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

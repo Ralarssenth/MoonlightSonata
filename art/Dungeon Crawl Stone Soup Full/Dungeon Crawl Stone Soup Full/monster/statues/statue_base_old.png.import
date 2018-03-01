@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/statue_base_old.png-c4397f2016af9dfa37528db51aa9c4ed.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/statues/statue_base_old.png"
+source_md5="d72df4ceaaf25d8de2dc8015f4670b9e"
+
+dest_files=[ "res://.import/statue_base_old.png-c4397f2016af9dfa37528db51aa9c4ed.stex" ]
+dest_md5="f99d6cf42672fa335daeef1ee9257c90"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/viking_brown_1.png-1e35144079671cff905dffed6d44678f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/head/viking_brown_1.png"
+source_md5="d2ceb4918debf5c08a361f7bcb0e4c91"
+
+dest_files=[ "res://.import/viking_brown_1.png-1e35144079671cff905dffed6d44678f.stex" ]
+dest_md5="909f991bbdd710d57c971274e4d29eeb"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/swamp_worm_old.png-3995184a2022ea16e8244988bacebf22.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/aquatic/swamp_worm_old.png"
+source_md5="b3853ba6ef3627601765c01ffaa65fa0"
+
+dest_files=[ "res://.import/swamp_worm_old.png-3995184a2022ea16e8244988bacebf22.stex" ]
+dest_md5="c4b95da1f0155fa6d45a73643344cfbd"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

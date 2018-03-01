@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/velvet_old.png-36eef3f51cb5babd0c9f1a581ddf8a14.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/book/artefact/velvet_old.png"
+source_md5="637025be09f8d0183de172b74c166047"
+
+dest_files=[ "res://.import/velvet_old.png-36eef3f51cb5babd0c9f1a581ddf8a14.stex" ]
+dest_md5="24c62907a965f2f9b3b7251e919cdfce"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

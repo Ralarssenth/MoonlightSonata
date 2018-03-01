@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/conjure_flame_new.png-bd5230273ba64b8cf97db6fd4b235774.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/fire/conjure_flame_new.png"
+source_md5="3a2be3599c1eb4d7994e8229206fcdbf"
+
+dest_files=[ "res://.import/conjure_flame_new.png-bd5230273ba64b8cf97db6fd4b235774.stex" ]
+dest_md5="352a4b339349ae7329b27e4ad312818b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

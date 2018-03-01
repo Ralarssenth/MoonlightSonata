@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/urand_brooch_of_shielding_new.png-1c9472e0f804fbc97d653ac997ff3629.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/amulet/artefact/urand_brooch_of_shielding_new.png"
+source_md5="e7c15144e635a4c92974ee535a119e49"
+
+dest_files=[ "res://.import/urand_brooch_of_shielding_new.png-1c9472e0f804fbc97d653ac997ff3629.stex" ]
+dest_md5="23ecebc1ec5d53d789f4ebcd7732fe6a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

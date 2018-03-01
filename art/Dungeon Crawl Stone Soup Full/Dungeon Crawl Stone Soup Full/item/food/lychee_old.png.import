@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/lychee_old.png-4853d6ca33b4c2821f7820c8200cbff7.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/food/lychee_old.png"
+source_md5="2f4ac368803db734648cee359bc3b22d"
+
+dest_files=[ "res://.import/lychee_old.png-4853d6ca33b4c2821f7820c8200cbff7.stex" ]
+dest_md5="29112075d2e1c1199e7188d75972f963"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

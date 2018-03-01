@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/snail_statue.png-f78769b1e14a4db7dc8735f4ccdc1834.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/statues/snail_statue.png"
+source_md5="e126a359ae9c253e9668142bf7bf860a"
+
+dest_files=[ "res://.import/snail_statue.png-f78769b1e14a4db7dc8735f4ccdc1834.stex" ]
+dest_md5="062af8c7b7aa45cb86a0b967792b2c6a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

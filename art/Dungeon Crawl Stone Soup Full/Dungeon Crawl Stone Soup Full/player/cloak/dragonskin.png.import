@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/dragonskin.png-e7c2ead5c65cf437c41fc263afcca0c8.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/cloak/dragonskin.png"
+source_md5="bbaaf81ed30aeabe87c7cfb73727ae29"
+
+dest_files=[ "res://.import/dragonskin.png-e7c2ead5c65cf437c41fc263afcca0c8.stex" ]
+dest_md5="ad34768777bcfb7e17d7ea21fa8afdb4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

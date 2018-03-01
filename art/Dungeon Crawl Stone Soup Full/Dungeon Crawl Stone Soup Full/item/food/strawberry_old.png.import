@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/strawberry_old.png-95fe9f723dd572142d5b792f341e371f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/food/strawberry_old.png"
+source_md5="5f8a8b275187bc0d766fa2db888f46be"
+
+dest_files=[ "res://.import/strawberry_old.png-95fe9f723dd572142d5b792f341e371f.stex" ]
+dest_md5="70581d085babcfb36b070cc6a83efb1c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

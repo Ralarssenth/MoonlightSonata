@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/leather_jacket.png-319bb9f898a396439f9641e7d4a75bc2.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/body/leather_jacket.png"
+source_md5="d41176d5487e7781249ba3bb7f81d5b6"
+
+dest_files=[ "res://.import/leather_jacket.png-319bb9f898a396439f9641e7d4a75bc2.stex" ]
+dest_md5="18a931238b93e78ec193bd22762da88a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

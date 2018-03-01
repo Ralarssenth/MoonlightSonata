@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/giant_leech_old.png-bd7e90c4ee715a3c88e2504092e70b58.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/giant_leech_old.png"
+source_md5="53da4744b6fedc4921917610833b35dd"
+
+dest_files=[ "res://.import/giant_leech_old.png-bd7e90c4ee715a3c88e2504092e70b58.stex" ]
+dest_md5="c4ab8e3545865b64ef27eb910a1fcbe6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

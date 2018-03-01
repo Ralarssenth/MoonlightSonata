@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/skeleton_snake.png-2b5962d4e578a6dd5470fec23581ba83.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/undead/skeletons/skeleton_snake.png"
+source_md5="c6561744c53b7e591e0cc6a1427d7e69"
+
+dest_files=[ "res://.import/skeleton_snake.png-2b5962d4e578a6dd5470fec23581ba83.stex" ]
+dest_md5="8a2a33d37b27e0f35274f14127778925"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

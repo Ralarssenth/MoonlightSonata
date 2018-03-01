@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/zombie_small.png-53c9b0cc7dace601c9c8c5076dd59d66.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/undead/zombies/zombie_small.png"
+source_md5="93d0b4aba3848d908c6f7f0ebf607a7f"
+
+dest_files=[ "res://.import/zombie_small.png-53c9b0cc7dace601c9c8c5076dd59d66.stex" ]
+dest_md5="03ffb09fb7821ec496275338d931aaa8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

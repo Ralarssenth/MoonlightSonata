@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/butterfly_10.png-a52e3d48429c708e6526c6397304cda3.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/butterfly_10.png"
+source_md5="c7a3a14acab89a9c87fe839248fbcbac"
+
+dest_files=[ "res://.import/butterfly_10.png-a52e3d48429c708e6526c6397304cda3.stex" ]
+dest_md5="c9d29d5a559844da47e0bc7e1f26ef93"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

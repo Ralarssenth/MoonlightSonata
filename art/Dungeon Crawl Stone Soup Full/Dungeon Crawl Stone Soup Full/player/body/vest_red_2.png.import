@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/vest_red_2.png-824ae94bd1d635fd28c289ecc98768eb.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/body/vest_red_2.png"
+source_md5="64295741dad430b4fa1a42dcb583a44c"
+
+dest_files=[ "res://.import/vest_red_2.png-824ae94bd1d635fd28c289ecc98768eb.stex" ]
+dest_md5="752db1185b1406a65d9ac7ac8c59dcf6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

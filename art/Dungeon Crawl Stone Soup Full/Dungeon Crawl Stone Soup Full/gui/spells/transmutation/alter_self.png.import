@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/alter_self.png-cf39c69eb0a56d504e4a2b2aae4cefa7.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/transmutation/alter_self.png"
+source_md5="373f48011fb633c9af12b2b763bac220"
+
+dest_files=[ "res://.import/alter_self.png-cf39c69eb0a56d504e4a2b2aae4cefa7.stex" ]
+dest_md5="24d29c39b1c4644c07b6896ba30dcd37"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

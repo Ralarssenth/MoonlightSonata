@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/yellow_old.png-59b12a58cc3b98f9deb1a5d85d8e4a7c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/book/yellow_old.png"
+source_md5="0159394c66e709420d3210a8f512c41f"
+
+dest_files=[ "res://.import/yellow_old.png-59b12a58cc3b98f9deb1a5d85d8e4a7c.stex" ]
+dest_md5="5b445c9e3e0241d2a8d56b7d96382dc0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/short_brown.png-06df2fc18a11807c5709c1d235834f88.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/boots/short_brown.png"
+source_md5="845dc811936ec98484484e2f36c180d4"
+
+dest_files=[ "res://.import/short_brown.png-06df2fc18a11807c5709c1d235834f88.stex" ]
+dest_md5="71ad58f8bcfd77f4f9a8151c038adb25"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

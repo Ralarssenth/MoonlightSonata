@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-rod_demonology.png-7f1246948b79f9c6e11727e5d73d3451.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/bottom_right/i-rod_demonology.png"
+source_md5="ff02abdaaa096bf033910484bbd13f40"
+
+dest_files=[ "res://.import/i-rod_demonology.png-7f1246948b79f9c6e11727e5d73d3451.stex" ]
+dest_md5="dbe1d2a48f6976d890bde950e3c9be19"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

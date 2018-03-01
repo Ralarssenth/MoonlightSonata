@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ru_sacrifice_purity.png-29034cfca962bbc1e40b2bf8731ae804.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/invocations/ru_sacrifice_purity.png"
+source_md5="037b2c06214bc6483bd967db062b9fca"
+
+dest_files=[ "res://.import/ru_sacrifice_purity.png-29034cfca962bbc1e40b2bf8731ae804.stex" ]
+dest_md5="cd4888b1cde4d859c5b8a2aa57831d84"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

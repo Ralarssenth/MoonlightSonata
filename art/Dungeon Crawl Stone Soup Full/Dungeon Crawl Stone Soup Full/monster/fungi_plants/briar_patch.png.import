@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/briar_patch.png-94c40efe1ee45bfe51fef519771794dc.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/fungi_plants/briar_patch.png"
+source_md5="b51cd83bb37f11cfd824b07e967167a8"
+
+dest_files=[ "res://.import/briar_patch.png-94c40efe1ee45bfe51fef519771794dc.stex" ]
+dest_md5="e1301f492bc8bf8933a50d008485bb4c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

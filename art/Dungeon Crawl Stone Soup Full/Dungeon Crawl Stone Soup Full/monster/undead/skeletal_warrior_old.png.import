@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/skeletal_warrior_old.png-b90fdc5e5da97866d15635fa39c6ebc5.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/undead/skeletal_warrior_old.png"
+source_md5="c0f57e04a0e3b1c0215e9c1f036c70c9"
+
+dest_files=[ "res://.import/skeletal_warrior_old.png-b90fdc5e5da97866d15635fa39c6ebc5.stex" ]
+dest_md5="efe67d65b0461025a10a1ed22aa3556c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

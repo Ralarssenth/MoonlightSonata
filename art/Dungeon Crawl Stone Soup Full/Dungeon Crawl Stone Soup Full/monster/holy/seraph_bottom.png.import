@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/seraph_bottom.png-b4e26c8dba1af2bd71fa0846a58d1589.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/holy/seraph_bottom.png"
+source_md5="6c3ace9a157e9d2fed87aadf6b6ececa"
+
+dest_files=[ "res://.import/seraph_bottom.png-b4e26c8dba1af2bd71fa0846a58d1589.stex" ]
+dest_md5="f184351bdd42dcdb190aca2aacac7edb"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

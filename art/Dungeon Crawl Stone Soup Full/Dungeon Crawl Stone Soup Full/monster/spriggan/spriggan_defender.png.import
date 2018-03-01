@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spriggan_defender.png-4f28591f271f38f34466c1752b05f7af.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/spriggan/spriggan_defender.png"
+source_md5="2e8dd4dc3e1a2eea76a7b174b3f34856"
+
+dest_files=[ "res://.import/spriggan_defender.png-4f28591f271f38f34466c1752b05f7af.stex" ]
+dest_md5="ddb9e129c6157be538197f4e7d9b3ec3"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

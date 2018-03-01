@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/chunk_rotten.png-b89d0f922f1ac9fd890235b27152d245.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/food/chunk_rotten.png"
+source_md5="20b8dcac34e752ff25047062ee5b90c5"
+
+dest_files=[ "res://.import/chunk_rotten.png-b89d0f922f1ac9fd890235b27152d245.stex" ]
+dest_md5="70454b2080377351218d836364486ee0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

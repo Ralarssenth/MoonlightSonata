@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/pike.png-a64f2c90b890005197d4bed9dcebde2d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/pike.png"
+source_md5="bb9cef948d2c175c75e41b515e3f0ca7"
+
+dest_files=[ "res://.import/pike.png-a64f2c90b890005197d4bed9dcebde2d.stex" ]
+dest_md5="363d937fbc97be3e6902968f559d8f21"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

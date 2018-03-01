@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/wyrmbane.png-a0cbf45fcdce97044a25f09e7e3f26a8.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/artefact/wyrmbane.png"
+source_md5="88830f0246e693719b38312a89c825b2"
+
+dest_files=[ "res://.import/wyrmbane.png-a0cbf45fcdce97044a25f09e7e3f26a8.stex" ]
+dest_md5="e27e9a707f406bef61348a80fffdfbbd"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

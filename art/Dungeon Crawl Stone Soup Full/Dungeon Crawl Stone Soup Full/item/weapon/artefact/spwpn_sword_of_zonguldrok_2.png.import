@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spwpn_sword_of_zonguldrok_2.png-fd16b212adb307b0f4ace419b4cf877b.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/artefact/spwpn_sword_of_zonguldrok_2.png"
+source_md5="18701871ec33a96034414191eca199f8"
+
+dest_files=[ "res://.import/spwpn_sword_of_zonguldrok_2.png-fd16b212adb307b0f4ace419b4cf877b.stex" ]
+dest_md5="9b4abbb644e32b5518719132a8061308"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

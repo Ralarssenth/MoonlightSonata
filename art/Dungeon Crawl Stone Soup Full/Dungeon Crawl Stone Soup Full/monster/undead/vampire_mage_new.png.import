@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/vampire_mage_new.png-093606e2dea6001dfd020220ccd70e7c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/undead/vampire_mage_new.png"
+source_md5="858dbf64064f3d3d66c7e6d8437f3f44"
+
+dest_files=[ "res://.import/vampire_mage_new.png-093606e2dea6001dfd020220ccd70e7c.stex" ]
+dest_md5="779fa99884e2c7d3b36bf96efb2d3dc3"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

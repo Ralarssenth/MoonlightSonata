@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/unknown.png-40ecf14e12e831ba9677a7e04070380a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/altars/unknown.png"
+source_md5="cfd6f1874a1a050dbf2031da55a3cc92"
+
+dest_files=[ "res://.import/unknown.png-40ecf14e12e831ba9677a7e04070380a.stex" ]
+dest_md5="c79e0da2d86dd1e47b26c203ca753176"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

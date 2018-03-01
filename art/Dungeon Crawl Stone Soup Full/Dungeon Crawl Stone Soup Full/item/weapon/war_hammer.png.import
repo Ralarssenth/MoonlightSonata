@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/war_hammer.png-2eeb0c0dd9766094c28f0753bd0bec23.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/war_hammer.png"
+source_md5="1f9b77c7a78615f3fba5605232fea731"
+
+dest_files=[ "res://.import/war_hammer.png-2eeb0c0dd9766094c28f0753bd0bec23.stex" ]
+dest_md5="d2d775021939a5f7081487ae7bf463da"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

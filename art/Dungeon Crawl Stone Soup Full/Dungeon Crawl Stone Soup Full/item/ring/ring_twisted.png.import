@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ring_twisted.png-cbaaf38e561d3a51d9dd8c92755a0752.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/ring/ring_twisted.png"
+source_md5="cb25c8124a8393c18dd4236be4aa02f6"
+
+dest_files=[ "res://.import/ring_twisted.png-cbaaf38e561d3a51d9dd8c92755a0752.stex" ]
+dest_md5="686bbea1d16ef1ba6a884e265e610531"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

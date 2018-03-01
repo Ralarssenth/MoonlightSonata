@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/urand_ignorance.png-bbade4e2c23fb36eec3283a000612840.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/artefact/urand_ignorance.png"
+source_md5="740f824d4773ae6e136bf4a951e64bda"
+
+dest_files=[ "res://.import/urand_ignorance.png-bbade4e2c23fb36eec3283a000612840.stex" ]
+dest_md5="3bab13fe3fceec71de708d02e4312496"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

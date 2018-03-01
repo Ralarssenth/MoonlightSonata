@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/urand_firestarter.png-e2654f8b6219d5fd58a08c99071327d1.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/artefact/urand_firestarter.png"
+source_md5="070d8b24e0c8bc44b7a97a08f6a270c3"
+
+dest_files=[ "res://.import/urand_firestarter.png-e2654f8b6219d5fd58a08c99071327d1.stex" ]
+dest_md5="e45077f546e3c929be61a98eb13e7fce"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

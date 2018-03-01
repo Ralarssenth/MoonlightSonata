@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/apportation_new.png-0ec850c07f4d255a91ab86083ed44975.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/translocation/apportation_new.png"
+source_md5="ac568f6bb12eb72888997caa74015a87"
+
+dest_files=[ "res://.import/apportation_new.png-0ec850c07f4d255a91ab86083ed44975.stex" ]
+dest_md5="0a6b692adf9b6501112a812dd00058c0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

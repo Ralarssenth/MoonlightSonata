@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/fulsome_distillation.png-7a6801a1a4e87472caf3a43556958096.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/necromancy/fulsome_distillation.png"
+source_md5="20fa9145c3fca191d7e664549721ba88"
+
+dest_files=[ "res://.import/fulsome_distillation.png-7a6801a1a4e87472caf3a43556958096.stex" ]
+dest_md5="840f0c0ed087b472dfb95ddadfbb0bdd"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

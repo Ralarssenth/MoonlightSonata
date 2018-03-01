@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shield_diamond_yellow.png-df305f581829f9bb10530141680b2a72.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_left/shield_diamond_yellow.png"
+source_md5="2b757714b1ea3dee5855ff74655d9db5"
+
+dest_files=[ "res://.import/shield_diamond_yellow.png-df305f581829f9bb10530141680b2a72.stex" ]
+dest_md5="156618b02c1970674a8a041e9bde26e4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/green_rat.png-d3a096f6f01b61708d40698de49a16ab.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/green_rat.png"
+source_md5="4c80773120cb5b149c84abba4ee1db0d"
+
+dest_files=[ "res://.import/green_rat.png-d3a096f6f01b61708d40698de49a16ab.stex" ]
+dest_md5="6aa5144a10b4ac7cf5edc18ed9bd52a9"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

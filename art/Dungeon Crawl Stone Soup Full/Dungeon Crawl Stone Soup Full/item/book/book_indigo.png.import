@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/book_indigo.png-36a2ce8ddec131855c62cfdb66644be6.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/book/book_indigo.png"
+source_md5="3293a091d883bf69fbe8667b38e76079"
+
+dest_files=[ "res://.import/book_indigo.png-36a2ce8ddec131855c62cfdb66644be6.stex" ]
+dest_md5="07a39c5ab57c414e78a545ef6baac5e3"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

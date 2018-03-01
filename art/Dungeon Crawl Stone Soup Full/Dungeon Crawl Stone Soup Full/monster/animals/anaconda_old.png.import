@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/anaconda_old.png-831bbf3a24d7300f0466baef36cc594a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/anaconda_old.png"
+source_md5="238596f37d009874ccfe2985734759cc"
+
+dest_files=[ "res://.import/anaconda_old.png-831bbf3a24d7300f0466baef36cc594a.stex" ]
+dest_md5="fc9b7c0f909c75161621806f584ed6cc"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/draconic_job-shifter_old.png-dea319de71874b509ee2a3011d2c0e4e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/draconic/draconic_job-shifter_old.png"
+source_md5="a0e00c9b7e3d4ed29dab4501367fdd7b"
+
+dest_files=[ "res://.import/draconic_job-shifter_old.png-dea319de71874b509ee2a3011d2c0e4e.stex" ]
+dest_md5="565aa0a0cf8175b5f2b7a1b47e3e585d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/hell_11.png-b104b206933962e6bdf9b95920fc3fda.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/hell_11.png"
+source_md5="20270e7ea0a90049326a38b90e9b292f"
+
+dest_files=[ "res://.import/hell_11.png-b104b206933962e6bdf9b95920fc3fda.stex" ]
+dest_md5="cf01f5156e7e34bb36bf6d1a2736f991"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

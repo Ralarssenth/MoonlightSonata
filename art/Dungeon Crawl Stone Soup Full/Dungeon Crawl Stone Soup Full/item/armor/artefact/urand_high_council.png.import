@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/urand_high_council.png-6f5d634fc18bc112e4288db5c8659967.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/artefact/urand_high_council.png"
+source_md5="ee8548c0c85def3411489721226d3265"
+
+dest_files=[ "res://.import/urand_high_council.png-6f5d634fc18bc112e4288db5c8659967.stex" ]
+dest_md5="e03fad607277aea82c58a0c2693fb7ed"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

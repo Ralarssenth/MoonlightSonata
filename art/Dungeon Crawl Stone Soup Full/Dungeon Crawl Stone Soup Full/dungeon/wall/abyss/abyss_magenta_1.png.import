@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/abyss_magenta_1.png-957fcddb657c04ac5fa85b52ac8055bf.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/abyss/abyss_magenta_1.png"
+source_md5="b8c9cc0d41383fd7ef788da9163ed45c"
+
+dest_files=[ "res://.import/abyss_magenta_1.png-957fcddb657c04ac5fa85b52ac8055bf.stex" ]
+dest_md5="4901b0d5ced6f9b0a5d4de31b4596209"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

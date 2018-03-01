@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/mastered-base.png-a9a2af47f0ffc410bb8c501163eb9676.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/skills/mastered-base.png"
+source_md5="613604ec87e4fd02191222c9e29fb7fd"
+
+dest_files=[ "res://.import/mastered-base.png-a9a2af47f0ffc410bb8c501163eb9676.stex" ]
+dest_md5="e9899dfdd87f934ed343855ee965f9dc"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

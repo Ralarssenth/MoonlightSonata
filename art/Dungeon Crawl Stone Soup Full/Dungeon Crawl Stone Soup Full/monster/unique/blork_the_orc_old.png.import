@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/blork_the_orc_old.png-fb090e7c0cb90704e422f2784d62d54a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/blork_the_orc_old.png"
+source_md5="0874b8c1631ccaf2cd44db75d3a982a9"
+
+dest_files=[ "res://.import/blork_the_orc_old.png-fb090e7c0cb90704e422f2784d62d54a.stex" ]
+dest_md5="b1083e6dce5c8e1a347872a5fb26521f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

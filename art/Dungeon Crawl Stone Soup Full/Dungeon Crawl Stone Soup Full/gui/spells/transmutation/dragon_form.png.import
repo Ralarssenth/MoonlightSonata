@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/dragon_form.png-590f92c79df46e84eacbe3f1230d1c10.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/transmutation/dragon_form.png"
+source_md5="2188c68f8d5262e67b8d6fba8d132874"
+
+dest_files=[ "res://.import/dragon_form.png-590f92c79df46e84eacbe3f1230d1c10.stex" ]
+dest_md5="eff9a26e26c9fdfb5dacc41afbc81d4b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

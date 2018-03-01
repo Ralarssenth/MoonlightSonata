@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/symbol_of_torment_new.png-5e6e3a55c900288ac531c9f0ed3f553d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/necromancy/symbol_of_torment_new.png"
+source_md5="103688aa1b0b01fbea80e60673f863aa"
+
+dest_files=[ "res://.import/symbol_of_torment_new.png-5e6e3a55c900288ac531c9f0ed3f553d.stex" ]
+dest_md5="3904ab08ae77f239186b016c17560b00"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/gimli.png-ecde88368ad3c468f7f7351feaa6db7b.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/gimli.png"
+source_md5="160252782438bf3560d27622b117c4d5"
+
+dest_files=[ "res://.import/gimli.png-ecde88368ad3c468f7f7351feaa6db7b.stex" ]
+dest_md5="813a557d71302f98f790aaaa91f26d52"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/giant_centipede.png-5c7418ba900d95ed7e2c5e77138b54aa.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/giant_centipede.png"
+source_md5="d78e29f93196ada510ae324dd739b4c5"
+
+dest_files=[ "res://.import/giant_centipede.png-5c7418ba900d95ed7e2c5e77138b54aa.stex" ]
+dest_md5="cc3a294835426c2d649270a17a05d188"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

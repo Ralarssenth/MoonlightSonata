@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/horn_evil.png-b376869b8645ddbdab3591466fe4bf6d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/head/horn_evil.png"
+source_md5="bec1f46c912e5f223c588cfde1c46f68"
+
+dest_files=[ "res://.import/horn_evil.png-b376869b8645ddbdab3591466fe4bf6d.stex" ]
+dest_md5="a984617e583e1a2ccb6613ac2b6d4c41"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

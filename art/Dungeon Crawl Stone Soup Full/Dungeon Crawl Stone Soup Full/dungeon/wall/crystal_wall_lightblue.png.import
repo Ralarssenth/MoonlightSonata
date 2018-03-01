@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/crystal_wall_lightblue.png-1b4f14b1b3b98d6be9a7ba923f55adee.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/crystal_wall_lightblue.png"
+source_md5="b8766f81035d73e9ff46f72f0c59dcb8"
+
+dest_files=[ "res://.import/crystal_wall_lightblue.png-1b4f14b1b3b98d6be9a7ba923f55adee.stex" ]
+dest_md5="030cb53c6c0f305c3f8441d98637474b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

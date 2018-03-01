@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/brown_ooze.png-511c053b56c1f969ec61a803a206b04c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/brown_ooze.png"
+source_md5="3852ce2008f0af62372c3a321046f65e"
+
+dest_files=[ "res://.import/brown_ooze.png-511c053b56c1f969ec61a803a206b04c.stex" ]
+dest_md5="0df1f36ac7f6226f5b946fc8dad61a70"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

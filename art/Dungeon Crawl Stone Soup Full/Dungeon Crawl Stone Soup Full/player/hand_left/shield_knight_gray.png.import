@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shield_knight_gray.png-0a3e37e31937491ac64a64432e451454.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_left/shield_knight_gray.png"
+source_md5="592ecfe532525fb9e97c415eea7e5326"
+
+dest_files=[ "res://.import/shield_knight_gray.png-0a3e37e31937491ac64a64432e451454.stex" ]
+dest_md5="a331de5ee74354699d46de3852a39cad"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

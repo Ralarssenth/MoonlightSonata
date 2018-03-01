@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/mutant_beast.png-e2e795437c42fd17e885c186166d7879.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/mutant_beast.png"
+source_md5="ba245160b8d6ef0a1a59af730eea6e81"
+
+dest_files=[ "res://.import/mutant_beast.png-e2e795437c42fd17e885c186166d7879.stex" ]
+dest_md5="557164bd3440b8860743b0ad02ef0a85"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

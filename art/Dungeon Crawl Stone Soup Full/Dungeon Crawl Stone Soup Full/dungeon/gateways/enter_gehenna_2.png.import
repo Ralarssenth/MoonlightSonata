@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/enter_gehenna_2.png-254da794d417bece463bf5729f222b18.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/gateways/enter_gehenna_2.png"
+source_md5="46c41213cb6af07b781d993553e8e15b"
+
+dest_files=[ "res://.import/enter_gehenna_2.png-254da794d417bece463bf5729f222b18.stex" ]
+dest_md5="b00785568168e69ee91b394e00c6ac87"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

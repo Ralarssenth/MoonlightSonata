@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/lab-stone_2.png-263a1d74e325f94ce435dbd49627bdfb.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/lab-stone_2.png"
+source_md5="462eadb901195d22fbff4dbfa3e77c14"
+
+dest_files=[ "res://.import/lab-stone_2.png-263a1d74e325f94ce435dbd49627bdfb.stex" ]
+dest_md5="93069677c17c121f74bb6c6742d14b6d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/scroll-yellow.png-cfe6d3101671a4573ae987161d3887c5.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/scroll/scroll-yellow.png"
+source_md5="bfd38a9358136d26b8af7ef217c6dcee"
+
+dest_files=[ "res://.import/scroll-yellow.png-cfe6d3101671a4573ae987161d3887c5.stex" ]
+dest_md5="943ad2606ce2cb5d2ecb0e4058dc82a0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shatter_old.png-a3113a911a042a469f66e204dbb95442.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/earth/shatter_old.png"
+source_md5="b244b3fb57bf43c6f8ee471db2a295c1"
+
+dest_files=[ "res://.import/shatter_old.png-a3113a911a042a469f66e204dbb95442.stex" ]
+dest_md5="493be69ea3bb36fe25ff9a23df3885b1"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

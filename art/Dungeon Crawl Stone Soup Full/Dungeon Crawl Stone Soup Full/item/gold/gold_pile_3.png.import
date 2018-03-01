@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/gold_pile_3.png-f610ee16050d75f833c2c52351218fa9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/gold/gold_pile_3.png"
+source_md5="2c67a7649b86270b62b13324a610948a"
+
+dest_files=[ "res://.import/gold_pile_3.png-f610ee16050d75f833c2c52351218fa9.stex" ]
+dest_md5="2c783d6263f8fce1df1cc6c1202111a0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/orc_priest_new.png-82dbdfbd8b807f995218c0afa033fa4e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/orc_priest_new.png"
+source_md5="273f116799fb4b5ac8ebebb9689ea6af"
+
+dest_files=[ "res://.import/orc_priest_new.png-82dbdfbd8b807f995218c0afa033fa4e.stex" ]
+dest_md5="4d5fd7fc8db4c91854ac37bb70c54eb6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

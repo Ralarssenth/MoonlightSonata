@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shield_middle_ethn.png-0db0bf521b81893623f008d38a1e4fed.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_left/shield_middle_ethn.png"
+source_md5="1184fdd778f457fc235f828cecbb5601"
+
+dest_files=[ "res://.import/shield_middle_ethn.png-0db0bf521b81893623f008d38a1e4fed.stex" ]
+dest_md5="b41ab94e6006b75972484b0cc269a9b7"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

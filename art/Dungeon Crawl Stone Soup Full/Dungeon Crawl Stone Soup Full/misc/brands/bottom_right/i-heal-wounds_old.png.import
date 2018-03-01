@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-heal-wounds_old.png-80564164d50df8d4ddd1699ae582b7a5.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/bottom_right/i-heal-wounds_old.png"
+source_md5="7b50e76a09c3fe4cf4118c20ee993777"
+
+dest_files=[ "res://.import/i-heal-wounds_old.png-80564164d50df8d4ddd1699ae582b7a5.stex" ]
+dest_md5="6d04fe8ad13f990471ad0581e1da3186"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

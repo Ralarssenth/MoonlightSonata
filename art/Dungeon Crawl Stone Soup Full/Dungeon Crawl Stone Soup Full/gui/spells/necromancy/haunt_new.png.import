@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/haunt_new.png-81acfe0261364951fa4c5b5807639e98.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/necromancy/haunt_new.png"
+source_md5="2304bb3be41af39653032c25a1ad0174"
+
+dest_files=[ "res://.import/haunt_new.png-81acfe0261364951fa4c5b5807639e98.stex" ]
+dest_md5="f321af93769147aa9d471de00ffd70b2"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

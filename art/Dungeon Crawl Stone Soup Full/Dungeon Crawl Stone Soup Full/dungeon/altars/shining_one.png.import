@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shining_one.png-cbde438a24e8cdb6df0efa87c3194b5f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/altars/shining_one.png"
+source_md5="b8174ef8102cad4670c817b4b036b6c1"
+
+dest_files=[ "res://.import/shining_one.png-cbde438a24e8cdb6df0efa87c3194b5f.stex" ]
+dest_md5="170b0b32ff7d290d9c1b84ed3a3b3725"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

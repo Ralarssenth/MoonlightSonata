@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/skeleton_hydra_4_old.png-97b22fd355799635283404889a1792e5.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/undead/skeletons/skeleton_hydra_4_old.png"
+source_md5="09f9aeafee057d5c23d51b4179393b17"
+
+dest_files=[ "res://.import/skeleton_hydra_4_old.png-97b22fd355799635283404889a1792e5.stex" ]
+dest_md5="2041e38a29479d9e4a9e2ea99adc04aa"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

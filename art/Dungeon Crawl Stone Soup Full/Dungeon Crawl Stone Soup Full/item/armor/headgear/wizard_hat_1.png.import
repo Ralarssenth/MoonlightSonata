@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/wizard_hat_1.png-6f8e2511a8101f552a9b9988fda68a49.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/headgear/wizard_hat_1.png"
+source_md5="beb036ab7d5acae80b05f2d773a2c9b4"
+
+dest_files=[ "res://.import/wizard_hat_1.png-6f8e2511a8101f552a9b9988fda68a49.stex" ]
+dest_md5="5025c028871b2f3e49467d6459804535"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

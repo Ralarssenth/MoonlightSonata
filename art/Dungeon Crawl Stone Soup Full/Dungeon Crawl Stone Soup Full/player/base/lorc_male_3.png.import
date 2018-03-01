@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/lorc_male_3.png-2797a4bc3b5c5ade8e49be9f7c2670f9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/base/lorc_male_3.png"
+source_md5="3f6d3ba3e6a3c9e3bfe70bff24ff7d84"
+
+dest_files=[ "res://.import/lorc_male_3.png-2797a4bc3b5c5ade8e49be9f7c2670f9.stex" ]
+dest_md5="06b53beb9aa89a910e3bf373042d6556"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

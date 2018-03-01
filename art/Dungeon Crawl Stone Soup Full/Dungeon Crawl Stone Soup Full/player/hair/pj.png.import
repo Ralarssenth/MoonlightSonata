@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/pj.png-e1ea9704ccb4f5019a74ad60bb71aca4.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hair/pj.png"
+source_md5="6ed8ab3c9e2a46209feff277b6d2a1b9"
+
+dest_files=[ "res://.import/pj.png-e1ea9704ccb4f5019a74ad60bb71aca4.stex" ]
+dest_md5="68aa3c145c53b2306a620d57cbbb74d9"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

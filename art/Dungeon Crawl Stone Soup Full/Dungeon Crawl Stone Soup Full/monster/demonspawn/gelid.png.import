@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/gelid.png-b98f165def7599a729b159006c3bc6f9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/demonspawn/gelid.png"
+source_md5="c0edf1e361c704c61c742e49d37fe33e"
+
+dest_files=[ "res://.import/gelid.png-b98f165def7599a729b159006c3bc6f9.stex" ]
+dest_md5="d05b377b68b2dc514d82fb41cbe26df7"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/cold_breath.png-fd144946c81e34d81b6e3c9b65fbd623.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/monster/cold_breath.png"
+source_md5="efa18da4d35eb3b27c0a59bd2c137feb"
+
+dest_files=[ "res://.import/cold_breath.png-fd144946c81e34d81b6e3c9b65fbd623.stex" ]
+dest_md5="713c02bb62d8857fadc0918aa4f31fb0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

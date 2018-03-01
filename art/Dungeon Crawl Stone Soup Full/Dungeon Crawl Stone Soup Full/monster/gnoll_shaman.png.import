@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/gnoll_shaman.png-629da4850daae0965d2638aac657c309.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/gnoll_shaman.png"
+source_md5="ebf4f7f5c8f08d1d0212c737a370b746"
+
+dest_files=[ "res://.import/gnoll_shaman.png-629da4850daae0965d2638aac657c309.stex" ]
+dest_md5="1234a429ef2022679b09a62b49d7d484"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

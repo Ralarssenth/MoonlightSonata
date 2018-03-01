@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/vehumet_top.png-0dea3cf9c1b1464c7590cfe9ee0211d1.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/emissaries/vehumet_top.png"
+source_md5="870657ff2c729892ef6cb91bbca63893"
+
+dest_files=[ "res://.import/vehumet_top.png-0dea3cf9c1b1464c7590cfe9ee0211d1.stex" ]
+dest_md5="85eb3c4439ce18658d994bc1fec94a19"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

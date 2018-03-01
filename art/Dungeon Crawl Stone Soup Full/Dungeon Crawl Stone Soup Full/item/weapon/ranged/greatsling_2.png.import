@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/greatsling_2.png-6dcb9a41711683af2e51120e9f1a33a3.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/ranged/greatsling_2.png"
+source_md5="3c03b3bdfa15c21ff81f473dfad18c54"
+
+dest_files=[ "res://.import/greatsling_2.png-6dcb9a41711683af2e51120e9f1a33a3.stex" ]
+dest_md5="ee134ed77be9ff6d6c36f388b7d6bf0a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/cobble_blood_2_new.png-e467727a7867c7d5604798a9af2dbef1.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/cobble_blood_2_new.png"
+source_md5="897de190ec05a8487a3bcb2d52f7bfa3"
+
+dest_files=[ "res://.import/cobble_blood_2_new.png-e467727a7867c7d5604798a9af2dbef1.stex" ]
+dest_md5="37cc0b0e02e060b90fd40620ad97c9c1"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/formicid_venom_mage.png-bbb09e65a6fc05808da4e7fd055fa907.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/formicid_venom_mage.png"
+source_md5="65de44bab582bb53e18c2bb023f5f0c7"
+
+dest_files=[ "res://.import/formicid_venom_mage.png-bbb09e65a6fc05808da4e7fd055fa907.stex" ]
+dest_md5="ee58fabf3a444eb13bad883c27b6823d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

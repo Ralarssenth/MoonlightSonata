@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/rune_shoals.png-ca7b7a2c54eb59851130149d44e4fe5e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/misc/runes/rune_shoals.png"
+source_md5="d45d05f5a3b026c62870776c60a81a73"
+
+dest_files=[ "res://.import/rune_shoals.png-ca7b7a2c54eb59851130149d44e4fe5e.stex" ]
+dest_md5="3c2cf9496e1150f278c427daf6af0bd2"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

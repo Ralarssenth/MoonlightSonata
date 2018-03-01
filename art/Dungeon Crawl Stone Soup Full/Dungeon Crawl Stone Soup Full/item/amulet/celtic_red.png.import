@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/celtic_red.png-d53b5d1bfec2fbf90fc439c3915de697.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/amulet/celtic_red.png"
+source_md5="a0efca154d36ddcb1403b3cb2955afe8"
+
+dest_files=[ "res://.import/celtic_red.png-d53b5d1bfec2fbf90fc439c3915de697.stex" ]
+dest_md5="9b9b1ec100d9d1a56b2ea77466ff8d60"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

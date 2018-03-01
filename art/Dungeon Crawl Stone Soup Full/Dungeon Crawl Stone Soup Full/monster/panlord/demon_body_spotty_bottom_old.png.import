@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/demon_body_spotty_bottom_old.png-1d931af6c2593d3a78e35c4de4447c1e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/panlord/demon_body_spotty_bottom_old.png"
+source_md5="ce595ea8187e70e6c60ca01497d88735"
+
+dest_files=[ "res://.import/demon_body_spotty_bottom_old.png-1d931af6c2593d3a78e35c4de4447c1e.stex" ]
+dest_md5="fe0b796a6265915c7bbc509223231382"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/javelin_3_new.png-2dbd47c006e95bd2b1c85e7c2fd2ab44.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/javelin_3_new.png"
+source_md5="d5ab00dba68a335ff199447bbac24beb"
+
+dest_files=[ "res://.import/javelin_3_new.png-2dbd47c006e95bd2b1c85e7c2fd2ab44.stex" ]
+dest_md5="d1af898a469e82d01e1915d9c8c17f1e"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

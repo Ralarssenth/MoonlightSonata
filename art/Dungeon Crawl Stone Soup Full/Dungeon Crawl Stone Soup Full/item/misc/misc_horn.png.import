@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/misc_horn.png-5985202aeae40361dd065efd680fd354.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/misc/misc_horn.png"
+source_md5="28920214b055746d7654bed844b1c47c"
+
+dest_files=[ "res://.import/misc_horn.png-5985202aeae40361dd065efd680fd354.stex" ]
+dest_md5="48c9ec1e2b6e2b7e89dc0203f3c60208"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

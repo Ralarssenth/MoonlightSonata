@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/flail_ball_2_new.png-8f87a4aed5182802d9f430b671411f17.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/flail_ball_2_new.png"
+source_md5="613d9ac7ea0a6be9f6e2664164ec7586"
+
+dest_files=[ "res://.import/flail_ball_2_new.png-8f87a4aed5182802d9f430b671411f17.stex" ]
+dest_md5="e1d5f90505ebfe5f8a9f98fff13d0f96"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

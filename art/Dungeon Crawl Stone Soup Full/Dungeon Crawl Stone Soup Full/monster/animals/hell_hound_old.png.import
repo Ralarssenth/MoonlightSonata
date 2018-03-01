@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/hell_hound_old.png-492d3c4d85b034eed468b8565e66cab0.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/hell_hound_old.png"
+source_md5="c085f93bb132721161f55810b190f00b"
+
+dest_files=[ "res://.import/hell_hound_old.png-492d3c4d85b034eed468b8565e66cab0.stex" ]
+dest_md5="3e25b7f8b153147369e084ded8a34249"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

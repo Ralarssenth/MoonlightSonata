@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/draconic_base-purple_new.png-0ba4511e9313ac13a5d92379a16ecf61.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/draconic/draconic_base-purple_new.png"
+source_md5="632a94ca601ff2c45f0700123909c336"
+
+dest_files=[ "res://.import/draconic_base-purple_new.png-0ba4511e9313ac13a5d92379a16ecf61.stex" ]
+dest_md5="62c0cf6b36765113590e5da97b2ca104"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

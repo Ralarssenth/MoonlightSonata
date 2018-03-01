@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/demon_head_tentacles_top_new.png-8b1e907c9132a9bd3925bec6f2b5408e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/panlord/demon_head_tentacles_top_new.png"
+source_md5="a74caa3b059f34f13d9e2681b4cf23d9"
+
+dest_files=[ "res://.import/demon_head_tentacles_top_new.png-8b1e907c9132a9bd3925bec6f2b5408e.stex" ]
+dest_md5="2bd8c30dacf789d47064deba23a8ae4c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

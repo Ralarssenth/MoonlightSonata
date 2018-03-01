@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/geryon_new.png-ab7dd72446f967eacecce300f2b8973f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/geryon_new.png"
+source_md5="9147c67dbb0b26de4c6f9a274dc1a74f"
+
+dest_files=[ "res://.import/geryon_new.png-ab7dd72446f967eacecce300f2b8973f.stex" ]
+dest_md5="91245d0df4af97b95508520564e5c78a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

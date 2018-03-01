@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/fire_vortex.png-32e63579ee06265e3f79db04dfd2a8a5.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/nonliving/fire_vortex.png"
+source_md5="e6bcee592b51029a0bda1712bd718c28"
+
+dest_files=[ "res://.import/fire_vortex.png-32e63579ee06265e3f79db04dfd2a8a5.stex" ]
+dest_md5="1d6cccefcb7d0fe0a97253970381a1fd"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

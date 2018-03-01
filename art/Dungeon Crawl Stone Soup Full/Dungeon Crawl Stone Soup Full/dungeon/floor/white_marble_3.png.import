@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/white_marble_3.png-cd6831e22952922e97b59885760adb59.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/white_marble_3.png"
+source_md5="65a53734e9293e137176833a280926b2"
+
+dest_files=[ "res://.import/white_marble_3.png-cd6831e22952922e97b59885760adb59.stex" ]
+dest_md5="78188dbe9033768b19078ec635886fcd"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

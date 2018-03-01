@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/orange_demon_new.png-212859fd3e251d7a54c0dfb2cc0ac2fe.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/demons/orange_demon_new.png"
+source_md5="0c59480d893ed8113e7053bc16658195"
+
+dest_files=[ "res://.import/orange_demon_new.png-212859fd3e251d7a54c0dfb2cc0ac2fe.stex" ]
+dest_md5="aaf49eb62e307406f1ece9d1f3b1acd6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/summon_forest.png-dc3505ed1be8f1547b4ac56c2a1250c7.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/summoning/summon_forest.png"
+source_md5="7c39ca5dbaffc4595fab34ac98b66486"
+
+dest_files=[ "res://.import/summon_forest.png-dc3505ed1be8f1547b4ac56c2a1250c7.stex" ]
+dest_md5="6df0b1e793b4e2e5c0957624ddfac7e5"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

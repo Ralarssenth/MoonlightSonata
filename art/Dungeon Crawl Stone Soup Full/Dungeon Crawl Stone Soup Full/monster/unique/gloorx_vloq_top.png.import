@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/gloorx_vloq_top.png-6a8964b51d0bc52d9e5afe3087dba942.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/gloorx_vloq_top.png"
+source_md5="1990bf6a3f6fa148ba53df3c47674a78"
+
+dest_files=[ "res://.import/gloorx_vloq_top.png-6a8964b51d0bc52d9e5afe3087dba942.stex" ]
+dest_md5="37f8b2d1917d8140a5978fac8b741ccd"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

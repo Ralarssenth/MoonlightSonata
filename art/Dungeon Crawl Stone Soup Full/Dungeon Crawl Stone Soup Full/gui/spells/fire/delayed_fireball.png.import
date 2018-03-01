@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/delayed_fireball.png-9dce46749a45b8e352e312eea2ad19c1.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/fire/delayed_fireball.png"
+source_md5="4a5bd3783ba444ce751ae53d1904281f"
+
+dest_files=[ "res://.import/delayed_fireball.png-9dce46749a45b8e352e312eea2ad19c1.stex" ]
+dest_md5="d0a9b8a3770c351bf22bdc2d8f54f08d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

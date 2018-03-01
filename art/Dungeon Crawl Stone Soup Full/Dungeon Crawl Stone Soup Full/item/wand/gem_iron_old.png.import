@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/gem_iron_old.png-e044391a41f88f14a745e5552049a936.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/wand/gem_iron_old.png"
+source_md5="eb20f5ccca169aa6980ff4ad1dee8ef1"
+
+dest_files=[ "res://.import/gem_iron_old.png-e044391a41f88f14a745e5552049a936.stex" ]
+dest_md5="2a761d2acc0d2da4159b347056a02da2"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

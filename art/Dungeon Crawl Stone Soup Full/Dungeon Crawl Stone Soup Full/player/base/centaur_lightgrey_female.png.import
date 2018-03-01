@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/centaur_lightgrey_female.png-7521abad0fe8478379cf31f8c16aeb4a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/base/centaur_lightgrey_female.png"
+source_md5="64434c5bae0c547b5f47258f8e04ec1a"
+
+dest_files=[ "res://.import/centaur_lightgrey_female.png-7521abad0fe8478379cf31f8c16aeb4a.stex" ]
+dest_md5="47cce6b8c6e39caa1d66d3c44c0fca65"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

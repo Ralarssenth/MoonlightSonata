@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/aragorn.png-d9f9167d65130feec059dbf76363354c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/body/aragorn.png"
+source_md5="b3249bd70627e0af366f67f1111c7624"
+
+dest_files=[ "res://.import/aragorn.png-d9f9167d65130feec059dbf76363354c.stex" ]
+dest_md5="5ac2109f941be96fdcb7be0426c3df8a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

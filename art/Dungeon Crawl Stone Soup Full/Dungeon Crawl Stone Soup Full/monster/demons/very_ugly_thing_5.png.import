@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/very_ugly_thing_5.png-27e41680f6723582ee6ac3e399c0fe1f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/demons/very_ugly_thing_5.png"
+source_md5="92558c1abd71632ada2a78de2d350b60"
+
+dest_files=[ "res://.import/very_ugly_thing_5.png-27e41680f6723582ee6ac3e399c0fe1f.stex" ]
+dest_md5="27a3004f98e61c5f5acef81ca376a048"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

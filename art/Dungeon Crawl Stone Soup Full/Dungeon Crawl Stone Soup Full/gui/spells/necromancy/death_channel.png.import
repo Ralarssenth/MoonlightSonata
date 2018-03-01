@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/death_channel.png-3d4278c4779a66101a771b2e93d7aa59.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/necromancy/death_channel.png"
+source_md5="5880b9a0731c2bfe9aac44cf1eeb8e31"
+
+dest_files=[ "res://.import/death_channel.png-3d4278c4779a66101a771b2e93d7aa59.stex" ]
+dest_md5="55b9f5f7a8e523b680cd9d9db1506227"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

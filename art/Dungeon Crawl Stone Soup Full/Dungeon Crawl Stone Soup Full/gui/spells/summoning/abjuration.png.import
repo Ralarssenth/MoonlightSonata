@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/abjuration.png-6b9a77b977bc75062532421b05dd9a82.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/summoning/abjuration.png"
+source_md5="9cab58eff652650a51e6fc8e56851c20"
+
+dest_files=[ "res://.import/abjuration.png-6b9a77b977bc75062532421b05dd9a82.stex" ]
+dest_md5="32ff2769b5e2c8f4a968f2c2e54ed5db"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

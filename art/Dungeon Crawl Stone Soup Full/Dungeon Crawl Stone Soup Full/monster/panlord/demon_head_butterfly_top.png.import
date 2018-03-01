@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/demon_head_butterfly_top.png-f18f7e9da6173f78ead390e1afde3e51.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/panlord/demon_head_butterfly_top.png"
+source_md5="69522b93800d8eb3ad1f94e50fdbaf5d"
+
+dest_files=[ "res://.import/demon_head_butterfly_top.png-f18f7e9da6173f78ead390e1afde3e51.stex" ]
+dest_md5="74e23e7dcdf4fc72fd4020470c799585"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

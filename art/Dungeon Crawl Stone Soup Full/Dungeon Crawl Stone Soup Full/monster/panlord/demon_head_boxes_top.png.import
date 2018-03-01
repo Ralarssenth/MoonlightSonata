@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/demon_head_boxes_top.png-0a1f77d31725611a34858b62e9476b6b.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/panlord/demon_head_boxes_top.png"
+source_md5="c7915bffa6c988b1998ef4c6a27ea3a6"
+
+dest_files=[ "res://.import/demon_head_boxes_top.png-0a1f77d31725611a34858b62e9476b6b.stex" ]
+dest_md5="b255c2d4b2357600565f04fcee057b84"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

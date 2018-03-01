@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/control_undead_old.png-e0e424b75747d04070c9111c81ea3951.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/necromancy/control_undead_old.png"
+source_md5="1f47fcb5cd126e9bf27b1c2120ba75ad"
+
+dest_files=[ "res://.import/control_undead_old.png-e0e424b75747d04070c9111c81ea3951.stex" ]
+dest_md5="9e7b7fc426fc3d143e41cfcb412b24fd"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/draconic_head_mottled.png-afa1229031d3a4f4857ab90b92a47ae3.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/draconic_head/draconic_head_mottled.png"
+source_md5="d43bc53c873de5bcd06984d48b70f801"
+
+dest_files=[ "res://.import/draconic_head_mottled.png-afa1229031d3a4f4857ab90b92a47ae3.stex" ]
+dest_md5="9adead20c40a0890a4b7ffedd0ef105d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

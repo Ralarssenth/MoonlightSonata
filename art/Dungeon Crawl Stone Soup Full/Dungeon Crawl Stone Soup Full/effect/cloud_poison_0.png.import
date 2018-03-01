@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/cloud_poison_0.png-33820ca28e862057fa755a6baefb7e84.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/cloud_poison_0.png"
+source_md5="45f7e249f1a4a34bdb7b41299aa6c909"
+
+dest_files=[ "res://.import/cloud_poison_0.png-33820ca28e862057fa755a6baefb7e84.stex" ]
+dest_md5="801ef3dbee46df10abe01f5066d049ac"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

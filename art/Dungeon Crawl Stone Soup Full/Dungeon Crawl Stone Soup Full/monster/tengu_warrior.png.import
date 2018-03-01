@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/tengu_warrior.png-9f3e3cd6ca61530df07bd0f9f9e7f54f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/tengu_warrior.png"
+source_md5="042b8eaf50098ef0b4f4ccf7b35eb342"
+
+dest_files=[ "res://.import/tengu_warrior.png-9f3e3cd6ca61530df07bd0f9f9e7f54f.stex" ]
+dest_md5="fbf98b2577bf568552e5d497e8c6c630"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

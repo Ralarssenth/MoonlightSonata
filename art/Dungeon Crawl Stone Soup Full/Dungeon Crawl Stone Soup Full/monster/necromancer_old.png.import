@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/necromancer_old.png-2d4106d60bb8ae0a0b7fb26e849159ec.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/necromancer_old.png"
+source_md5="0cdbf02769785bef228d3a05cbb9928a"
+
+dest_files=[ "res://.import/necromancer_old.png-2d4106d60bb8ae0a0b7fb26e849159ec.stex" ]
+dest_md5="d0e59f941ac18bcdcc6ffdc08619ca68"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

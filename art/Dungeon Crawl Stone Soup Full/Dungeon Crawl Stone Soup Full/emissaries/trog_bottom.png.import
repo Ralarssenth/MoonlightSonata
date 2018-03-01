@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/trog_bottom.png-83cc0dc3356d85cda55f928833cb2379.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/emissaries/trog_bottom.png"
+source_md5="92c62bbc57691d89b9c4fd84675a333e"
+
+dest_files=[ "res://.import/trog_bottom.png-83cc0dc3356d85cda55f928833cb2379.stex" ]
+dest_md5="6acb9648d5487858b3694f4a42a8a6ce"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

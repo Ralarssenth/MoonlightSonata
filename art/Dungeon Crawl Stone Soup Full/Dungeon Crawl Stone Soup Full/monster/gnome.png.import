@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/gnome.png-4f391acfa86ac6e6c4fa04f8845c5613.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/gnome.png"
+source_md5="7ef4b983479f1a59a552a677c699d84d"
+
+dest_files=[ "res://.import/gnome.png-4f391acfa86ac6e6c4fa04f8845c5613.stex" ]
+dest_md5="a6fa3a001db4eee204f63f2d5b8db41f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

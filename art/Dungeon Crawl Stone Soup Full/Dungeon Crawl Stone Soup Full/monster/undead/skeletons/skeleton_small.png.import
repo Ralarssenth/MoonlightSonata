@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/skeleton_small.png-c8aa1195d3b26587834b4307768b89d9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/undead/skeletons/skeleton_small.png"
+source_md5="9dca75dbc8245024268aa65217b8967e"
+
+dest_files=[ "res://.import/skeleton_small.png-c8aa1195d3b26587834b4307768b89d9.stex" ]
+dest_md5="2489041ba5be37a26716906f618db67c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/centaur_paladin.png-cfa72f95e8f1016fc6a5a13011928eaf.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/holy/centaur_paladin.png"
+source_md5="9a776e8ce329ca0481e46c2ea09505f4"
+
+dest_files=[ "res://.import/centaur_paladin.png-cfa72f95e8f1016fc6a5a13011928eaf.stex" ]
+dest_md5="d24ab6e7aeb82ce06160c17c49f06a8d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

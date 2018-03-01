@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/killer_klown_yellow.png-7ec0f37a1a813f6f1690729c84c93d43.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/killer_klown_yellow.png"
+source_md5="5708667cd859924c2aa9216f5d20d85f"
+
+dest_files=[ "res://.import/killer_klown_yellow.png-7ec0f37a1a813f6f1690729c84c93d43.stex" ]
+dest_md5="033afe44a97473d7d36c5de7b6c84e16"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

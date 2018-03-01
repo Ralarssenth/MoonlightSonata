@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/draconic_job-monk_old.png-7c97853548d4f339b1a358597ad65c0e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/draconic/draconic_job-monk_old.png"
+source_md5="6d918615c2c4358c546f8003813ba418"
+
+dest_files=[ "res://.import/draconic_job-monk_old.png-7c97853548d4f339b1a358597ad65c0e.stex" ]
+dest_md5="dd551076491e37de2b28d84717bd69a4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

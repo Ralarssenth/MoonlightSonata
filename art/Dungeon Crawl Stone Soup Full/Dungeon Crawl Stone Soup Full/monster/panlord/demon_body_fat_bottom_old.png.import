@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/demon_body_fat_bottom_old.png-b7cbb43e7519938dd9f69f0aee76afeb.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/panlord/demon_body_fat_bottom_old.png"
+source_md5="47b8c3a814abbb6a77edd30e00919f63"
+
+dest_files=[ "res://.import/demon_body_fat_bottom_old.png-b7cbb43e7519938dd9f69f0aee76afeb.stex" ]
+dest_md5="41d6f1ac0985f7fb440898122ce58221"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

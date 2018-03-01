@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/doom_knight_new.png-959c308dd61bb10aff33b229995006d9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/artefact/doom_knight_new.png"
+source_md5="feb6c7c09fc11510548268c76f4d2595"
+
+dest_files=[ "res://.import/doom_knight_new.png-959c308dd61bb10aff33b229995006d9.stex" ]
+dest_md5="d85f70270ad22c0a2f5118b65dd1532c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

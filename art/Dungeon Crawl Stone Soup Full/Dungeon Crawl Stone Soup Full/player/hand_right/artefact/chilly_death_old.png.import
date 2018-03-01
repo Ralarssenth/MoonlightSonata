@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/chilly_death_old.png-816baa8a35d5cdd5d672f34e920f7953.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/artefact/chilly_death_old.png"
+source_md5="88459dfffb34cbd26940b5e3195c0c60"
+
+dest_files=[ "res://.import/chilly_death_old.png-816baa8a35d5cdd5d672f34e920f7953.stex" ]
+dest_md5="f80409fa999e7e4d70b6bea9109e394f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

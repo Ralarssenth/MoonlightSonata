@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/demonic_horde.png-598912a6a57bc544d68a5c2f467fa0c5.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/summoning/demonic_horde.png"
+source_md5="f2c65fd61ceb5973937290d8147dad22"
+
+dest_files=[ "res://.import/demonic_horde.png-598912a6a57bc544d68a5c2f467fa0c5.stex" ]
+dest_md5="f713538caedef3ec9ee0d07a5d60f7d5"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

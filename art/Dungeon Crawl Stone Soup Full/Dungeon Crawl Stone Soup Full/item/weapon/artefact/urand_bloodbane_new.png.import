@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/urand_bloodbane_new.png-c1b44b5657d9a407900784d3adcdc1a4.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/artefact/urand_bloodbane_new.png"
+source_md5="9fcb519a4fdd64d4e2d9c7992c2eaec0"
+
+dest_files=[ "res://.import/urand_bloodbane_new.png-c1b44b5657d9a407900784d3adcdc1a4.stex" ]
+dest_md5="9bb5c8a2067fa072596c9c01945637cb"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

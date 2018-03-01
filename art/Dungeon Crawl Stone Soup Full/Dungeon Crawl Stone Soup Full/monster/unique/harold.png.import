@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/harold.png-32aa7fcb90908fd7caaf13a9f8d3c1dc.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/harold.png"
+source_md5="86c09edbbd7e75065c143d28223f7da4"
+
+dest_files=[ "res://.import/harold.png-32aa7fcb90908fd7caaf13a9f8d3c1dc.stex" ]
+dest_md5="ed7b37880323883c0080b0b74c336c3a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

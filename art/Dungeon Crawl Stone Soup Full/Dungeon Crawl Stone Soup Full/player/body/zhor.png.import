@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/zhor.png-80500e25036a5dbd938f05f69bdf5fa1.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/body/zhor.png"
+source_md5="9e6ce44e85dac6263e47cf9cb093ed9a"
+
+dest_files=[ "res://.import/zhor.png-80500e25036a5dbd938f05f69bdf5fa1.stex" ]
+dest_md5="b1e8ec132d9eb5d045e8677baa6a50e9"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

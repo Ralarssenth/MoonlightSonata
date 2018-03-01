@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spriggan_enchanter.png-3038b42bacb6fd912fb18c1c156043cd.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/spriggan_enchanter.png"
+source_md5="71021390b4bd7f1cb2648fc9ed39c90e"
+
+dest_files=[ "res://.import/spriggan_enchanter.png-3038b42bacb6fd912fb18c1c156043cd.stex" ]
+dest_md5="b9d238f0692f34391c572e83b2fd0ae6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

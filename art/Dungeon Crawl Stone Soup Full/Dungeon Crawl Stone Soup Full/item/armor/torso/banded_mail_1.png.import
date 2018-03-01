@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/banded_mail_1.png-e4ca6a99e8a2a8d03680a2c4239f976d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/torso/banded_mail_1.png"
+source_md5="0885933de1035a740ad4ee495aa18657"
+
+dest_files=[ "res://.import/banded_mail_1.png-e4ca6a99e8a2a8d03680a2c4239f976d.stex" ]
+dest_md5="f4515e255cae7567152ea33ddf4e4569"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

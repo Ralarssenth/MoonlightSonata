@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/sandstone_floor_9.png-792be3c281a2b906366286c860fe96e3.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sandstone_floor_9.png"
+source_md5="b756b0fca30a77f0bd099e543b585539"
+
+dest_files=[ "res://.import/sandstone_floor_9.png-792be3c281a2b906366286c860fe96e3.stex" ]
+dest_md5="d66de8a0dcec6e3b9c9e0700147c85c0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ice_cave_gone.png-b3031378676e7b38421b36484b73ed77.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/gateways/ice_cave_gone.png"
+source_md5="f92d36f5a9a1a016e70e5ce3ca639c20"
+
+dest_files=[ "res://.import/ice_cave_gone.png-b3031378676e7b38421b36484b73ed77.stex" ]
+dest_md5="a25901351c1cdbbbf41e867d428e0028"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

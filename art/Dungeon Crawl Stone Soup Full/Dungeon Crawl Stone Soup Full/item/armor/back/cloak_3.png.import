@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/cloak_3.png-631a4a3a5f107eda8c3a40ca19cb75e8.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/back/cloak_3.png"
+source_md5="1325164109a8dee7b253c1d50657bdf8"
+
+dest_files=[ "res://.import/cloak_3.png-631a4a3a5f107eda8c3a40ca19cb75e8.stex" ]
+dest_md5="a0d497210fc001f8c19afcb03315ecc2"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

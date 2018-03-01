@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/maud_new.png-7904879ab25272a3fa0a84d1d5a4f702.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/maud_new.png"
+source_md5="4ea0daff18a974efbe3027af6fef6997"
+
+dest_files=[ "res://.import/maud_new.png-7904879ab25272a3fa0a84d1d5a4f702.stex" ]
+dest_md5="e3a48297045b3ec7164cba9007083a07"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

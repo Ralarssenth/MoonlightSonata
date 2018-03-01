@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/boots_3_stripe_new.png-cb08336300c6b94f53873a5cf25fd317.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/feet/boots_3_stripe_new.png"
+source_md5="c2ee1ae56ffbcf1b078bb564c0ca68f7"
+
+dest_files=[ "res://.import/boots_3_stripe_new.png-cb08336300c6b94f53873a5cf25fd317.stex" ]
+dest_md5="e826d242890d0fc288d90523909b9396"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

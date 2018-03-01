@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/chain_lightning_new.png-150399147330606b41905183e152bc1d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/air/chain_lightning_new.png"
+source_md5="d945bf33c4c1a5559ef79d26426ebdae"
+
+dest_files=[ "res://.import/chain_lightning_new.png-150399147330606b41905183e152bc1d.stex" ]
+dest_md5="37c709b63b2073f24aa82e7549d94788"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

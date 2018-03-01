@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/deaths_door_new.png-e8c7f807a020f5cf1bc1f68ae23a9dbf.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/necromancy/deaths_door_new.png"
+source_md5="f6f68518689708d42ff71b597d2e47c3"
+
+dest_files=[ "res://.import/deaths_door_new.png-e8c7f807a020f5cf1bc1f68ae23a9dbf.stex" ]
+dest_md5="5fa3a8d64946c59e0093544cc6ed59ff"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

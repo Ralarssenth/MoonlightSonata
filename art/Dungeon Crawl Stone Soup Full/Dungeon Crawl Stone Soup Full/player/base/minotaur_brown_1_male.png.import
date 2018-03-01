@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/minotaur_brown_1_male.png-cf00ccb14850654822391ec730a2fb1a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/base/minotaur_brown_1_male.png"
+source_md5="473428420a2a8d9ad13f0441e71e4200"
+
+dest_files=[ "res://.import/minotaur_brown_1_male.png-cf00ccb14850654822391ec730a2fb1a.stex" ]
+dest_md5="0c57d1f17b4a51dc74788e11f9ecf1f6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

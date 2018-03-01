@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/disjunct_1.png-d56ec1f218f5f2c30b1d07dbc8e365a4.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/disjunct_1.png"
+source_md5="bed5cf94d375a62e64d306244c05e502"
+
+dest_files=[ "res://.import/disjunct_1.png-d56ec1f218f5f2c30b1d07dbc8e365a4.stex" ]
+dest_md5="4c72a005b04182535ff5d13035aca27c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/fire.png-21edc9099aabd2ad12f66296b14405a3.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/disciplines/fire.png"
+source_md5="16b97e62c89f2c5321c025433f0fe27f"
+
+dest_files=[ "res://.import/fire.png-21edc9099aabd2ad12f66296b14405a3.stex" ]
+dest_md5="a4ff020d6413397274c9598fe23c8935"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

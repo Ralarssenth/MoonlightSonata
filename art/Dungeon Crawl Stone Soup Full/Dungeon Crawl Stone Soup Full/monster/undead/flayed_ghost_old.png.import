@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/flayed_ghost_old.png-e70342003e4952470bd00a1f221db221.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/undead/flayed_ghost_old.png"
+source_md5="819653a6130c749986ea3bd45d9ddcbc"
+
+dest_files=[ "res://.import/flayed_ghost_old.png-e70342003e4952470bd00a1f221db221.stex" ]
+dest_md5="9e3776a60cc92039c62794da6626a457"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

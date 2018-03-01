@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/wood_golem.png-36cbfc10c6c38bf8613314028b6b9008.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/nonliving/wood_golem.png"
+source_md5="1460c529ad5ca1197dbc5437571718a7"
+
+dest_files=[ "res://.import/wood_golem.png-36cbfc10c6c38bf8613314028b6b9008.stex" ]
+dest_md5="decb9b67c843bd6d7087cd786beee588"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/pigtails_yellow.png-ac2c6a577e764221d643cdca2a1bd36c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hair/pigtails_yellow.png"
+source_md5="2694ca4701cc0db1644e47cc3661db12"
+
+dest_files=[ "res://.import/pigtails_yellow.png-ac2c6a577e764221d643cdca2a1bd36c.stex" ]
+dest_md5="90a71a66a208f6cb5150445b5ff3dbb3"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/acid_blob.png-d32b99855bbdea58093520c7f6c94dc2.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/amorphous/acid_blob.png"
+source_md5="713e2494e0d919200a14abe782ebe14a"
+
+dest_files=[ "res://.import/acid_blob.png-d32b99855bbdea58093520c7f6c94dc2.stex" ]
+dest_md5="0f2d8622b30ef9ad0428cc3eeb88c84a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

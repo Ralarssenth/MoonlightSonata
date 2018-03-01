@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/golden_statue_1.png-6faa0b0cb085ee0201ee19d589e91d00.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/vaults/golden_statue_1.png"
+source_md5="86050e952d01d942fafb4d521617caac"
+
+dest_files=[ "res://.import/golden_statue_1.png-6faa0b0cb085ee0201ee19d589e91d00.stex" ]
+dest_md5="60a6a6c9df7aaa9404f8fb07a299e2d0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

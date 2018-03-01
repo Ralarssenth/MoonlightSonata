@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/sticks_to_snakes_new.png-b9ba5af0908e39ec0560a747ff285c07.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/summoning/sticks_to_snakes_new.png"
+source_md5="689220027df03dd7232ae337d490ba52"
+
+dest_files=[ "res://.import/sticks_to_snakes_new.png-b9ba5af0908e39ec0560a747ff285c07.stex" ]
+dest_md5="360e9384411ff6b4c64ee6400a996330"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

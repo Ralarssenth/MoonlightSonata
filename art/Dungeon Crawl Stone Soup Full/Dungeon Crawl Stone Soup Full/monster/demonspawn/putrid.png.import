@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/putrid.png-a228e8a23228837108cb6081fd9ba179.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/demonspawn/putrid.png"
+source_md5="5bf535eff9f29c7bf5e076d523b115b8"
+
+dest_files=[ "res://.import/putrid.png-a228e8a23228837108cb6081fd9ba179.stex" ]
+dest_md5="b6549a70765b16f8c8af3b135e5b38b0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

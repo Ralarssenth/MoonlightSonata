@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shoulder_pad.png-c51bfb398f0b58e1718b9eea8f8788d8.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/body/shoulder_pad.png"
+source_md5="08e15d64f2126039c0ceff84c2d9281d"
+
+dest_files=[ "res://.import/shoulder_pad.png-c51bfb398f0b58e1718b9eea8f8788d8.stex" ]
+dest_md5="d57a375727a526db7c6144886da18623"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

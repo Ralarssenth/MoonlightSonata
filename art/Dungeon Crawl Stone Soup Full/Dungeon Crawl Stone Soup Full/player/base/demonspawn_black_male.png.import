@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/demonspawn_black_male.png-1e61cebf8e8962b0f58826baa4110154.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/base/demonspawn_black_male.png"
+source_md5="60e4336eb3ed92f508fb7ec730ef88c2"
+
+dest_files=[ "res://.import/demonspawn_black_male.png-1e61cebf8e8962b0f58826baa4110154.stex" ]
+dest_md5="039f373f1b7895c3de6a71edf08a3606"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

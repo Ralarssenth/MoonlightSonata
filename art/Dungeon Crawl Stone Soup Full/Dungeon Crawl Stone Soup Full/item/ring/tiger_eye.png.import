@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/tiger_eye.png-86f47007fce4b36d50911b08b292fdd2.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/ring/tiger_eye.png"
+source_md5="8073c669fa4c8af115074bde3c2fb6a2"
+
+dest_files=[ "res://.import/tiger_eye.png-86f47007fce4b36d50911b08b292fdd2.stex" ]
+dest_md5="490e03c36cac2e04a3f44a0cb5e3451c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

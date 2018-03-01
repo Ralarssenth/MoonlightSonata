@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/naga_barding_blue.png-f44fa9d68c2599b4510e85c949420ed5.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/barding/naga_barding_blue.png"
+source_md5="93970f7d4cb56b0dcd8577fbcfc9d542"
+
+dest_files=[ "res://.import/naga_barding_blue.png-f44fa9d68c2599b4510e85c949420ed5.stex" ]
+dest_md5="55f02e5b53f796f3e3742df94dc2fb20"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

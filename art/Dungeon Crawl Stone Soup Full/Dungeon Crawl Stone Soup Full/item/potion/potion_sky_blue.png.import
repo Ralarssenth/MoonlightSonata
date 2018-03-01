@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/potion_sky_blue.png-0a76127f9772b6a56621ad97784c98a3.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/potion/potion_sky_blue.png"
+source_md5="9360c1b15842646b1cd0aca92a5045c5"
+
+dest_files=[ "res://.import/potion_sky_blue.png-0a76127f9772b6a56621ad97784c98a3.stex" ]
+dest_md5="adb2c9da4e02eb333ebc2f5ed9c6d160"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

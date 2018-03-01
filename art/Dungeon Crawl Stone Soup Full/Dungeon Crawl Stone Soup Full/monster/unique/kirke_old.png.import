@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/kirke_old.png-427dc03142e04c2c7c6bc4b2e0a6ee5a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/kirke_old.png"
+source_md5="010c820f64a9bb17d34f37652aa56680"
+
+dest_files=[ "res://.import/kirke_old.png-427dc03142e04c2c7c6bc4b2e0a6ee5a.stex" ]
+dest_md5="8ca8318dae5b225ee91c3e99bb74b206"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

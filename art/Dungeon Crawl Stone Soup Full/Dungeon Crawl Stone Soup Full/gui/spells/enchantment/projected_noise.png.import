@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/projected_noise.png-690c1e34b7f038be5cf9ede56597df98.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/enchantment/projected_noise.png"
+source_md5="cbe7fa6d37229b7379440b3268db94a6"
+
+dest_files=[ "res://.import/projected_noise.png-690c1e34b7f038be5cf9ede56597df98.stex" ]
+dest_md5="7fa3232bb37b0b1b83efeab9db20f886"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

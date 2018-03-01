@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/xtahua_new.png-82c7f17974eb232a56f2148fd6f47e6c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/xtahua_new.png"
+source_md5="b3d14a136d58c2878a065a85948de1c8"
+
+dest_files=[ "res://.import/xtahua_new.png-82c7f17974eb232a56f2148fd6f47e6c.stex" ]
+dest_md5="0ba813e676f81af9d149ff92e60fbdf8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/dragon_form_mottled.png-54477d47dcc992ff16316c3ac4fa9ea6.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/transform/dragon_form_mottled.png"
+source_md5="a38aab22b2b60eccce3ee050e7ee66ad"
+
+dest_files=[ "res://.import/dragon_form_mottled.png-54477d47dcc992ff16316c3ac4fa9ea6.stex" ]
+dest_md5="347828ba45ecda2d4ba1671ea7cc4152"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

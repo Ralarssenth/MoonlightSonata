@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/mace_of_brilliance.png-c40446923d112c02f3809a1f5c0f7fcd.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/artefact/mace_of_brilliance.png"
+source_md5="4d1b6d8f76768522b90ad208911360da"
+
+dest_files=[ "res://.import/mace_of_brilliance.png-c40446923d112c02f3809a1f5c0f7fcd.stex" ]
+dest_md5="855c299954b5ee9420a77dd18bf61199"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

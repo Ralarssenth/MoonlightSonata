@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/block_of_ice.png-963a1b65c6ef006d2b9bde4dcb0e04b3.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/statues/block_of_ice.png"
+source_md5="820677962d8b7f48804787e2c289bf48"
+
+dest_files=[ "res://.import/block_of_ice.png-963a1b65c6ef006d2b9bde4dcb0e04b3.stex" ]
+dest_md5="55088ae311c026359dd31aafcf2065d0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/merfolk_aquamancer_water_old.png-af36d803756c34c542637a89bf90195c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/merfolk_aquamancer_water_old.png"
+source_md5="da8c65f7afc14802c8b513c8b403ca00"
+
+dest_files=[ "res://.import/merfolk_aquamancer_water_old.png-af36d803756c34c542637a89bf90195c.stex" ]
+dest_md5="9ade922c6bb397a355d3ff083f0eb2ec"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

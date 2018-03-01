@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/scythe_1_old.png-b0bc5fedb1403ff72742926d44950874.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/scythe_1_old.png"
+source_md5="605b5038f3ec596c2a1329e6581b688a"
+
+dest_files=[ "res://.import/scythe_1_old.png-b0bc5fedb1403ff72742926d44950874.stex" ]
+dest_md5="f9a0ab789d16ea65b19b9e91844038da"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/condensation_shield_new.png-cab86c33b187943d0dfb4f8e52bc590a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/ice/condensation_shield_new.png"
+source_md5="2e3679764d711e607fe2e7285eb4ed37"
+
+dest_files=[ "res://.import/condensation_shield_new.png-cab86c33b187943d0dfb4f8e52bc590a.stex" ]
+dest_md5="003e3f7895e431fa932600b9b1b90000"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

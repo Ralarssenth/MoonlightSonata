@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/sickle.png-b87af94fdf20c6ceaf6b563a23ff1534.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/sickle.png"
+source_md5="52f2fa867421c144ae27049794baafb3"
+
+dest_files=[ "res://.import/sickle.png-b87af94fdf20c6ceaf6b563a23ff1534.stex" ]
+dest_md5="6329e778330ce317798e9d57f42fb709"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

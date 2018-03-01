@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spwpn_wucad_mu_old.png-e81de2a763f8f56dde4e2fc797eff9af.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/artefact/spwpn_wucad_mu_old.png"
+source_md5="0d81044ed8bc33a46d52f584b320d319"
+
+dest_files=[ "res://.import/spwpn_wucad_mu_old.png-e81de2a763f8f56dde4e2fc797eff9af.stex" ]
+dest_md5="e8a5e9bb19d04bfc3426659a26ddc11a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

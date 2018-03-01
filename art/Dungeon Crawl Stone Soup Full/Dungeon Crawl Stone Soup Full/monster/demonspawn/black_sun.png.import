@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/black_sun.png-98b2b3adf76328706705052005c7efbf.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/demonspawn/black_sun.png"
+source_md5="4d12fe5dc20b9664509514123dbe1ec8"
+
+dest_files=[ "res://.import/black_sun.png-98b2b3adf76328706705052005c7efbf.stex" ]
+dest_md5="3fda4c950f645fdc2175b178dde7d1e4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

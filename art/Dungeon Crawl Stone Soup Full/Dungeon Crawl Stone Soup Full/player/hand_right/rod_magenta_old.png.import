@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/rod_magenta_old.png-b432653579972f9d5975ffc9f9e67485.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/rod_magenta_old.png"
+source_md5="92307947ca0d5968038d78b8db1799dd"
+
+dest_files=[ "res://.import/rod_magenta_old.png-b432653579972f9d5975ffc9f9e67485.stex" ]
+dest_md5="ec6fdd5465fc0fcf395458c52051bd85"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

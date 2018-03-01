@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/great_bow.png-415d0d43d3f4f718dcc0acc0bfb61b85.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/great_bow.png"
+source_md5="3fcec3951afb5bc0c2052667ccbc794a"
+
+dest_files=[ "res://.import/great_bow.png-415d0d43d3f4f718dcc0acc0bfb61b85.stex" ]
+dest_md5="8bdacf03f2b46002ed425bbf7cdc1ae9"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/permarock_red_0.png-b6d8c2ae03350b560f943cf9424638d9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/permarock_red_0.png"
+source_md5="31565b750c27343eec4b611d2d75eb46"
+
+dest_files=[ "res://.import/permarock_red_0.png-b6d8c2ae03350b560f943cf9424638d9.stex" ]
+dest_md5="7c5ef5a3873107bbede871a1729a726b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

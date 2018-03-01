@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spear_3.png-cac2e078855462bc5bbb62c504e3efb5.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/spear_3.png"
+source_md5="a677e4abdd677ede95d32fd3ca0701d6"
+
+dest_files=[ "res://.import/spear_3.png-cac2e078855462bc5bbb62c504e3efb5.stex" ]
+dest_md5="c131db48daaba09a153bb02600217893"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

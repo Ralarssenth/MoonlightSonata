@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/snake-a_2.png-994358a8cee20faa3a1e5c14ac265068.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/snake-a_2.png"
+source_md5="e02e22c831144ed1d29a0be4a2287145"
+
+dest_files=[ "res://.import/snake-a_2.png-994358a8cee20faa3a1e5c14ac265068.stex" ]
+dest_md5="062c28823be312568d2d1c0a7d151faf"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

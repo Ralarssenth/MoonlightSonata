@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-recharging_new.png-b320350fe6d5203fbdb6511ca93b9933.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/bottom_right/i-recharging_new.png"
+source_md5="6a26ec24aab5d3d966a832abb0287af8"
+
+dest_files=[ "res://.import/i-recharging_new.png-b320350fe6d5203fbdb6511ca93b9933.stex" ]
+dest_md5="a1631649e349198512b3c27497424a5b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

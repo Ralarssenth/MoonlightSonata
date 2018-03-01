@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/draconic_head_yellow.png-b1c896a7209ba3ba9462784c8da34003.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/draconic_head/draconic_head_yellow.png"
+source_md5="f146a136d2ca7069697d14fb4707d9ee"
+
+dest_files=[ "res://.import/draconic_head_yellow.png-b1c896a7209ba3ba9462784c8da34003.stex" ]
+dest_md5="997e814ed5dbfc2a6a9d493466f6badb"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

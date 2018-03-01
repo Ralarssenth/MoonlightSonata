@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/mace_2_new.png-e83b10ff05d468d2d3500794747911cb.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/mace_2_new.png"
+source_md5="228135e28e86e7536bd15a18d4540abe"
+
+dest_files=[ "res://.import/mace_2_new.png-e83b10ff05d468d2d3500794747911cb.stex" ]
+dest_md5="a69a72503f79e5f7d2dd1afdaee7399d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

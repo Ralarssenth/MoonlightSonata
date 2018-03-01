@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/wall_yellow_rock_3.png-e25847148fd4ad1aa6801c34b4116205.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/wall_yellow_rock_3.png"
+source_md5="a71ccb73914f099499cf5e0ae73d297b"
+
+dest_files=[ "res://.import/wall_yellow_rock_3.png-e25847148fd4ad1aa6801c34b4116205.stex" ]
+dest_md5="441e1b941dac54d4ec2c0760b2248e29"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

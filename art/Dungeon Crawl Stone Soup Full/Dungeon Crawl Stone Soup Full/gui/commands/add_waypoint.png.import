@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/add_waypoint.png-4d77a2118d2f14a9cb961142701dcfdd.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/commands/add_waypoint.png"
+source_md5="087d65c02645c785a58623428b8ad6a3"
+
+dest_files=[ "res://.import/add_waypoint.png-4d77a2118d2f14a9cb961142701dcfdd.stex" ]
+dest_md5="1f335ad445057a4b34082f28f59e11af"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

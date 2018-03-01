@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/monstrous_menagerie.png-4a7336fbd627b1fef8aa7c9b59c588ee.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/summoning/monstrous_menagerie.png"
+source_md5="d2af4a50afd94c12a61f1920f49af341"
+
+dest_files=[ "res://.import/monstrous_menagerie.png-4a7336fbd627b1fef8aa7c9b59c588ee.stex" ]
+dest_md5="614d9b2a3c7edc70fdb186d7e3d31413"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

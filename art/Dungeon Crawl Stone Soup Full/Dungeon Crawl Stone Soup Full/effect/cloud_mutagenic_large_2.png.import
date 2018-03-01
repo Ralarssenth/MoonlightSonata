@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/cloud_mutagenic_large_2.png-874acaaa8ecde99477982d7a803d0eee.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/cloud_mutagenic_large_2.png"
+source_md5="0a0c1deabba9f8e4b58ae85ef2afdccf"
+
+dest_files=[ "res://.import/cloud_mutagenic_large_2.png-874acaaa8ecde99477982d7a803d0eee.stex" ]
+dest_md5="b37e409b1d6c6162d7dc956377bfe220"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

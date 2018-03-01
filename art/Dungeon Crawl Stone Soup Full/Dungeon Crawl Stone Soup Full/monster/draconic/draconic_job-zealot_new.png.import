@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/draconic_job-zealot_new.png-dd99977154d0b91e8579d8b640d7ba7f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/draconic/draconic_job-zealot_new.png"
+source_md5="358a5c8ca0e5b92a1412abd5f6d86419"
+
+dest_files=[ "res://.import/draconic_job-zealot_new.png-dd99977154d0b91e8579d8b640d7ba7f.stex" ]
+dest_md5="4e3773b9314c00639db2b3a0650e78ad"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

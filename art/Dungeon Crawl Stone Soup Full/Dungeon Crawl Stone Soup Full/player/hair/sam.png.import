@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/sam.png-18d0b9522dcd968075b79eb63b06b95e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hair/sam.png"
+source_md5="cf643032e851af8ffbf09d30e3be57b5"
+
+dest_files=[ "res://.import/sam.png-18d0b9522dcd968075b79eb63b06b95e.stex" ]
+dest_md5="df29d125f362e0a524cf3fb800173216"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

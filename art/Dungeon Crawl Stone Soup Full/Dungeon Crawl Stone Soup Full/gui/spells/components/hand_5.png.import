@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/hand_5.png-d3ac27665b8fce52b6016f498dcd99b0.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/components/hand_5.png"
+source_md5="8832967070cbce4969440b0ffc4195df"
+
+dest_files=[ "res://.import/hand_5.png-d3ac27665b8fce52b6016f498dcd99b0.stex" ]
+dest_md5="2ccd627c1125d4734bb059d4fe354bd5"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/hungry_ghost.png-af1f5f20ef2f13da6a5eeda7cffbdb25.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/undead/hungry_ghost.png"
+source_md5="0d84d04a6121c055ae8399b8d55687fd"
+
+dest_files=[ "res://.import/hungry_ghost.png-af1f5f20ef2f13da6a5eeda7cffbdb25.stex" ]
+dest_md5="84e5b3f8b6b15a20ba6f63021126bb8c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

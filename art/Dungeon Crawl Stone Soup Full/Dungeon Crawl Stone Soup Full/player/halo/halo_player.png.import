@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/halo_player.png-4a1e20f61d8a899d7baa4f65beb5a141.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/halo/halo_player.png"
+source_md5="2e754251b19d5b60265a0d702bf84d6c"
+
+dest_files=[ "res://.import/halo_player.png-4a1e20f61d8a899d7baa4f65beb5a141.stex" ]
+dest_md5="ce788506a1941421529e7753e3f38dd3"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

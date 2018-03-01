@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/brick_brown-vines_2.png-2683c1ab9efa035af026fb7555e9601e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/brick_brown-vines_2.png"
+source_md5="f9d132262b18a6175040835228ad55ef"
+
+dest_files=[ "res://.import/brick_brown-vines_2.png-2683c1ab9efa035af026fb7555e9601e.stex" ]
+dest_md5="db6461aded4c9190385ec3021fb9d3cd"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

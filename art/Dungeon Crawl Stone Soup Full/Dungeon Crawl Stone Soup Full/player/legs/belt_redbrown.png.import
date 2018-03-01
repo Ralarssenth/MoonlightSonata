@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/belt_redbrown.png-71c47a034bb84d49549324b5376107c6.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/legs/belt_redbrown.png"
+source_md5="fd317f59f0a124c985776ae5d58983f5"
+
+dest_files=[ "res://.import/belt_redbrown.png-71c47a034bb84d49549324b5376107c6.stex" ]
+dest_md5="9a7cdda616d7c4566f79496dd23e405f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

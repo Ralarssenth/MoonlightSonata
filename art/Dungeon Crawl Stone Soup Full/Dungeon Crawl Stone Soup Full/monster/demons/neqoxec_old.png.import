@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/neqoxec_old.png-a3aa19f6057140687225e0faf677e0cc.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/demons/neqoxec_old.png"
+source_md5="fb79dc93493c6b71e5fe3216f2414ef7"
+
+dest_files=[ "res://.import/neqoxec_old.png-a3aa19f6057140687225e0faf677e0cc.stex" ]
+dest_md5="4d40f7974a0cff01f9efbc9dd2ab9f51"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/jackal_new.png-97724e245e9022ae498f8205e7e7b7b9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/jackal_new.png"
+source_md5="0f65e45598e49e1fcb4c8bdd726e24ce"
+
+dest_files=[ "res://.import/jackal_new.png-97724e245e9022ae498f8205e7e7b7b9.stex" ]
+dest_md5="939e29f5a1d6fddbff1510357b307211"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

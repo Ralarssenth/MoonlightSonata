@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/labrat_unseen.png-daa2eaed57ad418fc74423f0e1acd11d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/labrat_unseen.png"
+source_md5="3c6d107439cbb25158d70d132228b4ea"
+
+dest_files=[ "res://.import/labrat_unseen.png-daa2eaed57ad418fc74423f0e1acd11d.stex" ]
+dest_md5="59a9dbb0868bc75c44f7cc1a752279f4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

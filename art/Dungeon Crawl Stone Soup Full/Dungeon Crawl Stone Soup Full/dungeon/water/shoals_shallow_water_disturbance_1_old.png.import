@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shoals_shallow_water_disturbance_1_old.png-6a0db4278b270e6081c2588340213676.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/water/shoals_shallow_water_disturbance_1_old.png"
+source_md5="40e17883656da75c547431dddacd2707"
+
+dest_files=[ "res://.import/shoals_shallow_water_disturbance_1_old.png-6a0db4278b270e6081c2588340213676.stex" ]
+dest_md5="114df01b5bc573e74cd6cf0b14d3522e"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

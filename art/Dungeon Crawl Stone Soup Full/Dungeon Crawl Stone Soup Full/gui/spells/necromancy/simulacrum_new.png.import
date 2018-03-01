@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/simulacrum_new.png-0567bced2d7278b3e0275625443d3fae.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/necromancy/simulacrum_new.png"
+source_md5="e349d01f10ffcb480d4477612a95fc30"
+
+dest_files=[ "res://.import/simulacrum_new.png-0567bced2d7278b3e0275625443d3fae.stex" ]
+dest_md5="b1a4d03b79ab6bd909a54c65925966ab"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/halberd_1.png-24f924c1feebac30dd04324030d41869.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/halberd_1.png"
+source_md5="0b7f9d7b383367b93f7d3dec79451c15"
+
+dest_files=[ "res://.import/halberd_1.png-24f924c1feebac30dd04324030d41869.stex" ]
+dest_md5="ba0fed94fcde4c2800566e4f8441a1d1"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

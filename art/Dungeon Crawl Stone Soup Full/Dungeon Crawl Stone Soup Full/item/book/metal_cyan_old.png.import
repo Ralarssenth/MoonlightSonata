@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/metal_cyan_old.png-21ab1e9d47cf1904ba3ea2f9082e22c7.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/book/metal_cyan_old.png"
+source_md5="209d6e307a28fb0c89976d18682ceef7"
+
+dest_files=[ "res://.import/metal_cyan_old.png-21ab1e9d47cf1904ba3ea2f9082e22c7.stex" ]
+dest_md5="a10237fc343aa818bb088638821fef6c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

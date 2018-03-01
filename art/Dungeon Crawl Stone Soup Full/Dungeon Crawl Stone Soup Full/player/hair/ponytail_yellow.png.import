@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ponytail_yellow.png-22ee49a0a9192db23bcb1206324c3fd5.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hair/ponytail_yellow.png"
+source_md5="9b9212e67528a85342777b13db0fc197"
+
+dest_files=[ "res://.import/ponytail_yellow.png-22ee49a0a9192db23bcb1206324c3fd5.stex" ]
+dest_md5="f39f80b8ccc837f06c194ddd0fd7f3e6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

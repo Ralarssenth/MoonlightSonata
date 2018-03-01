@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/piece_of_ambrosia_new.png-677c2c7c9c7bfcae64a967e1fc748c29.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/food/piece_of_ambrosia_new.png"
+source_md5="2cd9c434da3bb1f9d04aeb89faa182ee"
+
+dest_files=[ "res://.import/piece_of_ambrosia_new.png-677c2c7c9c7bfcae64a967e1fc748c29.stex" ]
+dest_md5="7135560c1794ecf3d457ca86b84bda97"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

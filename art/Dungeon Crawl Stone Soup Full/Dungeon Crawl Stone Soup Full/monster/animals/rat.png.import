@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/rat.png-c7fffe5ad0cbe9708f4c24048306ece6.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/rat.png"
+source_md5="f9ffed775c50b531e0cf4be737277106"
+
+dest_files=[ "res://.import/rat.png-c7fffe5ad0cbe9708f4c24048306ece6.stex" ]
+dest_md5="bbdc69d7bb9c79c81fe3f04554e0793f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

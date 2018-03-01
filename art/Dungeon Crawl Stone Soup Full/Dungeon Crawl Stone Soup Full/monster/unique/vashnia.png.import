@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/vashnia.png-3c8669f7122cb2152c867660f73afb8d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/vashnia.png"
+source_md5="a493c75fde3ee52ef30e2b5ac20539e6"
+
+dest_files=[ "res://.import/vashnia.png-3c8669f7122cb2152c867660f73afb8d.stex" ]
+dest_md5="3590ce17b2ea8b65787b7ea858ca8ef8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

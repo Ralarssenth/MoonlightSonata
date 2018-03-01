@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/volcano_gone.png-b2f91619c45c416319463ab6a5ea7b9a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/gateways/volcano_gone.png"
+source_md5="4ef99e065c584ff35ebc835f0dbbd73a"
+
+dest_files=[ "res://.import/volcano_gone.png-b2f91619c45c416319463ab6a5ea7b9a.stex" ]
+dest_md5="5f31cc9553bdd5320cf60a720c1f5db4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

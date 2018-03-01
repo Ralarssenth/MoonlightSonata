@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/deformed_orc.png-d2eaf844bbdbf5057f184ff8a243376c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/vault/deformed_orc.png"
+source_md5="2a39145a2ccf0164ec7883ecf7b122d3"
+
+dest_files=[ "res://.import/deformed_orc.png-d2eaf844bbdbf5057f184ff8a243376c.stex" ]
+dest_md5="9c28dbf6115e9a1261e28d06ae64cae3"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/tso_bless_weapon.png-ae294e66bc852ca447305c23f2235e78.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/invocations/tso_bless_weapon.png"
+source_md5="997d8862ab60f0348d3d2755eb7c5fde"
+
+dest_files=[ "res://.import/tso_bless_weapon.png-ae294e66bc852ca447305c23f2235e78.stex" ]
+dest_md5="3096e802beee151d72da7c9523436f7a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

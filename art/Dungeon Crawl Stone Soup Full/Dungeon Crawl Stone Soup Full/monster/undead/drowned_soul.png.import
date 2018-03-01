@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/drowned_soul.png-353db0a7d2ec418ecd6cc2d9f18737e9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/undead/drowned_soul.png"
+source_md5="0ed4c914aa3d0ffe5f1982608b2ae6bd"
+
+dest_files=[ "res://.import/drowned_soul.png-353db0a7d2ec418ecd6cc2d9f18737e9.stex" ]
+dest_md5="bffbdaf0808d17a6fd0e74c49c180da1"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-antimagic_old.png-ffff9c7286f89234f3e1ff10cb19621b.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/bottom_right/i-antimagic_old.png"
+source_md5="b48de1fcfac4123da04add1f97e0edf8"
+
+dest_files=[ "res://.import/i-antimagic_old.png-ffff9c7286f89234f3e1ff10cb19621b.stex" ]
+dest_md5="a44a8e0cb7224a4d0fc476de9cd82377"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

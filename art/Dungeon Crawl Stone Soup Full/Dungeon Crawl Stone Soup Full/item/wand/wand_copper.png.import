@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/wand_copper.png-ab98d6a8b75bdc1a6c4dcffe87dcd526.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/wand/wand_copper.png"
+source_md5="1b31b6ce38ec53614609076148d0b523"
+
+dest_files=[ "res://.import/wand_copper.png-ab98d6a8b75bdc1a6c4dcffe87dcd526.stex" ]
+dest_md5="75e8c0d1a1258a0922c9cc7d3f578dbd"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

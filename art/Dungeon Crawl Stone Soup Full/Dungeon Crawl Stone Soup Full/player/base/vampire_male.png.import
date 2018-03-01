@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/vampire_male.png-f986ac19a40e902ee2b875b561e3f647.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/base/vampire_male.png"
+source_md5="3eb1f7d676c20f03935c43190346487e"
+
+dest_files=[ "res://.import/vampire_male.png-f986ac19a40e902ee2b875b561e3f647.stex" ]
+dest_md5="99363a6f8068f1ba0bc0001ba9d3d901"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

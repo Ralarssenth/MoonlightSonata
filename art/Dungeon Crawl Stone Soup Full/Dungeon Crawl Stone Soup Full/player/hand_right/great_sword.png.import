@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/great_sword.png-2830ba57236f87f39a59618919b185e4.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/great_sword.png"
+source_md5="e39f7de3d31b2643dee5412a2c2ed566"
+
+dest_files=[ "res://.import/great_sword.png-2830ba57236f87f39a59618919b185e4.stex" ]
+dest_md5="3f13dbf40882409a873e0e83bacce2b6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

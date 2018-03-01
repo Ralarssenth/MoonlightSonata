@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/sword_thief.png-aad3d1c2e14f40a0783376aef6c2f9cd.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/sword_thief.png"
+source_md5="11329507a1acb3f33bb2589f4d0fd7a6"
+
+dest_files=[ "res://.import/sword_thief.png-aad3d1c2e14f40a0783376aef6c2f9cd.stex" ]
+dest_md5="61c11bbf77f90f2300059754d53725d7"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

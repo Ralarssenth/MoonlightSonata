@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spwpn_wrath_of_trog_new.png-f5bb206775a17071c6fab3184a17a269.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/artefact/spwpn_wrath_of_trog_new.png"
+source_md5="2cf0f3339f212248916061d20a088740"
+
+dest_files=[ "res://.import/spwpn_wrath_of_trog_new.png-f5bb206775a17071c6fab3184a17a269.stex" ]
+dest_md5="2ec4d0eb2d5101e1b778ad99d311116e"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

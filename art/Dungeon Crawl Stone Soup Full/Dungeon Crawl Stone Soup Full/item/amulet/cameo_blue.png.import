@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/cameo_blue.png-2474b5820fc32c5c8181f378ec88532c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/amulet/cameo_blue.png"
+source_md5="b4b5c748b241e36cc78ccceacddb38ff"
+
+dest_files=[ "res://.import/cameo_blue.png-2474b5820fc32c5c8181f378ec88532c.stex" ]
+dest_md5="de8a7a4fe55f1345ecb0eae3ce4e3aa0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

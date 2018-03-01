@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/gate_closed_middle.png-7c7b589977969a9d2b32e5fec04d2c6e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/doors/gate_closed_middle.png"
+source_md5="abd84b6493a3e1553963638fae9f7149"
+
+dest_files=[ "res://.import/gate_closed_middle.png-7c7b589977969a9d2b32e5fec04d2c6e.stex" ]
+dest_md5="d1c5dda2fbfdf466233e03ca023a99c4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

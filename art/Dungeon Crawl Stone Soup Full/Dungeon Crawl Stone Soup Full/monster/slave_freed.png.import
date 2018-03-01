@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/slave_freed.png-26e60bd444cd920ff95d1dd7d2f8d7ef.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/slave_freed.png"
+source_md5="66e584fd99d89ea0fa73522a1f91ca71"
+
+dest_files=[ "res://.import/slave_freed.png-26e60bd444cd920ff95d1dd7d2f8d7ef.stex" ]
+dest_md5="76b400fe4e45213b52b3071568dd7f9e"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

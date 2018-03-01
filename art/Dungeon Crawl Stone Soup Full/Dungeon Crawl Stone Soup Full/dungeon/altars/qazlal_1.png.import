@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/qazlal_1.png-a8a30cad24744178e0552b832e7a4da6.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/altars/qazlal_1.png"
+source_md5="0aa90bedab02701066bc8b5105012aed"
+
+dest_files=[ "res://.import/qazlal_1.png-a8a30cad24744178e0552b832e7a4da6.stex" ]
+dest_md5="2a4f339e61eb63a567473fc6d55972f3"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

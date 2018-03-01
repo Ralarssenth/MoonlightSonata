@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/dragon_armor_gold_new.png-1880d20e8146fece6d6e5e68dd0c37be.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/body/dragon_armor_gold_new.png"
+source_md5="82cba2ffb9d29c068c4969f80de6cfb5"
+
+dest_files=[ "res://.import/dragon_armor_gold_new.png-1880d20e8146fece6d6e5e68dd0c37be.stex" ]
+dest_md5="a70a9d317ccb44ba503cc9f965a9aa5e"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

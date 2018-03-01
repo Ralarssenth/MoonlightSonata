@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/blood_red_17.png-7a59b33fd50bc5d3bf6567a290c6cd8e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/blood/blood_red_17.png"
+source_md5="02365653879c95fc09be25b96ca04bbe"
+
+dest_files=[ "res://.import/blood_red_17.png-7a59b33fd50bc5d3bf6567a290c6cd8e.stex" ]
+dest_md5="02ef8b5e269a357fe42b9d6ab23f4e65"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

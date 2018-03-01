@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/dragon_armor_magenta_old.png-d39f44c48b8f2e73419d7f959087fd5c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/body/dragon_armor_magenta_old.png"
+source_md5="bbfa75035a99891e8f22a2223f95445e"
+
+dest_files=[ "res://.import/dragon_armor_magenta_old.png-d39f44c48b8f2e73419d7f959087fd5c.stex" ]
+dest_md5="1a3b09b4f6baa3a92b1de44588942c12"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

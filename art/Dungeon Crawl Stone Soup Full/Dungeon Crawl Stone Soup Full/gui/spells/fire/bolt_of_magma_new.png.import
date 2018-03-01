@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/bolt_of_magma_new.png-58135d63acf8cbb655c4f1dea54dceab.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/fire/bolt_of_magma_new.png"
+source_md5="0ded5384c3c740d789cdd53c171f6bc3"
+
+dest_files=[ "res://.import/bolt_of_magma_new.png-58135d63acf8cbb655c4f1dea54dceab.stex" ]
+dest_md5="8cafd849c95c8718609aab2f98474a91"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

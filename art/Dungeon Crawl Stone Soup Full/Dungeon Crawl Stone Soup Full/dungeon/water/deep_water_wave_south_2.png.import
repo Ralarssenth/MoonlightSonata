@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/deep_water_wave_south_2.png-b43b62974485f66c99ed77e2ac495b07.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/water/deep_water_wave_south_2.png"
+source_md5="9aa30c18e68b6d7a765156de9643fb9c"
+
+dest_files=[ "res://.import/deep_water_wave_south_2.png-b43b62974485f66c99ed77e2ac495b07.stex" ]
+dest_md5="8d843dd70b1c255a8f86d794b4248c8d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

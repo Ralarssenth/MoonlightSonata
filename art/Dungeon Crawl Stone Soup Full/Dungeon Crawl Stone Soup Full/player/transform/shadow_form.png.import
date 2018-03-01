@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shadow_form.png-682b4880ead5f5e09d8089455754b10a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/transform/shadow_form.png"
+source_md5="c2b11562da9c90d35820c32436400997"
+
+dest_files=[ "res://.import/shadow_form.png-682b4880ead5f5e09d8089455754b10a.stex" ]
+dest_md5="4f4fac92caa90e8decc671b3a16cf36a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

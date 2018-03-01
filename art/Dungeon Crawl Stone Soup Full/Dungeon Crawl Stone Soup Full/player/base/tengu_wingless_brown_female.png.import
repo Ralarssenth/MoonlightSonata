@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/tengu_wingless_brown_female.png-700bfcec8333dd1934999d8105eeda0a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/base/tengu_wingless_brown_female.png"
+source_md5="3dcebfe828fed688173ce6b31f8c1d80"
+
+dest_files=[ "res://.import/tengu_wingless_brown_female.png-700bfcec8333dd1934999d8105eeda0a.stex" ]
+dest_md5="d54a2ba48f593dca691aabb964dd093b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/blowgun_2.png-dcfad59124371130232241e11d9f5ca9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/ranged/blowgun_2.png"
+source_md5="38eb146496853c997e8798b1f3fe7e9c"
+
+dest_files=[ "res://.import/blowgun_2.png-dcfad59124371130232241e11d9f5ca9.stex" ]
+dest_md5="881badd2343f96748ee4f904468f5405"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/grass_flowers_yellow_3_new.png-c17092f4ac037862c32fe87cf14a643a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/grass/grass_flowers_yellow_3_new.png"
+source_md5="2f730775ea97f5a1bd2b6893e1acb093"
+
+dest_files=[ "res://.import/grass_flowers_yellow_3_new.png-c17092f4ac037862c32fe87cf14a643a.stex" ]
+dest_md5="7ff352bee14f5b846275932abd3b5be2"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

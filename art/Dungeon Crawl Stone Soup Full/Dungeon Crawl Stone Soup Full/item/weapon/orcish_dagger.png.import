@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/orcish_dagger.png-3ff0efdcb4989d56c08a1f7d37241d3e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/orcish_dagger.png"
+source_md5="fbb2139eccf787a7ce493947d3ff125f"
+
+dest_files=[ "res://.import/orcish_dagger.png-3ff0efdcb4989d56c08a1f7d37241d3e.stex" ]
+dest_md5="3fd518110acc35de00ea8803dc50d586"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/zin_donate.png-3266da8292d385d00770a1bc412c2c62.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/invocations/zin_donate.png"
+source_md5="89bd97e3e35f2fb69626adf372cc6900"
+
+dest_files=[ "res://.import/zin_donate.png-3266da8292d385d00770a1bc412c2c62.stex" ]
+dest_md5="fcda155421be6549de8ed2317c384b4a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

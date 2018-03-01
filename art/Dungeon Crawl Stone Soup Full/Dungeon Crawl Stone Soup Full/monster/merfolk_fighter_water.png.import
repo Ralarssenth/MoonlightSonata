@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/merfolk_fighter_water.png-b9ec45f3a8077d61c012858eded7648b.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/merfolk_fighter_water.png"
+source_md5="78ad23507cfadbf764e2f09ae3a605c8"
+
+dest_files=[ "res://.import/merfolk_fighter_water.png-b9ec45f3a8077d61c012858eded7648b.stex" ]
+dest_md5="cc0fb550ccdf5d4d938208d2ec344d59"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

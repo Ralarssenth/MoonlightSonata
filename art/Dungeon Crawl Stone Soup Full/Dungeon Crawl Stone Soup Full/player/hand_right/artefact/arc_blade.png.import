@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/arc_blade.png-2ceedbf1496c3d1467c15b4213a1e4dd.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/artefact/arc_blade.png"
+source_md5="2d2a992ee6604e588353a6452ccb7440"
+
+dest_files=[ "res://.import/arc_blade.png-2ceedbf1496c3d1467c15b4213a1e4dd.stex" ]
+dest_md5="5583830af2ad7f3ed5e50686689f6075"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/pearl_dragon_hide.png-9e1367036f56e9cad01329ed1f0a0356.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/torso/pearl_dragon_hide.png"
+source_md5="03f9ff5281075dbacd01a33249f40946"
+
+dest_files=[ "res://.import/pearl_dragon_hide.png-9e1367036f56e9cad01329ed1f0a0356.stex" ]
+dest_md5="fd83e7b58fecba5a82f0e5abe71f3d6a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

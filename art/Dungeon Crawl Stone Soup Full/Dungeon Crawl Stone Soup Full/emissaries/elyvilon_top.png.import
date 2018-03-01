@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/elyvilon_top.png-9ce8a0edc33ccdd1e072e7582db133ea.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/emissaries/elyvilon_top.png"
+source_md5="ae6edd2426a51ec4f4141fe5320f982f"
+
+dest_files=[ "res://.import/elyvilon_top.png-9ce8a0edc33ccdd1e072e7582db133ea.stex" ]
+dest_md5="570091360de406573c55679f7e17c655"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/mud_3.png-533d1758ab0279050e5ebaedb4efb20c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/mud_3.png"
+source_md5="6431827a0ae5ecf3f4da1f513505c6e2"
+
+dest_files=[ "res://.import/mud_3.png-533d1758ab0279050e5ebaedb4efb20c.stex" ]
+dest_md5="b3cfd543030fb0e6ce8431237ad4d6b9"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

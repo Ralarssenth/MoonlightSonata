@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/deep_elf_female.png-fa48c9df21908d73f67e9c0706b05fbf.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/base/deep_elf_female.png"
+source_md5="f2d4bccedc7966be63f4a28833a13f54"
+
+dest_files=[ "res://.import/deep_elf_female.png-fa48c9df21908d73f67e9c0706b05fbf.stex" ]
+dest_md5="2d13ec082e0e9d6986b425128ed59fc0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

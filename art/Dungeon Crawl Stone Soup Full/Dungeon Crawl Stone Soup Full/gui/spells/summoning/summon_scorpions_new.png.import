@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/summon_scorpions_new.png-436a22e10fad3ce604be6b9d312342f9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/summoning/summon_scorpions_new.png"
+source_md5="4a4d36e6c37cfd19f848c8d3ad32c60f"
+
+dest_files=[ "res://.import/summon_scorpions_new.png-436a22e10fad3ce604be6b9d312342f9.stex" ]
+dest_md5="272115f940b3d486d6a7d2cb470b0da5"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

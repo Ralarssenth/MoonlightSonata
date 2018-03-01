@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/irradiate_3.png-2509389d29aba3c860faf9f8e645f0d3.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/irradiate_3.png"
+source_md5="a9121189d12992ebb0e98dd3518b7e9b"
+
+dest_files=[ "res://.import/irradiate_3.png-2509389d29aba3c860faf9f8e645f0d3.stex" ]
+dest_md5="db6f4a865786f766c1dfdffbbb52ae64"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

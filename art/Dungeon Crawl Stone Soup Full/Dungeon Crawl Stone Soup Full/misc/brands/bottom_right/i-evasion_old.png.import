@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-evasion_old.png-19c06d92ae4631387a6fabab8b25594d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/bottom_right/i-evasion_old.png"
+source_md5="b70c49d812a1408105096d173f988483"
+
+dest_files=[ "res://.import/i-evasion_old.png-19c06d92ae4631387a6fabab8b25594d.stex" ]
+dest_md5="7b2d0901c19324617d3a5063a7236eeb"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/joseph_new.png-3484af157c1720b3f88b74014c0e3711.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/joseph_new.png"
+source_md5="ac7cfd870282da595bd59dfe6dd6eb52"
+
+dest_files=[ "res://.import/joseph_new.png-3484af157c1720b3f88b74014c0e3711.stex" ]
+dest_md5="af9870171d723efc2a59684099c4dc84"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

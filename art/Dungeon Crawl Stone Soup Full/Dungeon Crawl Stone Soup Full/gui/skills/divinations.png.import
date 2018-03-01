@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/divinations.png-9aa008f1bfff3db4009c0ff607ea5983.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/skills/divinations.png"
+source_md5="ce9318559bfb021a04a1144eb6cc36b7"
+
+dest_files=[ "res://.import/divinations.png-9aa008f1bfff3db4009c0ff607ea5983.stex" ]
+dest_md5="ca6c0da816177e28fc4ae4cbe07a011c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

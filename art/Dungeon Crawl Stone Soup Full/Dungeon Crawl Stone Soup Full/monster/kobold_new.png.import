@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/kobold_new.png-2491747a6d8682694adfbb5a1b2ca0ce.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/kobold_new.png"
+source_md5="9a410ab3fa84575b12d6b976294cc260"
+
+dest_files=[ "res://.import/kobold_new.png-2491747a6d8682694adfbb5a1b2ca0ce.stex" ]
+dest_md5="4ead3fb1af4b59d0d90ec9c5c44a7b86"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/repel_missiles_new.png-e108ff972c674e9e63f76b0eaa77c299.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/air/repel_missiles_new.png"
+source_md5="816942cede2168e30a5372327cba6993"
+
+dest_files=[ "res://.import/repel_missiles_new.png-e108ff972c674e9e63f76b0eaa77c299.stex" ]
+dest_md5="25b23ffd43c8187707685aa6c88b1188"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

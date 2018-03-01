@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ink_wave_west.png-37a265d4b9193b319dde68a19bfbb8fc.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/water/ink_wave_west.png"
+source_md5="1ee4949c359df2b0adcd31a536d6e33a"
+
+dest_files=[ "res://.import/ink_wave_west.png-37a265d4b9193b319dde68a19bfbb8fc.stex" ]
+dest_md5="5cf581d0758a5def1d30df06d578dfc1"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

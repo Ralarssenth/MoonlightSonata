@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-rod_striking_old.png-432e73c85af046f6f0c53ec992249306.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/bottom_right/i-rod_striking_old.png"
+source_md5="5e6a21f4deca60471c3d8a37a43756de"
+
+dest_files=[ "res://.import/i-rod_striking_old.png-432e73c85af046f6f0c53ec992249306.stex" ]
+dest_md5="3ff62e13bb6e052d346a5ad9a3bf067d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

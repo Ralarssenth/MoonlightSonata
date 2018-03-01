@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/pole_forked.png-802095d9ddbd2f63ae57336e804a2b1e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/pole_forked.png"
+source_md5="73d78683984043d7c561553626082793"
+
+dest_files=[ "res://.import/pole_forked.png-802095d9ddbd2f63ae57336e804a2b1e.stex" ]
+dest_md5="34bd60f7927a4d5f7c6aa03d41480a72"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

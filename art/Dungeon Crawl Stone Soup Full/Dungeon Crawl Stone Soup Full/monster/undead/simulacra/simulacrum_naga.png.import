@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/simulacrum_naga.png-61b6e2b8612822423608d3ddd4d932ae.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/undead/simulacra/simulacrum_naga.png"
+source_md5="0adf4d5a965695aed204cc79e8604a41"
+
+dest_files=[ "res://.import/simulacrum_naga.png-61b6e2b8612822423608d3ddd4d932ae.stex" ]
+dest_md5="7aa7df03ebb50f1186490c0abf3bbe53"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/deep_elf_sorcerer.png-3fce2ad33acd1af7743e122343b80689.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/deep_elf_sorcerer.png"
+source_md5="92c8fba1cf4133e78bf08ce3f395e5c1"
+
+dest_files=[ "res://.import/deep_elf_sorcerer.png-3fce2ad33acd1af7743e122343b80689.stex" ]
+dest_md5="789be5eef847484f09e01cb7e77211ac"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

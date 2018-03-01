@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/granite_stump_old.png-ff940f3a9ebdd47eaf8229df585e6ea5.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/statues/granite_stump_old.png"
+source_md5="1dd92d3fe18115f1db316386262de8ee"
+
+dest_files=[ "res://.import/granite_stump_old.png-ff940f3a9ebdd47eaf8229df585e6ea5.stex" ]
+dest_md5="dfc9ded9fc97058145ecebf043448552"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

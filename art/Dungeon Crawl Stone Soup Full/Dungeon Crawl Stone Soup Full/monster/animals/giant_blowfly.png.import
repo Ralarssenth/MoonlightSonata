@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/giant_blowfly.png-6004d918b4b86212426d9068acdcf341.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/giant_blowfly.png"
+source_md5="5409d3b32b0540f02989e427c316b9a6"
+
+dest_files=[ "res://.import/giant_blowfly.png-6004d918b4b86212426d9068acdcf341.stex" ]
+dest_md5="53d16506a246feffb478112b03b4de3f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

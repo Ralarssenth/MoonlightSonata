@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/lightning_scales.png-1ccfe71061488ef654059a27006847a2.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/barding/lightning_scales.png"
+source_md5="70609e370f187b84f64796c136af7a62"
+
+dest_files=[ "res://.import/lightning_scales.png-1ccfe71061488ef654059a27006847a2.stex" ]
+dest_md5="f4b3c656d7b1c41b0d714f66667ffe47"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

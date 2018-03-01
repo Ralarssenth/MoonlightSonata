@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/petrifying.png-1872782317cb7370e50ef9abf3f19282.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/top_right/petrifying.png"
+source_md5="2256f7a8716cf09157fba4210ea7799c"
+
+dest_files=[ "res://.import/petrifying.png-1872782317cb7370e50ef9abf3f19282.stex" ]
+dest_md5="bd11ab68521c22e803642198f2345158"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

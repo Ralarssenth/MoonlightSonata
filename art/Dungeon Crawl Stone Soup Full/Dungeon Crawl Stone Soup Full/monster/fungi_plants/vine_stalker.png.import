@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/vine_stalker.png-78e163816ef17de74bed6447a202a335.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/fungi_plants/vine_stalker.png"
+source_md5="ef26d03ea04d58d6238174b931d467c3"
+
+dest_files=[ "res://.import/vine_stalker.png-78e163816ef17de74bed6447a202a335.stex" ]
+dest_md5="8ffa010e2f51464d5c274ce9bec7559c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

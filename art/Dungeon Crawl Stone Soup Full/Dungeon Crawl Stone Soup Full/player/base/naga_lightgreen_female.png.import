@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/naga_lightgreen_female.png-d94bfeebe35e703bcd0c5bdc6c71ff49.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/base/naga_lightgreen_female.png"
+source_md5="2ddb0b578fa9bcd5baf4b6bbe94f0a24"
+
+dest_files=[ "res://.import/naga_lightgreen_female.png-d94bfeebe35e703bcd0c5bdc6c71ff49.stex" ]
+dest_md5="580146d3a9cdd3e7663cc79b8f72b5d3"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

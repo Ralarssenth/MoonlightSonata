@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shadow_dragon_scales.png-8da20d6ae2083733d89d18da8d875359.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/torso/shadow_dragon_scales.png"
+source_md5="ab7154c99b3a8bf8fe44b91df779d0ee"
+
+dest_files=[ "res://.import/shadow_dragon_scales.png-8da20d6ae2083733d89d18da8d875359.stex" ]
+dest_md5="28ec0a86f9af438fa56b3acf2892dfda"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

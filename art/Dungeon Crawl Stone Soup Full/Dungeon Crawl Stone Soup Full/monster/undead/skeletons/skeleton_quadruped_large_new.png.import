@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/skeleton_quadruped_large_new.png-288d7567c45c342f521a1a9847315789.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/undead/skeletons/skeleton_quadruped_large_new.png"
+source_md5="fbf764f05c9192a9b0ba6f2cbbef7255"
+
+dest_files=[ "res://.import/skeleton_quadruped_large_new.png-288d7567c45c342f521a1a9847315789.stex" ]
+dest_md5="0ddfdd84c3dba87beec24c485cb5af6c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

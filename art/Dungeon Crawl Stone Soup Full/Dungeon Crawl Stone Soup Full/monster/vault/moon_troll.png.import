@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/moon_troll.png-ba2a81ff6df54ea7712edf73e95aa54c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/vault/moon_troll.png"
+source_md5="d36e6ad19f017fb40f165911022e1ed3"
+
+dest_files=[ "res://.import/moon_troll.png-ba2a81ff6df54ea7712edf73e95aa54c.stex" ]
+dest_md5="f36f65bb25d1711041733aa6447a6abf"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

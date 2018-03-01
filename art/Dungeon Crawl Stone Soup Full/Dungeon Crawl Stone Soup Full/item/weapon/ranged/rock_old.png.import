@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/rock_old.png-bb65c8fb2aec0b0c59e9908cae7e16e7.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/ranged/rock_old.png"
+source_md5="3e7787cf4b8f7fbbe3dd8dabd4fae31f"
+
+dest_files=[ "res://.import/rock_old.png-bb65c8fb2aec0b0c59e9908cae7e16e7.stex" ]
+dest_md5="55661b4a6e704a7b01adeaba904ec6a5"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

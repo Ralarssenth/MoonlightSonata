@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-remove_curse_new.png-4dffe8cbe5077814e0b59f9f59be6f94.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/bottom_right/i-remove_curse_new.png"
+source_md5="9166bb3a886268db37afbdae2cd0646c"
+
+dest_files=[ "res://.import/i-remove_curse_new.png-4dffe8cbe5077814e0b59f9f59be6f94.stex" ]
+dest_md5="e20bbc2e5c63da7bc7dcef686705d349"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

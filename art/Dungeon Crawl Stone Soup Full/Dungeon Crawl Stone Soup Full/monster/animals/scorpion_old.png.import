@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/scorpion_old.png-245fe006f05acec0fbb9784f1cd53925.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/scorpion_old.png"
+source_md5="2d60a828e33e36fd63a86884e5edc39d"
+
+dest_files=[ "res://.import/scorpion_old.png-245fe006f05acec0fbb9784f1cd53925.stex" ]
+dest_md5="30823afe961396bbf1626a5fea3dc018"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

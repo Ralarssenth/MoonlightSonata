@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/green_bones_11.png-0181a6d5e098ae6781838c4f3710419a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/green_bones_11.png"
+source_md5="aaf28054d215360da076774cd3edb395"
+
+dest_files=[ "res://.import/green_bones_11.png-0181a6d5e098ae6781838c4f3710419a.stex" ]
+dest_md5="52f3a3caf2cef1ea4f3e2fdb283698d3"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

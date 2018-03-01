@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-blinking_new.png-db9d3e8171dc699d60052c0cea264638.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/bottom_right/i-blinking_new.png"
+source_md5="3110b89775fedbee033cd016e0284f0c"
+
+dest_files=[ "res://.import/i-blinking_new.png-db9d3e8171dc699d60052c0cea264638.stex" ]
+dest_md5="e2b57451e79467a5d20943dd2daa6f83"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

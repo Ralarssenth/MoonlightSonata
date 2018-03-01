@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/bloodbane_old.png-14bbd6e2a7db103f8b8e855412b8d008.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/artefact/bloodbane_old.png"
+source_md5="ca429d86d05f29fd5f88a62bfc84db21"
+
+dest_files=[ "res://.import/bloodbane_old.png-14bbd6e2a7db103f8b8e855412b8d008.stex" ]
+dest_md5="f4a7a84a26992dbb71d9819b04ada062"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

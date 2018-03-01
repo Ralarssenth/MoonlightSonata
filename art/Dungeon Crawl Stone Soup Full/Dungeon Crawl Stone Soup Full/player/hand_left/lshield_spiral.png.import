@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/lshield_spiral.png-ff948c6ffd2ff0d1c162a64662d3f61d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_left/lshield_spiral.png"
+source_md5="3a4aa9a2a9dd794885e1bf43745ff584"
+
+dest_files=[ "res://.import/lshield_spiral.png-ff948c6ffd2ff0d1c162a64662d3f61d.stex" ]
+dest_md5="8e2cdaab357209cf8d49a069aed75af1"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

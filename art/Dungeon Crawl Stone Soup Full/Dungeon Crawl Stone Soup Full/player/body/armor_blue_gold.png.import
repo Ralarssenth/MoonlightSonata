@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/armor_blue_gold.png-3a4dc58cdcb717a800bfdaaf20a2ec0e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/body/armor_blue_gold.png"
+source_md5="1cb10b26d16684cae3ca6dbece58ff01"
+
+dest_files=[ "res://.import/armor_blue_gold.png-3a4dc58cdcb717a800bfdaaf20a2ec0e.stex" ]
+dest_md5="d78c5cbd03bc83bbc3775ad2a6d201bf"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

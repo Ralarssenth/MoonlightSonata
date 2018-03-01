@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/sigmund_old.png-b89c48a88e1c459c837bc9a7a775a2b4.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/sigmund_old.png"
+source_md5="63089c900ac03c0a8e451c4dcec8c851"
+
+dest_files=[ "res://.import/sigmund_old.png-b89c48a88e1c459c837bc9a7a775a2b4.stex" ]
+dest_md5="9c876af9598a8e8852d6e1f6e26f7be4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

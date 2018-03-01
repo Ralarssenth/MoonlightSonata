@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/club_new.png-dfc7bb805ed7fe2b2b90f2449eda34ed.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/club_new.png"
+source_md5="7d796f4dcf69bc3a3b4ed7d940a00d2a"
+
+dest_files=[ "res://.import/club_new.png-dfc7bb805ed7fe2b2b90f2449eda34ed.stex" ]
+dest_md5="cc14aa30497d203a08a2cef5766fa7e2"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/crossbow_3.png-dc8fd8b0104d36c127b7fd04c848226c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/crossbow_3.png"
+source_md5="bd8edcc25c51c15d1374de0d28a42bf4"
+
+dest_files=[ "res://.import/crossbow_3.png-dc8fd8b0104d36c127b7fd04c848226c.stex" ]
+dest_md5="80dcfd57ef8d115af1e329df7ca10f38"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

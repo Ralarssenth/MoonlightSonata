@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/blade_hands_old.png-c367cba2a3ea0a77a8a72bb91cfc74db.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/transmutation/blade_hands_old.png"
+source_md5="7cf5525dacdf33ad7df4cd482f480cd2"
+
+dest_files=[ "res://.import/blade_hands_old.png-c367cba2a3ea0a77a8a72bb91cfc74db.stex" ]
+dest_md5="b8463e63b703e4aca0b2e37e544847f8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

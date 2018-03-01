@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/cloud_black_smoke.png-c56c29631cfc0cbd428b20d8aec20cbc.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/cloud_black_smoke.png"
+source_md5="c38524cf8096034fa86a6d401bc8d60a"
+
+dest_files=[ "res://.import/cloud_black_smoke.png-c56c29631cfc0cbd428b20d8aec20cbc.stex" ]
+dest_md5="edf8f08faab82f68f0006dc2e5278243"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

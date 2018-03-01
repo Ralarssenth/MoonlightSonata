@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/orb_of_destruction_2.png-f1447916334f0b5d672d268daaa24ab7.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/nonliving/orb_of_destruction_2.png"
+source_md5="37f547a9142c510694cb874ec5c23c56"
+
+dest_files=[ "res://.import/orb_of_destruction_2.png-f1447916334f0b5d672d268daaa24ab7.stex" ]
+dest_md5="978439d1bc05451357827420796864a3"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

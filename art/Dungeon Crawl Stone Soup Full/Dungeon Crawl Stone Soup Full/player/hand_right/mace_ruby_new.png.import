@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/mace_ruby_new.png-2b80360cae012971fa1521e87c24805e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/mace_ruby_new.png"
+source_md5="864ec2cbe77e853eaa986f8a5fd5154a"
+
+dest_files=[ "res://.import/mace_ruby_new.png-2b80360cae012971fa1521e87c24805e.stex" ]
+dest_md5="d6403aae026c7e67a76364626d495b27"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

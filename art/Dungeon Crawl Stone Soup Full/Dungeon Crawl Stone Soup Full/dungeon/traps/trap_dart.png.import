@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/trap_dart.png-9f04531eceb9f4c9a35cd785a9e4b887.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/traps/trap_dart.png"
+source_md5="ae7dcd520bb8bf06a082962c05399177"
+
+dest_files=[ "res://.import/trap_dart.png-9f04531eceb9f4c9a35cd785a9e4b887.stex" ]
+dest_md5="d0475cab1e53e3c4b9cbd08c9b1b826c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

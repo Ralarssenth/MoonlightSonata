@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/sensed_monster_trivial.png-f85e230a1f0638eb3b42a49a89afab35.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/sensed_monster_trivial.png"
+source_md5="c3adc04f61dd74af4f8c82bf169c45f6"
+
+dest_files=[ "res://.import/sensed_monster_trivial.png-f85e230a1f0638eb3b42a49a89afab35.stex" ]
+dest_md5="780541e383dfda156bc02e4a6642837d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

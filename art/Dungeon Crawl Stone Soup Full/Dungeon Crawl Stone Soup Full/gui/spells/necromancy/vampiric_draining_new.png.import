@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/vampiric_draining_new.png-66058d6343d15ca2acdf4419e86a13ec.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/necromancy/vampiric_draining_new.png"
+source_md5="b390546ca80148e199d87634d991b250"
+
+dest_files=[ "res://.import/vampiric_draining_new.png-66058d6343d15ca2acdf4419e86a13ec.stex" ]
+dest_md5="3686008fbf4c5765b4d9586696357499"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

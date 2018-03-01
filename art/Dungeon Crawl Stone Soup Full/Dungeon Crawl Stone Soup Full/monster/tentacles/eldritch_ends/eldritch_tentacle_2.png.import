@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/eldritch_tentacle_2.png-9ac5b2c08bec1fc4fa2c202f20fd3280.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/tentacles/eldritch_ends/eldritch_tentacle_2.png"
+source_md5="68ef4e4cdc4e665b7a06685f2285e6b2"
+
+dest_files=[ "res://.import/eldritch_tentacle_2.png-9ac5b2c08bec1fc4fa2c202f20fd3280.stex" ]
+dest_md5="d0fbada76e85c461656d98088a7e24b8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

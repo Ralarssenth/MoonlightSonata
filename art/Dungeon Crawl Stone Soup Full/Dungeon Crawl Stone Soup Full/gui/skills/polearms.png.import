@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/polearms.png-2f041f492f8ea56148d6f8100712bd8d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/skills/polearms.png"
+source_md5="348cfed2757a92ddaffed7fc30a32cac"
+
+dest_files=[ "res://.import/polearms.png-2f041f492f8ea56148d6f8100712bd8d.stex" ]
+dest_md5="df9b91ec84883422a9b56094cb8f74ec"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

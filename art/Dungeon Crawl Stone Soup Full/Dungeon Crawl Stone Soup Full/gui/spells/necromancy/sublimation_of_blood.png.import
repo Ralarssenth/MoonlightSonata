@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/sublimation_of_blood.png-c122c030e1c382b2e91db8f19f391c46.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/necromancy/sublimation_of_blood.png"
+source_md5="abf265fac7bf5332a616366cce7fcf6d"
+
+dest_files=[ "res://.import/sublimation_of_blood.png-c122c030e1c382b2e91db8f19f391c46.stex" ]
+dest_md5="e72fd3c29a7a54e8e4c3aa1e3f7809b8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

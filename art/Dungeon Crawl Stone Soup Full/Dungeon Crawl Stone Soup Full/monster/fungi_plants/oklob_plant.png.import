@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/oklob_plant.png-837b9abefbe2fa90690a96648f8eea63.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/fungi_plants/oklob_plant.png"
+source_md5="35e124a46f08a5429f46f25c7d996c7f"
+
+dest_files=[ "res://.import/oklob_plant.png-837b9abefbe2fa90690a96648f8eea63.stex" ]
+dest_md5="01cdd9ac156d8d811fa9a4722235a186"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

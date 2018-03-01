@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/crumbled_column_5.png-dee5882d3203ed757e238b36344207c1.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/statues/crumbled_column_5.png"
+source_md5="68ba7b360754508e8689c819ffcf4a3c"
+
+dest_files=[ "res://.import/crumbled_column_5.png-dee5882d3203ed757e238b36344207c1.stex" ]
+dest_md5="3ed1b87ff0598280cd7b2b8488e8be90"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

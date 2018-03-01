@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/yak_old.png-0505530e1d8cfe7946ead8805d87374e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/yak_old.png"
+source_md5="b742d007cd0896bf1941b61bd0fc51e0"
+
+dest_files=[ "res://.import/yak_old.png-0505530e1d8cfe7946ead8805d87374e.stex" ]
+dest_md5="4cbed68ded95fc8bf0887cc07005c7c5"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

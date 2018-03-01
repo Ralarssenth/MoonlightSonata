@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shield_donald.png-7e4e73c3ee3831a2df16903d0661debd.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/shields/shield_donald.png"
+source_md5="fbbd1dcddfab7e9270b4985dc42a5dfa"
+
+dest_files=[ "res://.import/shield_donald.png-7e4e73c3ee3831a2df16903d0661debd.stex" ]
+dest_md5="37a70b3d993a54169773d8f28d6798b5"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

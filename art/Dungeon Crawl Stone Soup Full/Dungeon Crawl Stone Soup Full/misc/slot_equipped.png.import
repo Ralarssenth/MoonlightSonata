@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/slot_equipped.png-3b9157bbe25a87b3b4794334bfe7d5c8.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/slot_equipped.png"
+source_md5="2f791c6ad426e8f2ef0e5bd7ceea9025"
+
+dest_files=[ "res://.import/slot_equipped.png-3b9157bbe25a87b3b4794334bfe7d5c8.stex" ]
+dest_md5="cd9ba19d516bd51b80037785c330b9d0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

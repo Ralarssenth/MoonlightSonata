@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/hippogriff_new.png-f935c5cf6afbda64b6f34db60f86be8e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/hippogriff_new.png"
+source_md5="70599c8f1eea2afcb0c96c9419639c1a"
+
+dest_files=[ "res://.import/hippogriff_new.png-f935c5cf6afbda64b6f34db60f86be8e.stex" ]
+dest_md5="39de203c6cdd82995ce5384eaea2f131"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ghost_new.png-5ece29f7abceaa2d15b93da2e6a8246c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/undead/ghost_new.png"
+source_md5="812751b1be4632621f26d414a2b262f4"
+
+dest_files=[ "res://.import/ghost_new.png-5ece29f7abceaa2d15b93da2e6a8246c.stex" ]
+dest_md5="edfd8574da3b498d96e82a4654d56494"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

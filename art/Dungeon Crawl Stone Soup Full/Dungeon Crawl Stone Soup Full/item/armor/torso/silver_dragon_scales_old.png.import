@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/silver_dragon_scales_old.png-10245edd2128454e0d59838053d02bb8.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/torso/silver_dragon_scales_old.png"
+source_md5="41441255919c023767ebf80132fce2b5"
+
+dest_files=[ "res://.import/silver_dragon_scales_old.png-10245edd2128454e0d59838053d02bb8.stex" ]
+dest_md5="be000f55643b8b301b85246c24ee8a5a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/iskenderuns_mystic_blast_new.png-5d18fe0cf03ed75766aa26a2f07e4a0e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/conjuration/iskenderuns_mystic_blast_new.png"
+source_md5="f3523544ca35206b505272fc42e5d7b7"
+
+dest_files=[ "res://.import/iskenderuns_mystic_blast_new.png-5d18fe0cf03ed75766aa26a2f07e4a0e.stex" ]
+dest_md5="c1a21845d907a7dc63e03a54f1abe50c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

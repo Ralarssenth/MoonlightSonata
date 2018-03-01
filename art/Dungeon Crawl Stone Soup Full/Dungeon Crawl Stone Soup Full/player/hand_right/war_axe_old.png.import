@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/war_axe_old.png-0e64eb07b13f6ee2d927f1f3d6b44f84.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/war_axe_old.png"
+source_md5="7a16c64d6fbc5323c6b83247daf08d0b"
+
+dest_files=[ "res://.import/war_axe_old.png-0e64eb07b13f6ee2d927f1f3d6b44f84.stex" ]
+dest_md5="821a8a270e201495723f43427e8c123a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

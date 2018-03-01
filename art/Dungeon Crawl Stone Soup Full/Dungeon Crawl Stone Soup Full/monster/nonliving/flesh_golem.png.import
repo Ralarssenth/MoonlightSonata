@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/flesh_golem.png-2d786a351587b30c026c5dbb0e68548a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/nonliving/flesh_golem.png"
+source_md5="06ec281655421d236ad8e22d15fac865"
+
+dest_files=[ "res://.import/flesh_golem.png-2d786a351587b30c026c5dbb0e68548a.stex" ]
+dest_md5="8b032b56ca0130242485f75d56c3eca8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

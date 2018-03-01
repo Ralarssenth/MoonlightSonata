@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/lair_2_old.png-cc38bc20f0859f72ab485c94c2c2e4d8.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/lair_2_old.png"
+source_md5="8e8892ac7f97d951840db263d99ddb65"
+
+dest_files=[ "res://.import/lair_2_old.png-cc38bc20f0859f72ab485c94c2c2e4d8.stex" ]
+dest_md5="8821bb0f207de2f3d02973f294645422"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

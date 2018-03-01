@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/statue_form_naga.png-5e685f09d84d6b09bae985bb73148956.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/transform/statue_form_naga.png"
+source_md5="4d1b5ab7c8631b53414660fcdeb14a77"
+
+dest_files=[ "res://.import/statue_form_naga.png-5e685f09d84d6b09bae985bb73148956.stex" ]
+dest_md5="4e4013f3e1d274bb1fd755fddaf65437"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/kraken_head_new.png-0bd93e9ee4940b09c7e9cb1cd9dec368.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/aquatic/kraken_head_new.png"
+source_md5="ce076e7e7d8be7b0f238ec02d8d9b7f5"
+
+dest_files=[ "res://.import/kraken_head_new.png-0bd93e9ee4940b09c7e9cb1cd9dec368.stex" ]
+dest_md5="7cafb70606f2826242c05045cfc48c1b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

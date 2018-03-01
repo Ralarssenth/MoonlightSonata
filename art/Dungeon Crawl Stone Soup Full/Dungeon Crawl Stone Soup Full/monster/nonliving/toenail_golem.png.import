@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/toenail_golem.png-d20c7d4050d9df9ae5eb214aedf8045b.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/nonliving/toenail_golem.png"
+source_md5="4d39cba69bc6e90362d9dc2d3b203fc2"
+
+dest_files=[ "res://.import/toenail_golem.png-d20c7d4050d9df9ae5eb214aedf8045b.stex" ]
+dest_md5="b59c3529a394a992358917cfee784e58"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

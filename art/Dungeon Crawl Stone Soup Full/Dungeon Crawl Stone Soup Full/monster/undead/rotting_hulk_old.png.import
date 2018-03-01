@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/rotting_hulk_old.png-797418f9c3a8a4058787d620c3f6bbd4.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/undead/rotting_hulk_old.png"
+source_md5="10fdc903388ee3d2c8b3cece154bebde"
+
+dest_files=[ "res://.import/rotting_hulk_old.png-797418f9c3a8a4058787d620c3f6bbd4.stex" ]
+dest_md5="6fdcd4e7dc45e25ab9a3929b5ce7cf1a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

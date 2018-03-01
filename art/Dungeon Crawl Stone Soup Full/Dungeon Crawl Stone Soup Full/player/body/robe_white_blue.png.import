@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/robe_white_blue.png-752f3dc8dd62d0ee47265c581cb7e47c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/body/robe_white_blue.png"
+source_md5="b57cfba5ac10468bde2b8a8bd8ad4914"
+
+dest_files=[ "res://.import/robe_white_blue.png-752f3dc8dd62d0ee47265c581cb7e47c.stex" ]
+dest_md5="c77cb46650f53de942a0ebe3108f31e9"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

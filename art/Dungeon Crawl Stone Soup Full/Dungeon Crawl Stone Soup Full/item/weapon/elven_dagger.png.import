@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/elven_dagger.png-fb8f931d888c992f824914129eb944a3.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/elven_dagger.png"
+source_md5="a9a2c08a14bfefa9211a53330e386977"
+
+dest_files=[ "res://.import/elven_dagger.png-fb8f931d888c992f824914129eb944a3.stex" ]
+dest_md5="91db8ba3d377bf7bdb21fb9ac975e063"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shadow_northeast_darker.png-4efc226def8f40a29b047c49f95d321b.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/shadow_northeast_darker.png"
+source_md5="3d199c9b30f9ac1dddd8800175511ef8"
+
+dest_files=[ "res://.import/shadow_northeast_darker.png-4efc226def8f40a29b047c49f95d321b.stex" ]
+dest_md5="092ec75a9e4311589035993c31ce3d4d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

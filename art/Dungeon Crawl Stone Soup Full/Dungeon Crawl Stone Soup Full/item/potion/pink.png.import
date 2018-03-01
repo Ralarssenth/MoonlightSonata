@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/pink.png-d3a58559516a8670d8d3436dc1652e64.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/potion/pink.png"
+source_md5="6972ab5f0bdfb5d98b17ef0b268afe34"
+
+dest_files=[ "res://.import/pink.png-d3a58559516a8670d8d3436dc1652e64.stex" ]
+dest_md5="ed3613ad8e90457cb0d6af1b2d00cf09"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

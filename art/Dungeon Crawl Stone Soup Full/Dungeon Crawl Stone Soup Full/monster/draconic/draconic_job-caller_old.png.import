@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/draconic_job-caller_old.png-55c1090650db92a8fef8fd53aadd1bd9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/draconic/draconic_job-caller_old.png"
+source_md5="73a4bff97fcd3f6dfc9e1708601e73a8"
+
+dest_files=[ "res://.import/draconic_job-caller_old.png-55c1090650db92a8fef8fd53aadd1bd9.stex" ]
+dest_md5="390e06c43dab17d78c29013922fd1581"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

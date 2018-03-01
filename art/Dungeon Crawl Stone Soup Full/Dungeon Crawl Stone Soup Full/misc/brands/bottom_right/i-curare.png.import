@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-curare.png-bbfe614537c08a58b0fae1c6b00f94b6.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/bottom_right/i-curare.png"
+source_md5="26edc5729ed7c83c27b7b371bf3ebeb0"
+
+dest_files=[ "res://.import/i-curare.png-bbfe614537c08a58b0fae1c6b00f94b6.stex" ]
+dest_md5="46138f0cf432073ca07b0b0fd9d0850b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

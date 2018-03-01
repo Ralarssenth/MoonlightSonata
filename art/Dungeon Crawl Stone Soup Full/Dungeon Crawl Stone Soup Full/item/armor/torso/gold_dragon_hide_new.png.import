@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/gold_dragon_hide_new.png-1089c48dfba82bed85e6c2d9fff7e87d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/torso/gold_dragon_hide_new.png"
+source_md5="5045497775379f1b7b07d2166f28dca0"
+
+dest_files=[ "res://.import/gold_dragon_hide_new.png-1089c48dfba82bed85e6c2d9fff7e87d.stex" ]
+dest_md5="d7339c8cae7b8fbfa7117dcd1c8199a9"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

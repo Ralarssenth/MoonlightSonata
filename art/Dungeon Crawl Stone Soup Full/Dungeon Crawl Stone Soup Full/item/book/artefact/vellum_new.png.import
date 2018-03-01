@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/vellum_new.png-bfd1c33c7f13ca864bc736e77ad4cd57.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/book/artefact/vellum_new.png"
+source_md5="5a28fbdbd0557fd36b7d2aa55d4dc6fc"
+
+dest_files=[ "res://.import/vellum_new.png-bfd1c33c7f13ca864bc736e77ad4cd57.stex" ]
+dest_md5="3a8b379e49e9b326c315e47065722268"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

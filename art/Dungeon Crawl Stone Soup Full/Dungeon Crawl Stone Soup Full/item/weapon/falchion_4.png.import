@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/falchion_4.png-103bc57f74bcc503c201468b4a1500bb.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/falchion_4.png"
+source_md5="21c34764a68ffc4549b659c7bc33f3e6"
+
+dest_files=[ "res://.import/falchion_4.png-103bc57f74bcc503c201468b4a1500bb.stex" ]
+dest_md5="b6f1ed7b643eb5a87266490953e8a148"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

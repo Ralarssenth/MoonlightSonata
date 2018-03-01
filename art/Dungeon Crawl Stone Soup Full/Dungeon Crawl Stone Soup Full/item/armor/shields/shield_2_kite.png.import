@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shield_2_kite.png-9100404350f9410d67d7035d8af1f850.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/shields/shield_2_kite.png"
+source_md5="4e4e9c40f327f69554533b96190d1de6"
+
+dest_files=[ "res://.import/shield_2_kite.png-9100404350f9410d67d7035d8af1f850.stex" ]
+dest_md5="5d276737a7ee72d208cd6b66eddfa91f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

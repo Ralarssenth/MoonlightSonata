@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/heataura_0.png-82dad13c6281fadec4a0c75a0cb3bbbe.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/heataura_0.png"
+source_md5="4a236aa996f70fba8091980c4567270f"
+
+dest_files=[ "res://.import/heataura_0.png-82dad13c6281fadec4a0c75a0cb3bbbe.stex" ]
+dest_md5="2857254a2d58dacbc08182a2a9e7f794"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

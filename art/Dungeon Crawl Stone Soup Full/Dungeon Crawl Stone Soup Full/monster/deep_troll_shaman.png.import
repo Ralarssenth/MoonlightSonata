@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/deep_troll_shaman.png-059efcb9e3f52a712126b094ab784257.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/deep_troll_shaman.png"
+source_md5="e5061cbcabaa7132143ec3b8de3c7ff5"
+
+dest_files=[ "res://.import/deep_troll_shaman.png-059efcb9e3f52a712126b094ab784257.stex" ]
+dest_md5="b3f8f4597cdb46fae76dfe822eaf8e5d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

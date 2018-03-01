@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/quicksilver_bolt.png-f7f1830f0b7e88e6494d193993699fe2.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/monster/quicksilver_bolt.png"
+source_md5="42cb8996846da8360a33ac39a05f64b2"
+
+dest_files=[ "res://.import/quicksilver_bolt.png-f7f1830f0b7e88e6494d193993699fe2.stex" ]
+dest_md5="074ce711d5dfbb962f46d8cfa0815297"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

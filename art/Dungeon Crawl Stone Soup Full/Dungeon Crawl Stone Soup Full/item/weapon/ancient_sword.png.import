@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ancient_sword.png-068be56ad21e686520c28ac199531967.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/ancient_sword.png"
+source_md5="3e9854d376bb8e7a7dbd876420f480f4"
+
+dest_files=[ "res://.import/ancient_sword.png-068be56ad21e686520c28ac199531967.stex" ]
+dest_md5="f5ceca18a8da71229c3dbcae54570ac2"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/lom_lobon_bottom.png-833327ff3b39a71121b35082a6021509.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/lom_lobon_bottom.png"
+source_md5="1e4b23c20e7b88340aa5df80c8eef650"
+
+dest_files=[ "res://.import/lom_lobon_bottom.png-833327ff3b39a71121b35082a6021509.stex" ]
+dest_md5="e4451fd9d72dbe21b4ebfa0bfc360441"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

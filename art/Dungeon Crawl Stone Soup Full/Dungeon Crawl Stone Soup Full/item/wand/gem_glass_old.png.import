@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/gem_glass_old.png-28160a2195a01f6e4ad98089e09334fb.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/wand/gem_glass_old.png"
+source_md5="53b5ea5ea5a10fb2dcb793a9817fc36e"
+
+dest_files=[ "res://.import/gem_glass_old.png-28160a2195a01f6e4ad98089e09334fb.stex" ]
+dest_md5="491fba3dc603498ca7288da2b061fdbd"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

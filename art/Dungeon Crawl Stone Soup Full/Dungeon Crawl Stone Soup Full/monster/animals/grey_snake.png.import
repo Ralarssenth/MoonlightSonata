@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/grey_snake.png-7cec06baa749627fa6e59896ace8968b.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/grey_snake.png"
+source_md5="aa128943df4deb5f989c39e0b8b2b8b9"
+
+dest_files=[ "res://.import/grey_snake.png-7cec06baa749627fa6e59896ace8968b.stex" ]
+dest_md5="2671c968994982a576e9bed227c05f61"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

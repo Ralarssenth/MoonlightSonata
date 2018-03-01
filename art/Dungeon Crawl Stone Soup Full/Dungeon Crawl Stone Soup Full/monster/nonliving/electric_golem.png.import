@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/electric_golem.png-e816b540b9d85e5db1640557ebe325ee.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/nonliving/electric_golem.png"
+source_md5="30351ee1fdcc04f37be38b2b23354b65"
+
+dest_files=[ "res://.import/electric_golem.png-e816b540b9d85e5db1640557ebe325ee.stex" ]
+dest_md5="95bdad81ddbb1b36717a6e65caa9dfa9"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

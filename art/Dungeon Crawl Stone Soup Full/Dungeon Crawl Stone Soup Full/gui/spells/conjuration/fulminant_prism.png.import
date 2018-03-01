@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/fulminant_prism.png-62ff952f57a414e1e31859fc26d86211.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/conjuration/fulminant_prism.png"
+source_md5="da67c4c6f1ba293698d6902d0256c733"
+
+dest_files=[ "res://.import/fulminant_prism.png-62ff952f57a414e1e31859fc26d86211.stex" ]
+dest_md5="a46c6d50def1f579353d301b3737b05f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

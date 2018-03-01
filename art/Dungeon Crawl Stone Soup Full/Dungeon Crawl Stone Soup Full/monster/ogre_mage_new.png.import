@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ogre_mage_new.png-bd3ba584e6a3f3268c10b711d0c62a54.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/ogre_mage_new.png"
+source_md5="8be9d4a5787de9581cacb719991e3be7"
+
+dest_files=[ "res://.import/ogre_mage_new.png-bd3ba584e6a3f3268c10b711d0c62a54.stex" ]
+dest_md5="86d799d6cb50f7474d90d63c7604832b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

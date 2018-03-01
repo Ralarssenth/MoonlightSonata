@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/fhelm_gray_3.png-64a024110bd1ea916e7923d07d84506f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/head/fhelm_gray_3.png"
+source_md5="38b096c9b8117de2227bb7b12c8ed946"
+
+dest_files=[ "res://.import/fhelm_gray_3.png-64a024110bd1ea916e7923d07d84506f.stex" ]
+dest_md5="c80a8a07795e0543229a79fab5e8634d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

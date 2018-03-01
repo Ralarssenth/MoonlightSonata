@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/puce.png-42d20225bf5df8270d8cc1dafbe2c6d6.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/potion/puce.png"
+source_md5="829fd20b57f7705670bb4afeb8a834d6"
+
+dest_files=[ "res://.import/puce.png-42d20225bf5df8270d8cc1dafbe2c6d6.stex" ]
+dest_md5="320ab9726c05f3e9bf7a45b58bea77d2"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

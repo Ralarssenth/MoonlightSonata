@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/centaur_barding_red.png-808c474a68e62897898226894662b48b.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/barding/centaur_barding_red.png"
+source_md5="78e773f53cbfc1bea7dafd4abe409af6"
+
+dest_files=[ "res://.import/centaur_barding_red.png-808c474a68e62897898226894662b48b.stex" ]
+dest_md5="bb12e0cd41f9438aff523e6e33259bea"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

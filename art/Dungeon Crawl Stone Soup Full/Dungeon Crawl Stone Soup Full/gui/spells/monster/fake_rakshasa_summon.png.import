@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/fake_rakshasa_summon.png-9871add658c24b105e68fdb039872187.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/monster/fake_rakshasa_summon.png"
+source_md5="68e19f1c40b114d482253ac9039e45c6"
+
+dest_files=[ "res://.import/fake_rakshasa_summon.png-9871add658c24b105e68fdb039872187.stex" ]
+dest_md5="f8f333814d2bfefb5fa6b8c50071b85c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

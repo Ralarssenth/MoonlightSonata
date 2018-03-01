@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/quarterstaff_2.png-3a6c898cd44e629dbfcd40b481bd7398.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/quarterstaff_2.png"
+source_md5="705a8105553e2a5c4fa8c4d18adf99a4"
+
+dest_files=[ "res://.import/quarterstaff_2.png-3a6c898cd44e629dbfcd40b481bd7398.stex" ]
+dest_md5="dc4321099db89f54c57abb72b25fe4cb"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

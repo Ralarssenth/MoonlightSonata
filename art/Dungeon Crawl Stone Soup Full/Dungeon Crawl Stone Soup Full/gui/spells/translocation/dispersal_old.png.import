@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/dispersal_old.png-7783305177ca3928ba633d7730fa185b.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/translocation/dispersal_old.png"
+source_md5="ba6259d0f92fd82901938e1a62d5a622"
+
+dest_files=[ "res://.import/dispersal_old.png-7783305177ca3928ba633d7730fa185b.stex" ]
+dest_md5="d24ff9f2b92fe3480ea8d4d06682a60f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

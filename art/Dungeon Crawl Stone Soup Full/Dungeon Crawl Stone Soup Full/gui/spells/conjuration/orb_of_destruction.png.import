@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/orb_of_destruction.png-5d73e693dfa27d7d4768340ceb9198ca.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/conjuration/orb_of_destruction.png"
+source_md5="d3928257bc55e8bcfb6e8c4673c9bad0"
+
+dest_files=[ "res://.import/orb_of_destruction.png-5d73e693dfa27d7d4768340ceb9198ca.stex" ]
+dest_md5="504b1e111089567383a7aaa6e7e07871"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

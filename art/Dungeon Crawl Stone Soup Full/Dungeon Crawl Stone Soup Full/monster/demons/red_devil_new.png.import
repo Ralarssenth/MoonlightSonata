@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/red_devil_new.png-48acf1b5982510801d3b199afd1ef00f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/demons/red_devil_new.png"
+source_md5="4fb91cc920df207d156e6939a3dcf05a"
+
+dest_files=[ "res://.import/red_devil_new.png-48acf1b5982510801d3b199afd1ef00f.stex" ]
+dest_md5="fb35369f6415fb32bb6ee6a948b107d7"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

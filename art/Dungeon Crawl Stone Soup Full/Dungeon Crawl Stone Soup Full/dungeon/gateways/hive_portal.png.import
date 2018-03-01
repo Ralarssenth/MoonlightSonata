@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/hive_portal.png-2f4158a5d00bd72de29ba208193abf9d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/gateways/hive_portal.png"
+source_md5="b8acde55110c32f7ea48798f2e987cf3"
+
+dest_files=[ "res://.import/hive_portal.png-2f4158a5d00bd72de29ba208193abf9d.stex" ]
+dest_md5="77c79f869df87ccd8409557b000db5e0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/bars_red_8.png-6c731299828d82874e9efdb36632484b.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/bars_red_8.png"
+source_md5="50cd6f7f0fb1688d64cfb75bf0ad04ab"
+
+dest_files=[ "res://.import/bars_red_8.png-6c731299828d82874e9efdb36632484b.stex" ]
+dest_md5="9f26398f8f6e00d3cdc2fc2327b656ca"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

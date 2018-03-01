@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/chaos_champion.png-525e77b493f7f3a0b03659efb1df55d0.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/demonspawn/chaos_champion.png"
+source_md5="61bf41148e815e58314e6640e158c58d"
+
+dest_files=[ "res://.import/chaos_champion.png-525e77b493f7f3a0b03659efb1df55d0.stex" ]
+dest_md5="2707e2172164e8a7c27a18c60ef7d5eb"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

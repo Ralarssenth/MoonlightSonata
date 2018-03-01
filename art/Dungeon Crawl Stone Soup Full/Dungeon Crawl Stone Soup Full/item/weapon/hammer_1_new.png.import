@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/hammer_1_new.png-48e8c8f201d3d9e7b86457833a4a3868.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/hammer_1_new.png"
+source_md5="fd2473e462be684f026a44d8dcedd751"
+
+dest_files=[ "res://.import/hammer_1_new.png-48e8c8f201d3d9e7b86457833a4a3868.stex" ]
+dest_md5="0d0211a549c23f436cd17ce3c7e5ab8b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

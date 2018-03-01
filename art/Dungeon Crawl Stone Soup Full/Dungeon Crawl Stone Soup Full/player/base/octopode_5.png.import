@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/octopode_5.png-b9afbe97facf927ea49d635e53a1a0e8.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/base/octopode_5.png"
+source_md5="de0465b536cf2c0b991d6b5b238e6690"
+
+dest_files=[ "res://.import/octopode_5.png-b9afbe97facf927ea49d635e53a1a0e8.stex" ]
+dest_md5="034911fc16ac1137b9b5634d879b91be"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

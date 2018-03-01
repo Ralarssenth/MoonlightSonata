@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/angel_mace.png-47500d7620c1e4f6534eabcbad6c34e0.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/holy/angel_mace.png"
+source_md5="c9c78b23066c3a352c704b3f83e13f16"
+
+dest_files=[ "res://.import/angel_mace.png-47500d7620c1e4f6534eabcbad6c34e0.stex" ]
+dest_md5="4c1249a3b95b96bb42148ed7d3543738"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

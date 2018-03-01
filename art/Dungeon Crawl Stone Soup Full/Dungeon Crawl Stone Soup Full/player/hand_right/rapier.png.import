@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/rapier.png-c834b10fbd412fce788b668fecc27e6f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/rapier.png"
+source_md5="62442b9cc9a9334bdfdd9ef868a8dea3"
+
+dest_files=[ "res://.import/rapier.png-c834b10fbd412fce788b668fecc27e6f.stex" ]
+dest_md5="48e710f6d5ef943c9b399ebee634a636"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/forceful_dismissal.png-c00bf711bbd46239d3c4d2c4af6a998a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/forceful_dismissal.png"
+source_md5="208bcbaf804cd7fd890e2a389514080e"
+
+dest_files=[ "res://.import/forceful_dismissal.png-c00bf711bbd46239d3c4d2c4af6a998a.stex" ]
+dest_md5="7dd83e9c6306a74e759574ee3cff5bf9"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/low_boots.png-b9176a05e2ed2a72e8353895862865df.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/feet/low_boots.png"
+source_md5="0af59b1509f7652d3aba5e6f7743e8dc"
+
+dest_files=[ "res://.import/low_boots.png-b9176a05e2ed2a72e8353895862865df.stex" ]
+dest_md5="9ac5c08e1ef875f53db2dac4457d3b14"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

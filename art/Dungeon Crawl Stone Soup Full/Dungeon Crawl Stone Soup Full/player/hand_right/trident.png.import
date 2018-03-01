@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/trident.png-e1768072d04784ea42c220fc544d4c84.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/trident.png"
+source_md5="c4aae96b579e7ac420f3c8afef7ab5e6"
+
+dest_files=[ "res://.import/trident.png-e1768072d04784ea42c220fc544d4c84.stex" ]
+dest_md5="3f4a9a12a8df9f502f0abccb38f449c3"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

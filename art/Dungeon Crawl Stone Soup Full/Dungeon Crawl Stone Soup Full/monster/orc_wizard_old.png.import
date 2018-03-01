@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/orc_wizard_old.png-8a78ca76bd205345d610067cd0834645.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/orc_wizard_old.png"
+source_md5="5afecd53f6a0fc3232106f0675f78105"
+
+dest_files=[ "res://.import/orc_wizard_old.png-8a78ca76bd205345d610067cd0834645.stex" ]
+dest_md5="90c58a6ab66cdcd0f0ff3497d3b71be6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

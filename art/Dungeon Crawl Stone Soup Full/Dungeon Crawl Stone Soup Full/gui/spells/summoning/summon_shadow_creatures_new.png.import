@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/summon_shadow_creatures_new.png-d4a876c1a901041acc52c54ef9ecdfeb.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/summoning/summon_shadow_creatures_new.png"
+source_md5="207a20951e3e776242d16dc0c5ec7732"
+
+dest_files=[ "res://.import/summon_shadow_creatures_new.png-d4a876c1a901041acc52c54ef9ecdfeb.stex" ]
+dest_md5="851b4a7d83618e9f1a5d8417f6e43800"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

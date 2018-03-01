@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/grey_dirt_border_corner_right.png-5e066c3802bbfe0ffe321f01103ffd5b.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/water/grey_dirt_border_corner_right.png"
+source_md5="69c68d8628b8fd1d64d163c6e020068e"
+
+dest_files=[ "res://.import/grey_dirt_border_corner_right.png-5e066c3802bbfe0ffe321f01103ffd5b.stex" ]
+dest_md5="290b663261ea254623fb00f41b5691fe"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

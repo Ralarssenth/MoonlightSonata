@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/brick_gray_2.png-a0cac95982e49ca6afc2ca2581bddbb1.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/brick_gray_2.png"
+source_md5="4ffee2b2948af3b7b2d1a0e280d49334"
+
+dest_files=[ "res://.import/brick_gray_2.png-a0cac95982e49ca6afc2ca2581bddbb1.stex" ]
+dest_md5="0a0b5278dd06166d428ea125462af053"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

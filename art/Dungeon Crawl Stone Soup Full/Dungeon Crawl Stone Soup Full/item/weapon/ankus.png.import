@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ankus.png-b378d9c8fa5414f94fc7f286c2a6a329.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/ankus.png"
+source_md5="0c304d57c31b3b3026f62a03f6e9cec1"
+
+dest_files=[ "res://.import/ankus.png-b378d9c8fa5414f94fc7f286c2a6a329.stex" ]
+dest_md5="f653944385d8287d1b77eca53668b23e"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

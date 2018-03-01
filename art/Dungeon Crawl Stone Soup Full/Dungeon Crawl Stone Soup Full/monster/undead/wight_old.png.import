@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/wight_old.png-98ac65596e84ed956edf7e824257c277.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/undead/wight_old.png"
+source_md5="94e1dea10792bdd5ce49e0619bfdcce8"
+
+dest_files=[ "res://.import/wight_old.png-98ac65596e84ed956edf7e824257c277.stex" ]
+dest_md5="8fc4d90a0c3ac447c67714a21a7300fa"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

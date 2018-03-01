@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shield_of_reflection.png-de79c7ab7198d1d1df369ebd727cf649.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/shields/shield_of_reflection.png"
+source_md5="2ca7b84105fd6c2efa770de64dad88fe"
+
+dest_files=[ "res://.import/shield_of_reflection.png-de79c7ab7198d1d1df369ebd727cf649.stex" ]
+dest_md5="0d537da029425e2e038d5b99d4a86d39"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

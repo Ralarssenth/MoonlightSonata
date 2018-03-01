@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/bladehands_fe.png-6a115221eade29e978e00a8648403f9c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/misc/bladehands_fe.png"
+source_md5="767bdbf564ed409f71ff283e5d09f068"
+
+dest_files=[ "res://.import/bladehands_fe.png-6a115221eade29e978e00a8648403f9c.stex" ]
+dest_md5="56f2e813405d52ebc15e34662b260ce0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

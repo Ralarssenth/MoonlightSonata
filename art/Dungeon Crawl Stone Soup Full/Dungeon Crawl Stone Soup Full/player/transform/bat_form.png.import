@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/bat_form.png-829a7080e90459e21074a75a2de42c4c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/transform/bat_form.png"
+source_md5="9fada96c9b37b86bb7b8d4b6c1150eb9"
+
+dest_files=[ "res://.import/bat_form.png-829a7080e90459e21074a75a2de42c4c.stex" ]
+dest_md5="0f9cda6d5bb02723639666844d5a59c4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

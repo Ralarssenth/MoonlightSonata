@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/urand_flaming_death_old.png-97147ee1051c1cb362a4ca16b884ad85.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/artefact/urand_flaming_death_old.png"
+source_md5="5762705d5d3e866d80ae6b5d133c7d0d"
+
+dest_files=[ "res://.import/urand_flaming_death_old.png-97147ee1051c1cb362a4ca16b884ad85.stex" ]
+dest_md5="ffdc24ffe292870ce4f9dacc1a3d96fc"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

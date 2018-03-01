@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/djinn_2.png-1746be95ec64ed5d16ba0a6d4da0a448.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hair/djinn_2.png"
+source_md5="206143425053123819c717df5c293e75"
+
+dest_files=[ "res://.import/djinn_2.png-1746be95ec64ed5d16ba0a6d4da0a448.stex" ]
+dest_md5="8ed1f4ba7c7e0b2a5f60e249daa43ae8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

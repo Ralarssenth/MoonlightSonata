@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/falchion_new.png-84093145e80eec3068d20ad90a9adb86.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/falchion_new.png"
+source_md5="e211f2be64d7225257b368a24636c5ff"
+
+dest_files=[ "res://.import/falchion_new.png-84093145e80eec3068d20ad90a9adb86.stex" ]
+dest_md5="9f53e9d2b2b985155fe592581de41067"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/altar_elyvilon.png-caff2cd8459f8376e5c50b1a1f5fcb81.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/altars/altar_elyvilon.png"
+source_md5="21c92fbeece041eea4b2ee5d79fb5f90"
+
+dest_files=[ "res://.import/altar_elyvilon.png-caff2cd8459f8376e5c50b1a1f5fcb81.stex" ]
+dest_md5="ca41418b8f1417873178b73fda8625b3"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

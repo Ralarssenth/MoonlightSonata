@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shirt_hawaii.png-50812fb1c094b1fe05fb2ead54a4aba4.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/body/shirt_hawaii.png"
+source_md5="85f194849d76acc578beb6062cfa8335"
+
+dest_files=[ "res://.import/shirt_hawaii.png-50812fb1c094b1fe05fb2ead54a4aba4.stex" ]
+dest_md5="876cb2e136a252dca7010c217be01d64"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

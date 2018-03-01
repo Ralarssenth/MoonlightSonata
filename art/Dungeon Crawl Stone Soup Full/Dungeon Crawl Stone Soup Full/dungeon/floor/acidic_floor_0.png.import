@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/acidic_floor_0.png-a9049787df92e7c0ad6e0a18d11e040e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/acidic_floor_0.png"
+source_md5="cb604fcf162b21defe2ec4c3f2655bea"
+
+dest_files=[ "res://.import/acidic_floor_0.png-a9049787df92e7c0ad6e0a18d11e040e.stex" ]
+dest_md5="ab26152072e0f318286b5b2ce112ee9a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

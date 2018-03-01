@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/glove_1_old.png-f7cb91730550995836b93f0c0bfb0c32.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/hands/glove_1_old.png"
+source_md5="0139d35206e82219f2c4ec9d1f0e70e3"
+
+dest_files=[ "res://.import/glove_1_old.png-f7cb91730550995836b93f0c0bfb0c32.stex" ]
+dest_md5="2ce1c278c0c5f5ae54b5cef52bfe5d81"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

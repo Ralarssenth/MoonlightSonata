@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/prince_ribbit.png-45531391a35e76ac5a620f30f3125d86.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/prince_ribbit.png"
+source_md5="745c9dec74c28f391e88bde6e6a6c8c8"
+
+dest_files=[ "res://.import/prince_ribbit.png-45531391a35e76ac5a620f30f3125d86.stex" ]
+dest_md5="179e8ca5c026b37b3c2aaffa5cb163ee"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

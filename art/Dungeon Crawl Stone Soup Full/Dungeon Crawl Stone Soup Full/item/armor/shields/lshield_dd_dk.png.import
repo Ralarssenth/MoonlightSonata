@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/lshield_dd_dk.png-6b4288172cb2583dca06e18efc863ec5.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/shields/lshield_dd_dk.png"
+source_md5="c548fb3511114b81a93988b0f111e3f2"
+
+dest_files=[ "res://.import/lshield_dd_dk.png-6b4288172cb2583dca06e18efc863ec5.stex" ]
+dest_md5="ed09ef60c85c40f2febc1eca6ab2a478"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

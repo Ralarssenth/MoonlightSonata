@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/crystal_white.png-f388b7eff8002af516c6885fddbd3658.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/amulet/crystal_white.png"
+source_md5="8b792868e24fd03c42067246868e8044"
+
+dest_files=[ "res://.import/crystal_white.png-f388b7eff8002af516c6885fddbd3658.stex" ]
+dest_md5="e08f4d1a3b4998e96174b8b474c5b0cb"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

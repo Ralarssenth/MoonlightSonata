@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/throwing_net.png-3a1195ff9881c035cd560e8bc48c8786.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/ranged/throwing_net.png"
+source_md5="5552741ccb21bf51202a1f0f38b447f3"
+
+dest_files=[ "res://.import/throwing_net.png-3a1195ff9881c035cd560e8bc48c8786.stex" ]
+dest_md5="c8db4e959b691df59035c60ca8a084f1"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

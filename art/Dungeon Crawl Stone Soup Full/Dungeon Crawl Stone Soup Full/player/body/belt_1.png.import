@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/belt_1.png-85e68f2937d8b126033c0623ffb2b072.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/body/belt_1.png"
+source_md5="17cfbace00dabc900fadefe0412a4ba1"
+
+dest_files=[ "res://.import/belt_1.png-85e68f2937d8b126033c0623ffb2b072.stex" ]
+dest_md5="fdc1b7276cc0735bc25448021bf2bba9"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-r-corrosion_old.png-d94f601d07e86fa9689b4fb123d04a38.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/top_left/i-r-corrosion_old.png"
+source_md5="8c05f8c2e10f0521a27f341890d3d081"
+
+dest_files=[ "res://.import/i-r-corrosion_old.png-d94f601d07e86fa9689b4fb123d04a38.stex" ]
+dest_md5="514e74622247932d1400129e04905cec"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

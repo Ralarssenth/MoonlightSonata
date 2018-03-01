@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shadow_fiend_old.png-c1c951f453dcf19173855b91a1ca8158.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/demons/shadow_fiend_old.png"
+source_md5="a2d4ebd999c6efd013a77e9fa85e831e"
+
+dest_files=[ "res://.import/shadow_fiend_old.png-c1c951f453dcf19173855b91a1ca8158.stex" ]
+dest_md5="6d7776d5c9c1d2b2002e3df431be76d6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

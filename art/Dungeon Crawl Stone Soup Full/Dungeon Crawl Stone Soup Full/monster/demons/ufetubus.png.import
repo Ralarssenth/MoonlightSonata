@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ufetubus.png-b2fafa718f418eef661b5a9816a07ef4.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/demons/ufetubus.png"
+source_md5="deb4ea0c2e12d747e4b21c7472be8534"
+
+dest_files=[ "res://.import/ufetubus.png-b2fafa718f418eef661b5a9816a07ef4.stex" ]
+dest_md5="2ff523a8ae61fc7ddb83188a51441924"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/rune_mnoleg_new.png-3a909f45b67014eb951321ec5b1ffe13.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/misc/runes/rune_mnoleg_new.png"
+source_md5="f62adde7e4b6d9d12834b324121e2f26"
+
+dest_files=[ "res://.import/rune_mnoleg_new.png-3a909f45b67014eb951321ec5b1ffe13.stex" ]
+dest_md5="352f034346cbaefc3ca0459c0f3a5726"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

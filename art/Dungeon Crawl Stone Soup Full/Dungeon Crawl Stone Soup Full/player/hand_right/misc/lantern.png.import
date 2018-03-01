@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/lantern.png-eca40b78a5c5c9791d6dd1dd6e77466c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/misc/lantern.png"
+source_md5="7a4d5e6e605aa257c58e8806a4e4bf17"
+
+dest_files=[ "res://.import/lantern.png-eca40b78a5c5c9791d6dd1dd6e77466c.stex" ]
+dest_md5="e6c9ec6c5ae205864c6cf45d820d0313"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

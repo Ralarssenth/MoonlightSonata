@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/nellie_new.png-a0083c2e18b0defcb9bbf29d9297dc59.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/nellie_new.png"
+source_md5="d0424877a56fdb834c037a1e4fd4524c"
+
+dest_files=[ "res://.import/nellie_new.png-a0083c2e18b0defcb9bbf29d9297dc59.stex" ]
+dest_md5="be8aabb7b8bea13ad56114b8ec4080b6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

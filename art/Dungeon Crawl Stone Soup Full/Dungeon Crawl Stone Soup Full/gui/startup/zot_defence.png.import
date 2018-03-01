@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/zot_defence.png-7633ccd2b8b17c0dd290f1a4fc51cf3f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/startup/zot_defence.png"
+source_md5="a5872bd04753b4e451cdd677e71ce3d7"
+
+dest_files=[ "res://.import/zot_defence.png-7633ccd2b8b17c0dd290f1a4fc51cf3f.stex" ]
+dest_md5="d4aeafb76c41c1806786c6b25c76aad5"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

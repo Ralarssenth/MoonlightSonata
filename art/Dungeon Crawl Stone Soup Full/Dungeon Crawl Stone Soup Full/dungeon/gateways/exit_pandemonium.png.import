@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/exit_pandemonium.png-f262b91810a29c8a3ff1fb658ff8770a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/gateways/exit_pandemonium.png"
+source_md5="740dff9825986b866f90e2e5bb40c8e8"
+
+dest_files=[ "res://.import/exit_pandemonium.png-f262b91810a29c8a3ff1fb658ff8770a.stex" ]
+dest_md5="c1e159cd057ad3efa65d4d737f1c8a51"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

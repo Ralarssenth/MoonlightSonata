@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/majin.png-8423e0f5732bed6d6affa22594af9a1e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/artefact/majin.png"
+source_md5="cd1e4b2afce2c540b6c02bb2ec4b35cd"
+
+dest_files=[ "res://.import/majin.png-8423e0f5732bed6d6affa22594af9a1e.stex" ]
+dest_md5="1635dfd8213f46cff4ba3a5c017fb844"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

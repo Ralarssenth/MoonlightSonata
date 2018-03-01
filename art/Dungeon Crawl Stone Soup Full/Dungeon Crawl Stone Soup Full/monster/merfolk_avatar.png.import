@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/merfolk_avatar.png-9719c0f04749b7ed4a9c1176da2f62a7.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/merfolk_avatar.png"
+source_md5="44bf37fc6f1e151a321b1b140d3fc82b"
+
+dest_files=[ "res://.import/merfolk_avatar.png-9719c0f04749b7ed4a9c1176da2f62a7.stex" ]
+dest_md5="d6c5d3cac74d5fb22706d3e1b4a5b63b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

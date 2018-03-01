@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/tree_1_red.png-5c9136728c5ff7758da35d31fd888d86.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/trees/tree_1_red.png"
+source_md5="2679bcec408553e341dec6784fb9d17b"
+
+dest_files=[ "res://.import/tree_1_red.png-5c9136728c5ff7758da35d31fd888d86.stex" ]
+dest_md5="d00db0d558088e09a27cddc567e268b6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

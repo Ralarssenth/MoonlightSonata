@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/grass_0_old.png-59ea2619b1d8bdbedff64a8271d6820b.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/grass/grass_0_old.png"
+source_md5="795f33e5e31597a31f3b3629c7110778"
+
+dest_files=[ "res://.import/grass_0_old.png-59ea2619b1d8bdbedff64a8271d6820b.stex" ]
+dest_md5="8bbfec5ca3b89fd4d437bfd9a7826546"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

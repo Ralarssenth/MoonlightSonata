@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/pigtail_red.png-bdc4b3449aa041b61537a0a178ea6703.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hair/pigtail_red.png"
+source_md5="e6d94535528d976df7dbcddf7a6ea05d"
+
+dest_files=[ "res://.import/pigtail_red.png-bdc4b3449aa041b61537a0a178ea6703.stex" ]
+dest_md5="5f6d8b7e18c05a63ffa9c4008b8f7b47"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spwpn_glaive_of_prune_old.png-219d1fbb2009cffc609c39563f524c91.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/artefact/spwpn_glaive_of_prune_old.png"
+source_md5="b46e4ed0e621a13d121c6a0fc403d7ff"
+
+dest_files=[ "res://.import/spwpn_glaive_of_prune_old.png-219d1fbb2009cffc609c39563f524c91.stex" ]
+dest_md5="eb83daeb3cdc94efc0759af5a1726b1d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

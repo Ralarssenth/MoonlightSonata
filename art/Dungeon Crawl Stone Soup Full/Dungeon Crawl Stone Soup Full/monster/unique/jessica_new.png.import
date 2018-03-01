@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/jessica_new.png-dc26e14b7d93920c230e1f88e5f5f276.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/jessica_new.png"
+source_md5="30dfce2f873a31b0fd9a59f5d3a29e5a"
+
+dest_files=[ "res://.import/jessica_new.png-dc26e14b7d93920c230e1f88e5f5f276.stex" ]
+dest_md5="d255ac1559f65c392850d1c81aa7886e"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

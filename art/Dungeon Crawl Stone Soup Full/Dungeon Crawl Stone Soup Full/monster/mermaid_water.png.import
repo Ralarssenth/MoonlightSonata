@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/mermaid_water.png-73df4310fbb903a04a3021d2672290e7.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/mermaid_water.png"
+source_md5="095bb61662cf9f0f0641cc0ef286e2e1"
+
+dest_files=[ "res://.import/mermaid_water.png-73df4310fbb903a04a3021d2672290e7.stex" ]
+dest_md5="a509900a85c3dbd1251e4a39f3ae4771"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

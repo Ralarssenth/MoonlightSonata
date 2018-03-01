@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/daeva.png-0b84b04c8147b3b836a3dcb97d09a533.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/daeva.png"
+source_md5="3a241525b677f26c2474cb799c91d3fd"
+
+dest_files=[ "res://.import/daeva.png-0b84b04c8147b3b836a3dcb97d09a533.stex" ]
+dest_md5="6f18fc5faa9442bcc2716d391a830a3d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

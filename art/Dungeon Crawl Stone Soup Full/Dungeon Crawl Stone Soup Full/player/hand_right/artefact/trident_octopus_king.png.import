@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/trident_octopus_king.png-849929cf618a25e848b1bb0f970aea63.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/artefact/trident_octopus_king.png"
+source_md5="c74912994993eabdbb1d37a248ee599a"
+
+dest_files=[ "res://.import/trident_octopus_king.png-849929cf618a25e848b1bb0f970aea63.stex" ]
+dest_md5="33903bc06d3616e4665b70807ff895f8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

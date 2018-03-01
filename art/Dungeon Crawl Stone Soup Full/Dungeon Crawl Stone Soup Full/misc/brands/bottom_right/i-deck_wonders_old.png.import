@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-deck_wonders_old.png-45f705e964cdff89086b086ab7ed322d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/bottom_right/i-deck_wonders_old.png"
+source_md5="79616ef98d04187a263f9b3ec6047769"
+
+dest_files=[ "res://.import/i-deck_wonders_old.png-45f705e964cdff89086b086ab7ed322d.stex" ]
+dest_md5="8f14d26c37982799aadcc332f3f1a9db"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

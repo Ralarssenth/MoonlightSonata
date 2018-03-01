@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/frost_1.png-7152d5f965cdf3cac7229f1222561093.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/frost_1.png"
+source_md5="8d53abae866ade14d2581284160c0af7"
+
+dest_files=[ "res://.import/frost_1.png-7152d5f965cdf3cac7229f1222561093.stex" ]
+dest_md5="16db18e7b9b1ce2b0bd985bf6b723e5c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/deep_elf_soldier.png-7f29888d927ccbd18c05ba3ce169be18.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/deep_elf_soldier.png"
+source_md5="4c2521b958b928c74c2e86f2596be2fe"
+
+dest_files=[ "res://.import/deep_elf_soldier.png-7f29888d927ccbd18c05ba3ce169be18.stex" ]
+dest_md5="0388f5380b780e7bc6dddd9efafde7e4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

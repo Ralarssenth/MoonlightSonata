@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/animal_skin_3.png-5aead9ae09ca1309800c61f1ff1356b7.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/torso/animal_skin_3.png"
+source_md5="31e16f4a457b8ef54488f5e7a6d09fc5"
+
+dest_files=[ "res://.import/animal_skin_3.png-5aead9ae09ca1309800c61f1ff1356b7.stex" ]
+dest_md5="46e789d7dcf2f51bdbc0b7021c085f2d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

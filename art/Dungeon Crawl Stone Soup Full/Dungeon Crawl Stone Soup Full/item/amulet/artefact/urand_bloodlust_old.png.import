@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/urand_bloodlust_old.png-655cb3b183e2b651c11c27596cc50e4e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/amulet/artefact/urand_bloodlust_old.png"
+source_md5="731591c4f286c38437d1ecc45c412d61"
+
+dest_files=[ "res://.import/urand_bloodlust_old.png-655cb3b183e2b651c11c27596cc50e4e.stex" ]
+dest_md5="5496b1f3adf37995e6ee12dadb39bd01"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

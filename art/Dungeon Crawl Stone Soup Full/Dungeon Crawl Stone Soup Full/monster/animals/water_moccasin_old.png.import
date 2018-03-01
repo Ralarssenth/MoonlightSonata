@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/water_moccasin_old.png-d0ae3caf37b2b2217a238081b952f7aa.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/water_moccasin_old.png"
+source_md5="150c237b3d2d40075227800186d81444"
+
+dest_files=[ "res://.import/water_moccasin_old.png-d0ae3caf37b2b2217a238081b952f7aa.stex" ]
+dest_md5="d22b8a2b7523b99ddf74a211b7f5f709"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

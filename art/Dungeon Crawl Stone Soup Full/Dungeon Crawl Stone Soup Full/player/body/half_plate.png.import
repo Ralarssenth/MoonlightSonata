@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/half_plate.png-7c2ec8c56733a46d082760df7e250302.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/body/half_plate.png"
+source_md5="500c4b7f9b8fd201ebda56417125a82f"
+
+dest_files=[ "res://.import/half_plate.png-7c2ec8c56733a46d082760df7e250302.stex" ]
+dest_md5="52f041b65815496115b9fc8d0e2345a0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shark_new.png-f328d8ab92ec9e401042452e9a884a63.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/aquatic/shark_new.png"
+source_md5="fbba430cc3d2d007242005b2902cecdb"
+
+dest_files=[ "res://.import/shark_new.png-f328d8ab92ec9e401042452e9a884a63.stex" ]
+dest_md5="e52845a89c3537b91395a5b730727b2a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

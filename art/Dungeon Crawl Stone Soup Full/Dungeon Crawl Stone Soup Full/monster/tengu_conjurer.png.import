@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/tengu_conjurer.png-cc944ef16be0b74d6bd16ef47d5dedc6.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/tengu_conjurer.png"
+source_md5="0c07be24fcc3384d81751c6a36155e81"
+
+dest_files=[ "res://.import/tengu_conjurer.png-cc944ef16be0b74d6bd16ef47d5dedc6.stex" ]
+dest_md5="9538e9216548db860790cd32656c238d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/crystal_spear_7.png-4dfb733844804147bc565acad077288d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/crystal_spear_7.png"
+source_md5="6905ecb3c6b7dacbad7cd4c52070fb29"
+
+dest_files=[ "res://.import/crystal_spear_7.png-4dfb733844804147bc565acad077288d.stex" ]
+dest_md5="da37ff064e1a28d42b00c28e10a93a54"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

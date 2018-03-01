@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/demon_wings_large_bottom.png-b0a8d9efb9c7daa856ea2da07d022631.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/panlord/demon_wings_large_bottom.png"
+source_md5="ae20928ca9e14bcf3bdb8c2e6b526b1c"
+
+dest_files=[ "res://.import/demon_wings_large_bottom.png-b0a8d9efb9c7daa856ea2da07d022631.stex" ]
+dest_md5="86f8edfebfc8e62b5929f3006db7e1af"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

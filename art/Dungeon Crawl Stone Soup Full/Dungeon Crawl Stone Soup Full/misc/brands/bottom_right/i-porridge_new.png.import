@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-porridge_new.png-d5a711a3fd765c731ee6697257d327cf.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/bottom_right/i-porridge_new.png"
+source_md5="6f270305229619ba3ed3a2c6c629524f"
+
+dest_files=[ "res://.import/i-porridge_new.png-d5a711a3fd765c731ee6697257d327cf.stex" ]
+dest_md5="89702f766a97bea35447d616a193a679"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

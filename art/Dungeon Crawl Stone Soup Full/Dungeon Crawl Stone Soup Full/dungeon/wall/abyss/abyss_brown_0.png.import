@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/abyss_brown_0.png-ea2e0155a90bfc012be30b6d4d7d4612.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/abyss/abyss_brown_0.png"
+source_md5="f9b28850863d67acac82a77c102a56ca"
+
+dest_files=[ "res://.import/abyss_brown_0.png-ea2e0155a90bfc012be30b6d4d7d4612.stex" ]
+dest_md5="0e96cfb128d4c18b03e5a71b7c817db6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

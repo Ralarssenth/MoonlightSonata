@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/magic_mapping.png-c37cdcfcc198148ce4436af497ef852d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/divination/magic_mapping.png"
+source_md5="d37f71d08f27c8b0e53d930f37ff4cee"
+
+dest_files=[ "res://.import/magic_mapping.png-c37cdcfcc198148ce4436af497ef852d.stex" ]
+dest_md5="c887285f768be0479fd931d68f72bf7c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/magic_dart_2.png-8e627a9cf73e6348d1c870b517f3b594.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/magic_dart_2.png"
+source_md5="7de588c44a0ea02cba12e9b0e57d643b"
+
+dest_files=[ "res://.import/magic_dart_2.png-8e627a9cf73e6348d1c870b517f3b594.stex" ]
+dest_md5="b24cf389015d8001d9052f6b385f9d52"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

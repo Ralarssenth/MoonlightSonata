@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/longbow_2.png-477bf13a96ecb28d1656db923f63de9a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/ranged/longbow_2.png"
+source_md5="81f9bb7cb7f1c7d23e897f12fde24b45"
+
+dest_files=[ "res://.import/longbow_2.png-477bf13a96ecb28d1656db923f63de9a.stex" ]
+dest_md5="f3e83ddbb9ddc6ac12bbe1f3ccc44cba"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

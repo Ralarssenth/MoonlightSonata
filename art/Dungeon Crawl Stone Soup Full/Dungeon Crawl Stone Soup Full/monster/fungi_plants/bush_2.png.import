@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/bush_2.png-2833d26bec4f095feb9abb31c814d2f7.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/fungi_plants/bush_2.png"
+source_md5="dac28e89b5d934590f0d4e4ba88f0602"
+
+dest_files=[ "res://.import/bush_2.png-2833d26bec4f095feb9abb31c814d2f7.stex" ]
+dest_md5="d07336298c31b59eea17e7f1690c2cfa"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

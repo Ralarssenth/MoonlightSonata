@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/summon_greater_demon_new.png-882fede4ffb6f1d91c20ae00a8e07450.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/summoning/summon_greater_demon_new.png"
+source_md5="6585ac58c37238fe8400f83f867c146a"
+
+dest_files=[ "res://.import/summon_greater_demon_new.png-882fede4ffb6f1d91c20ae00a8e07450.stex" ]
+dest_md5="bc32ca02539453d0f5c72067913aa2f4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

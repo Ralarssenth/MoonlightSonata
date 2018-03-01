@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/trishula.png-341553e91498ec3c7845ada39cb9da79.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/trishula.png"
+source_md5="b6cee96defdfbdcf210d0ed47c12d1f4"
+
+dest_files=[ "res://.import/trishula.png-341553e91498ec3c7845ada39cb9da79.stex" ]
+dest_md5="227caef72d986dc77d661588d3c848d1"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

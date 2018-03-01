@@ -1,0 +1,4605 @@
+[gd_resource type="TileSet" load_steps=460 format=2]
+
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/rect_gray_2_new.png" type="Texture" id=1]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/floor_vines_0_new.png" type="Texture" id=2]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/floor_sand_stone_4.png" type="Texture" id=3]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/water/shallow_water_wave_west_new.png" type="Texture" id=4]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/water/shallow_water_wave_corner_northwest_new.png" type="Texture" id=5]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/catacombs_0.png" type="Texture" id=6]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/catacombs_2.png" type="Texture" id=7]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/catacombs_3.png" type="Texture" id=8]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/catacombs_6.png" type="Texture" id=9]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/catacombs_7.png" type="Texture" id=10]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/catacombs_8.png" type="Texture" id=11]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/catacombs_9.png" type="Texture" id=12]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/catacombs_10.png" type="Texture" id=13]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/floor_sand_stone_5.png" type="Texture" id=14]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/catacombs_11.png" type="Texture" id=15]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/catacombs_12.png" type="Texture" id=16]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/catacombs_13.png" type="Texture" id=17]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/catacombs_14.png" type="Texture" id=18]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/wall_vines_0.png" type="Texture" id=19]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/wall_vines_1.png" type="Texture" id=20]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/wall_vines_2.png" type="Texture" id=21]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/wall_vines_3.png" type="Texture" id=22]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/wall_vines_4.png" type="Texture" id=23]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/wall_vines_5.png" type="Texture" id=24]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/floor_sand_stone_6.png" type="Texture" id=25]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/shoals_wall_1.png" type="Texture" id=26]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/shoals_wall_2.png" type="Texture" id=27]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/shoals_wall_3.png" type="Texture" id=28]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/shoals_wall_4.png" type="Texture" id=29]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/shadow_west_top_darker.png" type="Texture" id=30]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/shadow_northwest_darker.png" type="Texture" id=31]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/shadow_northeast_darker.png" type="Texture" id=32]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/shadow_west_darker.png" type="Texture" id=33]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/shadow_east_top_darker.png" type="Texture" id=34]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/shadow_east_darker.png" type="Texture" id=35]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/floor_sand_stone_7.png" type="Texture" id=36]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/relief_0.png" type="Texture" id=37]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/relief_3.png" type="Texture" id=38]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/brick_dark_0.png" type="Texture" id=39]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/brick_dark_1.png" type="Texture" id=40]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/brick_dark_2.png" type="Texture" id=41]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/brick_dark_3.png" type="Texture" id=42]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/brick_dark_4.png" type="Texture" id=43]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/brick_dark_6.png" type="Texture" id=44]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/grass/grass0-dirt-mix_1.png" type="Texture" id=45]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/grass/grass_0_new.png" type="Texture" id=46]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/cobble_blood_1_new.png" type="Texture" id=47]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/grass/grass_flowers_blue_1_new.png" type="Texture" id=48]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/grass/grass_flowers_blue_2_new.png" type="Texture" id=49]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/grass/grass_flowers_blue_3_new.png" type="Texture" id=50]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/grass/grass_flowers_red_1_new.png" type="Texture" id=51]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/grass/grass_flowers_red_2_new.png" type="Texture" id=52]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/grass/grass_flowers_red_3_new.png" type="Texture" id=53]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/grass/grass_flowers_yellow_1_new.png" type="Texture" id=54]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/grass/grass_flowers_yellow_2_new.png" type="Texture" id=55]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/grass/grass_flowers_yellow_3_new.png" type="Texture" id=56]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/grass/grass_east_new.png" type="Texture" id=57]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/cobble_blood_2_new.png" type="Texture" id=58]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/grass/grass_full_new.png" type="Texture" id=59]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/grass/grass_northeast_new.png" type="Texture" id=60]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/grass/grass_northwest_new.png" type="Texture" id=61]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/grass/grass_north_new.png" type="Texture" id=62]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/grass/grass_southeast_new.png" type="Texture" id=63]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/grass/grass_south_new.png" type="Texture" id=64]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/grass/grass_southwest_new.png" type="Texture" id=65]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/grass/grass_west_new.png" type="Texture" id=66]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/algiz.png" type="Texture" id=67]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/algiz_left.png" type="Texture" id=68]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/cobble_blood_9_new.png" type="Texture" id=69]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/algiz_right.png" type="Texture" id=70]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/angle_wide_east_northwest.png" type="Texture" id=71]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/angle_wide_east_southwest.png" type="Texture" id=72]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/angle_wide_north_southeast.png" type="Texture" id=73]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/angle_wide_north_southwest.png" type="Texture" id=74]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/angle_wide_south_northeast.png" type="Texture" id=75]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/angle_wide_south_northwest.png" type="Texture" id=76]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/angle_wide_west_northeast.png" type="Texture" id=77]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/angle_wide_west_southeast.png" type="Texture" id=78]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/circle.png" type="Texture" id=79]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/floor_vines_3_new.png" type="Texture" id=80]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/cross.png" type="Texture" id=81]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/curve_south_east.png" type="Texture" id=82]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/curve_south_west.png" type="Texture" id=83]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/curve_north_east.png" type="Texture" id=84]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/curve_north_west.png" type="Texture" id=85]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/rhombus.png" type="Texture" id=86]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/sharp_south_east.png" type="Texture" id=87]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/sharp_south_west.png" type="Texture" id=88]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/sharp_north_east.png" type="Texture" id=89]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/sharp_north_west.png" type="Texture" id=90]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/floor_vines_4_new.png" type="Texture" id=91]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/straight_east_northeast_southwest.png" type="Texture" id=92]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/straight_east_west_northwest_southeast.png" type="Texture" id=93]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/straight_east_west.png" type="Texture" id=94]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/sharp_east_northeast.png" type="Texture" id=95]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/straight_north_south.png" type="Texture" id=96]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/sharp_west_southwest.png" type="Texture" id=97]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/x-shaped.png" type="Texture" id=98]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/v-shaped_south.png" type="Texture" id=99]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/v-shaped_north.png" type="Texture" id=100]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/lava_old.png" type="Texture" id=101]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/v-shaped_east.png" type="Texture" id=102]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/v-shaped_west.png" type="Texture" id=103]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/y-shaped_left.png" type="Texture" id=104]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/y-shaped_right.png" type="Texture" id=105]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/y-shaped_east.png" type="Texture" id=106]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/y-shaped_north.png" type="Texture" id=107]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/y-shaped_south.png" type="Texture" id=108]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/y-shaped_west.png" type="Texture" id=109]
+[ext_resource path="res://art/hyptosis_art/tile000.png" type="Texture" id=110]
+[ext_resource path="res://art/hyptosis_art/tile001.png" type="Texture" id=111]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/floor_sand_rock_0.png" type="Texture" id=112]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/limestone_0.png" type="Texture" id=113]
+[ext_resource path="res://art/hyptosis_art/tile002.png" type="Texture" id=114]
+[ext_resource path="res://art/hyptosis_art/tile003.png" type="Texture" id=115]
+[ext_resource path="res://art/hyptosis_art/tile004.png" type="Texture" id=116]
+[ext_resource path="res://art/hyptosis_art/tile005.png" type="Texture" id=117]
+[ext_resource path="res://art/hyptosis_art/tile010.png" type="Texture" id=118]
+[ext_resource path="res://art/hyptosis_art/tile011.png" type="Texture" id=119]
+[ext_resource path="res://art/hyptosis_art/tile012.png" type="Texture" id=120]
+[ext_resource path="res://art/hyptosis_art/tile013.png" type="Texture" id=121]
+[ext_resource path="res://art/hyptosis_art/tile014.png" type="Texture" id=122]
+[ext_resource path="res://art/hyptosis_art/tile015.png" type="Texture" id=123]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/limestone_1.png" type="Texture" id=124]
+[ext_resource path="res://art/hyptosis_art/tile016.png" type="Texture" id=125]
+[ext_resource path="res://art/hyptosis_art/tile017.png" type="Texture" id=126]
+[ext_resource path="res://art/hyptosis_art/tile018.png" type="Texture" id=127]
+[ext_resource path="res://art/hyptosis_art/tile019.png" type="Texture" id=128]
+[ext_resource path="res://art/hyptosis_art/tile020.png" type="Texture" id=129]
+[ext_resource path="res://art/hyptosis_art/tile021.png" type="Texture" id=130]
+[ext_resource path="res://art/hyptosis_art/tile022.png" type="Texture" id=131]
+[ext_resource path="res://art/hyptosis_art/tile023.png" type="Texture" id=132]
+[ext_resource path="res://art/hyptosis_art/tile024.png" type="Texture" id=133]
+[ext_resource path="res://art/hyptosis_art/tile025.png" type="Texture" id=134]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/limestone_2.png" type="Texture" id=135]
+[ext_resource path="res://art/hyptosis_art/tile026.png" type="Texture" id=136]
+[ext_resource path="res://art/hyptosis_art/tile027.png" type="Texture" id=137]
+[ext_resource path="res://art/hyptosis_art/tile042.png" type="Texture" id=138]
+[ext_resource path="res://art/hyptosis_art/tile043.png" type="Texture" id=139]
+[ext_resource path="res://art/hyptosis_art/tile044.png" type="Texture" id=140]
+[ext_resource path="res://art/hyptosis_art/tile045.png" type="Texture" id=141]
+[ext_resource path="res://art/hyptosis_art/tile046.png" type="Texture" id=142]
+[ext_resource path="res://art/hyptosis_art/tile047.png" type="Texture" id=143]
+[ext_resource path="res://art/hyptosis_art/tile048.png" type="Texture" id=144]
+[ext_resource path="res://art/hyptosis_art/tile049.png" type="Texture" id=145]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/limestone_3.png" type="Texture" id=146]
+[ext_resource path="res://art/hyptosis_art/tile050.png" type="Texture" id=147]
+[ext_resource path="res://art/hyptosis_art/tile051.png" type="Texture" id=148]
+[ext_resource path="res://art/hyptosis_art/tile052.png" type="Texture" id=149]
+[ext_resource path="res://art/hyptosis_art/tile053.png" type="Texture" id=150]
+[ext_resource path="res://art/hyptosis_art/tile054.png" type="Texture" id=151]
+[ext_resource path="res://art/hyptosis_art/tile055.png" type="Texture" id=152]
+[ext_resource path="res://art/hyptosis_art/tile056.png" type="Texture" id=153]
+[ext_resource path="res://art/hyptosis_art/tile057.png" type="Texture" id=154]
+[ext_resource path="res://art/hyptosis_art/tile072.png" type="Texture" id=155]
+[ext_resource path="res://art/hyptosis_art/tile073.png" type="Texture" id=156]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/limestone_4.png" type="Texture" id=157]
+[ext_resource path="res://art/hyptosis_art/tile074.png" type="Texture" id=158]
+[ext_resource path="res://art/hyptosis_art/tile076.png" type="Texture" id=159]
+[ext_resource path="res://art/hyptosis_art/tile077.png" type="Texture" id=160]
+[ext_resource path="res://art/hyptosis_art/tile078.png" type="Texture" id=161]
+[ext_resource path="res://art/hyptosis_art/tile079.png" type="Texture" id=162]
+[ext_resource path="res://art/hyptosis_art/tile082.png" type="Texture" id=163]
+[ext_resource path="res://art/hyptosis_art/tile081.png" type="Texture" id=164]
+[ext_resource path="res://art/hyptosis_art/tile083.png" type="Texture" id=165]
+[ext_resource path="res://art/hyptosis_art/tile084.png" type="Texture" id=166]
+[ext_resource path="res://art/hyptosis_art/tile085.png" type="Texture" id=167]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/pebble_brown_2_new.png" type="Texture" id=168]
+[ext_resource path="res://art/hyptosis_art/tile086.png" type="Texture" id=169]
+[ext_resource path="res://art/hyptosis_art/tile087.png" type="Texture" id=170]
+[ext_resource path="res://art/hyptosis_art/tile097.png" type="Texture" id=171]
+[ext_resource path="res://art/hyptosis_art/tile098.png" type="Texture" id=172]
+[ext_resource path="res://art/hyptosis_art/tile099.png" type="Texture" id=173]
+[ext_resource path="res://art/hyptosis_art/tile100.png" type="Texture" id=174]
+[ext_resource path="res://art/hyptosis_art/tile102.png" type="Texture" id=175]
+[ext_resource path="res://art/hyptosis_art/tile103.png" type="Texture" id=176]
+[ext_resource path="res://art/hyptosis_art/tile104.png" type="Texture" id=177]
+[ext_resource path="res://art/hyptosis_art/tile105.png" type="Texture" id=178]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/pebble_brown_0_new.png" type="Texture" id=179]
+[ext_resource path="res://art/hyptosis_art/tile106.png" type="Texture" id=180]
+[ext_resource path="res://art/hyptosis_art/tile107.png" type="Texture" id=181]
+[ext_resource path="res://art/hyptosis_art/tile108.png" type="Texture" id=182]
+[ext_resource path="res://art/hyptosis_art/tile109.png" type="Texture" id=183]
+[ext_resource path="res://art/hyptosis_art/tile117.png" type="Texture" id=184]
+[ext_resource path="res://art/hyptosis_art/tile132.png" type="Texture" id=185]
+[ext_resource path="res://art/hyptosis_art/tile133.png" type="Texture" id=186]
+[ext_resource path="res://art/hyptosis_art/tile134.png" type="Texture" id=187]
+[ext_resource path="res://art/hyptosis_art/tile137.png" type="Texture" id=188]
+[ext_resource path="res://art/hyptosis_art/tile135.png" type="Texture" id=189]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/pebble_brown_1_new.png" type="Texture" id=190]
+[ext_resource path="res://art/hyptosis_art/tile136.png" type="Texture" id=191]
+[ext_resource path="res://art/hyptosis_art/tile139.png" type="Texture" id=192]
+[ext_resource path="res://art/hyptosis_art/tile138.png" type="Texture" id=193]
+[ext_resource path="res://art/hyptosis_art/tile146.png" type="Texture" id=194]
+[ext_resource path="res://art/hyptosis_art/tile147.png" type="Texture" id=195]
+[ext_resource path="res://art/hyptosis_art/tile116.png" type="Texture" id=196]
+[ext_resource path="res://art/hyptosis_art/tile126.png" type="Texture" id=197]
+[ext_resource path="res://art/hyptosis_art/tile176.png" type="Texture" id=198]
+[ext_resource path="res://art/hyptosis_art/tile177.png" type="Texture" id=199]
+[ext_resource path="res://art/hyptosis_art/tile207.png" type="Texture" id=200]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/pebble_brown_5_new.png" type="Texture" id=201]
+[ext_resource path="res://art/hyptosis_art/tile194.png" type="Texture" id=202]
+[ext_resource path="res://art/hyptosis_art/tile167.png" type="Texture" id=203]
+[ext_resource path="res://art/hyptosis_art/tile168.png" type="Texture" id=204]
+[ext_resource path="res://art/hyptosis_art/tile169.png" type="Texture" id=205]
+[ext_resource path="res://art/hyptosis_art/tile192.png" type="Texture" id=206]
+[ext_resource path="res://art/hyptosis_art/tile193.png" type="Texture" id=207]
+[ext_resource path="res://art/hyptosis_art/tile199.png" type="Texture" id=208]
+[ext_resource path="res://art/hyptosis_art/tile222.png" type="Texture" id=209]
+[ext_resource path="res://art/hyptosis_art/tile223.png" type="Texture" id=210]
+[ext_resource path="res://art/hyptosis_art/tile224.png" type="Texture" id=211]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/pebble_brown_8_new.png" type="Texture" id=212]
+[ext_resource path="res://art/hyptosis_art/tile257.png" type="Texture" id=213]
+[ext_resource path="res://art/hyptosis_art/tile258.png" type="Texture" id=214]
+[ext_resource path="res://art/hyptosis_art/tile272.png" type="Texture" id=215]
+[ext_resource path="res://art/hyptosis_art/tile644.png" type="Texture" id=216]
+[ext_resource path="res://art/hyptosis_art/tile674.png" type="Texture" id=217]
+[ext_resource path="res://art/hyptosis_art/tile681.png" type="Texture" id=218]
+[ext_resource path="res://art/hyptosis_art/tile740.png" type="Texture" id=219]
+[ext_resource path="res://art/hyptosis_art/tile741.png" type="Texture" id=220]
+[ext_resource path="res://art/hyptosis_art/tile770.png" type="Texture" id=221]
+[ext_resource path="res://art/hyptosis_art/tile771.png" type="Texture" id=222]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/floor_sand_rock_1.png" type="Texture" id=223]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sandstone_floor_0.png" type="Texture" id=224]
+[ext_resource path="res://art/hyptosis_art/tile777.png" type="Texture" id=225]
+[ext_resource path="res://art/hyptosis_art/tile796.png" type="Texture" id=226]
+[ext_resource path="res://art/hyptosis_art/tile798.png" type="Texture" id=227]
+[ext_resource path="res://art/hyptosis_art/tile799.png" type="Texture" id=228]
+[ext_resource path="res://art/hyptosis_art/tile807.png" type="Texture" id=229]
+[ext_resource path="res://art/hyptosis_art/tile826.png" type="Texture" id=230]
+[ext_resource path="res://art/hyptosis_art/tile825.png" type="Texture" id=231]
+[ext_resource path="res://art/hyptosis_art/tile829.png" type="Texture" id=232]
+[ext_resource path="res://art/hyptosis_art/tile837.png" type="Texture" id=233]
+[ext_resource path="res://art/hyptosis_art/tile464.png" type="Texture" id=234]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sandstone_floor_5.png" type="Texture" id=235]
+[ext_resource path="res://art/hyptosis_art/set_two/tile890.png" type="Texture" id=236]
+[ext_resource path="res://art/hyptosis_art/set_two/tile891.png" type="Texture" id=237]
+[ext_resource path="res://art/hyptosis_art/set_two/tile892.png" type="Texture" id=238]
+[ext_resource path="res://art/hyptosis_art/tile440.png" type="Texture" id=239]
+[ext_resource path="res://art/hyptosis_art/tile441.png" type="Texture" id=240]
+[ext_resource path="res://art/hyptosis_art/tile442.png" type="Texture" id=241]
+[ext_resource path="res://art/hyptosis_art/tile443.png" type="Texture" id=242]
+[ext_resource path="res://art/hyptosis_art/tile444.png" type="Texture" id=243]
+[ext_resource path="res://art/hyptosis_art/tile416.png" type="Texture" id=244]
+[ext_resource path="res://art/hyptosis_art/tile415.png" type="Texture" id=245]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sandstone_floor_6.png" type="Texture" id=246]
+[ext_resource path="res://art/hyptosis_art/tile414.png" type="Texture" id=247]
+[ext_resource path="res://art/hyptosis_art/tile413.png" type="Texture" id=248]
+[ext_resource path="res://art/hyptosis_art/tile411.png" type="Texture" id=249]
+[ext_resource path="res://art/hyptosis_art/tile410.png" type="Texture" id=250]
+[ext_resource path="res://art/hyptosis_art/tile385.png" type="Texture" id=251]
+[ext_resource path="res://art/hyptosis_art/tile384.png" type="Texture" id=252]
+[ext_resource path="res://art/hyptosis_art/tile383.png" type="Texture" id=253]
+[ext_resource path="res://art/hyptosis_art/tile382.png" type="Texture" id=254]
+[ext_resource path="res://art/hyptosis_art/tile381.png" type="Texture" id=255]
+[ext_resource path="res://art/hyptosis_art/tile380.png" type="Texture" id=256]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sandstone_floor_7.png" type="Texture" id=257]
+[ext_resource path="res://art/hyptosis_art/tile355.png" type="Texture" id=258]
+[ext_resource path="res://art/hyptosis_art/tile354.png" type="Texture" id=259]
+[ext_resource path="res://art/hyptosis_art/tile353.png" type="Texture" id=260]
+[ext_resource path="res://art/hyptosis_art/tile352.png" type="Texture" id=261]
+[ext_resource path="res://art/hyptosis_art/tile351.png" type="Texture" id=262]
+[ext_resource path="res://art/hyptosis_art/tile356.png" type="Texture" id=263]
+[ext_resource path="res://art/hyptosis_art/tile357.png" type="Texture" id=264]
+[ext_resource path="res://art/hyptosis_art/tile324.png" type="Texture" id=265]
+[ext_resource path="res://art/hyptosis_art/tile323.png" type="Texture" id=266]
+[ext_resource path="res://art/hyptosis_art/tile322.png" type="Texture" id=267]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sandstone_floor_8.png" type="Texture" id=268]
+[ext_resource path="res://art/hyptosis_art/tile326.png" type="Texture" id=269]
+[ext_resource path="res://art/hyptosis_art/tile327.png" type="Texture" id=270]
+[ext_resource path="res://art/hyptosis_art/tile325.png" type="Texture" id=271]
+[ext_resource path="res://art/hyptosis_art/tile320.png" type="Texture" id=272]
+[ext_resource path="res://art/hyptosis_art/tile321.png" type="Texture" id=273]
+[ext_resource path="res://art/hyptosis_art/tile297.png" type="Texture" id=274]
+[ext_resource path="res://art/hyptosis_art/tile296.png" type="Texture" id=275]
+[ext_resource path="res://art/hyptosis_art/tile295.png" type="Texture" id=276]
+[ext_resource path="res://art/hyptosis_art/tile290.png" type="Texture" id=277]
+[ext_resource path="res://art/hyptosis_art/tile291.png" type="Texture" id=278]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sandstone_floor_9.png" type="Texture" id=279]
+[ext_resource path="res://art/hyptosis_art/tile292.png" type="Texture" id=280]
+[ext_resource path="res://art/hyptosis_art/tile293.png" type="Texture" id=281]
+[ext_resource path="res://art/hyptosis_art/tile294.png" type="Texture" id=282]
+[ext_resource path="res://art/hyptosis_art/tile260.png" type="Texture" id=283]
+[ext_resource path="res://art/hyptosis_art/tile261.png" type="Texture" id=284]
+[ext_resource path="res://art/hyptosis_art/tile262.png" type="Texture" id=285]
+[ext_resource path="res://art/hyptosis_art/tile264.png" type="Texture" id=286]
+[ext_resource path="res://art/hyptosis_art/tile266.png" type="Texture" id=287]
+[ext_resource path="res://art/hyptosis_art/tile265.png" type="Texture" id=288]
+[ext_resource path="res://art/hyptosis_art/tile267.png" type="Texture" id=289]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/white_marble_0.png" type="Texture" id=290]
+[ext_resource path="res://art/hyptosis_art/tile233.png" type="Texture" id=291]
+[ext_resource path="res://art/hyptosis_art/tile235.png" type="Texture" id=292]
+[ext_resource path="res://art/hyptosis_art/tile174.png" type="Texture" id=293]
+[ext_resource path="res://art/hyptosis_art/tile173.png" type="Texture" id=294]
+[ext_resource path="res://art/hyptosis_art/tile144.png" type="Texture" id=295]
+[ext_resource path="res://art/hyptosis_art/tile143.png" type="Texture" id=296]
+[ext_resource path="res://art/hyptosis_art/tile110.png" type="Texture" id=297]
+[ext_resource path="res://art/hyptosis_art/tile111.png" type="Texture" id=298]
+[ext_resource path="res://art/hyptosis_art/tile112.png" type="Texture" id=299]
+[ext_resource path="res://art/hyptosis_art/tile140.png" type="Texture" id=300]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/white_marble_1.png" type="Texture" id=301]
+[ext_resource path="res://art/hyptosis_art/tile142.png" type="Texture" id=302]
+[ext_resource path="res://art/hyptosis_art/tile141.png" type="Texture" id=303]
+[ext_resource path="res://art/hyptosis_art/tile170.png" type="Texture" id=304]
+[ext_resource path="res://art/hyptosis_art/tile171.png" type="Texture" id=305]
+[ext_resource path="res://art/hyptosis_art/tile172.png" type="Texture" id=306]
+[ext_resource path="res://art/hyptosis_art/set_two/tile143.png" type="Texture" id=307]
+[ext_resource path="res://art/hyptosis_art/set_two/tile144.png" type="Texture" id=308]
+[ext_resource path="res://art/hyptosis_art/set_two/tile145.png" type="Texture" id=309]
+[ext_resource path="res://art/hyptosis_art/set_two/tile173.png" type="Texture" id=310]
+[ext_resource path="res://art/hyptosis_art/set_two/tile174.png" type="Texture" id=311]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/white_marble_2.png" type="Texture" id=312]
+[ext_resource path="res://art/hyptosis_art/set_two/tile175.png" type="Texture" id=313]
+[ext_resource path="res://art/hyptosis_art/set_two/tile176.png" type="Texture" id=314]
+[ext_resource path="res://art/hyptosis_art/set_two/tile177.png" type="Texture" id=315]
+[ext_resource path="res://art/hyptosis_art/set_two/tile202.png" type="Texture" id=316]
+[ext_resource path="res://art/hyptosis_art/set_two/tile203.png" type="Texture" id=317]
+[ext_resource path="res://art/hyptosis_art/set_two/tile204.png" type="Texture" id=318]
+[ext_resource path="res://art/hyptosis_art/set_two/tile205.png" type="Texture" id=319]
+[ext_resource path="res://art/hyptosis_art/set_two/tile206.png" type="Texture" id=320]
+[ext_resource path="res://art/hyptosis_art/set_two/tile207.png" type="Texture" id=321]
+[ext_resource path="res://art/hyptosis_art/set_two/tile350.png" type="Texture" id=322]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/white_marble_9.png" type="Texture" id=323]
+[ext_resource path="res://art/hyptosis_art/set_two/tile351.png" type="Texture" id=324]
+[ext_resource path="res://art/hyptosis_art/set_two/tile382.png" type="Texture" id=325]
+[ext_resource path="res://art/hyptosis_art/set_two/tile383.png" type="Texture" id=326]
+[ext_resource path="res://art/hyptosis_art/set_two/tile384.png" type="Texture" id=327]
+[ext_resource path="res://art/hyptosis_art/set_two/tile385.png" type="Texture" id=328]
+[ext_resource path="res://art/hyptosis_art/set_two/tile386.png" type="Texture" id=329]
+[ext_resource path="res://art/hyptosis_art/set_two/tile387.png" type="Texture" id=330]
+[ext_resource path="res://art/hyptosis_art/set_two/tile410.png" type="Texture" id=331]
+[ext_resource path="res://art/hyptosis_art/set_two/tile412.png" type="Texture" id=332]
+[ext_resource path="res://art/hyptosis_art/set_two/tile411.png" type="Texture" id=333]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/floor_sand_rock_2.png" type="Texture" id=334]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/tomb_0_new.png" type="Texture" id=335]
+[ext_resource path="res://art/hyptosis_art/set_two/tile413.png" type="Texture" id=336]
+[ext_resource path="res://art/hyptosis_art/set_two/tile414.png" type="Texture" id=337]
+[ext_resource path="res://art/hyptosis_art/set_two/tile415.png" type="Texture" id=338]
+[ext_resource path="res://art/hyptosis_art/set_two/tile416.png" type="Texture" id=339]
+[ext_resource path="res://art/hyptosis_art/set_two/tile417.png" type="Texture" id=340]
+[ext_resource path="res://art/hyptosis_art/set_two/tile445.png" type="Texture" id=341]
+[ext_resource path="res://art/hyptosis_art/set_two/tile446.png" type="Texture" id=342]
+[ext_resource path="res://art/hyptosis_art/set_two/tile447.png" type="Texture" id=343]
+[ext_resource path="res://art/hyptosis_art/set_two/tile475.png" type="Texture" id=344]
+[ext_resource path="res://art/hyptosis_art/set_two/tile476.png" type="Texture" id=345]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/tomb_2_new.png" type="Texture" id=346]
+[ext_resource path="res://art/hyptosis_art/set_two/tile477.png" type="Texture" id=347]
+[ext_resource path="res://art/hyptosis_art/set_two/tile504.png" type="Texture" id=348]
+[ext_resource path="res://art/hyptosis_art/set_two/tile503.png" type="Texture" id=349]
+[ext_resource path="res://art/hyptosis_art/set_two/tile505.png" type="Texture" id=350]
+[ext_resource path="res://art/hyptosis_art/set_two/tile506.png" type="Texture" id=351]
+[ext_resource path="res://art/hyptosis_art/set_two/tile507.png" type="Texture" id=352]
+[ext_resource path="res://art/hyptosis_art/set_two/tile627.png" type="Texture" id=353]
+[ext_resource path="res://art/hyptosis_art/set_two/tile624.png" type="Texture" id=354]
+[ext_resource path="res://art/hyptosis_art/set_two/tile625.png" type="Texture" id=355]
+[ext_resource path="res://art/hyptosis_art/set_two/tile626.png" type="Texture" id=356]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/altars/altar_kikubaaqudgha.png" type="Texture" id=357]
+[ext_resource path="res://art/hyptosis_art/set_two/tile636.png" type="Texture" id=358]
+[ext_resource path="res://art/hyptosis_art/set_two/tile800.png" type="Texture" id=359]
+[ext_resource path="res://art/hyptosis_art/set_two/tile801.png" type="Texture" id=360]
+[ext_resource path="res://art/hyptosis_art/set_two/tile802.png" type="Texture" id=361]
+[ext_resource path="res://art/hyptosis_art/set_two/tile830.png" type="Texture" id=362]
+[ext_resource path="res://art/hyptosis_art/set_three/tile022.png" type="Texture" id=363]
+[ext_resource path="res://art/hyptosis_art/set_three/tile012.png" type="Texture" id=364]
+[ext_resource path="res://art/hyptosis_art/set_three/tile013.png" type="Texture" id=365]
+[ext_resource path="res://art/hyptosis_art/set_three/tile014.png" type="Texture" id=366]
+[ext_resource path="res://art/hyptosis_art/set_three/tile042.png" type="Texture" id=367]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/altars/altar_okawaru.png" type="Texture" id=368]
+[ext_resource path="res://art/hyptosis_art/set_three/tile043.png" type="Texture" id=369]
+[ext_resource path="res://art/hyptosis_art/set_three/tile044.png" type="Texture" id=370]
+[ext_resource path="res://art/hyptosis_art/set_three/tile080.png" type="Texture" id=371]
+[ext_resource path="res://art/hyptosis_art/set_three/tile081.png" type="Texture" id=372]
+[ext_resource path="res://art/hyptosis_art/set_three/tile082.png" type="Texture" id=373]
+[ext_resource path="res://art/hyptosis_art/set_three/tile110.png" type="Texture" id=374]
+[ext_resource path="res://art/hyptosis_art/set_three/tile111.png" type="Texture" id=375]
+[ext_resource path="res://art/hyptosis_art/set_three/tile112.png" type="Texture" id=376]
+[ext_resource path="res://art/hyptosis_art/set_three/tile140.png" type="Texture" id=377]
+[ext_resource path="res://art/hyptosis_art/set_three/tile141.png" type="Texture" id=378]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/altars/altar_old.png" type="Texture" id=379]
+[ext_resource path="res://art/hyptosis_art/set_three/tile142.png" type="Texture" id=380]
+[ext_resource path="res://art/hyptosis_art/set_three/tile233.png" type="Texture" id=381]
+[ext_resource path="res://art/hyptosis_art/set_three/tile234.png" type="Texture" id=382]
+[ext_resource path="res://art/hyptosis_art/set_three/tile235.png" type="Texture" id=383]
+[ext_resource path="res://art/hyptosis_art/set_three/tile236.png" type="Texture" id=384]
+[ext_resource path="res://art/hyptosis_art/set_three/tile263.png" type="Texture" id=385]
+[ext_resource path="res://art/hyptosis_art/set_three/tile264.png" type="Texture" id=386]
+[ext_resource path="res://art/hyptosis_art/set_three/tile265.png" type="Texture" id=387]
+[ext_resource path="res://art/hyptosis_art/set_three/tile266.png" type="Texture" id=388]
+[ext_resource path="res://art/hyptosis_art/set_three/tile295.png" type="Texture" id=389]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/altars/altar_new.png" type="Texture" id=390]
+[ext_resource path="res://art/hyptosis_art/set_three/tile296.png" type="Texture" id=391]
+[ext_resource path="res://art/hyptosis_art/set_three/tile314.png" type="Texture" id=392]
+[ext_resource path="res://art/hyptosis_art/set_three/tile315.png" type="Texture" id=393]
+[ext_resource path="res://art/hyptosis_art/set_three/tile285.png" type="Texture" id=394]
+[ext_resource path="res://art/hyptosis_art/set_three/tile284.png" type="Texture" id=395]
+[ext_resource path="res://art/hyptosis_art/set_three/tile596.png" type="Texture" id=396]
+[ext_resource path="res://art/hyptosis_art/set_three/tile626.png" type="Texture" id=397]
+[ext_resource path="res://art/hyptosis_art/set_three/tile653.png" type="Texture" id=398]
+[ext_resource path="res://art/hyptosis_art/set_three/tile344.png" type="Texture" id=399]
+[ext_resource path="res://art/hyptosis_art/set_three/tile345.png" type="Texture" id=400]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/doors/closed_door.png" type="Texture" id=401]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/doors/gate_closed_left.png" type="Texture" id=402]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/doors/gate_closed_middle.png" type="Texture" id=403]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/doors/gate_closed_right.png" type="Texture" id=404]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/floor_sand_rock_3.png" type="Texture" id=405]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/doors/gate_open_left.png" type="Texture" id=406]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/doors/gate_open_middle.png" type="Texture" id=407]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/doors/gate_open_right.png" type="Texture" id=408]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/doors/open_door.png" type="Texture" id=409]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/doors/vgate_closed_up.png" type="Texture" id=410]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/doors/vgate_open_up.png" type="Texture" id=411]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/statues/crumbled_column_1.png" type="Texture" id=412]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/statues/crumbled_column_2.png" type="Texture" id=413]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/statues/crumbled_column_3.png" type="Texture" id=414]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/statues/crumbled_column_5.png" type="Texture" id=415]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/floor_sand_stone_0.png" type="Texture" id=416]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/statues/crumbled_column_4.png" type="Texture" id=417]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/statues/crumbled_column_6.png" type="Texture" id=418]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/statues/elephant_statue.png" type="Texture" id=419]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/statues/statue_cat.png" type="Texture" id=420]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/statues/statue_dragon.png" type="Texture" id=421]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/statues/statue_sword.png" type="Texture" id=422]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/statues/statue_triangle.png" type="Texture" id=423]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/statues/statue_wraith.png" type="Texture" id=424]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/gold/gold_pile_10.png" type="Texture" id=425]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/gold/gold_pile_3.png" type="Texture" id=426]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/floor_sand_stone_1.png" type="Texture" id=427]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/gold/gold_pile.png" type="Texture" id=428]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/scroll/scroll-red.png" type="Texture" id=429]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/scroll/scroll-yellow.png" type="Texture" id=430]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/artefact/spwpn_sword_of_zonguldrok_old.png" type="Texture" id=431]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/artefact/spwpn_singing_sword.png" type="Texture" id=432]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/traps/gas_trap.png" type="Texture" id=433]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/traps/pressure_plate.png" type="Texture" id=434]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/traps/shaft.png" type="Texture" id=435]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/traps/trap_magical.png" type="Texture" id=436]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/traps/trap_teleport.png" type="Texture" id=437]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/floor_sand_stone_2.png" type="Texture" id=438]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/trees/mangrove_1.png" type="Texture" id=439]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/trees/mangrove_2.png" type="Texture" id=440]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/trees/mangrove_3.png" type="Texture" id=441]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/banners/banner_1.png" type="Texture" id=442]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/torches/torch_0.png" type="Texture" id=443]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/water/deep_water.png" type="Texture" id=444]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/water/deep_water_2.png" type="Texture" id=445]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/water/deep_water_murky.png" type="Texture" id=446]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/water/deep_water_murky_2.png" type="Texture" id=447]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/water/shoals_deep_water_0.png" type="Texture" id=448]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/floor_sand_stone_3.png" type="Texture" id=449]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/water/shoals_deep_water_1_new.png" type="Texture" id=450]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/water/shoals_shallow_water_0.png" type="Texture" id=451]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/water/shoals_shallow_water_1_new.png" type="Texture" id=452]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/water/shoals_shallow_water_disturbance_1_new.png" type="Texture" id=453]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/water/shallow_water_wave_corner_northeast_new.png" type="Texture" id=454]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/water/shallow_water_wave_corner_southeast_new.png" type="Texture" id=455]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/water/shallow_water_wave_corner_southwest_new.png" type="Texture" id=456]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/water/shallow_water_wave_south_new.png" type="Texture" id=457]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/water/shallow_water_wave_east_new.png" type="Texture" id=458]
+[ext_resource path="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/water/shallow_water_wave_north_new.png" type="Texture" id=459]
+
+[resource]
+
+0/name = "rect_gray_2_new"
+0/texture = ExtResource( 1 )
+0/tex_offset = Vector2( 0, 0 )
+0/modulate = Color( 1, 1, 1, 1 )
+0/region = Rect2( 0, 0, 32, 32 )
+0/is_autotile = false
+0/occluder_offset = Vector2( 16, 16 )
+0/navigation_offset = Vector2( 16, 16 )
+0/shapes = [  ]
+1/name = "floor_vines_0_new"
+1/texture = ExtResource( 2 )
+1/tex_offset = Vector2( 0, 0 )
+1/modulate = Color( 1, 1, 1, 1 )
+1/region = Rect2( 0, 0, 32, 32 )
+1/is_autotile = false
+1/occluder_offset = Vector2( 16, 16 )
+1/navigation_offset = Vector2( 16, 16 )
+1/shapes = [  ]
+2/name = "floor_sand_rock_0"
+2/texture = ExtResource( 112 )
+2/tex_offset = Vector2( 0, 0 )
+2/modulate = Color( 1, 1, 1, 1 )
+2/region = Rect2( 0, 0, 32, 32 )
+2/is_autotile = false
+2/occluder_offset = Vector2( 16, 16 )
+2/navigation_offset = Vector2( 16, 16 )
+2/shapes = [  ]
+3/name = "floor_sand_rock_1"
+3/texture = ExtResource( 223 )
+3/tex_offset = Vector2( 0, 0 )
+3/modulate = Color( 1, 1, 1, 1 )
+3/region = Rect2( 0, 0, 32, 32 )
+3/is_autotile = false
+3/occluder_offset = Vector2( 16, 16 )
+3/navigation_offset = Vector2( 16, 16 )
+3/shapes = [  ]
+4/name = "floor_sand_rock_2"
+4/texture = ExtResource( 334 )
+4/tex_offset = Vector2( 0, 0 )
+4/modulate = Color( 1, 1, 1, 1 )
+4/region = Rect2( 0, 0, 32, 32 )
+4/is_autotile = false
+4/occluder_offset = Vector2( 16, 16 )
+4/navigation_offset = Vector2( 16, 16 )
+4/shapes = [  ]
+5/name = "floor_sand_rock_3"
+5/texture = ExtResource( 405 )
+5/tex_offset = Vector2( 0, 0 )
+5/modulate = Color( 1, 1, 1, 1 )
+5/region = Rect2( 0, 0, 32, 32 )
+5/is_autotile = false
+5/occluder_offset = Vector2( 16, 16 )
+5/navigation_offset = Vector2( 16, 16 )
+5/shapes = [  ]
+6/name = "floor_sand_stone_0"
+6/texture = ExtResource( 416 )
+6/tex_offset = Vector2( 0, 0 )
+6/modulate = Color( 1, 1, 1, 1 )
+6/region = Rect2( 0, 0, 32, 32 )
+6/is_autotile = false
+6/occluder_offset = Vector2( 16, 16 )
+6/navigation_offset = Vector2( 16, 16 )
+6/shapes = [  ]
+7/name = "floor_sand_stone_1"
+7/texture = ExtResource( 427 )
+7/tex_offset = Vector2( 0, 0 )
+7/modulate = Color( 1, 1, 1, 1 )
+7/region = Rect2( 0, 0, 32, 32 )
+7/is_autotile = false
+7/occluder_offset = Vector2( 16, 16 )
+7/navigation_offset = Vector2( 16, 16 )
+7/shapes = [  ]
+8/name = "floor_sand_stone_2"
+8/texture = ExtResource( 438 )
+8/tex_offset = Vector2( 0, 0 )
+8/modulate = Color( 1, 1, 1, 1 )
+8/region = Rect2( 0, 0, 32, 32 )
+8/is_autotile = false
+8/occluder_offset = Vector2( 16, 16 )
+8/navigation_offset = Vector2( 16, 16 )
+8/shapes = [  ]
+9/name = "floor_sand_stone_3"
+9/texture = ExtResource( 449 )
+9/tex_offset = Vector2( 0, 0 )
+9/modulate = Color( 1, 1, 1, 1 )
+9/region = Rect2( 0, 0, 32, 32 )
+9/is_autotile = false
+9/occluder_offset = Vector2( 16, 16 )
+9/navigation_offset = Vector2( 16, 16 )
+9/shapes = [  ]
+10/name = "floor_sand_stone_4"
+10/texture = ExtResource( 3 )
+10/tex_offset = Vector2( 0, 0 )
+10/modulate = Color( 1, 1, 1, 1 )
+10/region = Rect2( 0, 0, 32, 32 )
+10/is_autotile = false
+10/occluder_offset = Vector2( 16, 16 )
+10/navigation_offset = Vector2( 16, 16 )
+10/shapes = [  ]
+11/name = "floor_sand_stone_5"
+11/texture = ExtResource( 14 )
+11/tex_offset = Vector2( 0, 0 )
+11/modulate = Color( 1, 1, 1, 1 )
+11/region = Rect2( 0, 0, 32, 32 )
+11/is_autotile = false
+11/occluder_offset = Vector2( 16, 16 )
+11/navigation_offset = Vector2( 16, 16 )
+11/shapes = [  ]
+12/name = "floor_sand_stone_6"
+12/texture = ExtResource( 25 )
+12/tex_offset = Vector2( 0, 0 )
+12/modulate = Color( 1, 1, 1, 1 )
+12/region = Rect2( 0, 0, 32, 32 )
+12/is_autotile = false
+12/occluder_offset = Vector2( 16, 16 )
+12/navigation_offset = Vector2( 16, 16 )
+12/shapes = [  ]
+13/name = "floor_sand_stone_7"
+13/texture = ExtResource( 36 )
+13/tex_offset = Vector2( 0, 0 )
+13/modulate = Color( 1, 1, 1, 1 )
+13/region = Rect2( 0, 0, 32, 32 )
+13/is_autotile = false
+13/occluder_offset = Vector2( 16, 16 )
+13/navigation_offset = Vector2( 16, 16 )
+13/shapes = [  ]
+14/name = "cobble_blood_1_new"
+14/texture = ExtResource( 47 )
+14/tex_offset = Vector2( 0, 0 )
+14/modulate = Color( 1, 1, 1, 1 )
+14/region = Rect2( 0, 0, 32, 32 )
+14/is_autotile = false
+14/occluder_offset = Vector2( 16, 16 )
+14/navigation_offset = Vector2( 16, 16 )
+14/shapes = [  ]
+15/name = "cobble_blood_2_new"
+15/texture = ExtResource( 58 )
+15/tex_offset = Vector2( 0, 0 )
+15/modulate = Color( 1, 1, 1, 1 )
+15/region = Rect2( 0, 0, 32, 32 )
+15/is_autotile = false
+15/occluder_offset = Vector2( 16, 16 )
+15/navigation_offset = Vector2( 16, 16 )
+15/shapes = [  ]
+16/name = "cobble_blood_9_new"
+16/texture = ExtResource( 69 )
+16/tex_offset = Vector2( 0, 0 )
+16/modulate = Color( 1, 1, 1, 1 )
+16/region = Rect2( 0, 0, 32, 32 )
+16/is_autotile = false
+16/occluder_offset = Vector2( 16, 16 )
+16/navigation_offset = Vector2( 16, 16 )
+16/shapes = [  ]
+17/name = "floor_vines_3_new"
+17/texture = ExtResource( 80 )
+17/tex_offset = Vector2( 0, 0 )
+17/modulate = Color( 1, 1, 1, 1 )
+17/region = Rect2( 0, 0, 32, 32 )
+17/is_autotile = false
+17/occluder_offset = Vector2( 16, 16 )
+17/navigation_offset = Vector2( 16, 16 )
+17/shapes = [  ]
+18/name = "floor_vines_4_new"
+18/texture = ExtResource( 91 )
+18/tex_offset = Vector2( 0, 0 )
+18/modulate = Color( 1, 1, 1, 1 )
+18/region = Rect2( 0, 0, 32, 32 )
+18/is_autotile = false
+18/occluder_offset = Vector2( 16, 16 )
+18/navigation_offset = Vector2( 16, 16 )
+18/shapes = [  ]
+19/name = "lava_old"
+19/texture = ExtResource( 101 )
+19/tex_offset = Vector2( 0, 0 )
+19/modulate = Color( 1, 1, 1, 1 )
+19/region = Rect2( 0, 0, 32, 32 )
+19/is_autotile = false
+19/occluder_offset = Vector2( 16, 16 )
+19/navigation_offset = Vector2( 16, 16 )
+19/shapes = [  ]
+20/name = "limestone_0"
+20/texture = ExtResource( 113 )
+20/tex_offset = Vector2( 0, 0 )
+20/modulate = Color( 1, 1, 1, 1 )
+20/region = Rect2( 0, 0, 32, 32 )
+20/is_autotile = false
+20/occluder_offset = Vector2( 16, 16 )
+20/navigation_offset = Vector2( 16, 16 )
+20/shapes = [  ]
+21/name = "limestone_1"
+21/texture = ExtResource( 124 )
+21/tex_offset = Vector2( 0, 0 )
+21/modulate = Color( 1, 1, 1, 1 )
+21/region = Rect2( 0, 0, 32, 32 )
+21/is_autotile = false
+21/occluder_offset = Vector2( 16, 16 )
+21/navigation_offset = Vector2( 16, 16 )
+21/shapes = [  ]
+22/name = "limestone_2"
+22/texture = ExtResource( 135 )
+22/tex_offset = Vector2( 0, 0 )
+22/modulate = Color( 1, 1, 1, 1 )
+22/region = Rect2( 0, 0, 32, 32 )
+22/is_autotile = false
+22/occluder_offset = Vector2( 16, 16 )
+22/navigation_offset = Vector2( 16, 16 )
+22/shapes = [  ]
+23/name = "limestone_3"
+23/texture = ExtResource( 146 )
+23/tex_offset = Vector2( 0, 0 )
+23/modulate = Color( 1, 1, 1, 1 )
+23/region = Rect2( 0, 0, 32, 32 )
+23/is_autotile = false
+23/occluder_offset = Vector2( 16, 16 )
+23/navigation_offset = Vector2( 16, 16 )
+23/shapes = [  ]
+24/name = "limestone_4"
+24/texture = ExtResource( 157 )
+24/tex_offset = Vector2( 0, 0 )
+24/modulate = Color( 1, 1, 1, 1 )
+24/region = Rect2( 0, 0, 32, 32 )
+24/is_autotile = false
+24/occluder_offset = Vector2( 16, 16 )
+24/navigation_offset = Vector2( 16, 16 )
+24/shapes = [  ]
+25/name = "pebble_brown_2_new"
+25/texture = ExtResource( 168 )
+25/tex_offset = Vector2( 0, 0 )
+25/modulate = Color( 1, 1, 1, 1 )
+25/region = Rect2( 0, 0, 32, 32 )
+25/is_autotile = false
+25/occluder_offset = Vector2( 16, 16 )
+25/navigation_offset = Vector2( 16, 16 )
+25/shapes = [  ]
+26/name = "pebble_brown_0_new"
+26/texture = ExtResource( 179 )
+26/tex_offset = Vector2( 0, 0 )
+26/modulate = Color( 1, 1, 1, 1 )
+26/region = Rect2( 0, 0, 32, 32 )
+26/is_autotile = false
+26/occluder_offset = Vector2( 16, 16 )
+26/navigation_offset = Vector2( 16, 16 )
+26/shapes = [  ]
+27/name = "pebble_brown_1_new"
+27/texture = ExtResource( 190 )
+27/tex_offset = Vector2( 0, 0 )
+27/modulate = Color( 1, 1, 1, 1 )
+27/region = Rect2( 0, 0, 32, 32 )
+27/is_autotile = false
+27/occluder_offset = Vector2( 16, 16 )
+27/navigation_offset = Vector2( 16, 16 )
+27/shapes = [  ]
+28/name = "pebble_brown_5_new"
+28/texture = ExtResource( 201 )
+28/tex_offset = Vector2( 0, 0 )
+28/modulate = Color( 1, 1, 1, 1 )
+28/region = Rect2( 0, 0, 32, 32 )
+28/is_autotile = false
+28/occluder_offset = Vector2( 16, 16 )
+28/navigation_offset = Vector2( 16, 16 )
+28/shapes = [  ]
+29/name = "pebble_brown_8_new"
+29/texture = ExtResource( 212 )
+29/tex_offset = Vector2( 0, 0 )
+29/modulate = Color( 1, 1, 1, 1 )
+29/region = Rect2( 0, 0, 32, 32 )
+29/is_autotile = false
+29/occluder_offset = Vector2( 16, 16 )
+29/navigation_offset = Vector2( 16, 16 )
+29/shapes = [  ]
+30/name = "sandstone_floor_0"
+30/texture = ExtResource( 224 )
+30/tex_offset = Vector2( 0, 0 )
+30/modulate = Color( 1, 1, 1, 1 )
+30/region = Rect2( 0, 0, 32, 32 )
+30/is_autotile = false
+30/occluder_offset = Vector2( 16, 16 )
+30/navigation_offset = Vector2( 16, 16 )
+30/shapes = [  ]
+31/name = "sandstone_floor_5"
+31/texture = ExtResource( 235 )
+31/tex_offset = Vector2( 0, 0 )
+31/modulate = Color( 1, 1, 1, 1 )
+31/region = Rect2( 0, 0, 32, 32 )
+31/is_autotile = false
+31/occluder_offset = Vector2( 16, 16 )
+31/navigation_offset = Vector2( 16, 16 )
+31/shapes = [  ]
+32/name = "sandstone_floor_6"
+32/texture = ExtResource( 246 )
+32/tex_offset = Vector2( 0, 0 )
+32/modulate = Color( 1, 1, 1, 1 )
+32/region = Rect2( 0, 0, 32, 32 )
+32/is_autotile = false
+32/occluder_offset = Vector2( 16, 16 )
+32/navigation_offset = Vector2( 16, 16 )
+32/shapes = [  ]
+33/name = "sandstone_floor_7"
+33/texture = ExtResource( 257 )
+33/tex_offset = Vector2( 0, 0 )
+33/modulate = Color( 1, 1, 1, 1 )
+33/region = Rect2( 0, 0, 32, 32 )
+33/is_autotile = false
+33/occluder_offset = Vector2( 16, 16 )
+33/navigation_offset = Vector2( 16, 16 )
+33/shapes = [  ]
+34/name = "sandstone_floor_8"
+34/texture = ExtResource( 268 )
+34/tex_offset = Vector2( 0, 0 )
+34/modulate = Color( 1, 1, 1, 1 )
+34/region = Rect2( 0, 0, 32, 32 )
+34/is_autotile = false
+34/occluder_offset = Vector2( 16, 16 )
+34/navigation_offset = Vector2( 16, 16 )
+34/shapes = [  ]
+35/name = "sandstone_floor_9"
+35/texture = ExtResource( 279 )
+35/tex_offset = Vector2( 0, 0 )
+35/modulate = Color( 1, 1, 1, 1 )
+35/region = Rect2( 0, 0, 32, 32 )
+35/is_autotile = false
+35/occluder_offset = Vector2( 16, 16 )
+35/navigation_offset = Vector2( 16, 16 )
+35/shapes = [  ]
+36/name = "white_marble_0"
+36/texture = ExtResource( 290 )
+36/tex_offset = Vector2( 0, 0 )
+36/modulate = Color( 1, 1, 1, 1 )
+36/region = Rect2( 0, 0, 32, 32 )
+36/is_autotile = false
+36/occluder_offset = Vector2( 16, 16 )
+36/navigation_offset = Vector2( 16, 16 )
+36/shapes = [  ]
+37/name = "white_marble_1"
+37/texture = ExtResource( 301 )
+37/tex_offset = Vector2( 0, 0 )
+37/modulate = Color( 1, 1, 1, 1 )
+37/region = Rect2( 0, 0, 32, 32 )
+37/is_autotile = false
+37/occluder_offset = Vector2( 16, 16 )
+37/navigation_offset = Vector2( 16, 16 )
+37/shapes = [  ]
+38/name = "white_marble_2"
+38/texture = ExtResource( 312 )
+38/tex_offset = Vector2( 0, 0 )
+38/modulate = Color( 1, 1, 1, 1 )
+38/region = Rect2( 0, 0, 32, 32 )
+38/is_autotile = false
+38/occluder_offset = Vector2( 16, 16 )
+38/navigation_offset = Vector2( 16, 16 )
+38/shapes = [  ]
+39/name = "white_marble_9"
+39/texture = ExtResource( 323 )
+39/tex_offset = Vector2( 0, 0 )
+39/modulate = Color( 1, 1, 1, 1 )
+39/region = Rect2( 0, 0, 32, 32 )
+39/is_autotile = false
+39/occluder_offset = Vector2( 16, 16 )
+39/navigation_offset = Vector2( 16, 16 )
+39/shapes = [  ]
+40/name = "tomb_0_new"
+40/texture = ExtResource( 335 )
+40/tex_offset = Vector2( 0, 0 )
+40/modulate = Color( 1, 1, 1, 1 )
+40/region = Rect2( 0, 0, 32, 32 )
+40/is_autotile = false
+40/occluder_offset = Vector2( 16, 16 )
+40/navigation_offset = Vector2( 16, 16 )
+40/shapes = [  ]
+41/name = "tomb_2_new"
+41/texture = ExtResource( 346 )
+41/tex_offset = Vector2( 0, 0 )
+41/modulate = Color( 1, 1, 1, 1 )
+41/region = Rect2( 0, 0, 32, 32 )
+41/is_autotile = false
+41/occluder_offset = Vector2( 16, 16 )
+41/navigation_offset = Vector2( 16, 16 )
+41/shapes = [  ]
+42/name = "altar_kikubaaqudgha"
+42/texture = ExtResource( 357 )
+42/tex_offset = Vector2( 0, 0 )
+42/modulate = Color( 1, 1, 1, 1 )
+42/region = Rect2( 0, 0, 32, 32 )
+42/is_autotile = false
+42/occluder_offset = Vector2( 16, 16 )
+42/navigation_offset = Vector2( 16, 16 )
+42/shapes = [  ]
+43/name = "altar_okawaru"
+43/texture = ExtResource( 368 )
+43/tex_offset = Vector2( 0, 0 )
+43/modulate = Color( 1, 1, 1, 1 )
+43/region = Rect2( 0, 0, 32, 32 )
+43/is_autotile = false
+43/occluder_offset = Vector2( 16, 16 )
+43/navigation_offset = Vector2( 16, 16 )
+43/shapes = [  ]
+44/name = "altar_old"
+44/texture = ExtResource( 379 )
+44/tex_offset = Vector2( 0, 0 )
+44/modulate = Color( 1, 1, 1, 1 )
+44/region = Rect2( 0, 0, 32, 32 )
+44/is_autotile = false
+44/occluder_offset = Vector2( 16, 16 )
+44/navigation_offset = Vector2( 16, 16 )
+44/shapes = [  ]
+45/name = "altar_new"
+45/texture = ExtResource( 390 )
+45/tex_offset = Vector2( 0, 0 )
+45/modulate = Color( 1, 1, 1, 1 )
+45/region = Rect2( 0, 0, 32, 32 )
+45/is_autotile = false
+45/occluder_offset = Vector2( 16, 16 )
+45/navigation_offset = Vector2( 16, 16 )
+45/shapes = [  ]
+46/name = "closed_door"
+46/texture = ExtResource( 401 )
+46/tex_offset = Vector2( 0, 0 )
+46/modulate = Color( 1, 1, 1, 1 )
+46/region = Rect2( 0, 0, 32, 32 )
+46/is_autotile = false
+46/occluder_offset = Vector2( 16, 16 )
+46/navigation_offset = Vector2( 16, 16 )
+46/shapes = [  ]
+47/name = "gate_closed_left"
+47/texture = ExtResource( 402 )
+47/tex_offset = Vector2( 0, 0 )
+47/modulate = Color( 1, 1, 1, 1 )
+47/region = Rect2( 0, 0, 32, 32 )
+47/is_autotile = false
+47/occluder_offset = Vector2( 16, 16 )
+47/navigation_offset = Vector2( 16, 16 )
+47/shapes = [  ]
+48/name = "gate_closed_middle"
+48/texture = ExtResource( 403 )
+48/tex_offset = Vector2( 0, 0 )
+48/modulate = Color( 1, 1, 1, 1 )
+48/region = Rect2( 0, 0, 32, 32 )
+48/is_autotile = false
+48/occluder_offset = Vector2( 16, 16 )
+48/navigation_offset = Vector2( 16, 16 )
+48/shapes = [  ]
+49/name = "gate_closed_right"
+49/texture = ExtResource( 404 )
+49/tex_offset = Vector2( 0, 0 )
+49/modulate = Color( 1, 1, 1, 1 )
+49/region = Rect2( 0, 0, 32, 32 )
+49/is_autotile = false
+49/occluder_offset = Vector2( 16, 16 )
+49/navigation_offset = Vector2( 16, 16 )
+49/shapes = [  ]
+50/name = "gate_open_left"
+50/texture = ExtResource( 406 )
+50/tex_offset = Vector2( 0, 0 )
+50/modulate = Color( 1, 1, 1, 1 )
+50/region = Rect2( 0, 0, 32, 32 )
+50/is_autotile = false
+50/occluder_offset = Vector2( 16, 16 )
+50/navigation_offset = Vector2( 16, 16 )
+50/shapes = [  ]
+51/name = "gate_open_middle"
+51/texture = ExtResource( 407 )
+51/tex_offset = Vector2( 0, 0 )
+51/modulate = Color( 1, 1, 1, 1 )
+51/region = Rect2( 0, 0, 32, 32 )
+51/is_autotile = false
+51/occluder_offset = Vector2( 16, 16 )
+51/navigation_offset = Vector2( 16, 16 )
+51/shapes = [  ]
+52/name = "gate_open_right"
+52/texture = ExtResource( 408 )
+52/tex_offset = Vector2( 0, 0 )
+52/modulate = Color( 1, 1, 1, 1 )
+52/region = Rect2( 0, 0, 32, 32 )
+52/is_autotile = false
+52/occluder_offset = Vector2( 16, 16 )
+52/navigation_offset = Vector2( 16, 16 )
+52/shapes = [  ]
+53/name = "open_door"
+53/texture = ExtResource( 409 )
+53/tex_offset = Vector2( 0, 0 )
+53/modulate = Color( 1, 1, 1, 1 )
+53/region = Rect2( 0, 0, 32, 32 )
+53/is_autotile = false
+53/occluder_offset = Vector2( 16, 16 )
+53/navigation_offset = Vector2( 16, 16 )
+53/shapes = [  ]
+54/name = "vgate_closed_up"
+54/texture = ExtResource( 410 )
+54/tex_offset = Vector2( 0, 0 )
+54/modulate = Color( 1, 1, 1, 1 )
+54/region = Rect2( 0, 0, 32, 32 )
+54/is_autotile = false
+54/occluder_offset = Vector2( 16, 16 )
+54/navigation_offset = Vector2( 16, 16 )
+54/shapes = [  ]
+55/name = "vgate_open_up"
+55/texture = ExtResource( 411 )
+55/tex_offset = Vector2( 0, 0 )
+55/modulate = Color( 1, 1, 1, 1 )
+55/region = Rect2( 0, 0, 32, 32 )
+55/is_autotile = false
+55/occluder_offset = Vector2( 16, 16 )
+55/navigation_offset = Vector2( 16, 16 )
+55/shapes = [  ]
+56/name = "crumbled_column_1"
+56/texture = ExtResource( 412 )
+56/tex_offset = Vector2( 0, 0 )
+56/modulate = Color( 1, 1, 1, 1 )
+56/region = Rect2( 0, 0, 32, 32 )
+56/is_autotile = false
+56/occluder_offset = Vector2( 16, 16 )
+56/navigation_offset = Vector2( 16, 16 )
+56/shapes = [  ]
+57/name = "crumbled_column_2"
+57/texture = ExtResource( 413 )
+57/tex_offset = Vector2( 0, 0 )
+57/modulate = Color( 1, 1, 1, 1 )
+57/region = Rect2( 0, 0, 32, 32 )
+57/is_autotile = false
+57/occluder_offset = Vector2( 16, 16 )
+57/navigation_offset = Vector2( 16, 16 )
+57/shapes = [  ]
+58/name = "crumbled_column_3"
+58/texture = ExtResource( 414 )
+58/tex_offset = Vector2( 0, 0 )
+58/modulate = Color( 1, 1, 1, 1 )
+58/region = Rect2( 0, 0, 32, 32 )
+58/is_autotile = false
+58/occluder_offset = Vector2( 16, 16 )
+58/navigation_offset = Vector2( 16, 16 )
+58/shapes = [  ]
+59/name = "crumbled_column_5"
+59/texture = ExtResource( 415 )
+59/tex_offset = Vector2( 0, 0 )
+59/modulate = Color( 1, 1, 1, 1 )
+59/region = Rect2( 0, 0, 32, 32 )
+59/is_autotile = false
+59/occluder_offset = Vector2( 16, 16 )
+59/navigation_offset = Vector2( 16, 16 )
+59/shapes = [  ]
+60/name = "crumbled_column_4"
+60/texture = ExtResource( 417 )
+60/tex_offset = Vector2( 0, 0 )
+60/modulate = Color( 1, 1, 1, 1 )
+60/region = Rect2( 0, 0, 32, 32 )
+60/is_autotile = false
+60/occluder_offset = Vector2( 16, 16 )
+60/navigation_offset = Vector2( 16, 16 )
+60/shapes = [  ]
+61/name = "crumbled_column_6"
+61/texture = ExtResource( 418 )
+61/tex_offset = Vector2( 0, 0 )
+61/modulate = Color( 1, 1, 1, 1 )
+61/region = Rect2( 0, 0, 32, 32 )
+61/is_autotile = false
+61/occluder_offset = Vector2( 16, 16 )
+61/navigation_offset = Vector2( 16, 16 )
+61/shapes = [  ]
+62/name = "elephant_statue"
+62/texture = ExtResource( 419 )
+62/tex_offset = Vector2( 0, 0 )
+62/modulate = Color( 1, 1, 1, 1 )
+62/region = Rect2( 0, 0, 32, 32 )
+62/is_autotile = false
+62/occluder_offset = Vector2( 16, 16 )
+62/navigation_offset = Vector2( 16, 16 )
+62/shapes = [  ]
+63/name = "statue_cat"
+63/texture = ExtResource( 420 )
+63/tex_offset = Vector2( 0, 0 )
+63/modulate = Color( 1, 1, 1, 1 )
+63/region = Rect2( 0, 0, 32, 32 )
+63/is_autotile = false
+63/occluder_offset = Vector2( 16, 16 )
+63/navigation_offset = Vector2( 16, 16 )
+63/shapes = [  ]
+64/name = "statue_dragon"
+64/texture = ExtResource( 421 )
+64/tex_offset = Vector2( 0, 0 )
+64/modulate = Color( 1, 1, 1, 1 )
+64/region = Rect2( 0, 0, 32, 32 )
+64/is_autotile = false
+64/occluder_offset = Vector2( 16, 16 )
+64/navigation_offset = Vector2( 16, 16 )
+64/shapes = [  ]
+65/name = "statue_sword"
+65/texture = ExtResource( 422 )
+65/tex_offset = Vector2( 0, 0 )
+65/modulate = Color( 1, 1, 1, 1 )
+65/region = Rect2( 0, 0, 32, 32 )
+65/is_autotile = false
+65/occluder_offset = Vector2( 16, 16 )
+65/navigation_offset = Vector2( 16, 16 )
+65/shapes = [  ]
+66/name = "statue_triangle"
+66/texture = ExtResource( 423 )
+66/tex_offset = Vector2( 0, 0 )
+66/modulate = Color( 1, 1, 1, 1 )
+66/region = Rect2( 0, 0, 32, 32 )
+66/is_autotile = false
+66/occluder_offset = Vector2( 16, 16 )
+66/navigation_offset = Vector2( 16, 16 )
+66/shapes = [  ]
+67/name = "statue_wraith"
+67/texture = ExtResource( 424 )
+67/tex_offset = Vector2( 0, 0 )
+67/modulate = Color( 1, 1, 1, 1 )
+67/region = Rect2( 0, 0, 32, 32 )
+67/is_autotile = false
+67/occluder_offset = Vector2( 16, 16 )
+67/navigation_offset = Vector2( 16, 16 )
+67/shapes = [  ]
+68/name = "gold_pile_10"
+68/texture = ExtResource( 425 )
+68/tex_offset = Vector2( 0, 0 )
+68/modulate = Color( 1, 1, 1, 1 )
+68/region = Rect2( 0, 0, 32, 32 )
+68/is_autotile = false
+68/occluder_offset = Vector2( 16, 16 )
+68/navigation_offset = Vector2( 16, 16 )
+68/shapes = [  ]
+69/name = "gold_pile_3"
+69/texture = ExtResource( 426 )
+69/tex_offset = Vector2( 0, 0 )
+69/modulate = Color( 1, 1, 1, 1 )
+69/region = Rect2( 0, 0, 32, 32 )
+69/is_autotile = false
+69/occluder_offset = Vector2( 16, 16 )
+69/navigation_offset = Vector2( 16, 16 )
+69/shapes = [  ]
+70/name = "gold_pile"
+70/texture = ExtResource( 428 )
+70/tex_offset = Vector2( 0, 0 )
+70/modulate = Color( 1, 1, 1, 1 )
+70/region = Rect2( 0, 0, 32, 32 )
+70/is_autotile = false
+70/occluder_offset = Vector2( 16, 16 )
+70/navigation_offset = Vector2( 16, 16 )
+70/shapes = [  ]
+71/name = "scroll-red"
+71/texture = ExtResource( 429 )
+71/tex_offset = Vector2( 0, 0 )
+71/modulate = Color( 1, 1, 1, 1 )
+71/region = Rect2( 0, 0, 32, 32 )
+71/is_autotile = false
+71/occluder_offset = Vector2( 16, 16 )
+71/navigation_offset = Vector2( 16, 16 )
+71/shapes = [  ]
+72/name = "scroll-yellow"
+72/texture = ExtResource( 430 )
+72/tex_offset = Vector2( 0, 0 )
+72/modulate = Color( 1, 1, 1, 1 )
+72/region = Rect2( 0, 0, 32, 32 )
+72/is_autotile = false
+72/occluder_offset = Vector2( 16, 16 )
+72/navigation_offset = Vector2( 16, 16 )
+72/shapes = [  ]
+73/name = "spwpn_sword_of_zonguldrok_old"
+73/texture = ExtResource( 431 )
+73/tex_offset = Vector2( 0, 0 )
+73/modulate = Color( 1, 1, 1, 1 )
+73/region = Rect2( 0, 0, 32, 32 )
+73/is_autotile = false
+73/occluder_offset = Vector2( 16, 16 )
+73/navigation_offset = Vector2( 16, 16 )
+73/shapes = [  ]
+74/name = "spwpn_singing_sword"
+74/texture = ExtResource( 432 )
+74/tex_offset = Vector2( 0, 0 )
+74/modulate = Color( 1, 1, 1, 1 )
+74/region = Rect2( 0, 0, 32, 32 )
+74/is_autotile = false
+74/occluder_offset = Vector2( 16, 16 )
+74/navigation_offset = Vector2( 16, 16 )
+74/shapes = [  ]
+75/name = "gas_trap"
+75/texture = ExtResource( 433 )
+75/tex_offset = Vector2( 0, 0 )
+75/modulate = Color( 1, 1, 1, 1 )
+75/region = Rect2( 0, 0, 32, 32 )
+75/is_autotile = false
+75/occluder_offset = Vector2( 16, 16 )
+75/navigation_offset = Vector2( 16, 16 )
+75/shapes = [  ]
+76/name = "pressure_plate"
+76/texture = ExtResource( 434 )
+76/tex_offset = Vector2( 0, 0 )
+76/modulate = Color( 1, 1, 1, 1 )
+76/region = Rect2( 0, 0, 32, 32 )
+76/is_autotile = false
+76/occluder_offset = Vector2( 16, 16 )
+76/navigation_offset = Vector2( 16, 16 )
+76/shapes = [  ]
+77/name = "shaft"
+77/texture = ExtResource( 435 )
+77/tex_offset = Vector2( 0, 0 )
+77/modulate = Color( 1, 1, 1, 1 )
+77/region = Rect2( 0, 0, 32, 32 )
+77/is_autotile = false
+77/occluder_offset = Vector2( 16, 16 )
+77/navigation_offset = Vector2( 16, 16 )
+77/shapes = [  ]
+78/name = "trap_magical"
+78/texture = ExtResource( 436 )
+78/tex_offset = Vector2( 0, 0 )
+78/modulate = Color( 1, 1, 1, 1 )
+78/region = Rect2( 0, 0, 32, 32 )
+78/is_autotile = false
+78/occluder_offset = Vector2( 16, 16 )
+78/navigation_offset = Vector2( 16, 16 )
+78/shapes = [  ]
+79/name = "trap_teleport"
+79/texture = ExtResource( 437 )
+79/tex_offset = Vector2( 0, 0 )
+79/modulate = Color( 1, 1, 1, 1 )
+79/region = Rect2( 0, 0, 32, 32 )
+79/is_autotile = false
+79/occluder_offset = Vector2( 16, 16 )
+79/navigation_offset = Vector2( 16, 16 )
+79/shapes = [  ]
+80/name = "mangrove_1"
+80/texture = ExtResource( 439 )
+80/tex_offset = Vector2( 0, 0 )
+80/modulate = Color( 1, 1, 1, 1 )
+80/region = Rect2( 0, 0, 32, 32 )
+80/is_autotile = false
+80/occluder_offset = Vector2( 16, 16 )
+80/navigation_offset = Vector2( 16, 16 )
+80/shapes = [  ]
+81/name = "mangrove_2"
+81/texture = ExtResource( 440 )
+81/tex_offset = Vector2( 0, 0 )
+81/modulate = Color( 1, 1, 1, 1 )
+81/region = Rect2( 0, 0, 32, 32 )
+81/is_autotile = false
+81/occluder_offset = Vector2( 16, 16 )
+81/navigation_offset = Vector2( 16, 16 )
+81/shapes = [  ]
+82/name = "mangrove_3"
+82/texture = ExtResource( 441 )
+82/tex_offset = Vector2( 0, 0 )
+82/modulate = Color( 1, 1, 1, 1 )
+82/region = Rect2( 0, 0, 32, 32 )
+82/is_autotile = false
+82/occluder_offset = Vector2( 16, 16 )
+82/navigation_offset = Vector2( 16, 16 )
+82/shapes = [  ]
+83/name = "banner_1"
+83/texture = ExtResource( 442 )
+83/tex_offset = Vector2( 0, 0 )
+83/modulate = Color( 1, 1, 1, 1 )
+83/region = Rect2( 0, 0, 32, 32 )
+83/is_autotile = false
+83/occluder_offset = Vector2( 16, 16 )
+83/navigation_offset = Vector2( 16, 16 )
+83/shapes = [  ]
+84/name = "torch_0"
+84/texture = ExtResource( 443 )
+84/tex_offset = Vector2( 0, 0 )
+84/modulate = Color( 1, 1, 1, 1 )
+84/region = Rect2( 0, 0, 32, 32 )
+84/is_autotile = false
+84/occluder_offset = Vector2( 16, 16 )
+84/navigation_offset = Vector2( 16, 16 )
+84/shapes = [  ]
+85/name = "deep_water"
+85/texture = ExtResource( 444 )
+85/tex_offset = Vector2( 0, 0 )
+85/modulate = Color( 1, 1, 1, 1 )
+85/region = Rect2( 0, 0, 32, 32 )
+85/is_autotile = false
+85/occluder_offset = Vector2( 16, 16 )
+85/navigation_offset = Vector2( 16, 16 )
+85/shapes = [  ]
+86/name = "deep_water_2"
+86/texture = ExtResource( 445 )
+86/tex_offset = Vector2( 0, 0 )
+86/modulate = Color( 1, 1, 1, 1 )
+86/region = Rect2( 0, 0, 32, 32 )
+86/is_autotile = false
+86/occluder_offset = Vector2( 16, 16 )
+86/navigation_offset = Vector2( 16, 16 )
+86/shapes = [  ]
+87/name = "deep_water_murky"
+87/texture = ExtResource( 446 )
+87/tex_offset = Vector2( 0, 0 )
+87/modulate = Color( 1, 1, 1, 1 )
+87/region = Rect2( 0, 0, 32, 32 )
+87/is_autotile = false
+87/occluder_offset = Vector2( 16, 16 )
+87/navigation_offset = Vector2( 16, 16 )
+87/shapes = [  ]
+88/name = "deep_water_murky_2"
+88/texture = ExtResource( 447 )
+88/tex_offset = Vector2( 0, 0 )
+88/modulate = Color( 1, 1, 1, 1 )
+88/region = Rect2( 0, 0, 32, 32 )
+88/is_autotile = false
+88/occluder_offset = Vector2( 16, 16 )
+88/navigation_offset = Vector2( 16, 16 )
+88/shapes = [  ]
+89/name = "shoals_deep_water_0"
+89/texture = ExtResource( 448 )
+89/tex_offset = Vector2( 0, 0 )
+89/modulate = Color( 1, 1, 1, 1 )
+89/region = Rect2( 0, 0, 32, 32 )
+89/is_autotile = false
+89/occluder_offset = Vector2( 16, 16 )
+89/navigation_offset = Vector2( 16, 16 )
+89/shapes = [  ]
+90/name = "shoals_deep_water_1_new"
+90/texture = ExtResource( 450 )
+90/tex_offset = Vector2( 0, 0 )
+90/modulate = Color( 1, 1, 1, 1 )
+90/region = Rect2( 0, 0, 32, 32 )
+90/is_autotile = false
+90/occluder_offset = Vector2( 16, 16 )
+90/navigation_offset = Vector2( 16, 16 )
+90/shapes = [  ]
+91/name = "shoals_shallow_water_0"
+91/texture = ExtResource( 451 )
+91/tex_offset = Vector2( 0, 0 )
+91/modulate = Color( 1, 1, 1, 1 )
+91/region = Rect2( 0, 0, 32, 32 )
+91/is_autotile = false
+91/occluder_offset = Vector2( 16, 16 )
+91/navigation_offset = Vector2( 16, 16 )
+91/shapes = [  ]
+92/name = "shoals_shallow_water_1_new"
+92/texture = ExtResource( 452 )
+92/tex_offset = Vector2( 0, 0 )
+92/modulate = Color( 1, 1, 1, 1 )
+92/region = Rect2( 0, 0, 32, 32 )
+92/is_autotile = false
+92/occluder_offset = Vector2( 16, 16 )
+92/navigation_offset = Vector2( 16, 16 )
+92/shapes = [  ]
+93/name = "shoals_shallow_water_disturbance_1_new"
+93/texture = ExtResource( 453 )
+93/tex_offset = Vector2( 0, 0 )
+93/modulate = Color( 1, 1, 1, 1 )
+93/region = Rect2( 0, 0, 32, 32 )
+93/is_autotile = false
+93/occluder_offset = Vector2( 16, 16 )
+93/navigation_offset = Vector2( 16, 16 )
+93/shapes = [  ]
+94/name = "shallow_water_wave_corner_northeast_new"
+94/texture = ExtResource( 454 )
+94/tex_offset = Vector2( 0, 0 )
+94/modulate = Color( 1, 1, 1, 1 )
+94/region = Rect2( 0, 0, 32, 32 )
+94/is_autotile = false
+94/occluder_offset = Vector2( 16, 16 )
+94/navigation_offset = Vector2( 16, 16 )
+94/shapes = [  ]
+95/name = "shallow_water_wave_corner_southeast_new"
+95/texture = ExtResource( 455 )
+95/tex_offset = Vector2( 0, 0 )
+95/modulate = Color( 1, 1, 1, 1 )
+95/region = Rect2( 0, 0, 32, 32 )
+95/is_autotile = false
+95/occluder_offset = Vector2( 16, 16 )
+95/navigation_offset = Vector2( 16, 16 )
+95/shapes = [  ]
+96/name = "shallow_water_wave_corner_southwest_new"
+96/texture = ExtResource( 456 )
+96/tex_offset = Vector2( 0, 0 )
+96/modulate = Color( 1, 1, 1, 1 )
+96/region = Rect2( 0, 0, 32, 32 )
+96/is_autotile = false
+96/occluder_offset = Vector2( 16, 16 )
+96/navigation_offset = Vector2( 16, 16 )
+96/shapes = [  ]
+97/name = "shallow_water_wave_south_new"
+97/texture = ExtResource( 457 )
+97/tex_offset = Vector2( 0, 0 )
+97/modulate = Color( 1, 1, 1, 1 )
+97/region = Rect2( 0, 0, 32, 32 )
+97/is_autotile = false
+97/occluder_offset = Vector2( 16, 16 )
+97/navigation_offset = Vector2( 16, 16 )
+97/shapes = [  ]
+98/name = "shallow_water_wave_east_new"
+98/texture = ExtResource( 458 )
+98/tex_offset = Vector2( 0, 0 )
+98/modulate = Color( 1, 1, 1, 1 )
+98/region = Rect2( 0, 0, 32, 32 )
+98/is_autotile = false
+98/occluder_offset = Vector2( 16, 16 )
+98/navigation_offset = Vector2( 16, 16 )
+98/shapes = [  ]
+99/name = "shallow_water_wave_north_new"
+99/texture = ExtResource( 459 )
+99/tex_offset = Vector2( 0, 0 )
+99/modulate = Color( 1, 1, 1, 1 )
+99/region = Rect2( 0, 0, 32, 32 )
+99/is_autotile = false
+99/occluder_offset = Vector2( 16, 16 )
+99/navigation_offset = Vector2( 16, 16 )
+99/shapes = [  ]
+100/name = "shallow_water_wave_west_new"
+100/texture = ExtResource( 4 )
+100/tex_offset = Vector2( 0, 0 )
+100/modulate = Color( 1, 1, 1, 1 )
+100/region = Rect2( 0, 0, 32, 32 )
+100/is_autotile = false
+100/occluder_offset = Vector2( 16, 16 )
+100/navigation_offset = Vector2( 16, 16 )
+100/shapes = [  ]
+101/name = "shallow_water_wave_corner_northwest_new"
+101/texture = ExtResource( 5 )
+101/tex_offset = Vector2( 0, 0 )
+101/modulate = Color( 1, 1, 1, 1 )
+101/region = Rect2( 0, 0, 32, 32 )
+101/is_autotile = false
+101/occluder_offset = Vector2( 16, 16 )
+101/navigation_offset = Vector2( 16, 16 )
+101/shapes = [  ]
+102/name = "catacombs_0"
+102/texture = ExtResource( 6 )
+102/tex_offset = Vector2( 0, 0 )
+102/modulate = Color( 1, 1, 1, 1 )
+102/region = Rect2( 0, 0, 32, 32 )
+102/is_autotile = false
+102/occluder_offset = Vector2( 16, 16 )
+102/navigation_offset = Vector2( 16, 16 )
+102/shapes = [  ]
+103/name = "catacombs_2"
+103/texture = ExtResource( 7 )
+103/tex_offset = Vector2( 0, 0 )
+103/modulate = Color( 1, 1, 1, 1 )
+103/region = Rect2( 0, 0, 32, 32 )
+103/is_autotile = false
+103/occluder_offset = Vector2( 16, 16 )
+103/navigation_offset = Vector2( 16, 16 )
+103/shapes = [  ]
+104/name = "catacombs_3"
+104/texture = ExtResource( 8 )
+104/tex_offset = Vector2( 0, 0 )
+104/modulate = Color( 1, 1, 1, 1 )
+104/region = Rect2( 0, 0, 32, 32 )
+104/is_autotile = false
+104/occluder_offset = Vector2( 16, 16 )
+104/navigation_offset = Vector2( 16, 16 )
+104/shapes = [  ]
+105/name = "catacombs_6"
+105/texture = ExtResource( 9 )
+105/tex_offset = Vector2( 0, 0 )
+105/modulate = Color( 1, 1, 1, 1 )
+105/region = Rect2( 0, 0, 32, 32 )
+105/is_autotile = false
+105/occluder_offset = Vector2( 16, 16 )
+105/navigation_offset = Vector2( 16, 16 )
+105/shapes = [  ]
+106/name = "catacombs_7"
+106/texture = ExtResource( 10 )
+106/tex_offset = Vector2( 0, 0 )
+106/modulate = Color( 1, 1, 1, 1 )
+106/region = Rect2( 0, 0, 32, 32 )
+106/is_autotile = false
+106/occluder_offset = Vector2( 16, 16 )
+106/navigation_offset = Vector2( 16, 16 )
+106/shapes = [  ]
+107/name = "catacombs_8"
+107/texture = ExtResource( 11 )
+107/tex_offset = Vector2( 0, 0 )
+107/modulate = Color( 1, 1, 1, 1 )
+107/region = Rect2( 0, 0, 32, 32 )
+107/is_autotile = false
+107/occluder_offset = Vector2( 16, 16 )
+107/navigation_offset = Vector2( 16, 16 )
+107/shapes = [  ]
+108/name = "catacombs_9"
+108/texture = ExtResource( 12 )
+108/tex_offset = Vector2( 0, 0 )
+108/modulate = Color( 1, 1, 1, 1 )
+108/region = Rect2( 0, 0, 32, 32 )
+108/is_autotile = false
+108/occluder_offset = Vector2( 16, 16 )
+108/navigation_offset = Vector2( 16, 16 )
+108/shapes = [  ]
+109/name = "catacombs_10"
+109/texture = ExtResource( 13 )
+109/tex_offset = Vector2( 0, 0 )
+109/modulate = Color( 1, 1, 1, 1 )
+109/region = Rect2( 0, 0, 32, 32 )
+109/is_autotile = false
+109/occluder_offset = Vector2( 16, 16 )
+109/navigation_offset = Vector2( 16, 16 )
+109/shapes = [  ]
+110/name = "catacombs_11"
+110/texture = ExtResource( 15 )
+110/tex_offset = Vector2( 0, 0 )
+110/modulate = Color( 1, 1, 1, 1 )
+110/region = Rect2( 0, 0, 32, 32 )
+110/is_autotile = false
+110/occluder_offset = Vector2( 16, 16 )
+110/navigation_offset = Vector2( 16, 16 )
+110/shapes = [  ]
+111/name = "catacombs_12"
+111/texture = ExtResource( 16 )
+111/tex_offset = Vector2( 0, 0 )
+111/modulate = Color( 1, 1, 1, 1 )
+111/region = Rect2( 0, 0, 32, 32 )
+111/is_autotile = false
+111/occluder_offset = Vector2( 16, 16 )
+111/navigation_offset = Vector2( 16, 16 )
+111/shapes = [  ]
+112/name = "catacombs_13"
+112/texture = ExtResource( 17 )
+112/tex_offset = Vector2( 0, 0 )
+112/modulate = Color( 1, 1, 1, 1 )
+112/region = Rect2( 0, 0, 32, 32 )
+112/is_autotile = false
+112/occluder_offset = Vector2( 16, 16 )
+112/navigation_offset = Vector2( 16, 16 )
+112/shapes = [  ]
+113/name = "catacombs_14"
+113/texture = ExtResource( 18 )
+113/tex_offset = Vector2( 0, 0 )
+113/modulate = Color( 1, 1, 1, 1 )
+113/region = Rect2( 0, 0, 32, 32 )
+113/is_autotile = false
+113/occluder_offset = Vector2( 16, 16 )
+113/navigation_offset = Vector2( 16, 16 )
+113/shapes = [  ]
+114/name = "wall_vines_0"
+114/texture = ExtResource( 19 )
+114/tex_offset = Vector2( 0, 0 )
+114/modulate = Color( 1, 1, 1, 1 )
+114/region = Rect2( 0, 0, 32, 32 )
+114/is_autotile = false
+114/occluder_offset = Vector2( 16, 16 )
+114/navigation_offset = Vector2( 16, 16 )
+114/shapes = [  ]
+115/name = "wall_vines_1"
+115/texture = ExtResource( 20 )
+115/tex_offset = Vector2( 0, 0 )
+115/modulate = Color( 1, 1, 1, 1 )
+115/region = Rect2( 0, 0, 32, 32 )
+115/is_autotile = false
+115/occluder_offset = Vector2( 16, 16 )
+115/navigation_offset = Vector2( 16, 16 )
+115/shapes = [  ]
+116/name = "wall_vines_2"
+116/texture = ExtResource( 21 )
+116/tex_offset = Vector2( 0, 0 )
+116/modulate = Color( 1, 1, 1, 1 )
+116/region = Rect2( 0, 0, 32, 32 )
+116/is_autotile = false
+116/occluder_offset = Vector2( 16, 16 )
+116/navigation_offset = Vector2( 16, 16 )
+116/shapes = [  ]
+117/name = "wall_vines_3"
+117/texture = ExtResource( 22 )
+117/tex_offset = Vector2( 0, 0 )
+117/modulate = Color( 1, 1, 1, 1 )
+117/region = Rect2( 0, 0, 32, 32 )
+117/is_autotile = false
+117/occluder_offset = Vector2( 16, 16 )
+117/navigation_offset = Vector2( 16, 16 )
+117/shapes = [  ]
+118/name = "wall_vines_4"
+118/texture = ExtResource( 23 )
+118/tex_offset = Vector2( 0, 0 )
+118/modulate = Color( 1, 1, 1, 1 )
+118/region = Rect2( 0, 0, 32, 32 )
+118/is_autotile = false
+118/occluder_offset = Vector2( 16, 16 )
+118/navigation_offset = Vector2( 16, 16 )
+118/shapes = [  ]
+119/name = "wall_vines_5"
+119/texture = ExtResource( 24 )
+119/tex_offset = Vector2( 0, 0 )
+119/modulate = Color( 1, 1, 1, 1 )
+119/region = Rect2( 0, 0, 32, 32 )
+119/is_autotile = false
+119/occluder_offset = Vector2( 16, 16 )
+119/navigation_offset = Vector2( 16, 16 )
+119/shapes = [  ]
+120/name = "shoals_wall_1"
+120/texture = ExtResource( 26 )
+120/tex_offset = Vector2( 0, 0 )
+120/modulate = Color( 1, 1, 1, 1 )
+120/region = Rect2( 0, 0, 32, 32 )
+120/is_autotile = false
+120/occluder_offset = Vector2( 16, 16 )
+120/navigation_offset = Vector2( 16, 16 )
+120/shapes = [  ]
+121/name = "shoals_wall_2"
+121/texture = ExtResource( 27 )
+121/tex_offset = Vector2( 0, 0 )
+121/modulate = Color( 1, 1, 1, 1 )
+121/region = Rect2( 0, 0, 32, 32 )
+121/is_autotile = false
+121/occluder_offset = Vector2( 16, 16 )
+121/navigation_offset = Vector2( 16, 16 )
+121/shapes = [  ]
+122/name = "shoals_wall_3"
+122/texture = ExtResource( 28 )
+122/tex_offset = Vector2( 0, 0 )
+122/modulate = Color( 1, 1, 1, 1 )
+122/region = Rect2( 0, 0, 32, 32 )
+122/is_autotile = false
+122/occluder_offset = Vector2( 16, 16 )
+122/navigation_offset = Vector2( 16, 16 )
+122/shapes = [  ]
+123/name = "shoals_wall_4"
+123/texture = ExtResource( 29 )
+123/tex_offset = Vector2( 0, 0 )
+123/modulate = Color( 1, 1, 1, 1 )
+123/region = Rect2( 0, 0, 32, 32 )
+123/is_autotile = false
+123/occluder_offset = Vector2( 16, 16 )
+123/navigation_offset = Vector2( 16, 16 )
+123/shapes = [  ]
+124/name = "shadow_west_top_darker"
+124/texture = ExtResource( 30 )
+124/tex_offset = Vector2( 0, 0 )
+124/modulate = Color( 1, 1, 1, 1 )
+124/region = Rect2( 0, 0, 32, 32 )
+124/is_autotile = false
+124/occluder_offset = Vector2( 16, 16 )
+124/navigation_offset = Vector2( 16, 16 )
+124/shapes = [  ]
+125/name = "shadow_northwest_darker"
+125/texture = ExtResource( 31 )
+125/tex_offset = Vector2( 0, 0 )
+125/modulate = Color( 1, 1, 1, 1 )
+125/region = Rect2( 0, 0, 32, 32 )
+125/is_autotile = false
+125/occluder_offset = Vector2( 16, 16 )
+125/navigation_offset = Vector2( 16, 16 )
+125/shapes = [  ]
+126/name = "shadow_northeast_darker"
+126/texture = ExtResource( 32 )
+126/tex_offset = Vector2( 0, 0 )
+126/modulate = Color( 1, 1, 1, 1 )
+126/region = Rect2( 0, 0, 32, 32 )
+126/is_autotile = false
+126/occluder_offset = Vector2( 16, 16 )
+126/navigation_offset = Vector2( 16, 16 )
+126/shapes = [  ]
+127/name = "shadow_west_darker"
+127/texture = ExtResource( 33 )
+127/tex_offset = Vector2( 0, 0 )
+127/modulate = Color( 1, 1, 1, 1 )
+127/region = Rect2( 0, 0, 32, 32 )
+127/is_autotile = false
+127/occluder_offset = Vector2( 16, 16 )
+127/navigation_offset = Vector2( 16, 16 )
+127/shapes = [  ]
+128/name = "shadow_east_top_darker"
+128/texture = ExtResource( 34 )
+128/tex_offset = Vector2( 0, 0 )
+128/modulate = Color( 1, 1, 1, 1 )
+128/region = Rect2( 0, 0, 32, 32 )
+128/is_autotile = false
+128/occluder_offset = Vector2( 16, 16 )
+128/navigation_offset = Vector2( 16, 16 )
+128/shapes = [  ]
+129/name = "shadow_east_darker"
+129/texture = ExtResource( 35 )
+129/tex_offset = Vector2( 0, 0 )
+129/modulate = Color( 1, 1, 1, 1 )
+129/region = Rect2( 0, 0, 32, 32 )
+129/is_autotile = false
+129/occluder_offset = Vector2( 16, 16 )
+129/navigation_offset = Vector2( 16, 16 )
+129/shapes = [  ]
+130/name = "relief_0"
+130/texture = ExtResource( 37 )
+130/tex_offset = Vector2( 0, 0 )
+130/modulate = Color( 1, 1, 1, 1 )
+130/region = Rect2( 0, 0, 32, 32 )
+130/is_autotile = false
+130/occluder_offset = Vector2( 16, 16 )
+130/navigation_offset = Vector2( 16, 16 )
+130/shapes = [  ]
+131/name = "relief_3"
+131/texture = ExtResource( 38 )
+131/tex_offset = Vector2( 0, 0 )
+131/modulate = Color( 1, 1, 1, 1 )
+131/region = Rect2( 0, 0, 32, 32 )
+131/is_autotile = false
+131/occluder_offset = Vector2( 16, 16 )
+131/navigation_offset = Vector2( 16, 16 )
+131/shapes = [  ]
+132/name = "brick_dark_0"
+132/texture = ExtResource( 39 )
+132/tex_offset = Vector2( 0, 0 )
+132/modulate = Color( 1, 1, 1, 1 )
+132/region = Rect2( 0, 0, 32, 32 )
+132/is_autotile = false
+132/occluder_offset = Vector2( 16, 16 )
+132/navigation_offset = Vector2( 16, 16 )
+132/shapes = [  ]
+133/name = "brick_dark_1"
+133/texture = ExtResource( 40 )
+133/tex_offset = Vector2( 0, 0 )
+133/modulate = Color( 1, 1, 1, 1 )
+133/region = Rect2( 0, 0, 32, 32 )
+133/is_autotile = false
+133/occluder_offset = Vector2( 16, 16 )
+133/navigation_offset = Vector2( 16, 16 )
+133/shapes = [  ]
+134/name = "brick_dark_2"
+134/texture = ExtResource( 41 )
+134/tex_offset = Vector2( 0, 0 )
+134/modulate = Color( 1, 1, 1, 1 )
+134/region = Rect2( 0, 0, 32, 32 )
+134/is_autotile = false
+134/occluder_offset = Vector2( 16, 16 )
+134/navigation_offset = Vector2( 16, 16 )
+134/shapes = [  ]
+135/name = "brick_dark_3"
+135/texture = ExtResource( 42 )
+135/tex_offset = Vector2( 0, 0 )
+135/modulate = Color( 1, 1, 1, 1 )
+135/region = Rect2( 0, 0, 32, 32 )
+135/is_autotile = false
+135/occluder_offset = Vector2( 16, 16 )
+135/navigation_offset = Vector2( 16, 16 )
+135/shapes = [  ]
+136/name = "brick_dark_4"
+136/texture = ExtResource( 43 )
+136/tex_offset = Vector2( 0, 0 )
+136/modulate = Color( 1, 1, 1, 1 )
+136/region = Rect2( 0, 0, 32, 32 )
+136/is_autotile = false
+136/occluder_offset = Vector2( 16, 16 )
+136/navigation_offset = Vector2( 16, 16 )
+136/shapes = [  ]
+137/name = "brick_dark_6"
+137/texture = ExtResource( 44 )
+137/tex_offset = Vector2( 0, 0 )
+137/modulate = Color( 1, 1, 1, 1 )
+137/region = Rect2( 0, 0, 32, 32 )
+137/is_autotile = false
+137/occluder_offset = Vector2( 16, 16 )
+137/navigation_offset = Vector2( 16, 16 )
+137/shapes = [  ]
+138/name = "grass0-dirt-mix_1"
+138/texture = ExtResource( 45 )
+138/tex_offset = Vector2( 0, 0 )
+138/modulate = Color( 1, 1, 1, 1 )
+138/region = Rect2( 0, 0, 32, 32 )
+138/is_autotile = false
+138/occluder_offset = Vector2( 16, 16 )
+138/navigation_offset = Vector2( 16, 16 )
+138/shapes = [  ]
+139/name = "grass_0_new"
+139/texture = ExtResource( 46 )
+139/tex_offset = Vector2( 0, 0 )
+139/modulate = Color( 1, 1, 1, 1 )
+139/region = Rect2( 0, 0, 32, 32 )
+139/is_autotile = false
+139/occluder_offset = Vector2( 16, 16 )
+139/navigation_offset = Vector2( 16, 16 )
+139/shapes = [  ]
+140/name = "grass_flowers_blue_1_new"
+140/texture = ExtResource( 48 )
+140/tex_offset = Vector2( 0, 0 )
+140/modulate = Color( 1, 1, 1, 1 )
+140/region = Rect2( 0, 0, 32, 32 )
+140/is_autotile = false
+140/occluder_offset = Vector2( 16, 16 )
+140/navigation_offset = Vector2( 16, 16 )
+140/shapes = [  ]
+141/name = "grass_flowers_blue_2_new"
+141/texture = ExtResource( 49 )
+141/tex_offset = Vector2( 0, 0 )
+141/modulate = Color( 1, 1, 1, 1 )
+141/region = Rect2( 0, 0, 32, 32 )
+141/is_autotile = false
+141/occluder_offset = Vector2( 16, 16 )
+141/navigation_offset = Vector2( 16, 16 )
+141/shapes = [  ]
+142/name = "grass_flowers_blue_3_new"
+142/texture = ExtResource( 50 )
+142/tex_offset = Vector2( 0, 0 )
+142/modulate = Color( 1, 1, 1, 1 )
+142/region = Rect2( 0, 0, 32, 32 )
+142/is_autotile = false
+142/occluder_offset = Vector2( 16, 16 )
+142/navigation_offset = Vector2( 16, 16 )
+142/shapes = [  ]
+143/name = "grass_flowers_red_1_new"
+143/texture = ExtResource( 51 )
+143/tex_offset = Vector2( 0, 0 )
+143/modulate = Color( 1, 1, 1, 1 )
+143/region = Rect2( 0, 0, 32, 32 )
+143/is_autotile = false
+143/occluder_offset = Vector2( 16, 16 )
+143/navigation_offset = Vector2( 16, 16 )
+143/shapes = [  ]
+144/name = "grass_flowers_red_2_new"
+144/texture = ExtResource( 52 )
+144/tex_offset = Vector2( 0, 0 )
+144/modulate = Color( 1, 1, 1, 1 )
+144/region = Rect2( 0, 0, 32, 32 )
+144/is_autotile = false
+144/occluder_offset = Vector2( 16, 16 )
+144/navigation_offset = Vector2( 16, 16 )
+144/shapes = [  ]
+145/name = "grass_flowers_red_3_new"
+145/texture = ExtResource( 53 )
+145/tex_offset = Vector2( 0, 0 )
+145/modulate = Color( 1, 1, 1, 1 )
+145/region = Rect2( 0, 0, 32, 32 )
+145/is_autotile = false
+145/occluder_offset = Vector2( 16, 16 )
+145/navigation_offset = Vector2( 16, 16 )
+145/shapes = [  ]
+146/name = "grass_flowers_yellow_1_new"
+146/texture = ExtResource( 54 )
+146/tex_offset = Vector2( 0, 0 )
+146/modulate = Color( 1, 1, 1, 1 )
+146/region = Rect2( 0, 0, 32, 32 )
+146/is_autotile = false
+146/occluder_offset = Vector2( 16, 16 )
+146/navigation_offset = Vector2( 16, 16 )
+146/shapes = [  ]
+147/name = "grass_flowers_yellow_2_new"
+147/texture = ExtResource( 55 )
+147/tex_offset = Vector2( 0, 0 )
+147/modulate = Color( 1, 1, 1, 1 )
+147/region = Rect2( 0, 0, 32, 32 )
+147/is_autotile = false
+147/occluder_offset = Vector2( 16, 16 )
+147/navigation_offset = Vector2( 16, 16 )
+147/shapes = [  ]
+148/name = "grass_flowers_yellow_3_new"
+148/texture = ExtResource( 56 )
+148/tex_offset = Vector2( 0, 0 )
+148/modulate = Color( 1, 1, 1, 1 )
+148/region = Rect2( 0, 0, 32, 32 )
+148/is_autotile = false
+148/occluder_offset = Vector2( 16, 16 )
+148/navigation_offset = Vector2( 16, 16 )
+148/shapes = [  ]
+149/name = "grass_east_new"
+149/texture = ExtResource( 57 )
+149/tex_offset = Vector2( 0, 0 )
+149/modulate = Color( 1, 1, 1, 1 )
+149/region = Rect2( 0, 0, 32, 32 )
+149/is_autotile = false
+149/occluder_offset = Vector2( 16, 16 )
+149/navigation_offset = Vector2( 16, 16 )
+149/shapes = [  ]
+150/name = "grass_full_new"
+150/texture = ExtResource( 59 )
+150/tex_offset = Vector2( 0, 0 )
+150/modulate = Color( 1, 1, 1, 1 )
+150/region = Rect2( 0, 0, 32, 32 )
+150/is_autotile = false
+150/occluder_offset = Vector2( 16, 16 )
+150/navigation_offset = Vector2( 16, 16 )
+150/shapes = [  ]
+151/name = "grass_northeast_new"
+151/texture = ExtResource( 60 )
+151/tex_offset = Vector2( 0, 0 )
+151/modulate = Color( 1, 1, 1, 1 )
+151/region = Rect2( 0, 0, 32, 32 )
+151/is_autotile = false
+151/occluder_offset = Vector2( 16, 16 )
+151/navigation_offset = Vector2( 16, 16 )
+151/shapes = [  ]
+152/name = "grass_northwest_new"
+152/texture = ExtResource( 61 )
+152/tex_offset = Vector2( 0, 0 )
+152/modulate = Color( 1, 1, 1, 1 )
+152/region = Rect2( 0, 0, 32, 32 )
+152/is_autotile = false
+152/occluder_offset = Vector2( 16, 16 )
+152/navigation_offset = Vector2( 16, 16 )
+152/shapes = [  ]
+153/name = "grass_north_new"
+153/texture = ExtResource( 62 )
+153/tex_offset = Vector2( 0, 0 )
+153/modulate = Color( 1, 1, 1, 1 )
+153/region = Rect2( 0, 0, 32, 32 )
+153/is_autotile = false
+153/occluder_offset = Vector2( 16, 16 )
+153/navigation_offset = Vector2( 16, 16 )
+153/shapes = [  ]
+154/name = "grass_southeast_new"
+154/texture = ExtResource( 63 )
+154/tex_offset = Vector2( 0, 0 )
+154/modulate = Color( 1, 1, 1, 1 )
+154/region = Rect2( 0, 0, 32, 32 )
+154/is_autotile = false
+154/occluder_offset = Vector2( 16, 16 )
+154/navigation_offset = Vector2( 16, 16 )
+154/shapes = [  ]
+155/name = "grass_south_new"
+155/texture = ExtResource( 64 )
+155/tex_offset = Vector2( 0, 0 )
+155/modulate = Color( 1, 1, 1, 1 )
+155/region = Rect2( 0, 0, 32, 32 )
+155/is_autotile = false
+155/occluder_offset = Vector2( 16, 16 )
+155/navigation_offset = Vector2( 16, 16 )
+155/shapes = [  ]
+156/name = "grass_southwest_new"
+156/texture = ExtResource( 65 )
+156/tex_offset = Vector2( 0, 0 )
+156/modulate = Color( 1, 1, 1, 1 )
+156/region = Rect2( 0, 0, 32, 32 )
+156/is_autotile = false
+156/occluder_offset = Vector2( 16, 16 )
+156/navigation_offset = Vector2( 16, 16 )
+156/shapes = [  ]
+157/name = "grass_west_new"
+157/texture = ExtResource( 66 )
+157/tex_offset = Vector2( 0, 0 )
+157/modulate = Color( 1, 1, 1, 1 )
+157/region = Rect2( 0, 0, 32, 32 )
+157/is_autotile = false
+157/occluder_offset = Vector2( 16, 16 )
+157/navigation_offset = Vector2( 16, 16 )
+157/shapes = [  ]
+158/name = "algiz"
+158/texture = ExtResource( 67 )
+158/tex_offset = Vector2( 0, 0 )
+158/modulate = Color( 1, 1, 1, 1 )
+158/region = Rect2( 0, 0, 32, 32 )
+158/is_autotile = false
+158/occluder_offset = Vector2( 16, 16 )
+158/navigation_offset = Vector2( 16, 16 )
+158/shapes = [  ]
+159/name = "algiz_left"
+159/texture = ExtResource( 68 )
+159/tex_offset = Vector2( 0, 0 )
+159/modulate = Color( 1, 1, 1, 1 )
+159/region = Rect2( 0, 0, 32, 32 )
+159/is_autotile = false
+159/occluder_offset = Vector2( 16, 16 )
+159/navigation_offset = Vector2( 16, 16 )
+159/shapes = [  ]
+160/name = "algiz_right"
+160/texture = ExtResource( 70 )
+160/tex_offset = Vector2( 0, 0 )
+160/modulate = Color( 1, 1, 1, 1 )
+160/region = Rect2( 0, 0, 32, 32 )
+160/is_autotile = false
+160/occluder_offset = Vector2( 16, 16 )
+160/navigation_offset = Vector2( 16, 16 )
+160/shapes = [  ]
+161/name = "angle_wide_east_northwest"
+161/texture = ExtResource( 71 )
+161/tex_offset = Vector2( 0, 0 )
+161/modulate = Color( 1, 1, 1, 1 )
+161/region = Rect2( 0, 0, 32, 32 )
+161/is_autotile = false
+161/occluder_offset = Vector2( 16, 16 )
+161/navigation_offset = Vector2( 16, 16 )
+161/shapes = [  ]
+162/name = "angle_wide_east_southwest"
+162/texture = ExtResource( 72 )
+162/tex_offset = Vector2( 0, 0 )
+162/modulate = Color( 1, 1, 1, 1 )
+162/region = Rect2( 0, 0, 32, 32 )
+162/is_autotile = false
+162/occluder_offset = Vector2( 16, 16 )
+162/navigation_offset = Vector2( 16, 16 )
+162/shapes = [  ]
+163/name = "angle_wide_north_southeast"
+163/texture = ExtResource( 73 )
+163/tex_offset = Vector2( 0, 0 )
+163/modulate = Color( 1, 1, 1, 1 )
+163/region = Rect2( 0, 0, 32, 32 )
+163/is_autotile = false
+163/occluder_offset = Vector2( 16, 16 )
+163/navigation_offset = Vector2( 16, 16 )
+163/shapes = [  ]
+164/name = "angle_wide_north_southwest"
+164/texture = ExtResource( 74 )
+164/tex_offset = Vector2( 0, 0 )
+164/modulate = Color( 1, 1, 1, 1 )
+164/region = Rect2( 0, 0, 32, 32 )
+164/is_autotile = false
+164/occluder_offset = Vector2( 16, 16 )
+164/navigation_offset = Vector2( 16, 16 )
+164/shapes = [  ]
+165/name = "angle_wide_south_northeast"
+165/texture = ExtResource( 75 )
+165/tex_offset = Vector2( 0, 0 )
+165/modulate = Color( 1, 1, 1, 1 )
+165/region = Rect2( 0, 0, 32, 32 )
+165/is_autotile = false
+165/occluder_offset = Vector2( 16, 16 )
+165/navigation_offset = Vector2( 16, 16 )
+165/shapes = [  ]
+166/name = "angle_wide_south_northwest"
+166/texture = ExtResource( 76 )
+166/tex_offset = Vector2( 0, 0 )
+166/modulate = Color( 1, 1, 1, 1 )
+166/region = Rect2( 0, 0, 32, 32 )
+166/is_autotile = false
+166/occluder_offset = Vector2( 16, 16 )
+166/navigation_offset = Vector2( 16, 16 )
+166/shapes = [  ]
+167/name = "angle_wide_west_northeast"
+167/texture = ExtResource( 77 )
+167/tex_offset = Vector2( 0, 0 )
+167/modulate = Color( 1, 1, 1, 1 )
+167/region = Rect2( 0, 0, 32, 32 )
+167/is_autotile = false
+167/occluder_offset = Vector2( 16, 16 )
+167/navigation_offset = Vector2( 16, 16 )
+167/shapes = [  ]
+168/name = "angle_wide_west_southeast"
+168/texture = ExtResource( 78 )
+168/tex_offset = Vector2( 0, 0 )
+168/modulate = Color( 1, 1, 1, 1 )
+168/region = Rect2( 0, 0, 32, 32 )
+168/is_autotile = false
+168/occluder_offset = Vector2( 16, 16 )
+168/navigation_offset = Vector2( 16, 16 )
+168/shapes = [  ]
+169/name = "circle"
+169/texture = ExtResource( 79 )
+169/tex_offset = Vector2( 0, 0 )
+169/modulate = Color( 1, 1, 1, 1 )
+169/region = Rect2( 0, 0, 32, 32 )
+169/is_autotile = false
+169/occluder_offset = Vector2( 16, 16 )
+169/navigation_offset = Vector2( 16, 16 )
+169/shapes = [  ]
+170/name = "cross"
+170/texture = ExtResource( 81 )
+170/tex_offset = Vector2( 0, 0 )
+170/modulate = Color( 1, 1, 1, 1 )
+170/region = Rect2( 0, 0, 32, 32 )
+170/is_autotile = false
+170/occluder_offset = Vector2( 16, 16 )
+170/navigation_offset = Vector2( 16, 16 )
+170/shapes = [  ]
+171/name = "curve_south_east"
+171/texture = ExtResource( 82 )
+171/tex_offset = Vector2( 0, 0 )
+171/modulate = Color( 1, 1, 1, 1 )
+171/region = Rect2( 0, 0, 32, 32 )
+171/is_autotile = false
+171/occluder_offset = Vector2( 16, 16 )
+171/navigation_offset = Vector2( 16, 16 )
+171/shapes = [  ]
+172/name = "curve_south_west"
+172/texture = ExtResource( 83 )
+172/tex_offset = Vector2( 0, 0 )
+172/modulate = Color( 1, 1, 1, 1 )
+172/region = Rect2( 0, 0, 32, 32 )
+172/is_autotile = false
+172/occluder_offset = Vector2( 16, 16 )
+172/navigation_offset = Vector2( 16, 16 )
+172/shapes = [  ]
+173/name = "curve_north_east"
+173/texture = ExtResource( 84 )
+173/tex_offset = Vector2( 0, 0 )
+173/modulate = Color( 1, 1, 1, 1 )
+173/region = Rect2( 0, 0, 32, 32 )
+173/is_autotile = false
+173/occluder_offset = Vector2( 16, 16 )
+173/navigation_offset = Vector2( 16, 16 )
+173/shapes = [  ]
+174/name = "curve_north_west"
+174/texture = ExtResource( 85 )
+174/tex_offset = Vector2( 0, 0 )
+174/modulate = Color( 1, 1, 1, 1 )
+174/region = Rect2( 0, 0, 32, 32 )
+174/is_autotile = false
+174/occluder_offset = Vector2( 16, 16 )
+174/navigation_offset = Vector2( 16, 16 )
+174/shapes = [  ]
+175/name = "rhombus"
+175/texture = ExtResource( 86 )
+175/tex_offset = Vector2( 0, 0 )
+175/modulate = Color( 1, 1, 1, 1 )
+175/region = Rect2( 0, 0, 32, 32 )
+175/is_autotile = false
+175/occluder_offset = Vector2( 16, 16 )
+175/navigation_offset = Vector2( 16, 16 )
+175/shapes = [  ]
+176/name = "sharp_south_east"
+176/texture = ExtResource( 87 )
+176/tex_offset = Vector2( 0, 0 )
+176/modulate = Color( 1, 1, 1, 1 )
+176/region = Rect2( 0, 0, 32, 32 )
+176/is_autotile = false
+176/occluder_offset = Vector2( 16, 16 )
+176/navigation_offset = Vector2( 16, 16 )
+176/shapes = [  ]
+177/name = "sharp_south_west"
+177/texture = ExtResource( 88 )
+177/tex_offset = Vector2( 0, 0 )
+177/modulate = Color( 1, 1, 1, 1 )
+177/region = Rect2( 0, 0, 32, 32 )
+177/is_autotile = false
+177/occluder_offset = Vector2( 16, 16 )
+177/navigation_offset = Vector2( 16, 16 )
+177/shapes = [  ]
+178/name = "sharp_north_east"
+178/texture = ExtResource( 89 )
+178/tex_offset = Vector2( 0, 0 )
+178/modulate = Color( 1, 1, 1, 1 )
+178/region = Rect2( 0, 0, 32, 32 )
+178/is_autotile = false
+178/occluder_offset = Vector2( 16, 16 )
+178/navigation_offset = Vector2( 16, 16 )
+178/shapes = [  ]
+179/name = "sharp_north_west"
+179/texture = ExtResource( 90 )
+179/tex_offset = Vector2( 0, 0 )
+179/modulate = Color( 1, 1, 1, 1 )
+179/region = Rect2( 0, 0, 32, 32 )
+179/is_autotile = false
+179/occluder_offset = Vector2( 16, 16 )
+179/navigation_offset = Vector2( 16, 16 )
+179/shapes = [  ]
+180/name = "straight_east_northeast_southwest"
+180/texture = ExtResource( 92 )
+180/tex_offset = Vector2( 0, 0 )
+180/modulate = Color( 1, 1, 1, 1 )
+180/region = Rect2( 0, 0, 32, 32 )
+180/is_autotile = false
+180/occluder_offset = Vector2( 16, 16 )
+180/navigation_offset = Vector2( 16, 16 )
+180/shapes = [  ]
+181/name = "straight_east_west_northwest_southeast"
+181/texture = ExtResource( 93 )
+181/tex_offset = Vector2( 0, 0 )
+181/modulate = Color( 1, 1, 1, 1 )
+181/region = Rect2( 0, 0, 32, 32 )
+181/is_autotile = false
+181/occluder_offset = Vector2( 16, 16 )
+181/navigation_offset = Vector2( 16, 16 )
+181/shapes = [  ]
+182/name = "straight_east_west"
+182/texture = ExtResource( 94 )
+182/tex_offset = Vector2( 0, 0 )
+182/modulate = Color( 1, 1, 1, 1 )
+182/region = Rect2( 0, 0, 32, 32 )
+182/is_autotile = false
+182/occluder_offset = Vector2( 16, 16 )
+182/navigation_offset = Vector2( 16, 16 )
+182/shapes = [  ]
+183/name = "sharp_east_northeast"
+183/texture = ExtResource( 95 )
+183/tex_offset = Vector2( 0, 0 )
+183/modulate = Color( 1, 1, 1, 1 )
+183/region = Rect2( 0, 0, 32, 32 )
+183/is_autotile = false
+183/occluder_offset = Vector2( 16, 16 )
+183/navigation_offset = Vector2( 16, 16 )
+183/shapes = [  ]
+184/name = "straight_east_west_northwest_southeast2"
+184/texture = ExtResource( 93 )
+184/tex_offset = Vector2( 0, 0 )
+184/modulate = Color( 1, 1, 1, 1 )
+184/region = Rect2( 0, 0, 32, 32 )
+184/is_autotile = false
+184/occluder_offset = Vector2( 16, 16 )
+184/navigation_offset = Vector2( 16, 16 )
+184/shapes = [  ]
+185/name = "straight_north_south"
+185/texture = ExtResource( 96 )
+185/tex_offset = Vector2( 0, 0 )
+185/modulate = Color( 1, 1, 1, 1 )
+185/region = Rect2( 0, 0, 32, 32 )
+185/is_autotile = false
+185/occluder_offset = Vector2( 16, 16 )
+185/navigation_offset = Vector2( 16, 16 )
+185/shapes = [  ]
+186/name = "sharp_west_southwest"
+186/texture = ExtResource( 97 )
+186/tex_offset = Vector2( 0, 0 )
+186/modulate = Color( 1, 1, 1, 1 )
+186/region = Rect2( 0, 0, 32, 32 )
+186/is_autotile = false
+186/occluder_offset = Vector2( 16, 16 )
+186/navigation_offset = Vector2( 16, 16 )
+186/shapes = [  ]
+187/name = "x-shaped"
+187/texture = ExtResource( 98 )
+187/tex_offset = Vector2( 0, 0 )
+187/modulate = Color( 1, 1, 1, 1 )
+187/region = Rect2( 0, 0, 32, 32 )
+187/is_autotile = false
+187/occluder_offset = Vector2( 16, 16 )
+187/navigation_offset = Vector2( 16, 16 )
+187/shapes = [  ]
+188/name = "v-shaped_south"
+188/texture = ExtResource( 99 )
+188/tex_offset = Vector2( 0, 0 )
+188/modulate = Color( 1, 1, 1, 1 )
+188/region = Rect2( 0, 0, 32, 32 )
+188/is_autotile = false
+188/occluder_offset = Vector2( 16, 16 )
+188/navigation_offset = Vector2( 16, 16 )
+188/shapes = [  ]
+189/name = "v-shaped_north"
+189/texture = ExtResource( 100 )
+189/tex_offset = Vector2( 0, 0 )
+189/modulate = Color( 1, 1, 1, 1 )
+189/region = Rect2( 0, 0, 32, 32 )
+189/is_autotile = false
+189/occluder_offset = Vector2( 16, 16 )
+189/navigation_offset = Vector2( 16, 16 )
+189/shapes = [  ]
+190/name = "v-shaped_east"
+190/texture = ExtResource( 102 )
+190/tex_offset = Vector2( 0, 0 )
+190/modulate = Color( 1, 1, 1, 1 )
+190/region = Rect2( 0, 0, 32, 32 )
+190/is_autotile = false
+190/occluder_offset = Vector2( 16, 16 )
+190/navigation_offset = Vector2( 16, 16 )
+190/shapes = [  ]
+191/name = "v-shaped_west"
+191/texture = ExtResource( 103 )
+191/tex_offset = Vector2( 0, 0 )
+191/modulate = Color( 1, 1, 1, 1 )
+191/region = Rect2( 0, 0, 32, 32 )
+191/is_autotile = false
+191/occluder_offset = Vector2( 16, 16 )
+191/navigation_offset = Vector2( 16, 16 )
+191/shapes = [  ]
+192/name = "y-shaped_left"
+192/texture = ExtResource( 104 )
+192/tex_offset = Vector2( 0, 0 )
+192/modulate = Color( 1, 1, 1, 1 )
+192/region = Rect2( 0, 0, 32, 32 )
+192/is_autotile = false
+192/occluder_offset = Vector2( 16, 16 )
+192/navigation_offset = Vector2( 16, 16 )
+192/shapes = [  ]
+193/name = "y-shaped_right"
+193/texture = ExtResource( 105 )
+193/tex_offset = Vector2( 0, 0 )
+193/modulate = Color( 1, 1, 1, 1 )
+193/region = Rect2( 0, 0, 32, 32 )
+193/is_autotile = false
+193/occluder_offset = Vector2( 16, 16 )
+193/navigation_offset = Vector2( 16, 16 )
+193/shapes = [  ]
+194/name = "y-shaped_east"
+194/texture = ExtResource( 106 )
+194/tex_offset = Vector2( 0, 0 )
+194/modulate = Color( 1, 1, 1, 1 )
+194/region = Rect2( 0, 0, 32, 32 )
+194/is_autotile = false
+194/occluder_offset = Vector2( 16, 16 )
+194/navigation_offset = Vector2( 16, 16 )
+194/shapes = [  ]
+195/name = "y-shaped_north"
+195/texture = ExtResource( 107 )
+195/tex_offset = Vector2( 0, 0 )
+195/modulate = Color( 1, 1, 1, 1 )
+195/region = Rect2( 0, 0, 32, 32 )
+195/is_autotile = false
+195/occluder_offset = Vector2( 16, 16 )
+195/navigation_offset = Vector2( 16, 16 )
+195/shapes = [  ]
+196/name = "y-shaped_south"
+196/texture = ExtResource( 108 )
+196/tex_offset = Vector2( 0, 0 )
+196/modulate = Color( 1, 1, 1, 1 )
+196/region = Rect2( 0, 0, 32, 32 )
+196/is_autotile = false
+196/occluder_offset = Vector2( 16, 16 )
+196/navigation_offset = Vector2( 16, 16 )
+196/shapes = [  ]
+197/name = "y-shaped_west"
+197/texture = ExtResource( 109 )
+197/tex_offset = Vector2( 0, 0 )
+197/modulate = Color( 1, 1, 1, 1 )
+197/region = Rect2( 0, 0, 32, 32 )
+197/is_autotile = false
+197/occluder_offset = Vector2( 16, 16 )
+197/navigation_offset = Vector2( 16, 16 )
+197/shapes = [  ]
+198/name = "tracks0"
+198/texture = ExtResource( 110 )
+198/tex_offset = Vector2( 0, 0 )
+198/modulate = Color( 1, 1, 1, 1 )
+198/region = Rect2( 0, 0, 32, 32 )
+198/is_autotile = false
+198/occluder_offset = Vector2( 16, 16 )
+198/navigation_offset = Vector2( 16, 16 )
+198/shapes = [  ]
+199/name = "tracks1"
+199/texture = ExtResource( 111 )
+199/tex_offset = Vector2( 0, 0 )
+199/modulate = Color( 1, 1, 1, 1 )
+199/region = Rect2( 0, 0, 32, 32 )
+199/is_autotile = false
+199/occluder_offset = Vector2( 16, 16 )
+199/navigation_offset = Vector2( 16, 16 )
+199/shapes = [  ]
+200/name = "tracks2"
+200/texture = ExtResource( 114 )
+200/tex_offset = Vector2( 0, 0 )
+200/modulate = Color( 1, 1, 1, 1 )
+200/region = Rect2( 0, 0, 32, 32 )
+200/is_autotile = false
+200/occluder_offset = Vector2( 16, 16 )
+200/navigation_offset = Vector2( 16, 16 )
+200/shapes = [  ]
+201/name = "metal_wall0"
+201/texture = ExtResource( 115 )
+201/tex_offset = Vector2( 0, 0 )
+201/modulate = Color( 1, 1, 1, 1 )
+201/region = Rect2( 0, 0, 32, 32 )
+201/is_autotile = false
+201/occluder_offset = Vector2( 16, 16 )
+201/navigation_offset = Vector2( 16, 16 )
+201/shapes = [  ]
+202/name = "metal_wall1"
+202/texture = ExtResource( 116 )
+202/tex_offset = Vector2( 0, 0 )
+202/modulate = Color( 1, 1, 1, 1 )
+202/region = Rect2( 0, 0, 32, 32 )
+202/is_autotile = false
+202/occluder_offset = Vector2( 16, 16 )
+202/navigation_offset = Vector2( 16, 16 )
+202/shapes = [  ]
+203/name = "metal_wall2"
+203/texture = ExtResource( 117 )
+203/tex_offset = Vector2( 0, 0 )
+203/modulate = Color( 1, 1, 1, 1 )
+203/region = Rect2( 0, 0, 32, 32 )
+203/is_autotile = false
+203/occluder_offset = Vector2( 16, 16 )
+203/navigation_offset = Vector2( 16, 16 )
+203/shapes = [  ]
+204/name = "grate0"
+204/texture = ExtResource( 118 )
+204/tex_offset = Vector2( 0, 0 )
+204/modulate = Color( 1, 1, 1, 1 )
+204/region = Rect2( 0, 0, 32, 32 )
+204/is_autotile = false
+204/occluder_offset = Vector2( 16, 16 )
+204/navigation_offset = Vector2( 16, 16 )
+204/shapes = [  ]
+205/name = "grate1"
+205/texture = ExtResource( 119 )
+205/tex_offset = Vector2( 0, 0 )
+205/modulate = Color( 1, 1, 1, 1 )
+205/region = Rect2( 0, 0, 32, 32 )
+205/is_autotile = false
+205/occluder_offset = Vector2( 16, 16 )
+205/navigation_offset = Vector2( 16, 16 )
+205/shapes = [  ]
+206/name = "hypgrass0"
+206/texture = ExtResource( 120 )
+206/tex_offset = Vector2( 0, 0 )
+206/modulate = Color( 1, 1, 1, 1 )
+206/region = Rect2( 0, 0, 32, 32 )
+206/is_autotile = false
+206/occluder_offset = Vector2( 16, 16 )
+206/navigation_offset = Vector2( 16, 16 )
+206/shapes = [  ]
+207/name = "hypgrass1"
+207/texture = ExtResource( 121 )
+207/tex_offset = Vector2( 0, 0 )
+207/modulate = Color( 1, 1, 1, 1 )
+207/region = Rect2( 0, 0, 32, 32 )
+207/is_autotile = false
+207/occluder_offset = Vector2( 16, 16 )
+207/navigation_offset = Vector2( 16, 16 )
+207/shapes = [  ]
+208/name = "dirt_wall0"
+208/texture = ExtResource( 122 )
+208/tex_offset = Vector2( 0, 0 )
+208/modulate = Color( 1, 1, 1, 1 )
+208/region = Rect2( 0, 0, 32, 32 )
+208/is_autotile = false
+208/occluder_offset = Vector2( 16, 16 )
+208/navigation_offset = Vector2( 16, 16 )
+208/shapes = [  ]
+209/name = "dirt_wall1"
+209/texture = ExtResource( 123 )
+209/tex_offset = Vector2( 0, 0 )
+209/modulate = Color( 1, 1, 1, 1 )
+209/region = Rect2( 0, 0, 32, 32 )
+209/is_autotile = false
+209/occluder_offset = Vector2( 16, 16 )
+209/navigation_offset = Vector2( 16, 16 )
+209/shapes = [  ]
+210/name = "dirt_wall2"
+210/texture = ExtResource( 125 )
+210/tex_offset = Vector2( 0, 0 )
+210/modulate = Color( 1, 1, 1, 1 )
+210/region = Rect2( 0, 0, 32, 32 )
+210/is_autotile = false
+210/occluder_offset = Vector2( 16, 16 )
+210/navigation_offset = Vector2( 16, 16 )
+210/shapes = [  ]
+211/name = "dirt_wall3"
+211/texture = ExtResource( 126 )
+211/tex_offset = Vector2( 0, 0 )
+211/modulate = Color( 1, 1, 1, 1 )
+211/region = Rect2( 0, 0, 32, 32 )
+211/is_autotile = false
+211/occluder_offset = Vector2( 16, 16 )
+211/navigation_offset = Vector2( 16, 16 )
+211/shapes = [  ]
+212/name = "dirt_wall4"
+212/texture = ExtResource( 127 )
+212/tex_offset = Vector2( 0, 0 )
+212/modulate = Color( 1, 1, 1, 1 )
+212/region = Rect2( 0, 0, 32, 32 )
+212/is_autotile = false
+212/occluder_offset = Vector2( 16, 16 )
+212/navigation_offset = Vector2( 16, 16 )
+212/shapes = [  ]
+213/name = "dirt_wall5"
+213/texture = ExtResource( 128 )
+213/tex_offset = Vector2( 0, 0 )
+213/modulate = Color( 1, 1, 1, 1 )
+213/region = Rect2( 0, 0, 32, 32 )
+213/is_autotile = false
+213/occluder_offset = Vector2( 16, 16 )
+213/navigation_offset = Vector2( 16, 16 )
+213/shapes = [  ]
+214/name = "drygrass0"
+214/texture = ExtResource( 129 )
+214/tex_offset = Vector2( 0, 0 )
+214/modulate = Color( 1, 1, 1, 1 )
+214/region = Rect2( 0, 0, 32, 32 )
+214/is_autotile = false
+214/occluder_offset = Vector2( 16, 16 )
+214/navigation_offset = Vector2( 16, 16 )
+214/shapes = [  ]
+215/name = "drygrass1"
+215/texture = ExtResource( 130 )
+215/tex_offset = Vector2( 0, 0 )
+215/modulate = Color( 1, 1, 1, 1 )
+215/region = Rect2( 0, 0, 32, 32 )
+215/is_autotile = false
+215/occluder_offset = Vector2( 16, 16 )
+215/navigation_offset = Vector2( 16, 16 )
+215/shapes = [  ]
+216/name = "drygrass2"
+216/texture = ExtResource( 131 )
+216/tex_offset = Vector2( 0, 0 )
+216/modulate = Color( 1, 1, 1, 1 )
+216/region = Rect2( 0, 0, 32, 32 )
+216/is_autotile = false
+216/occluder_offset = Vector2( 16, 16 )
+216/navigation_offset = Vector2( 16, 16 )
+216/shapes = [  ]
+217/name = "drygrass3"
+217/texture = ExtResource( 132 )
+217/tex_offset = Vector2( 0, 0 )
+217/modulate = Color( 1, 1, 1, 1 )
+217/region = Rect2( 0, 0, 32, 32 )
+217/is_autotile = false
+217/occluder_offset = Vector2( 16, 16 )
+217/navigation_offset = Vector2( 16, 16 )
+217/shapes = [  ]
+218/name = "drygrass4"
+218/texture = ExtResource( 133 )
+218/tex_offset = Vector2( 0, 0 )
+218/modulate = Color( 1, 1, 1, 1 )
+218/region = Rect2( 0, 0, 32, 32 )
+218/is_autotile = false
+218/occluder_offset = Vector2( 16, 16 )
+218/navigation_offset = Vector2( 16, 16 )
+218/shapes = [  ]
+219/name = "drygrass5"
+219/texture = ExtResource( 134 )
+219/tex_offset = Vector2( 0, 0 )
+219/modulate = Color( 1, 1, 1, 1 )
+219/region = Rect2( 0, 0, 32, 32 )
+219/is_autotile = false
+219/occluder_offset = Vector2( 16, 16 )
+219/navigation_offset = Vector2( 16, 16 )
+219/shapes = [  ]
+220/name = "drygrass6"
+220/texture = ExtResource( 136 )
+220/tex_offset = Vector2( 0, 0 )
+220/modulate = Color( 1, 1, 1, 1 )
+220/region = Rect2( 0, 0, 32, 32 )
+220/is_autotile = false
+220/occluder_offset = Vector2( 16, 16 )
+220/navigation_offset = Vector2( 16, 16 )
+220/shapes = [  ]
+221/name = "drygrass7"
+221/texture = ExtResource( 137 )
+221/tex_offset = Vector2( 0, 0 )
+221/modulate = Color( 1, 1, 1, 1 )
+221/region = Rect2( 0, 0, 32, 32 )
+221/is_autotile = false
+221/occluder_offset = Vector2( 16, 16 )
+221/navigation_offset = Vector2( 16, 16 )
+221/shapes = [  ]
+222/name = "grassySprig0"
+222/texture = ExtResource( 138 )
+222/tex_offset = Vector2( 0, 0 )
+222/modulate = Color( 1, 1, 1, 1 )
+222/region = Rect2( 0, 0, 32, 32 )
+222/is_autotile = false
+222/occluder_offset = Vector2( 16, 16 )
+222/navigation_offset = Vector2( 16, 16 )
+222/shapes = [  ]
+223/name = "grassySprig1"
+223/texture = ExtResource( 139 )
+223/tex_offset = Vector2( 0, 0 )
+223/modulate = Color( 1, 1, 1, 1 )
+223/region = Rect2( 0, 0, 32, 32 )
+223/is_autotile = false
+223/occluder_offset = Vector2( 16, 16 )
+223/navigation_offset = Vector2( 16, 16 )
+223/shapes = [  ]
+224/name = "dirt_wall_shore0"
+224/texture = ExtResource( 140 )
+224/tex_offset = Vector2( 0, 0 )
+224/modulate = Color( 1, 1, 1, 1 )
+224/region = Rect2( 0, 0, 32, 32 )
+224/is_autotile = false
+224/occluder_offset = Vector2( 16, 16 )
+224/navigation_offset = Vector2( 16, 16 )
+224/shapes = [  ]
+225/name = "ddirt_wall_shore1"
+225/texture = ExtResource( 141 )
+225/tex_offset = Vector2( 0, 0 )
+225/modulate = Color( 1, 1, 1, 1 )
+225/region = Rect2( 0, 0, 32, 32 )
+225/is_autotile = false
+225/occluder_offset = Vector2( 16, 16 )
+225/navigation_offset = Vector2( 16, 16 )
+225/shapes = [  ]
+226/name = "dirt_wall_shore2"
+226/texture = ExtResource( 142 )
+226/tex_offset = Vector2( 0, 0 )
+226/modulate = Color( 1, 1, 1, 1 )
+226/region = Rect2( 0, 0, 32, 32 )
+226/is_autotile = false
+226/occluder_offset = Vector2( 16, 16 )
+226/navigation_offset = Vector2( 16, 16 )
+226/shapes = [  ]
+227/name = "grass_platform_nw"
+227/texture = ExtResource( 143 )
+227/tex_offset = Vector2( 0, 0 )
+227/modulate = Color( 1, 1, 1, 1 )
+227/region = Rect2( 0, 0, 32, 32 )
+227/is_autotile = false
+227/occluder_offset = Vector2( 16, 16 )
+227/navigation_offset = Vector2( 16, 16 )
+227/shapes = [  ]
+228/name = "grass_platform_n"
+228/texture = ExtResource( 144 )
+228/tex_offset = Vector2( 0, 0 )
+228/modulate = Color( 1, 1, 1, 1 )
+228/region = Rect2( 0, 0, 32, 32 )
+228/is_autotile = false
+228/occluder_offset = Vector2( 16, 16 )
+228/navigation_offset = Vector2( 16, 16 )
+228/shapes = [  ]
+229/name = "grass_platform_ne"
+229/texture = ExtResource( 145 )
+229/tex_offset = Vector2( 0, 0 )
+229/modulate = Color( 1, 1, 1, 1 )
+229/region = Rect2( 0, 0, 32, 32 )
+229/is_autotile = false
+229/occluder_offset = Vector2( 16, 16 )
+229/navigation_offset = Vector2( 16, 16 )
+229/shapes = [  ]
+230/name = "drygrass8"
+230/texture = ExtResource( 147 )
+230/tex_offset = Vector2( 0, 0 )
+230/modulate = Color( 1, 1, 1, 1 )
+230/region = Rect2( 0, 0, 32, 32 )
+230/is_autotile = false
+230/occluder_offset = Vector2( 16, 16 )
+230/navigation_offset = Vector2( 16, 16 )
+230/shapes = [  ]
+231/name = "drygrass9"
+231/texture = ExtResource( 148 )
+231/tex_offset = Vector2( 0, 0 )
+231/modulate = Color( 1, 1, 1, 1 )
+231/region = Rect2( 0, 0, 32, 32 )
+231/is_autotile = false
+231/occluder_offset = Vector2( 16, 16 )
+231/navigation_offset = Vector2( 16, 16 )
+231/shapes = [  ]
+232/name = "drygrass10"
+232/texture = ExtResource( 149 )
+232/tex_offset = Vector2( 0, 0 )
+232/modulate = Color( 1, 1, 1, 1 )
+232/region = Rect2( 0, 0, 32, 32 )
+232/is_autotile = false
+232/occluder_offset = Vector2( 16, 16 )
+232/navigation_offset = Vector2( 16, 16 )
+232/shapes = [  ]
+233/name = "drygrass11"
+233/texture = ExtResource( 150 )
+233/tex_offset = Vector2( 0, 0 )
+233/modulate = Color( 1, 1, 1, 1 )
+233/region = Rect2( 0, 0, 32, 32 )
+233/is_autotile = false
+233/occluder_offset = Vector2( 16, 16 )
+233/navigation_offset = Vector2( 16, 16 )
+233/shapes = [  ]
+234/name = "drygrass12"
+234/texture = ExtResource( 151 )
+234/tex_offset = Vector2( 0, 0 )
+234/modulate = Color( 1, 1, 1, 1 )
+234/region = Rect2( 0, 0, 32, 32 )
+234/is_autotile = false
+234/occluder_offset = Vector2( 16, 16 )
+234/navigation_offset = Vector2( 16, 16 )
+234/shapes = [  ]
+235/name = "drygrass13"
+235/texture = ExtResource( 152 )
+235/tex_offset = Vector2( 0, 0 )
+235/modulate = Color( 1, 1, 1, 1 )
+235/region = Rect2( 0, 0, 32, 32 )
+235/is_autotile = false
+235/occluder_offset = Vector2( 16, 16 )
+235/navigation_offset = Vector2( 16, 16 )
+235/shapes = [  ]
+236/name = "drygrass14"
+236/texture = ExtResource( 153 )
+236/tex_offset = Vector2( 0, 0 )
+236/modulate = Color( 1, 1, 1, 1 )
+236/region = Rect2( 0, 0, 32, 32 )
+236/is_autotile = false
+236/occluder_offset = Vector2( 16, 16 )
+236/navigation_offset = Vector2( 16, 16 )
+236/shapes = [  ]
+237/name = "drygrass15"
+237/texture = ExtResource( 154 )
+237/tex_offset = Vector2( 0, 0 )
+237/modulate = Color( 1, 1, 1, 1 )
+237/region = Rect2( 0, 0, 32, 32 )
+237/is_autotile = false
+237/occluder_offset = Vector2( 16, 16 )
+237/navigation_offset = Vector2( 16, 16 )
+237/shapes = [  ]
+238/name = "flowerSprig0"
+238/texture = ExtResource( 155 )
+238/tex_offset = Vector2( 0, 0 )
+238/modulate = Color( 1, 1, 1, 1 )
+238/region = Rect2( 0, 0, 32, 32 )
+238/is_autotile = false
+238/occluder_offset = Vector2( 16, 16 )
+238/navigation_offset = Vector2( 16, 16 )
+238/shapes = [  ]
+239/name = "flowerSprig1"
+239/texture = ExtResource( 156 )
+239/tex_offset = Vector2( 0, 0 )
+239/modulate = Color( 1, 1, 1, 1 )
+239/region = Rect2( 0, 0, 32, 32 )
+239/is_autotile = false
+239/occluder_offset = Vector2( 16, 16 )
+239/navigation_offset = Vector2( 16, 16 )
+239/shapes = [  ]
+240/name = "hypgrassCornerLeft"
+240/texture = ExtResource( 158 )
+240/tex_offset = Vector2( 0, 0 )
+240/modulate = Color( 1, 1, 1, 1 )
+240/region = Rect2( 0, 0, 32, 32 )
+240/is_autotile = false
+240/occluder_offset = Vector2( 16, 16 )
+240/navigation_offset = Vector2( 16, 16 )
+240/shapes = [  ]
+241/name = "hypgrassCornerRight"
+241/texture = ExtResource( 159 )
+241/tex_offset = Vector2( 0, 0 )
+241/modulate = Color( 1, 1, 1, 1 )
+241/region = Rect2( 0, 0, 32, 32 )
+241/is_autotile = false
+241/occluder_offset = Vector2( 16, 16 )
+241/navigation_offset = Vector2( 16, 16 )
+241/shapes = [  ]
+242/name = "grass_platform_w"
+242/texture = ExtResource( 160 )
+242/tex_offset = Vector2( 0, 0 )
+242/modulate = Color( 1, 1, 1, 1 )
+242/region = Rect2( 0, 0, 32, 32 )
+242/is_autotile = false
+242/occluder_offset = Vector2( 16, 16 )
+242/navigation_offset = Vector2( 16, 16 )
+242/shapes = [  ]
+243/name = "hypgrass_platform_ctr"
+243/texture = ExtResource( 161 )
+243/tex_offset = Vector2( 0, 0 )
+243/modulate = Color( 1, 1, 1, 1 )
+243/region = Rect2( 0, 0, 32, 32 )
+243/is_autotile = false
+243/occluder_offset = Vector2( 16, 16 )
+243/navigation_offset = Vector2( 16, 16 )
+243/shapes = [  ]
+244/name = "grass_platform_e"
+244/texture = ExtResource( 162 )
+244/tex_offset = Vector2( 0, 0 )
+244/modulate = Color( 1, 1, 1, 1 )
+244/region = Rect2( 0, 0, 32, 32 )
+244/is_autotile = false
+244/occluder_offset = Vector2( 16, 16 )
+244/navigation_offset = Vector2( 16, 16 )
+244/shapes = [  ]
+245/name = "drygrass16"
+245/texture = ExtResource( 163 )
+245/tex_offset = Vector2( 0, 0 )
+245/modulate = Color( 1, 1, 1, 1 )
+245/region = Rect2( 0, 0, 32, 32 )
+245/is_autotile = false
+245/occluder_offset = Vector2( 16, 16 )
+245/navigation_offset = Vector2( 16, 16 )
+245/shapes = [  ]
+246/name = "drygrass17"
+246/texture = ExtResource( 164 )
+246/tex_offset = Vector2( 0, 0 )
+246/modulate = Color( 1, 1, 1, 1 )
+246/region = Rect2( 0, 0, 32, 32 )
+246/is_autotile = false
+246/occluder_offset = Vector2( 16, 16 )
+246/navigation_offset = Vector2( 16, 16 )
+246/shapes = [  ]
+247/name = "drygrass18"
+247/texture = ExtResource( 165 )
+247/tex_offset = Vector2( 0, 0 )
+247/modulate = Color( 1, 1, 1, 1 )
+247/region = Rect2( 0, 0, 32, 32 )
+247/is_autotile = false
+247/occluder_offset = Vector2( 16, 16 )
+247/navigation_offset = Vector2( 16, 16 )
+247/shapes = [  ]
+248/name = "drygrass19"
+248/texture = ExtResource( 166 )
+248/tex_offset = Vector2( 0, 0 )
+248/modulate = Color( 1, 1, 1, 1 )
+248/region = Rect2( 0, 0, 32, 32 )
+248/is_autotile = false
+248/occluder_offset = Vector2( 16, 16 )
+248/navigation_offset = Vector2( 16, 16 )
+248/shapes = [  ]
+249/name = "drygrass20"
+249/texture = ExtResource( 167 )
+249/tex_offset = Vector2( 0, 0 )
+249/modulate = Color( 1, 1, 1, 1 )
+249/region = Rect2( 0, 0, 32, 32 )
+249/is_autotile = false
+249/occluder_offset = Vector2( 16, 16 )
+249/navigation_offset = Vector2( 16, 16 )
+249/shapes = [  ]
+250/name = "drygrass21"
+250/texture = ExtResource( 169 )
+250/tex_offset = Vector2( 0, 0 )
+250/modulate = Color( 1, 1, 1, 1 )
+250/region = Rect2( 0, 0, 32, 32 )
+250/is_autotile = false
+250/occluder_offset = Vector2( 16, 16 )
+250/navigation_offset = Vector2( 16, 16 )
+250/shapes = [  ]
+251/name = "drygrass22"
+251/texture = ExtResource( 170 )
+251/tex_offset = Vector2( 0, 0 )
+251/modulate = Color( 1, 1, 1, 1 )
+251/region = Rect2( 0, 0, 32, 32 )
+251/is_autotile = false
+251/occluder_offset = Vector2( 16, 16 )
+251/navigation_offset = Vector2( 16, 16 )
+251/shapes = [  ]
+252/name = "minesWall0"
+252/texture = ExtResource( 171 )
+252/tex_offset = Vector2( 0, 0 )
+252/modulate = Color( 1, 1, 1, 1 )
+252/region = Rect2( 0, 0, 32, 32 )
+252/is_autotile = false
+252/occluder_offset = Vector2( 16, 16 )
+252/navigation_offset = Vector2( 16, 16 )
+252/shapes = [  ]
+253/name = "minesWall1"
+253/texture = ExtResource( 172 )
+253/tex_offset = Vector2( 0, 0 )
+253/modulate = Color( 1, 1, 1, 1 )
+253/region = Rect2( 0, 0, 32, 32 )
+253/is_autotile = false
+253/occluder_offset = Vector2( 16, 16 )
+253/navigation_offset = Vector2( 16, 16 )
+253/shapes = [  ]
+254/name = "minesWall2"
+254/texture = ExtResource( 173 )
+254/tex_offset = Vector2( 0, 0 )
+254/modulate = Color( 1, 1, 1, 1 )
+254/region = Rect2( 0, 0, 32, 32 )
+254/is_autotile = false
+254/occluder_offset = Vector2( 16, 16 )
+254/navigation_offset = Vector2( 16, 16 )
+254/shapes = [  ]
+255/name = "minesWall3"
+255/texture = ExtResource( 174 )
+255/tex_offset = Vector2( 0, 0 )
+255/modulate = Color( 1, 1, 1, 1 )
+255/region = Rect2( 0, 0, 32, 32 )
+255/is_autotile = false
+255/occluder_offset = Vector2( 16, 16 )
+255/navigation_offset = Vector2( 16, 16 )
+255/shapes = [  ]
+256/name = "pussywillowSprig0"
+256/texture = ExtResource( 175 )
+256/tex_offset = Vector2( 0, 0 )
+256/modulate = Color( 1, 1, 1, 1 )
+256/region = Rect2( 0, 0, 32, 32 )
+256/is_autotile = false
+256/occluder_offset = Vector2( 16, 16 )
+256/navigation_offset = Vector2( 16, 16 )
+256/shapes = [  ]
+257/name = "pussywillowSprig1"
+257/texture = ExtResource( 176 )
+257/tex_offset = Vector2( 0, 0 )
+257/modulate = Color( 1, 1, 1, 1 )
+257/region = Rect2( 0, 0, 32, 32 )
+257/is_autotile = false
+257/occluder_offset = Vector2( 16, 16 )
+257/navigation_offset = Vector2( 16, 16 )
+257/shapes = [  ]
+258/name = "pussywillowSprig2"
+258/texture = ExtResource( 177 )
+258/tex_offset = Vector2( 0, 0 )
+258/modulate = Color( 1, 1, 1, 1 )
+258/region = Rect2( 0, 0, 32, 32 )
+258/is_autotile = false
+258/occluder_offset = Vector2( 16, 16 )
+258/navigation_offset = Vector2( 16, 16 )
+258/shapes = [  ]
+259/name = "dirtwallVinesTopLeft"
+259/texture = ExtResource( 178 )
+259/tex_offset = Vector2( 0, 0 )
+259/modulate = Color( 1, 1, 1, 1 )
+259/region = Rect2( 0, 0, 32, 32 )
+259/is_autotile = false
+259/occluder_offset = Vector2( 16, 16 )
+259/navigation_offset = Vector2( 16, 16 )
+259/shapes = [  ]
+260/name = "dirtwallVinesTopRight"
+260/texture = ExtResource( 180 )
+260/tex_offset = Vector2( 0, 0 )
+260/modulate = Color( 1, 1, 1, 1 )
+260/region = Rect2( 0, 0, 32, 32 )
+260/is_autotile = false
+260/occluder_offset = Vector2( 16, 16 )
+260/navigation_offset = Vector2( 16, 16 )
+260/shapes = [  ]
+261/name = "grassPlatformSW"
+261/texture = ExtResource( 181 )
+261/tex_offset = Vector2( 0, 0 )
+261/modulate = Color( 1, 1, 1, 1 )
+261/region = Rect2( 0, 0, 32, 32 )
+261/is_autotile = false
+261/occluder_offset = Vector2( 16, 16 )
+261/navigation_offset = Vector2( 16, 16 )
+261/shapes = [  ]
+262/name = "grassPlatformS"
+262/texture = ExtResource( 182 )
+262/tex_offset = Vector2( 0, 0 )
+262/modulate = Color( 1, 1, 1, 1 )
+262/region = Rect2( 0, 0, 32, 32 )
+262/is_autotile = false
+262/occluder_offset = Vector2( 16, 16 )
+262/navigation_offset = Vector2( 16, 16 )
+262/shapes = [  ]
+263/name = "grassPlatformSE"
+263/texture = ExtResource( 183 )
+263/tex_offset = Vector2( 0, 0 )
+263/modulate = Color( 1, 1, 1, 1 )
+263/region = Rect2( 0, 0, 32, 32 )
+263/is_autotile = false
+263/occluder_offset = Vector2( 16, 16 )
+263/navigation_offset = Vector2( 16, 16 )
+263/shapes = [  ]
+264/name = "drygrass23"
+264/texture = ExtResource( 184 )
+264/tex_offset = Vector2( 0, 0 )
+264/modulate = Color( 1, 1, 1, 1 )
+264/region = Rect2( 0, 0, 32, 32 )
+264/is_autotile = false
+264/occluder_offset = Vector2( 16, 16 )
+264/navigation_offset = Vector2( 16, 16 )
+264/shapes = [  ]
+265/name = "rocks0"
+265/texture = ExtResource( 185 )
+265/tex_offset = Vector2( 0, 0 )
+265/modulate = Color( 1, 1, 1, 1 )
+265/region = Rect2( 0, 0, 32, 32 )
+265/is_autotile = false
+265/occluder_offset = Vector2( 16, 16 )
+265/navigation_offset = Vector2( 16, 16 )
+265/shapes = [  ]
+266/name = "rocks1"
+266/texture = ExtResource( 186 )
+266/tex_offset = Vector2( 0, 0 )
+266/modulate = Color( 1, 1, 1, 1 )
+266/region = Rect2( 0, 0, 32, 32 )
+266/is_autotile = false
+266/occluder_offset = Vector2( 16, 16 )
+266/navigation_offset = Vector2( 16, 16 )
+266/shapes = [  ]
+267/name = "rocks2"
+267/texture = ExtResource( 187 )
+267/tex_offset = Vector2( 0, 0 )
+267/modulate = Color( 1, 1, 1, 1 )
+267/region = Rect2( 0, 0, 32, 32 )
+267/is_autotile = false
+267/occluder_offset = Vector2( 16, 16 )
+267/navigation_offset = Vector2( 16, 16 )
+267/shapes = [  ]
+268/name = "rocks3"
+268/texture = ExtResource( 188 )
+268/tex_offset = Vector2( 0, 0 )
+268/modulate = Color( 1, 1, 1, 1 )
+268/region = Rect2( 0, 0, 32, 32 )
+268/is_autotile = false
+268/occluder_offset = Vector2( 16, 16 )
+268/navigation_offset = Vector2( 16, 16 )
+268/shapes = [  ]
+269/name = "dirwallVinesBottomLeft"
+269/texture = ExtResource( 189 )
+269/tex_offset = Vector2( 0, 0 )
+269/modulate = Color( 1, 1, 1, 1 )
+269/region = Rect2( 0, 0, 32, 32 )
+269/is_autotile = false
+269/occluder_offset = Vector2( 16, 16 )
+269/navigation_offset = Vector2( 16, 16 )
+269/shapes = [  ]
+270/name = "dirtwallVinesBottomRight"
+270/texture = ExtResource( 191 )
+270/tex_offset = Vector2( 0, 0 )
+270/modulate = Color( 1, 1, 1, 1 )
+270/region = Rect2( 0, 0, 32, 32 )
+270/is_autotile = false
+270/occluder_offset = Vector2( 16, 16 )
+270/navigation_offset = Vector2( 16, 16 )
+270/shapes = [  ]
+271/name = "grassyPlatformBottomRight"
+271/texture = ExtResource( 192 )
+271/tex_offset = Vector2( 0, 0 )
+271/modulate = Color( 1, 1, 1, 1 )
+271/region = Rect2( 0, 0, 32, 32 )
+271/is_autotile = false
+271/occluder_offset = Vector2( 16, 16 )
+271/navigation_offset = Vector2( 16, 16 )
+271/shapes = [  ]
+272/name = "drassyPlatformBottomLeft"
+272/texture = ExtResource( 193 )
+272/tex_offset = Vector2( 0, 0 )
+272/modulate = Color( 1, 1, 1, 1 )
+272/region = Rect2( 0, 0, 32, 32 )
+272/is_autotile = false
+272/occluder_offset = Vector2( 16, 16 )
+272/navigation_offset = Vector2( 16, 16 )
+272/shapes = [  ]
+273/name = "drygrassShoreLeft"
+273/texture = ExtResource( 194 )
+273/tex_offset = Vector2( 0, 0 )
+273/modulate = Color( 1, 1, 1, 1 )
+273/region = Rect2( 0, 0, 32, 32 )
+273/is_autotile = false
+273/occluder_offset = Vector2( 16, 16 )
+273/navigation_offset = Vector2( 16, 16 )
+273/shapes = [  ]
+274/name = "drygrassShoreRight"
+274/texture = ExtResource( 195 )
+274/tex_offset = Vector2( 0, 0 )
+274/modulate = Color( 1, 1, 1, 1 )
+274/region = Rect2( 0, 0, 32, 32 )
+274/is_autotile = false
+274/occluder_offset = Vector2( 16, 16 )
+274/navigation_offset = Vector2( 16, 16 )
+274/shapes = [  ]
+275/name = "drygrassRiver"
+275/texture = ExtResource( 196 )
+275/tex_offset = Vector2( 0, 0 )
+275/modulate = Color( 1, 1, 1, 1 )
+275/region = Rect2( 0, 0, 32, 32 )
+275/is_autotile = false
+275/occluder_offset = Vector2( 16, 16 )
+275/navigation_offset = Vector2( 16, 16 )
+275/shapes = [  ]
+276/name = "ladder"
+276/texture = ExtResource( 197 )
+276/tex_offset = Vector2( 0, 0 )
+276/modulate = Color( 1, 1, 1, 1 )
+276/region = Rect2( 0, 0, 32, 32 )
+276/is_autotile = false
+276/occluder_offset = Vector2( 16, 16 )
+276/navigation_offset = Vector2( 16, 16 )
+276/shapes = [  ]
+277/name = "drygrassShoreLeft1"
+277/texture = ExtResource( 198 )
+277/tex_offset = Vector2( 0, 0 )
+277/modulate = Color( 1, 1, 1, 1 )
+277/region = Rect2( 0, 0, 32, 32 )
+277/is_autotile = false
+277/occluder_offset = Vector2( 16, 16 )
+277/navigation_offset = Vector2( 16, 16 )
+277/shapes = [  ]
+278/name = "drygrassShoreRight1"
+278/texture = ExtResource( 199 )
+278/tex_offset = Vector2( 0, 0 )
+278/modulate = Color( 1, 1, 1, 1 )
+278/region = Rect2( 0, 0, 32, 32 )
+278/is_autotile = false
+278/occluder_offset = Vector2( 16, 16 )
+278/navigation_offset = Vector2( 16, 16 )
+278/shapes = [  ]
+279/name = "drygrassRiver1"
+279/texture = ExtResource( 200 )
+279/tex_offset = Vector2( 0, 0 )
+279/modulate = Color( 1, 1, 1, 1 )
+279/region = Rect2( 0, 0, 32, 32 )
+279/is_autotile = false
+279/occluder_offset = Vector2( 16, 16 )
+279/navigation_offset = Vector2( 16, 16 )
+279/shapes = [  ]
+280/name = "treeTop0"
+280/texture = ExtResource( 202 )
+280/tex_offset = Vector2( 0, 0 )
+280/modulate = Color( 1, 1, 1, 1 )
+280/region = Rect2( 0, 0, 32, 32 )
+280/is_autotile = false
+280/occluder_offset = Vector2( 16, 16 )
+280/navigation_offset = Vector2( 16, 16 )
+280/shapes = [  ]
+281/name = "dirwallRock0_topLeft"
+281/texture = ExtResource( 203 )
+281/tex_offset = Vector2( 0, 0 )
+281/modulate = Color( 1, 1, 1, 1 )
+281/region = Rect2( 0, 0, 32, 32 )
+281/is_autotile = false
+281/occluder_offset = Vector2( 16, 16 )
+281/navigation_offset = Vector2( 16, 16 )
+281/shapes = [  ]
+282/name = "dirtwallRock0_topRight"
+282/texture = ExtResource( 204 )
+282/tex_offset = Vector2( 0, 0 )
+282/modulate = Color( 1, 1, 1, 1 )
+282/region = Rect2( 0, 0, 32, 32 )
+282/is_autotile = false
+282/occluder_offset = Vector2( 16, 16 )
+282/navigation_offset = Vector2( 16, 16 )
+282/shapes = [  ]
+283/name = "dirtwallRock1_top"
+283/texture = ExtResource( 205 )
+283/tex_offset = Vector2( 0, 0 )
+283/modulate = Color( 1, 1, 1, 1 )
+283/region = Rect2( 0, 0, 32, 32 )
+283/is_autotile = false
+283/occluder_offset = Vector2( 16, 16 )
+283/navigation_offset = Vector2( 16, 16 )
+283/shapes = [  ]
+284/name = "dirtwallRock0_bottomLeft"
+284/texture = ExtResource( 206 )
+284/tex_offset = Vector2( 0, 0 )
+284/modulate = Color( 1, 1, 1, 1 )
+284/region = Rect2( 0, 0, 32, 32 )
+284/is_autotile = false
+284/occluder_offset = Vector2( 16, 16 )
+284/navigation_offset = Vector2( 16, 16 )
+284/shapes = [  ]
+285/name = "dirwallRock1_bottomRight"
+285/texture = ExtResource( 207 )
+285/tex_offset = Vector2( 0, 0 )
+285/modulate = Color( 1, 1, 1, 1 )
+285/region = Rect2( 0, 0, 32, 32 )
+285/is_autotile = false
+285/occluder_offset = Vector2( 16, 16 )
+285/navigation_offset = Vector2( 16, 16 )
+285/shapes = [  ]
+286/name = "dirtwallRock1_bottom"
+286/texture = ExtResource( 208 )
+286/tex_offset = Vector2( 0, 0 )
+286/modulate = Color( 1, 1, 1, 1 )
+286/region = Rect2( 0, 0, 32, 32 )
+286/is_autotile = false
+286/occluder_offset = Vector2( 16, 16 )
+286/navigation_offset = Vector2( 16, 16 )
+286/shapes = [  ]
+287/name = "treeBottom0"
+287/texture = ExtResource( 209 )
+287/tex_offset = Vector2( 0, 0 )
+287/modulate = Color( 1, 1, 1, 1 )
+287/region = Rect2( 0, 0, 32, 32 )
+287/is_autotile = false
+287/occluder_offset = Vector2( 16, 16 )
+287/navigation_offset = Vector2( 16, 16 )
+287/shapes = [  ]
+288/name = "treeBottom1"
+288/texture = ExtResource( 210 )
+288/tex_offset = Vector2( 0, 0 )
+288/modulate = Color( 1, 1, 1, 1 )
+288/region = Rect2( 0, 0, 32, 32 )
+288/is_autotile = false
+288/occluder_offset = Vector2( 16, 16 )
+288/navigation_offset = Vector2( 16, 16 )
+288/shapes = [  ]
+289/name = "treebottom2"
+289/texture = ExtResource( 211 )
+289/tex_offset = Vector2( 0, 0 )
+289/modulate = Color( 1, 1, 1, 1 )
+289/region = Rect2( 0, 0, 32, 32 )
+289/is_autotile = false
+289/occluder_offset = Vector2( 16, 16 )
+289/navigation_offset = Vector2( 16, 16 )
+289/shapes = [  ]
+290/name = "treeTop1"
+290/texture = ExtResource( 213 )
+290/tex_offset = Vector2( 0, 0 )
+290/modulate = Color( 1, 1, 1, 1 )
+290/region = Rect2( 0, 0, 32, 32 )
+290/is_autotile = false
+290/occluder_offset = Vector2( 16, 16 )
+290/navigation_offset = Vector2( 16, 16 )
+290/shapes = [  ]
+291/name = "treeTop2"
+291/texture = ExtResource( 214 )
+291/tex_offset = Vector2( 0, 0 )
+291/modulate = Color( 1, 1, 1, 1 )
+291/region = Rect2( 0, 0, 32, 32 )
+291/is_autotile = false
+291/occluder_offset = Vector2( 16, 16 )
+291/navigation_offset = Vector2( 16, 16 )
+291/shapes = [  ]
+292/name = "woodenStool"
+292/texture = ExtResource( 215 )
+292/tex_offset = Vector2( 0, 0 )
+292/modulate = Color( 1, 1, 1, 1 )
+292/region = Rect2( 0, 0, 32, 32 )
+292/is_autotile = false
+292/occluder_offset = Vector2( 16, 16 )
+292/navigation_offset = Vector2( 16, 16 )
+292/shapes = [  ]
+293/name = "hypgrassPathLeftEnd"
+293/texture = ExtResource( 216 )
+293/tex_offset = Vector2( 0, 0 )
+293/modulate = Color( 1, 1, 1, 1 )
+293/region = Rect2( 0, 0, 32, 32 )
+293/is_autotile = false
+293/occluder_offset = Vector2( 16, 16 )
+293/navigation_offset = Vector2( 16, 16 )
+293/shapes = [  ]
+294/name = "hypgrassPathRightEnd"
+294/texture = ExtResource( 217 )
+294/tex_offset = Vector2( 0, 0 )
+294/modulate = Color( 1, 1, 1, 1 )
+294/region = Rect2( 0, 0, 32, 32 )
+294/is_autotile = false
+294/occluder_offset = Vector2( 16, 16 )
+294/navigation_offset = Vector2( 16, 16 )
+294/shapes = [  ]
+295/name = "anvil"
+295/texture = ExtResource( 218 )
+295/tex_offset = Vector2( 0, 0 )
+295/modulate = Color( 1, 1, 1, 1 )
+295/region = Rect2( 0, 0, 32, 32 )
+295/is_autotile = false
+295/occluder_offset = Vector2( 16, 16 )
+295/navigation_offset = Vector2( 16, 16 )
+295/shapes = [  ]
+296/name = "curtainBlueTop"
+296/texture = ExtResource( 219 )
+296/tex_offset = Vector2( 0, 0 )
+296/modulate = Color( 1, 1, 1, 1 )
+296/region = Rect2( 0, 0, 32, 32 )
+296/is_autotile = false
+296/occluder_offset = Vector2( 16, 16 )
+296/navigation_offset = Vector2( 16, 16 )
+296/shapes = [  ]
+297/name = "curtainRedTop"
+297/texture = ExtResource( 220 )
+297/tex_offset = Vector2( 0, 0 )
+297/modulate = Color( 1, 1, 1, 1 )
+297/region = Rect2( 0, 0, 32, 32 )
+297/is_autotile = false
+297/occluder_offset = Vector2( 16, 16 )
+297/navigation_offset = Vector2( 16, 16 )
+297/shapes = [  ]
+298/name = "curtainBlueBottom"
+298/texture = ExtResource( 221 )
+298/tex_offset = Vector2( 0, 0 )
+298/modulate = Color( 1, 1, 1, 1 )
+298/region = Rect2( 0, 0, 32, 32 )
+298/is_autotile = false
+298/occluder_offset = Vector2( 16, 16 )
+298/navigation_offset = Vector2( 16, 16 )
+298/shapes = [  ]
+299/name = "curtainRedBottom"
+299/texture = ExtResource( 222 )
+299/tex_offset = Vector2( 0, 0 )
+299/modulate = Color( 1, 1, 1, 1 )
+299/region = Rect2( 0, 0, 32, 32 )
+299/is_autotile = false
+299/occluder_offset = Vector2( 16, 16 )
+299/navigation_offset = Vector2( 16, 16 )
+299/shapes = [  ]
+300/name = "drygrassLadderTop"
+300/texture = ExtResource( 225 )
+300/tex_offset = Vector2( 0, 0 )
+300/modulate = Color( 1, 1, 1, 1 )
+300/region = Rect2( 0, 0, 32, 32 )
+300/is_autotile = false
+300/occluder_offset = Vector2( 16, 16 )
+300/navigation_offset = Vector2( 16, 16 )
+300/shapes = [  ]
+301/name = "hypgrassPathUpEnd"
+301/texture = ExtResource( 226 )
+301/tex_offset = Vector2( 0, 0 )
+301/modulate = Color( 1, 1, 1, 1 )
+301/region = Rect2( 0, 0, 32, 32 )
+301/is_autotile = false
+301/occluder_offset = Vector2( 16, 16 )
+301/navigation_offset = Vector2( 16, 16 )
+301/shapes = [  ]
+302/name = "hypgrassPathVert0"
+302/texture = ExtResource( 227 )
+302/tex_offset = Vector2( 0, 0 )
+302/modulate = Color( 1, 1, 1, 1 )
+302/region = Rect2( 0, 0, 32, 32 )
+302/is_autotile = false
+302/occluder_offset = Vector2( 16, 16 )
+302/navigation_offset = Vector2( 16, 16 )
+302/shapes = [  ]
+303/name = "hypgrassPathVert1"
+303/texture = ExtResource( 228 )
+303/tex_offset = Vector2( 0, 0 )
+303/modulate = Color( 1, 1, 1, 1 )
+303/region = Rect2( 0, 0, 32, 32 )
+303/is_autotile = false
+303/occluder_offset = Vector2( 16, 16 )
+303/navigation_offset = Vector2( 16, 16 )
+303/shapes = [  ]
+304/name = "drygrassLadderMid"
+304/texture = ExtResource( 229 )
+304/tex_offset = Vector2( 0, 0 )
+304/modulate = Color( 1, 1, 1, 1 )
+304/region = Rect2( 0, 0, 32, 32 )
+304/is_autotile = false
+304/occluder_offset = Vector2( 16, 16 )
+304/navigation_offset = Vector2( 16, 16 )
+304/shapes = [  ]
+305/name = "hypgrassPathCornerLeft"
+305/texture = ExtResource( 230 )
+305/tex_offset = Vector2( 0, 0 )
+305/modulate = Color( 1, 1, 1, 1 )
+305/region = Rect2( 0, 0, 32, 32 )
+305/is_autotile = false
+305/occluder_offset = Vector2( 16, 16 )
+305/navigation_offset = Vector2( 16, 16 )
+305/shapes = [  ]
+306/name = "hypgrassPathHorz"
+306/texture = ExtResource( 231 )
+306/tex_offset = Vector2( 0, 0 )
+306/modulate = Color( 1, 1, 1, 1 )
+306/region = Rect2( 0, 0, 32, 32 )
+306/is_autotile = false
+306/occluder_offset = Vector2( 16, 16 )
+306/navigation_offset = Vector2( 16, 16 )
+306/shapes = [  ]
+307/name = "hypgrassPathCurveLeft"
+307/texture = ExtResource( 232 )
+307/tex_offset = Vector2( 0, 0 )
+307/modulate = Color( 1, 1, 1, 1 )
+307/region = Rect2( 0, 0, 32, 32 )
+307/is_autotile = false
+307/occluder_offset = Vector2( 16, 16 )
+307/navigation_offset = Vector2( 16, 16 )
+307/shapes = [  ]
+308/name = "drygrassLadderBottom"
+308/texture = ExtResource( 233 )
+308/tex_offset = Vector2( 0, 0 )
+308/modulate = Color( 1, 1, 1, 1 )
+308/region = Rect2( 0, 0, 32, 32 )
+308/is_autotile = false
+308/occluder_offset = Vector2( 16, 16 )
+308/navigation_offset = Vector2( 16, 16 )
+308/shapes = [  ]
+309/name = "shrub0"
+309/texture = ExtResource( 234 )
+309/tex_offset = Vector2( 0, 0 )
+309/modulate = Color( 1, 1, 1, 1 )
+309/region = Rect2( 0, 0, 32, 32 )
+309/is_autotile = false
+309/occluder_offset = Vector2( 16, 16 )
+309/navigation_offset = Vector2( 16, 16 )
+309/shapes = [  ]
+310/name = "drygrassWall2"
+310/texture = ExtResource( 236 )
+310/tex_offset = Vector2( 0, 0 )
+310/modulate = Color( 1, 1, 1, 1 )
+310/region = Rect2( 0, 0, 32, 32 )
+310/is_autotile = false
+310/occluder_offset = Vector2( 16, 16 )
+310/navigation_offset = Vector2( 16, 16 )
+310/shapes = [  ]
+311/name = "drygrassWall1"
+311/texture = ExtResource( 237 )
+311/tex_offset = Vector2( 0, 0 )
+311/modulate = Color( 1, 1, 1, 1 )
+311/region = Rect2( 0, 0, 32, 32 )
+311/is_autotile = false
+311/occluder_offset = Vector2( 16, 16 )
+311/navigation_offset = Vector2( 16, 16 )
+311/shapes = [  ]
+312/name = "drygrassWallCaveTop"
+312/texture = ExtResource( 238 )
+312/tex_offset = Vector2( 0, 0 )
+312/modulate = Color( 1, 1, 1, 1 )
+312/region = Rect2( 0, 0, 32, 32 )
+312/is_autotile = false
+312/occluder_offset = Vector2( 16, 16 )
+312/navigation_offset = Vector2( 16, 16 )
+312/shapes = [  ]
+313/name = "drygrassStairsBottomLeft"
+313/texture = ExtResource( 239 )
+313/tex_offset = Vector2( 0, 0 )
+313/modulate = Color( 1, 1, 1, 1 )
+313/region = Rect2( 0, 0, 32, 32 )
+313/is_autotile = false
+313/occluder_offset = Vector2( 16, 16 )
+313/navigation_offset = Vector2( 16, 16 )
+313/shapes = [  ]
+314/name = "drygrassStairsBottomRight"
+314/texture = ExtResource( 240 )
+314/tex_offset = Vector2( 0, 0 )
+314/modulate = Color( 1, 1, 1, 1 )
+314/region = Rect2( 0, 0, 32, 32 )
+314/is_autotile = false
+314/occluder_offset = Vector2( 16, 16 )
+314/navigation_offset = Vector2( 16, 16 )
+314/shapes = [  ]
+315/name = "drygrassNarrowHalfshadow"
+315/texture = ExtResource( 241 )
+315/tex_offset = Vector2( 0, 0 )
+315/modulate = Color( 1, 1, 1, 1 )
+315/region = Rect2( 0, 0, 32, 32 )
+315/is_autotile = false
+315/occluder_offset = Vector2( 16, 16 )
+315/navigation_offset = Vector2( 16, 16 )
+315/shapes = [  ]
+316/name = "drygrassCornerRight"
+316/texture = ExtResource( 242 )
+316/tex_offset = Vector2( 0, 0 )
+316/modulate = Color( 1, 1, 1, 1 )
+316/region = Rect2( 0, 0, 32, 32 )
+316/is_autotile = false
+316/occluder_offset = Vector2( 16, 16 )
+316/navigation_offset = Vector2( 16, 16 )
+316/shapes = [  ]
+317/name = "drygrassNarrowVert"
+317/texture = ExtResource( 243 )
+317/tex_offset = Vector2( 0, 0 )
+317/modulate = Color( 1, 1, 1, 1 )
+317/region = Rect2( 0, 0, 32, 32 )
+317/is_autotile = false
+317/occluder_offset = Vector2( 16, 16 )
+317/navigation_offset = Vector2( 16, 16 )
+317/shapes = [  ]
+318/name = "drygrassWallLeft"
+318/texture = ExtResource( 244 )
+318/tex_offset = Vector2( 0, 0 )
+318/modulate = Color( 1, 1, 1, 1 )
+318/region = Rect2( 0, 0, 32, 32 )
+318/is_autotile = false
+318/occluder_offset = Vector2( 16, 16 )
+318/navigation_offset = Vector2( 16, 16 )
+318/shapes = [  ]
+319/name = "drygrassWallRight"
+319/texture = ExtResource( 245 )
+319/tex_offset = Vector2( 0, 0 )
+319/modulate = Color( 1, 1, 1, 1 )
+319/region = Rect2( 0, 0, 32, 32 )
+319/is_autotile = false
+319/occluder_offset = Vector2( 16, 16 )
+319/navigation_offset = Vector2( 16, 16 )
+319/shapes = [  ]
+320/name = "drygrassWallBottom1"
+320/texture = ExtResource( 247 )
+320/tex_offset = Vector2( 0, 0 )
+320/modulate = Color( 1, 1, 1, 1 )
+320/region = Rect2( 0, 0, 32, 32 )
+320/is_autotile = false
+320/occluder_offset = Vector2( 16, 16 )
+320/navigation_offset = Vector2( 16, 16 )
+320/shapes = [  ]
+321/name = "drygrassWallBottom0"
+321/texture = ExtResource( 248 )
+321/tex_offset = Vector2( 0, 0 )
+321/modulate = Color( 1, 1, 1, 1 )
+321/region = Rect2( 0, 0, 32, 32 )
+321/is_autotile = false
+321/occluder_offset = Vector2( 16, 16 )
+321/navigation_offset = Vector2( 16, 16 )
+321/shapes = [  ]
+322/name = "drygrassStairsRightMid"
+322/texture = ExtResource( 249 )
+322/tex_offset = Vector2( 0, 0 )
+322/modulate = Color( 1, 1, 1, 1 )
+322/region = Rect2( 0, 0, 32, 32 )
+322/is_autotile = false
+322/occluder_offset = Vector2( 16, 16 )
+322/navigation_offset = Vector2( 16, 16 )
+322/shapes = [  ]
+323/name = "drygrassStairsLeftMid"
+323/texture = ExtResource( 250 )
+323/tex_offset = Vector2( 0, 0 )
+323/modulate = Color( 1, 1, 1, 1 )
+323/region = Rect2( 0, 0, 32, 32 )
+323/is_autotile = false
+323/occluder_offset = Vector2( 16, 16 )
+323/navigation_offset = Vector2( 16, 16 )
+323/shapes = [  ]
+324/name = "tile385"
+324/texture = ExtResource( 251 )
+324/tex_offset = Vector2( 0, 0 )
+324/modulate = Color( 1, 1, 1, 1 )
+324/region = Rect2( 0, 0, 32, 32 )
+324/is_autotile = false
+324/occluder_offset = Vector2( 16, 16 )
+324/navigation_offset = Vector2( 16, 16 )
+324/shapes = [  ]
+325/name = "tile384"
+325/texture = ExtResource( 252 )
+325/tex_offset = Vector2( 0, 0 )
+325/modulate = Color( 1, 1, 1, 1 )
+325/region = Rect2( 0, 0, 32, 32 )
+325/is_autotile = false
+325/occluder_offset = Vector2( 16, 16 )
+325/navigation_offset = Vector2( 16, 16 )
+325/shapes = [  ]
+326/name = "tile383"
+326/texture = ExtResource( 253 )
+326/tex_offset = Vector2( 0, 0 )
+326/modulate = Color( 1, 1, 1, 1 )
+326/region = Rect2( 0, 0, 32, 32 )
+326/is_autotile = false
+326/occluder_offset = Vector2( 16, 16 )
+326/navigation_offset = Vector2( 16, 16 )
+326/shapes = [  ]
+327/name = "tile382"
+327/texture = ExtResource( 254 )
+327/tex_offset = Vector2( 0, 0 )
+327/modulate = Color( 1, 1, 1, 1 )
+327/region = Rect2( 0, 0, 32, 32 )
+327/is_autotile = false
+327/occluder_offset = Vector2( 16, 16 )
+327/navigation_offset = Vector2( 16, 16 )
+327/shapes = [  ]
+328/name = "drygrassStairsTopRight"
+328/texture = ExtResource( 255 )
+328/tex_offset = Vector2( 0, 0 )
+328/modulate = Color( 1, 1, 1, 1 )
+328/region = Rect2( 0, 0, 32, 32 )
+328/is_autotile = false
+328/occluder_offset = Vector2( 16, 16 )
+328/navigation_offset = Vector2( 16, 16 )
+328/shapes = [  ]
+329/name = "drygrassStairsTopLeft"
+329/texture = ExtResource( 256 )
+329/tex_offset = Vector2( 0, 0 )
+329/modulate = Color( 1, 1, 1, 1 )
+329/region = Rect2( 0, 0, 32, 32 )
+329/is_autotile = false
+329/occluder_offset = Vector2( 16, 16 )
+329/navigation_offset = Vector2( 16, 16 )
+329/shapes = [  ]
+330/name = "drygrassShadowCornerRight1"
+330/texture = ExtResource( 258 )
+330/tex_offset = Vector2( 0, 0 )
+330/modulate = Color( 1, 1, 1, 1 )
+330/region = Rect2( 0, 0, 32, 32 )
+330/is_autotile = false
+330/occluder_offset = Vector2( 16, 16 )
+330/navigation_offset = Vector2( 16, 16 )
+330/shapes = [  ]
+331/name = "drgrassNarrowHorzRightEnd"
+331/texture = ExtResource( 259 )
+331/tex_offset = Vector2( 0, 0 )
+331/modulate = Color( 1, 1, 1, 1 )
+331/region = Rect2( 0, 0, 32, 32 )
+331/is_autotile = false
+331/occluder_offset = Vector2( 16, 16 )
+331/navigation_offset = Vector2( 16, 16 )
+331/shapes = [  ]
+332/name = "drygrassNarrowHorz"
+332/texture = ExtResource( 260 )
+332/tex_offset = Vector2( 0, 0 )
+332/modulate = Color( 1, 1, 1, 1 )
+332/region = Rect2( 0, 0, 32, 32 )
+332/is_autotile = false
+332/occluder_offset = Vector2( 16, 16 )
+332/navigation_offset = Vector2( 16, 16 )
+332/shapes = [  ]
+333/name = "drygrassNarrowHorzEndLeftW"
+333/texture = ExtResource( 261 )
+333/tex_offset = Vector2( 0, 0 )
+333/modulate = Color( 1, 1, 1, 1 )
+333/region = Rect2( 0, 0, 32, 32 )
+333/is_autotile = false
+333/occluder_offset = Vector2( 16, 16 )
+333/navigation_offset = Vector2( 16, 16 )
+333/shapes = [  ]
+334/name = "drygrassShadowCornerRight0"
+334/texture = ExtResource( 262 )
+334/tex_offset = Vector2( 0, 0 )
+334/modulate = Color( 1, 1, 1, 1 )
+334/region = Rect2( 0, 0, 32, 32 )
+334/is_autotile = false
+334/occluder_offset = Vector2( 16, 16 )
+334/navigation_offset = Vector2( 16, 16 )
+334/shapes = [  ]
+335/name = "drygrassRock0"
+335/texture = ExtResource( 263 )
+335/tex_offset = Vector2( 0, 0 )
+335/modulate = Color( 1, 1, 1, 1 )
+335/region = Rect2( 0, 0, 32, 32 )
+335/is_autotile = false
+335/occluder_offset = Vector2( 16, 16 )
+335/navigation_offset = Vector2( 16, 16 )
+335/shapes = [  ]
+336/name = "drygrassRock1"
+336/texture = ExtResource( 264 )
+336/tex_offset = Vector2( 0, 0 )
+336/modulate = Color( 1, 1, 1, 1 )
+336/region = Rect2( 0, 0, 32, 32 )
+336/is_autotile = false
+336/occluder_offset = Vector2( 16, 16 )
+336/navigation_offset = Vector2( 16, 16 )
+336/shapes = [  ]
+337/name = "drygrassPlatformSE"
+337/texture = ExtResource( 265 )
+337/tex_offset = Vector2( 0, 0 )
+337/modulate = Color( 1, 1, 1, 1 )
+337/region = Rect2( 0, 0, 32, 32 )
+337/is_autotile = false
+337/occluder_offset = Vector2( 16, 16 )
+337/navigation_offset = Vector2( 16, 16 )
+337/shapes = [  ]
+338/name = "drygrassPlatformS0"
+338/texture = ExtResource( 266 )
+338/tex_offset = Vector2( 0, 0 )
+338/modulate = Color( 1, 1, 1, 1 )
+338/region = Rect2( 0, 0, 32, 32 )
+338/is_autotile = false
+338/occluder_offset = Vector2( 16, 16 )
+338/navigation_offset = Vector2( 16, 16 )
+338/shapes = [  ]
+339/name = "drygrassPlatformSW"
+339/texture = ExtResource( 267 )
+339/tex_offset = Vector2( 0, 0 )
+339/modulate = Color( 1, 1, 1, 1 )
+339/region = Rect2( 0, 0, 32, 32 )
+339/is_autotile = false
+339/occluder_offset = Vector2( 16, 16 )
+339/navigation_offset = Vector2( 16, 16 )
+339/shapes = [  ]
+340/name = "drygrassPlatformS1"
+340/texture = ExtResource( 269 )
+340/tex_offset = Vector2( 0, 0 )
+340/modulate = Color( 1, 1, 1, 1 )
+340/region = Rect2( 0, 0, 32, 32 )
+340/is_autotile = false
+340/occluder_offset = Vector2( 16, 16 )
+340/navigation_offset = Vector2( 16, 16 )
+340/shapes = [  ]
+341/name = "drygrassPlatformS2"
+341/texture = ExtResource( 270 )
+341/tex_offset = Vector2( 0, 0 )
+341/modulate = Color( 1, 1, 1, 1 )
+341/region = Rect2( 0, 0, 32, 32 )
+341/is_autotile = false
+341/occluder_offset = Vector2( 16, 16 )
+341/navigation_offset = Vector2( 16, 16 )
+341/shapes = [  ]
+342/name = "drygrassWall3"
+342/texture = ExtResource( 271 )
+342/tex_offset = Vector2( 0, 0 )
+342/modulate = Color( 1, 1, 1, 1 )
+342/region = Rect2( 0, 0, 32, 32 )
+342/is_autotile = false
+342/occluder_offset = Vector2( 16, 16 )
+342/navigation_offset = Vector2( 16, 16 )
+342/shapes = [  ]
+343/name = "drygrassShadowCornerLeft0"
+343/texture = ExtResource( 272 )
+343/tex_offset = Vector2( 0, 0 )
+343/modulate = Color( 1, 1, 1, 1 )
+343/region = Rect2( 0, 0, 32, 32 )
+343/is_autotile = false
+343/occluder_offset = Vector2( 16, 16 )
+343/navigation_offset = Vector2( 16, 16 )
+343/shapes = [  ]
+344/name = "drygrassShadowCornerLeft1"
+344/texture = ExtResource( 273 )
+344/tex_offset = Vector2( 0, 0 )
+344/modulate = Color( 1, 1, 1, 1 )
+344/region = Rect2( 0, 0, 32, 32 )
+344/is_autotile = false
+344/occluder_offset = Vector2( 16, 16 )
+344/navigation_offset = Vector2( 16, 16 )
+344/shapes = [  ]
+345/name = "drygrassWallBottom2"
+345/texture = ExtResource( 274 )
+345/tex_offset = Vector2( 0, 0 )
+345/modulate = Color( 1, 1, 1, 1 )
+345/region = Rect2( 0, 0, 32, 32 )
+345/is_autotile = false
+345/occluder_offset = Vector2( 16, 16 )
+345/navigation_offset = Vector2( 16, 16 )
+345/shapes = [  ]
+346/name = "drygrassWallBottom3"
+346/texture = ExtResource( 275 )
+346/tex_offset = Vector2( 0, 0 )
+346/modulate = Color( 1, 1, 1, 1 )
+346/region = Rect2( 0, 0, 32, 32 )
+346/is_autotile = false
+346/occluder_offset = Vector2( 16, 16 )
+346/navigation_offset = Vector2( 16, 16 )
+346/shapes = [  ]
+347/name = "drygrassWall4"
+347/texture = ExtResource( 276 )
+347/tex_offset = Vector2( 0, 0 )
+347/modulate = Color( 1, 1, 1, 1 )
+347/region = Rect2( 0, 0, 32, 32 )
+347/is_autotile = false
+347/occluder_offset = Vector2( 16, 16 )
+347/navigation_offset = Vector2( 16, 16 )
+347/shapes = [  ]
+348/name = "drygrassCornerLeftHalfshade"
+348/texture = ExtResource( 277 )
+348/tex_offset = Vector2( 0, 0 )
+348/modulate = Color( 1, 1, 1, 1 )
+348/region = Rect2( 0, 0, 32, 32 )
+348/is_autotile = false
+348/occluder_offset = Vector2( 16, 16 )
+348/navigation_offset = Vector2( 16, 16 )
+348/shapes = [  ]
+349/name = "drygrassShadowWallBottom"
+349/texture = ExtResource( 278 )
+349/tex_offset = Vector2( 0, 0 )
+349/modulate = Color( 1, 1, 1, 1 )
+349/region = Rect2( 0, 0, 32, 32 )
+349/is_autotile = false
+349/occluder_offset = Vector2( 16, 16 )
+349/navigation_offset = Vector2( 16, 16 )
+349/shapes = [  ]
+350/name = "drygrassPlatformLeft"
+350/texture = ExtResource( 280 )
+350/tex_offset = Vector2( 0, 0 )
+350/modulate = Color( 1, 1, 1, 1 )
+350/region = Rect2( 0, 0, 32, 32 )
+350/is_autotile = false
+350/occluder_offset = Vector2( 16, 16 )
+350/navigation_offset = Vector2( 16, 16 )
+350/shapes = [  ]
+351/name = "DrygrassPlatformRight"
+351/texture = ExtResource( 281 )
+351/tex_offset = Vector2( 0, 0 )
+351/modulate = Color( 1, 1, 1, 1 )
+351/region = Rect2( 0, 0, 32, 32 )
+351/is_autotile = false
+351/occluder_offset = Vector2( 16, 16 )
+351/navigation_offset = Vector2( 16, 16 )
+351/shapes = [  ]
+352/name = "drygrassPlaformLeftCorner"
+352/texture = ExtResource( 282 )
+352/tex_offset = Vector2( 0, 0 )
+352/modulate = Color( 1, 1, 1, 1 )
+352/region = Rect2( 0, 0, 32, 32 )
+352/is_autotile = false
+352/occluder_offset = Vector2( 16, 16 )
+352/navigation_offset = Vector2( 16, 16 )
+352/shapes = [  ]
+353/name = "drygrassWallBottomRightCorner"
+353/texture = ExtResource( 283 )
+353/tex_offset = Vector2( 0, 0 )
+353/modulate = Color( 1, 1, 1, 1 )
+353/region = Rect2( 0, 0, 32, 32 )
+353/is_autotile = false
+353/occluder_offset = Vector2( 16, 16 )
+353/navigation_offset = Vector2( 16, 16 )
+353/shapes = [  ]
+354/name = "drygrassWallBottomRightCorner1"
+354/texture = ExtResource( 284 )
+354/tex_offset = Vector2( 0, 0 )
+354/modulate = Color( 1, 1, 1, 1 )
+354/region = Rect2( 0, 0, 32, 32 )
+354/is_autotile = false
+354/occluder_offset = Vector2( 16, 16 )
+354/navigation_offset = Vector2( 16, 16 )
+354/shapes = [  ]
+355/name = "drygrassPlatformHalfshadow"
+355/texture = ExtResource( 285 )
+355/tex_offset = Vector2( 0, 0 )
+355/modulate = Color( 1, 1, 1, 1 )
+355/region = Rect2( 0, 0, 32, 32 )
+355/is_autotile = false
+355/occluder_offset = Vector2( 16, 16 )
+355/navigation_offset = Vector2( 16, 16 )
+355/shapes = [  ]
+356/name = "drygrassPlatformRightCorner"
+356/texture = ExtResource( 286 )
+356/tex_offset = Vector2( 0, 0 )
+356/modulate = Color( 1, 1, 1, 1 )
+356/region = Rect2( 0, 0, 32, 32 )
+356/is_autotile = false
+356/occluder_offset = Vector2( 16, 16 )
+356/navigation_offset = Vector2( 16, 16 )
+356/shapes = [  ]
+357/name = "drygrassWallLeftEdge"
+357/texture = ExtResource( 287 )
+357/tex_offset = Vector2( 0, 0 )
+357/modulate = Color( 1, 1, 1, 1 )
+357/region = Rect2( 0, 0, 32, 32 )
+357/is_autotile = false
+357/occluder_offset = Vector2( 16, 16 )
+357/navigation_offset = Vector2( 16, 16 )
+357/shapes = [  ]
+358/name = "drygrassWallLeftCorner"
+358/texture = ExtResource( 288 )
+358/tex_offset = Vector2( 0, 0 )
+358/modulate = Color( 1, 1, 1, 1 )
+358/region = Rect2( 0, 0, 32, 32 )
+358/is_autotile = false
+358/occluder_offset = Vector2( 16, 16 )
+358/navigation_offset = Vector2( 16, 16 )
+358/shapes = [  ]
+359/name = "drygrassWallRightEdge"
+359/texture = ExtResource( 289 )
+359/tex_offset = Vector2( 0, 0 )
+359/modulate = Color( 1, 1, 1, 1 )
+359/region = Rect2( 0, 0, 32, 32 )
+359/is_autotile = false
+359/occluder_offset = Vector2( 16, 16 )
+359/navigation_offset = Vector2( 16, 16 )
+359/shapes = [  ]
+360/name = "drygrassWallWithplant"
+360/texture = ExtResource( 291 )
+360/tex_offset = Vector2( 0, 0 )
+360/modulate = Color( 1, 1, 1, 1 )
+360/region = Rect2( 0, 0, 32, 32 )
+360/is_autotile = false
+360/occluder_offset = Vector2( 16, 16 )
+360/navigation_offset = Vector2( 16, 16 )
+360/shapes = [  ]
+361/name = "drygrassWallWithhole"
+361/texture = ExtResource( 292 )
+361/tex_offset = Vector2( 0, 0 )
+361/modulate = Color( 1, 1, 1, 1 )
+361/region = Rect2( 0, 0, 32, 32 )
+361/is_autotile = false
+361/occluder_offset = Vector2( 16, 16 )
+361/navigation_offset = Vector2( 16, 16 )
+361/shapes = [  ]
+362/name = "drygrassHalfshadowTopleft"
+362/texture = ExtResource( 293 )
+362/tex_offset = Vector2( 0, 0 )
+362/modulate = Color( 1, 1, 1, 1 )
+362/region = Rect2( 0, 0, 32, 32 )
+362/is_autotile = false
+362/occluder_offset = Vector2( 16, 16 )
+362/navigation_offset = Vector2( 16, 16 )
+362/shapes = [  ]
+363/name = "drygrassHalfshadowTopright"
+363/texture = ExtResource( 294 )
+363/tex_offset = Vector2( 0, 0 )
+363/modulate = Color( 1, 1, 1, 1 )
+363/region = Rect2( 0, 0, 32, 32 )
+363/is_autotile = false
+363/occluder_offset = Vector2( 16, 16 )
+363/navigation_offset = Vector2( 16, 16 )
+363/shapes = [  ]
+364/name = "drygrassHalfshadowBottomleft"
+364/texture = ExtResource( 295 )
+364/tex_offset = Vector2( 0, 0 )
+364/modulate = Color( 1, 1, 1, 1 )
+364/region = Rect2( 0, 0, 32, 32 )
+364/is_autotile = false
+364/occluder_offset = Vector2( 16, 16 )
+364/navigation_offset = Vector2( 16, 16 )
+364/shapes = [  ]
+365/name = "drygrassHalfshadowBottomright"
+365/texture = ExtResource( 296 )
+365/tex_offset = Vector2( 0, 0 )
+365/modulate = Color( 1, 1, 1, 1 )
+365/region = Rect2( 0, 0, 32, 32 )
+365/is_autotile = false
+365/occluder_offset = Vector2( 16, 16 )
+365/navigation_offset = Vector2( 16, 16 )
+365/shapes = [  ]
+366/name = "drygrassLittleshadowBottomright"
+366/texture = ExtResource( 297 )
+366/tex_offset = Vector2( 0, 0 )
+366/modulate = Color( 1, 1, 1, 1 )
+366/region = Rect2( 0, 0, 32, 32 )
+366/is_autotile = false
+366/occluder_offset = Vector2( 16, 16 )
+366/navigation_offset = Vector2( 16, 16 )
+366/shapes = [  ]
+367/name = "drygrassLittleshadowBottom"
+367/texture = ExtResource( 298 )
+367/tex_offset = Vector2( 0, 0 )
+367/modulate = Color( 1, 1, 1, 1 )
+367/region = Rect2( 0, 0, 32, 32 )
+367/is_autotile = false
+367/occluder_offset = Vector2( 16, 16 )
+367/navigation_offset = Vector2( 16, 16 )
+367/shapes = [  ]
+368/name = "drygrassLittleshadowBottomleft"
+368/texture = ExtResource( 299 )
+368/tex_offset = Vector2( 0, 0 )
+368/modulate = Color( 1, 1, 1, 1 )
+368/region = Rect2( 0, 0, 32, 32 )
+368/is_autotile = false
+368/occluder_offset = Vector2( 16, 16 )
+368/navigation_offset = Vector2( 16, 16 )
+368/shapes = [  ]
+369/name = "drygrassLittleshadowRight"
+369/texture = ExtResource( 300 )
+369/tex_offset = Vector2( 0, 0 )
+369/modulate = Color( 1, 1, 1, 1 )
+369/region = Rect2( 0, 0, 32, 32 )
+369/is_autotile = false
+369/occluder_offset = Vector2( 16, 16 )
+369/navigation_offset = Vector2( 16, 16 )
+369/shapes = [  ]
+370/name = "drygrassLittleshadowLeft"
+370/texture = ExtResource( 302 )
+370/tex_offset = Vector2( 0, 0 )
+370/modulate = Color( 1, 1, 1, 1 )
+370/region = Rect2( 0, 0, 32, 32 )
+370/is_autotile = false
+370/occluder_offset = Vector2( 16, 16 )
+370/navigation_offset = Vector2( 16, 16 )
+370/shapes = [  ]
+371/name = "drygrassFullshadow"
+371/texture = ExtResource( 303 )
+371/tex_offset = Vector2( 0, 0 )
+371/modulate = Color( 1, 1, 1, 1 )
+371/region = Rect2( 0, 0, 32, 32 )
+371/is_autotile = false
+371/occluder_offset = Vector2( 16, 16 )
+371/navigation_offset = Vector2( 16, 16 )
+371/shapes = [  ]
+372/name = "drygrassLittleshadowTopleft"
+372/texture = ExtResource( 304 )
+372/tex_offset = Vector2( 0, 0 )
+372/modulate = Color( 1, 1, 1, 1 )
+372/region = Rect2( 0, 0, 32, 32 )
+372/is_autotile = false
+372/occluder_offset = Vector2( 16, 16 )
+372/navigation_offset = Vector2( 16, 16 )
+372/shapes = [  ]
+373/name = "drygrassLittleshadowTop"
+373/texture = ExtResource( 305 )
+373/tex_offset = Vector2( 0, 0 )
+373/modulate = Color( 1, 1, 1, 1 )
+373/region = Rect2( 0, 0, 32, 32 )
+373/is_autotile = false
+373/occluder_offset = Vector2( 16, 16 )
+373/navigation_offset = Vector2( 16, 16 )
+373/shapes = [  ]
+374/name = "drygrassLittleshadowTopleft2"
+374/texture = ExtResource( 306 )
+374/tex_offset = Vector2( 0, 0 )
+374/modulate = Color( 1, 1, 1, 1 )
+374/region = Rect2( 0, 0, 32, 32 )
+374/is_autotile = false
+374/occluder_offset = Vector2( 16, 16 )
+374/navigation_offset = Vector2( 16, 16 )
+374/shapes = [  ]
+375/name = "drygrassRockypath0"
+375/texture = ExtResource( 307 )
+375/tex_offset = Vector2( 0, 0 )
+375/modulate = Color( 1, 1, 1, 1 )
+375/region = Rect2( 0, 0, 32, 32 )
+375/is_autotile = false
+375/occluder_offset = Vector2( 16, 16 )
+375/navigation_offset = Vector2( 16, 16 )
+375/shapes = [  ]
+376/name = "drygrassRockypath1"
+376/texture = ExtResource( 308 )
+376/tex_offset = Vector2( 0, 0 )
+376/modulate = Color( 1, 1, 1, 1 )
+376/region = Rect2( 0, 0, 32, 32 )
+376/is_autotile = false
+376/occluder_offset = Vector2( 16, 16 )
+376/navigation_offset = Vector2( 16, 16 )
+376/shapes = [  ]
+377/name = "drygrassRockypath2"
+377/texture = ExtResource( 309 )
+377/tex_offset = Vector2( 0, 0 )
+377/modulate = Color( 1, 1, 1, 1 )
+377/region = Rect2( 0, 0, 32, 32 )
+377/is_autotile = false
+377/occluder_offset = Vector2( 16, 16 )
+377/navigation_offset = Vector2( 16, 16 )
+377/shapes = [  ]
+378/name = "drygrassRockypath3"
+378/texture = ExtResource( 310 )
+378/tex_offset = Vector2( 0, 0 )
+378/modulate = Color( 1, 1, 1, 1 )
+378/region = Rect2( 0, 0, 32, 32 )
+378/is_autotile = false
+378/occluder_offset = Vector2( 16, 16 )
+378/navigation_offset = Vector2( 16, 16 )
+378/shapes = [  ]
+379/name = "drygrassRockypath4"
+379/texture = ExtResource( 311 )
+379/tex_offset = Vector2( 0, 0 )
+379/modulate = Color( 1, 1, 1, 1 )
+379/region = Rect2( 0, 0, 32, 32 )
+379/is_autotile = false
+379/occluder_offset = Vector2( 16, 16 )
+379/navigation_offset = Vector2( 16, 16 )
+379/shapes = [  ]
+380/name = "drygrassRockypath5"
+380/texture = ExtResource( 313 )
+380/tex_offset = Vector2( 0, 0 )
+380/modulate = Color( 1, 1, 1, 1 )
+380/region = Rect2( 0, 0, 32, 32 )
+380/is_autotile = false
+380/occluder_offset = Vector2( 16, 16 )
+380/navigation_offset = Vector2( 16, 16 )
+380/shapes = [  ]
+381/name = "Rockypath0"
+381/texture = ExtResource( 314 )
+381/tex_offset = Vector2( 0, 0 )
+381/modulate = Color( 1, 1, 1, 1 )
+381/region = Rect2( 0, 0, 32, 32 )
+381/is_autotile = false
+381/occluder_offset = Vector2( 16, 16 )
+381/navigation_offset = Vector2( 16, 16 )
+381/shapes = [  ]
+382/name = "Rockypath1"
+382/texture = ExtResource( 315 )
+382/tex_offset = Vector2( 0, 0 )
+382/modulate = Color( 1, 1, 1, 1 )
+382/region = Rect2( 0, 0, 32, 32 )
+382/is_autotile = false
+382/occluder_offset = Vector2( 16, 16 )
+382/navigation_offset = Vector2( 16, 16 )
+382/shapes = [  ]
+383/name = "drygrassBoulder0"
+383/texture = ExtResource( 316 )
+383/tex_offset = Vector2( 0, 0 )
+383/modulate = Color( 1, 1, 1, 1 )
+383/region = Rect2( 0, 0, 32, 32 )
+383/is_autotile = false
+383/occluder_offset = Vector2( 16, 16 )
+383/navigation_offset = Vector2( 16, 16 )
+383/shapes = [  ]
+384/name = "drygrassRockypath6"
+384/texture = ExtResource( 317 )
+384/tex_offset = Vector2( 0, 0 )
+384/modulate = Color( 1, 1, 1, 1 )
+384/region = Rect2( 0, 0, 32, 32 )
+384/is_autotile = false
+384/occluder_offset = Vector2( 16, 16 )
+384/navigation_offset = Vector2( 16, 16 )
+384/shapes = [  ]
+385/name = "drygrassRockypath8"
+385/texture = ExtResource( 318 )
+385/tex_offset = Vector2( 0, 0 )
+385/modulate = Color( 1, 1, 1, 1 )
+385/region = Rect2( 0, 0, 32, 32 )
+385/is_autotile = false
+385/occluder_offset = Vector2( 16, 16 )
+385/navigation_offset = Vector2( 16, 16 )
+385/shapes = [  ]
+386/name = "drygrassRockypath9"
+386/texture = ExtResource( 319 )
+386/tex_offset = Vector2( 0, 0 )
+386/modulate = Color( 1, 1, 1, 1 )
+386/region = Rect2( 0, 0, 32, 32 )
+386/is_autotile = false
+386/occluder_offset = Vector2( 16, 16 )
+386/navigation_offset = Vector2( 16, 16 )
+386/shapes = [  ]
+387/name = "Rockypath2"
+387/texture = ExtResource( 320 )
+387/tex_offset = Vector2( 0, 0 )
+387/modulate = Color( 1, 1, 1, 1 )
+387/region = Rect2( 0, 0, 32, 32 )
+387/is_autotile = false
+387/occluder_offset = Vector2( 16, 16 )
+387/navigation_offset = Vector2( 16, 16 )
+387/shapes = [  ]
+388/name = "Rockypath3"
+388/texture = ExtResource( 321 )
+388/tex_offset = Vector2( 0, 0 )
+388/modulate = Color( 1, 1, 1, 1 )
+388/region = Rect2( 0, 0, 32, 32 )
+388/is_autotile = false
+388/occluder_offset = Vector2( 16, 16 )
+388/navigation_offset = Vector2( 16, 16 )
+388/shapes = [  ]
+389/name = "drygrassLeftEdge"
+389/texture = ExtResource( 322 )
+389/tex_offset = Vector2( 0, 0 )
+389/modulate = Color( 1, 1, 1, 1 )
+389/region = Rect2( 0, 0, 32, 32 )
+389/is_autotile = false
+389/occluder_offset = Vector2( 16, 16 )
+389/navigation_offset = Vector2( 16, 16 )
+389/shapes = [  ]
+390/name = "drygrassRightEdge"
+390/texture = ExtResource( 324 )
+390/tex_offset = Vector2( 0, 0 )
+390/modulate = Color( 1, 1, 1, 1 )
+390/region = Rect2( 0, 0, 32, 32 )
+390/is_autotile = false
+390/occluder_offset = Vector2( 16, 16 )
+390/navigation_offset = Vector2( 16, 16 )
+390/shapes = [  ]
+391/name = "drygrassWallbottom4"
+391/texture = ExtResource( 325 )
+391/tex_offset = Vector2( 0, 0 )
+391/modulate = Color( 1, 1, 1, 1 )
+391/region = Rect2( 0, 0, 32, 32 )
+391/is_autotile = false
+391/occluder_offset = Vector2( 16, 16 )
+391/navigation_offset = Vector2( 16, 16 )
+391/shapes = [  ]
+392/name = "drygrassWallShore0"
+392/texture = ExtResource( 326 )
+392/tex_offset = Vector2( 0, 0 )
+392/modulate = Color( 1, 1, 1, 1 )
+392/region = Rect2( 0, 0, 32, 32 )
+392/is_autotile = false
+392/occluder_offset = Vector2( 16, 16 )
+392/navigation_offset = Vector2( 16, 16 )
+392/shapes = [  ]
+393/name = "drygrassWallShore1"
+393/texture = ExtResource( 327 )
+393/tex_offset = Vector2( 0, 0 )
+393/modulate = Color( 1, 1, 1, 1 )
+393/region = Rect2( 0, 0, 32, 32 )
+393/is_autotile = false
+393/occluder_offset = Vector2( 16, 16 )
+393/navigation_offset = Vector2( 16, 16 )
+393/shapes = [  ]
+394/name = "drygrassCavern1"
+394/texture = ExtResource( 328 )
+394/tex_offset = Vector2( 0, 0 )
+394/modulate = Color( 1, 1, 1, 1 )
+394/region = Rect2( 0, 0, 32, 32 )
+394/is_autotile = false
+394/occluder_offset = Vector2( 16, 16 )
+394/navigation_offset = Vector2( 16, 16 )
+394/shapes = [  ]
+395/name = "drygrassCarvern2"
+395/texture = ExtResource( 329 )
+395/tex_offset = Vector2( 0, 0 )
+395/modulate = Color( 1, 1, 1, 1 )
+395/region = Rect2( 0, 0, 32, 32 )
+395/is_autotile = false
+395/occluder_offset = Vector2( 16, 16 )
+395/navigation_offset = Vector2( 16, 16 )
+395/shapes = [  ]
+396/name = "drygrassCavern3"
+396/texture = ExtResource( 330 )
+396/tex_offset = Vector2( 0, 0 )
+396/modulate = Color( 1, 1, 1, 1 )
+396/region = Rect2( 0, 0, 32, 32 )
+396/is_autotile = false
+396/occluder_offset = Vector2( 16, 16 )
+396/navigation_offset = Vector2( 16, 16 )
+396/shapes = [  ]
+397/name = "drygrassBottomrightEdge"
+397/texture = ExtResource( 331 )
+397/tex_offset = Vector2( 0, 0 )
+397/modulate = Color( 1, 1, 1, 1 )
+397/region = Rect2( 0, 0, 32, 32 )
+397/is_autotile = false
+397/occluder_offset = Vector2( 16, 16 )
+397/navigation_offset = Vector2( 16, 16 )
+397/shapes = [  ]
+398/name = "drygrassBottomleftEdge"
+398/texture = ExtResource( 332 )
+398/tex_offset = Vector2( 0, 0 )
+398/modulate = Color( 1, 1, 1, 1 )
+398/region = Rect2( 0, 0, 32, 32 )
+398/is_autotile = false
+398/occluder_offset = Vector2( 16, 16 )
+398/navigation_offset = Vector2( 16, 16 )
+398/shapes = [  ]
+399/name = "drygrassBottomEdge"
+399/texture = ExtResource( 333 )
+399/tex_offset = Vector2( 0, 0 )
+399/modulate = Color( 1, 1, 1, 1 )
+399/region = Rect2( 0, 0, 32, 32 )
+399/is_autotile = false
+399/occluder_offset = Vector2( 16, 16 )
+399/navigation_offset = Vector2( 16, 16 )
+399/shapes = [  ]
+400/name = "drygrassShore1"
+400/texture = ExtResource( 336 )
+400/tex_offset = Vector2( 0, 0 )
+400/modulate = Color( 1, 1, 1, 1 )
+400/region = Rect2( 0, 0, 32, 32 )
+400/is_autotile = false
+400/occluder_offset = Vector2( 16, 16 )
+400/navigation_offset = Vector2( 16, 16 )
+400/shapes = [  ]
+401/name = "drygrassShore2"
+401/texture = ExtResource( 337 )
+401/tex_offset = Vector2( 0, 0 )
+401/modulate = Color( 1, 1, 1, 1 )
+401/region = Rect2( 0, 0, 32, 32 )
+401/is_autotile = false
+401/occluder_offset = Vector2( 16, 16 )
+401/navigation_offset = Vector2( 16, 16 )
+401/shapes = [  ]
+402/name = "drygrassCavern4"
+402/texture = ExtResource( 338 )
+402/tex_offset = Vector2( 0, 0 )
+402/modulate = Color( 1, 1, 1, 1 )
+402/region = Rect2( 0, 0, 32, 32 )
+402/is_autotile = false
+402/occluder_offset = Vector2( 16, 16 )
+402/navigation_offset = Vector2( 16, 16 )
+402/shapes = [  ]
+403/name = "drygrassCavern5"
+403/texture = ExtResource( 339 )
+403/tex_offset = Vector2( 0, 0 )
+403/modulate = Color( 1, 1, 1, 1 )
+403/region = Rect2( 0, 0, 32, 32 )
+403/is_autotile = false
+403/occluder_offset = Vector2( 16, 16 )
+403/navigation_offset = Vector2( 16, 16 )
+403/shapes = [  ]
+404/name = "drygrassCavern6"
+404/texture = ExtResource( 340 )
+404/tex_offset = Vector2( 0, 0 )
+404/modulate = Color( 1, 1, 1, 1 )
+404/region = Rect2( 0, 0, 32, 32 )
+404/is_autotile = false
+404/occluder_offset = Vector2( 16, 16 )
+404/navigation_offset = Vector2( 16, 16 )
+404/shapes = [  ]
+405/name = "drygrassCavern7"
+405/texture = ExtResource( 341 )
+405/tex_offset = Vector2( 0, 0 )
+405/modulate = Color( 1, 1, 1, 1 )
+405/region = Rect2( 0, 0, 32, 32 )
+405/is_autotile = false
+405/occluder_offset = Vector2( 16, 16 )
+405/navigation_offset = Vector2( 16, 16 )
+405/shapes = [  ]
+406/name = "drygrassCavern8"
+406/texture = ExtResource( 342 )
+406/tex_offset = Vector2( 0, 0 )
+406/modulate = Color( 1, 1, 1, 1 )
+406/region = Rect2( 0, 0, 32, 32 )
+406/is_autotile = false
+406/occluder_offset = Vector2( 16, 16 )
+406/navigation_offset = Vector2( 16, 16 )
+406/shapes = [  ]
+407/name = "drygrassCavern9"
+407/texture = ExtResource( 343 )
+407/tex_offset = Vector2( 0, 0 )
+407/modulate = Color( 1, 1, 1, 1 )
+407/region = Rect2( 0, 0, 32, 32 )
+407/is_autotile = false
+407/occluder_offset = Vector2( 16, 16 )
+407/navigation_offset = Vector2( 16, 16 )
+407/shapes = [  ]
+408/name = "drygrassCavern10"
+408/texture = ExtResource( 344 )
+408/tex_offset = Vector2( 0, 0 )
+408/modulate = Color( 1, 1, 1, 1 )
+408/region = Rect2( 0, 0, 32, 32 )
+408/is_autotile = false
+408/occluder_offset = Vector2( 16, 16 )
+408/navigation_offset = Vector2( 16, 16 )
+408/shapes = [  ]
+409/name = "drygrassCavern11"
+409/texture = ExtResource( 345 )
+409/tex_offset = Vector2( 0, 0 )
+409/modulate = Color( 1, 1, 1, 1 )
+409/region = Rect2( 0, 0, 32, 32 )
+409/is_autotile = false
+409/occluder_offset = Vector2( 16, 16 )
+409/navigation_offset = Vector2( 16, 16 )
+409/shapes = [  ]
+410/name = "drygrassCavern12"
+410/texture = ExtResource( 347 )
+410/tex_offset = Vector2( 0, 0 )
+410/modulate = Color( 1, 1, 1, 1 )
+410/region = Rect2( 0, 0, 32, 32 )
+410/is_autotile = false
+410/occluder_offset = Vector2( 16, 16 )
+410/navigation_offset = Vector2( 16, 16 )
+410/shapes = [  ]
+411/name = "drygrassShoreLeft2"
+411/texture = ExtResource( 348 )
+411/tex_offset = Vector2( 0, 0 )
+411/modulate = Color( 1, 1, 1, 1 )
+411/region = Rect2( 0, 0, 32, 32 )
+411/is_autotile = false
+411/occluder_offset = Vector2( 16, 16 )
+411/navigation_offset = Vector2( 16, 16 )
+411/shapes = [  ]
+412/name = "drygrassEdgeBottomleftCorner"
+412/texture = ExtResource( 349 )
+412/tex_offset = Vector2( 0, 0 )
+412/modulate = Color( 1, 1, 1, 1 )
+412/region = Rect2( 0, 0, 32, 32 )
+412/is_autotile = false
+412/occluder_offset = Vector2( 16, 16 )
+412/navigation_offset = Vector2( 16, 16 )
+412/shapes = [  ]
+413/name = "drygrassCavern13"
+413/texture = ExtResource( 350 )
+413/tex_offset = Vector2( 0, 0 )
+413/modulate = Color( 1, 1, 1, 1 )
+413/region = Rect2( 0, 0, 32, 32 )
+413/is_autotile = false
+413/occluder_offset = Vector2( 16, 16 )
+413/navigation_offset = Vector2( 16, 16 )
+413/shapes = [  ]
+414/name = "drygrassCavern14"
+414/texture = ExtResource( 351 )
+414/tex_offset = Vector2( 0, 0 )
+414/modulate = Color( 1, 1, 1, 1 )
+414/region = Rect2( 0, 0, 32, 32 )
+414/is_autotile = false
+414/occluder_offset = Vector2( 16, 16 )
+414/navigation_offset = Vector2( 16, 16 )
+414/shapes = [  ]
+415/name = "drygrassCavern15"
+415/texture = ExtResource( 352 )
+415/tex_offset = Vector2( 0, 0 )
+415/modulate = Color( 1, 1, 1, 1 )
+415/region = Rect2( 0, 0, 32, 32 )
+415/is_autotile = false
+415/occluder_offset = Vector2( 16, 16 )
+415/navigation_offset = Vector2( 16, 16 )
+415/shapes = [  ]
+416/name = "dryShrub"
+416/texture = ExtResource( 353 )
+416/tex_offset = Vector2( 0, 0 )
+416/modulate = Color( 1, 1, 1, 1 )
+416/region = Rect2( 0, 0, 32, 32 )
+416/is_autotile = false
+416/occluder_offset = Vector2( 16, 16 )
+416/navigation_offset = Vector2( 16, 16 )
+416/shapes = [  ]
+417/name = "grassySprigs1"
+417/texture = ExtResource( 354 )
+417/tex_offset = Vector2( 0, 0 )
+417/modulate = Color( 1, 1, 1, 1 )
+417/region = Rect2( 0, 0, 32, 32 )
+417/is_autotile = false
+417/occluder_offset = Vector2( 16, 16 )
+417/navigation_offset = Vector2( 16, 16 )
+417/shapes = [  ]
+418/name = "grassySprigs2"
+418/texture = ExtResource( 355 )
+418/tex_offset = Vector2( 0, 0 )
+418/modulate = Color( 1, 1, 1, 1 )
+418/region = Rect2( 0, 0, 32, 32 )
+418/is_autotile = false
+418/occluder_offset = Vector2( 16, 16 )
+418/navigation_offset = Vector2( 16, 16 )
+418/shapes = [  ]
+419/name = "leafypile0"
+419/texture = ExtResource( 356 )
+419/tex_offset = Vector2( 0, 0 )
+419/modulate = Color( 1, 1, 1, 1 )
+419/region = Rect2( 0, 0, 32, 32 )
+419/is_autotile = false
+419/occluder_offset = Vector2( 16, 16 )
+419/navigation_offset = Vector2( 16, 16 )
+419/shapes = [  ]
+420/name = "greenshrub"
+420/texture = ExtResource( 358 )
+420/tex_offset = Vector2( 0, 0 )
+420/modulate = Color( 1, 1, 1, 1 )
+420/region = Rect2( 0, 0, 32, 32 )
+420/is_autotile = false
+420/occluder_offset = Vector2( 16, 16 )
+420/navigation_offset = Vector2( 16, 16 )
+420/shapes = [  ]
+421/name = "grassySprigs3"
+421/texture = ExtResource( 359 )
+421/tex_offset = Vector2( 0, 0 )
+421/modulate = Color( 1, 1, 1, 1 )
+421/region = Rect2( 0, 0, 32, 32 )
+421/is_autotile = false
+421/occluder_offset = Vector2( 16, 16 )
+421/navigation_offset = Vector2( 16, 16 )
+421/shapes = [  ]
+422/name = "grassySprigs4"
+422/texture = ExtResource( 360 )
+422/tex_offset = Vector2( 0, 0 )
+422/modulate = Color( 1, 1, 1, 1 )
+422/region = Rect2( 0, 0, 32, 32 )
+422/is_autotile = false
+422/occluder_offset = Vector2( 16, 16 )
+422/navigation_offset = Vector2( 16, 16 )
+422/shapes = [  ]
+423/name = "grassySPrigs5"
+423/texture = ExtResource( 361 )
+423/tex_offset = Vector2( 0, 0 )
+423/modulate = Color( 1, 1, 1, 1 )
+423/region = Rect2( 0, 0, 32, 32 )
+423/is_autotile = false
+423/occluder_offset = Vector2( 16, 16 )
+423/navigation_offset = Vector2( 16, 16 )
+423/shapes = [  ]
+424/name = "grassySprigs6"
+424/texture = ExtResource( 362 )
+424/tex_offset = Vector2( 0, 0 )
+424/modulate = Color( 1, 1, 1, 1 )
+424/region = Rect2( 0, 0, 32, 32 )
+424/is_autotile = false
+424/occluder_offset = Vector2( 16, 16 )
+424/navigation_offset = Vector2( 16, 16 )
+424/shapes = [  ]
+425/name = "drygrassCaveBottom"
+425/texture = ExtResource( 363 )
+425/tex_offset = Vector2( 0, 0 )
+425/modulate = Color( 1, 1, 1, 1 )
+425/region = Rect2( 0, 0, 32, 32 )
+425/is_autotile = false
+425/occluder_offset = Vector2( 16, 16 )
+425/navigation_offset = Vector2( 16, 16 )
+425/shapes = [  ]
+426/name = "stoneZenpile0Top"
+426/texture = ExtResource( 364 )
+426/tex_offset = Vector2( 0, 0 )
+426/modulate = Color( 1, 1, 1, 1 )
+426/region = Rect2( 0, 0, 32, 32 )
+426/is_autotile = false
+426/occluder_offset = Vector2( 16, 16 )
+426/navigation_offset = Vector2( 16, 16 )
+426/shapes = [  ]
+427/name = "stoneZenpile1Top"
+427/texture = ExtResource( 365 )
+427/tex_offset = Vector2( 0, 0 )
+427/modulate = Color( 1, 1, 1, 1 )
+427/region = Rect2( 0, 0, 32, 32 )
+427/is_autotile = false
+427/occluder_offset = Vector2( 16, 16 )
+427/navigation_offset = Vector2( 16, 16 )
+427/shapes = [  ]
+428/name = "stoneZenpile2Top"
+428/texture = ExtResource( 366 )
+428/tex_offset = Vector2( 0, 0 )
+428/modulate = Color( 1, 1, 1, 1 )
+428/region = Rect2( 0, 0, 32, 32 )
+428/is_autotile = false
+428/occluder_offset = Vector2( 16, 16 )
+428/navigation_offset = Vector2( 16, 16 )
+428/shapes = [  ]
+429/name = "stoneZenpile0Bottom"
+429/texture = ExtResource( 367 )
+429/tex_offset = Vector2( 0, 0 )
+429/modulate = Color( 1, 1, 1, 1 )
+429/region = Rect2( 0, 0, 32, 32 )
+429/is_autotile = false
+429/occluder_offset = Vector2( 16, 16 )
+429/navigation_offset = Vector2( 16, 16 )
+429/shapes = [  ]
+430/name = "stoneZenpile1Bottom"
+430/texture = ExtResource( 369 )
+430/tex_offset = Vector2( 0, 0 )
+430/modulate = Color( 1, 1, 1, 1 )
+430/region = Rect2( 0, 0, 32, 32 )
+430/is_autotile = false
+430/occluder_offset = Vector2( 16, 16 )
+430/navigation_offset = Vector2( 16, 16 )
+430/shapes = [  ]
+431/name = "stoneZenpile2Bottom"
+431/texture = ExtResource( 370 )
+431/tex_offset = Vector2( 0, 0 )
+431/modulate = Color( 1, 1, 1, 1 )
+431/region = Rect2( 0, 0, 32, 32 )
+431/is_autotile = false
+431/occluder_offset = Vector2( 16, 16 )
+431/navigation_offset = Vector2( 16, 16 )
+431/shapes = [  ]
+432/name = "drygrassShadowNW"
+432/texture = ExtResource( 371 )
+432/tex_offset = Vector2( 0, 0 )
+432/modulate = Color( 1, 1, 1, 1 )
+432/region = Rect2( 0, 0, 32, 32 )
+432/is_autotile = false
+432/occluder_offset = Vector2( 16, 16 )
+432/navigation_offset = Vector2( 16, 16 )
+432/shapes = [  ]
+433/name = "drygrassSHadowN"
+433/texture = ExtResource( 372 )
+433/tex_offset = Vector2( 0, 0 )
+433/modulate = Color( 1, 1, 1, 1 )
+433/region = Rect2( 0, 0, 32, 32 )
+433/is_autotile = false
+433/occluder_offset = Vector2( 16, 16 )
+433/navigation_offset = Vector2( 16, 16 )
+433/shapes = [  ]
+434/name = "drygrassShadowNE"
+434/texture = ExtResource( 373 )
+434/tex_offset = Vector2( 0, 0 )
+434/modulate = Color( 1, 1, 1, 1 )
+434/region = Rect2( 0, 0, 32, 32 )
+434/is_autotile = false
+434/occluder_offset = Vector2( 16, 16 )
+434/navigation_offset = Vector2( 16, 16 )
+434/shapes = [  ]
+435/name = "drygrassShadowW"
+435/texture = ExtResource( 374 )
+435/tex_offset = Vector2( 0, 0 )
+435/modulate = Color( 1, 1, 1, 1 )
+435/region = Rect2( 0, 0, 32, 32 )
+435/is_autotile = false
+435/occluder_offset = Vector2( 16, 16 )
+435/navigation_offset = Vector2( 16, 16 )
+435/shapes = [  ]
+436/name = "drygrassShadowMidNONE"
+436/texture = ExtResource( 375 )
+436/tex_offset = Vector2( 0, 0 )
+436/modulate = Color( 1, 1, 1, 1 )
+436/region = Rect2( 0, 0, 32, 32 )
+436/is_autotile = false
+436/occluder_offset = Vector2( 16, 16 )
+436/navigation_offset = Vector2( 16, 16 )
+436/shapes = [  ]
+437/name = "drygrassSHadowE"
+437/texture = ExtResource( 376 )
+437/tex_offset = Vector2( 0, 0 )
+437/modulate = Color( 1, 1, 1, 1 )
+437/region = Rect2( 0, 0, 32, 32 )
+437/is_autotile = false
+437/occluder_offset = Vector2( 16, 16 )
+437/navigation_offset = Vector2( 16, 16 )
+437/shapes = [  ]
+438/name = "drygrassShadowSW"
+438/texture = ExtResource( 377 )
+438/tex_offset = Vector2( 0, 0 )
+438/modulate = Color( 1, 1, 1, 1 )
+438/region = Rect2( 0, 0, 32, 32 )
+438/is_autotile = false
+438/occluder_offset = Vector2( 16, 16 )
+438/navigation_offset = Vector2( 16, 16 )
+438/shapes = [  ]
+439/name = "drygrassShadowS"
+439/texture = ExtResource( 378 )
+439/tex_offset = Vector2( 0, 0 )
+439/modulate = Color( 1, 1, 1, 1 )
+439/region = Rect2( 0, 0, 32, 32 )
+439/is_autotile = false
+439/occluder_offset = Vector2( 16, 16 )
+439/navigation_offset = Vector2( 16, 16 )
+439/shapes = [  ]
+440/name = "drygrassShadowSE"
+440/texture = ExtResource( 380 )
+440/tex_offset = Vector2( 0, 0 )
+440/modulate = Color( 1, 1, 1, 1 )
+440/region = Rect2( 0, 0, 32, 32 )
+440/is_autotile = false
+440/occluder_offset = Vector2( 16, 16 )
+440/navigation_offset = Vector2( 16, 16 )
+440/shapes = [  ]
+441/name = "drygrassShadowplus0"
+441/texture = ExtResource( 381 )
+441/tex_offset = Vector2( 0, 0 )
+441/modulate = Color( 1, 1, 1, 1 )
+441/region = Rect2( 0, 0, 32, 32 )
+441/is_autotile = false
+441/occluder_offset = Vector2( 16, 16 )
+441/navigation_offset = Vector2( 16, 16 )
+441/shapes = [  ]
+442/name = "drygrassShadowplus1"
+442/texture = ExtResource( 382 )
+442/tex_offset = Vector2( 0, 0 )
+442/modulate = Color( 1, 1, 1, 1 )
+442/region = Rect2( 0, 0, 32, 32 )
+442/is_autotile = false
+442/occluder_offset = Vector2( 16, 16 )
+442/navigation_offset = Vector2( 16, 16 )
+442/shapes = [  ]
+443/name = "drygrassShadowplus2"
+443/texture = ExtResource( 383 )
+443/tex_offset = Vector2( 0, 0 )
+443/modulate = Color( 1, 1, 1, 1 )
+443/region = Rect2( 0, 0, 32, 32 )
+443/is_autotile = false
+443/occluder_offset = Vector2( 16, 16 )
+443/navigation_offset = Vector2( 16, 16 )
+443/shapes = [  ]
+444/name = "drygrassShadowplus3"
+444/texture = ExtResource( 384 )
+444/tex_offset = Vector2( 0, 0 )
+444/modulate = Color( 1, 1, 1, 1 )
+444/region = Rect2( 0, 0, 32, 32 )
+444/is_autotile = false
+444/occluder_offset = Vector2( 16, 16 )
+444/navigation_offset = Vector2( 16, 16 )
+444/shapes = [  ]
+445/name = "drygrassShadowplus4"
+445/texture = ExtResource( 385 )
+445/tex_offset = Vector2( 0, 0 )
+445/modulate = Color( 1, 1, 1, 1 )
+445/region = Rect2( 0, 0, 32, 32 )
+445/is_autotile = false
+445/occluder_offset = Vector2( 16, 16 )
+445/navigation_offset = Vector2( 16, 16 )
+445/shapes = [  ]
+446/name = "drygrassShadowplus5"
+446/texture = ExtResource( 386 )
+446/tex_offset = Vector2( 0, 0 )
+446/modulate = Color( 1, 1, 1, 1 )
+446/region = Rect2( 0, 0, 32, 32 )
+446/is_autotile = false
+446/occluder_offset = Vector2( 16, 16 )
+446/navigation_offset = Vector2( 16, 16 )
+446/shapes = [  ]
+447/name = "drygrassShadowplus6"
+447/texture = ExtResource( 387 )
+447/tex_offset = Vector2( 0, 0 )
+447/modulate = Color( 1, 1, 1, 1 )
+447/region = Rect2( 0, 0, 32, 32 )
+447/is_autotile = false
+447/occluder_offset = Vector2( 16, 16 )
+447/navigation_offset = Vector2( 16, 16 )
+447/shapes = [  ]
+448/name = "drygrassShadowplus7"
+448/texture = ExtResource( 388 )
+448/tex_offset = Vector2( 0, 0 )
+448/modulate = Color( 1, 1, 1, 1 )
+448/region = Rect2( 0, 0, 32, 32 )
+448/is_autotile = false
+448/occluder_offset = Vector2( 16, 16 )
+448/navigation_offset = Vector2( 16, 16 )
+448/shapes = [  ]
+449/name = "shrub2"
+449/texture = ExtResource( 389 )
+449/tex_offset = Vector2( 0, 0 )
+449/modulate = Color( 1, 1, 1, 1 )
+449/region = Rect2( 0, 0, 32, 32 )
+449/is_autotile = false
+449/occluder_offset = Vector2( 16, 16 )
+449/navigation_offset = Vector2( 16, 16 )
+449/shapes = [  ]
+450/name = "grassSprig4"
+450/texture = ExtResource( 391 )
+450/tex_offset = Vector2( 0, 0 )
+450/modulate = Color( 1, 1, 1, 1 )
+450/region = Rect2( 0, 0, 32, 32 )
+450/is_autotile = false
+450/occluder_offset = Vector2( 16, 16 )
+450/navigation_offset = Vector2( 16, 16 )
+450/shapes = [  ]
+451/name = "wellLeft"
+451/texture = ExtResource( 392 )
+451/tex_offset = Vector2( 0, 0 )
+451/modulate = Color( 1, 1, 1, 1 )
+451/region = Rect2( 0, 0, 32, 32 )
+451/is_autotile = false
+451/occluder_offset = Vector2( 16, 16 )
+451/navigation_offset = Vector2( 16, 16 )
+451/shapes = [  ]
+452/name = "wellRight"
+452/texture = ExtResource( 393 )
+452/tex_offset = Vector2( 0, 0 )
+452/modulate = Color( 1, 1, 1, 1 )
+452/region = Rect2( 0, 0, 32, 32 )
+452/is_autotile = false
+452/occluder_offset = Vector2( 16, 16 )
+452/navigation_offset = Vector2( 16, 16 )
+452/shapes = [  ]
+453/name = "wellTopright"
+453/texture = ExtResource( 394 )
+453/tex_offset = Vector2( 0, 0 )
+453/modulate = Color( 1, 1, 1, 1 )
+453/region = Rect2( 0, 0, 32, 32 )
+453/is_autotile = false
+453/occluder_offset = Vector2( 16, 16 )
+453/navigation_offset = Vector2( 16, 16 )
+453/shapes = [  ]
+454/name = "wellTopleft"
+454/texture = ExtResource( 395 )
+454/tex_offset = Vector2( 0, 0 )
+454/modulate = Color( 1, 1, 1, 1 )
+454/region = Rect2( 0, 0, 32, 32 )
+454/is_autotile = false
+454/occluder_offset = Vector2( 16, 16 )
+454/navigation_offset = Vector2( 16, 16 )
+454/shapes = [  ]
+455/name = "ladderTop"
+455/texture = ExtResource( 396 )
+455/tex_offset = Vector2( 0, 0 )
+455/modulate = Color( 1, 1, 1, 1 )
+455/region = Rect2( 0, 0, 32, 32 )
+455/is_autotile = false
+455/occluder_offset = Vector2( 16, 16 )
+455/navigation_offset = Vector2( 16, 16 )
+455/shapes = [  ]
+456/name = "ladderBottomLong"
+456/texture = ExtResource( 397 )
+456/tex_offset = Vector2( 0, 0 )
+456/modulate = Color( 1, 1, 1, 1 )
+456/region = Rect2( 0, 0, 32, 32 )
+456/is_autotile = false
+456/occluder_offset = Vector2( 16, 16 )
+456/navigation_offset = Vector2( 16, 16 )
+456/shapes = [  ]
+457/name = "ladderBottomShort"
+457/texture = ExtResource( 398 )
+457/tex_offset = Vector2( 0, 0 )
+457/modulate = Color( 1, 1, 1, 1 )
+457/region = Rect2( 0, 0, 32, 32 )
+457/is_autotile = false
+457/occluder_offset = Vector2( 16, 16 )
+457/navigation_offset = Vector2( 16, 16 )
+457/shapes = [  ]
+458/name = "wellBottomleft"
+458/texture = ExtResource( 399 )
+458/tex_offset = Vector2( 0, 0 )
+458/modulate = Color( 1, 1, 1, 1 )
+458/region = Rect2( 0, 0, 32, 32 )
+458/is_autotile = false
+458/occluder_offset = Vector2( 16, 16 )
+458/navigation_offset = Vector2( 16, 16 )
+458/shapes = [  ]
+459/name = "wellBottomright"
+459/texture = ExtResource( 400 )
+459/tex_offset = Vector2( 0, 0 )
+459/modulate = Color( 1, 1, 1, 1 )
+459/region = Rect2( 0, 0, 32, 32 )
+459/is_autotile = false
+459/occluder_offset = Vector2( 16, 16 )
+459/navigation_offset = Vector2( 16, 16 )
+459/shapes = [  ]
+

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/salamander_firebrand.png-05b4b0aec7b95bcb56d4531a20af238f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/salamander_firebrand.png"
+source_md5="955e2eeb1f541860e7b1826493f492b8"
+
+dest_files=[ "res://.import/salamander_firebrand.png-05b4b0aec7b95bcb56d4531a20af238f.stex" ]
+dest_md5="d6c977351606e0e2699ac06b6280e670"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

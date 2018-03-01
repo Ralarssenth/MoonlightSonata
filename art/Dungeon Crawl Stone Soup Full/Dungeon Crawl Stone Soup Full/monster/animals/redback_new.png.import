@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/redback_new.png-8be13ecc2b2e7a4da936f58c262bb1ac.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/redback_new.png"
+source_md5="5d1e924379cccb38e6a7108a0271e8a3"
+
+dest_files=[ "res://.import/redback_new.png-8be13ecc2b2e7a4da936f58c262bb1ac.stex" ]
+dest_md5="6fb5e23be2e7c25aec73810c90cb1f35"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

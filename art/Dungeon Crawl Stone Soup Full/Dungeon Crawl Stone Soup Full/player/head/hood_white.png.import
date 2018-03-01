@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/hood_white.png-f85ecd394faa1c2183bd8bdc7243158a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/head/hood_white.png"
+source_md5="196ee41efc8996640981ac4712a95ae7"
+
+dest_files=[ "res://.import/hood_white.png-f85ecd394faa1c2183bd8bdc7243158a.stex" ]
+dest_md5="d080a37818a49bb24f2e88a90f34db09"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/taiso_white.png-29bc5c4ddd896ad1ac9bf47eca8c33ce.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/head/taiso_white.png"
+source_md5="cc89733d815b8a648b378da5710c0280"
+
+dest_files=[ "res://.import/taiso_white.png-29bc5c4ddd896ad1ac9bf47eca8c33ce.stex" ]
+dest_md5="ce4f0a4f8b208e4951a6d812cc6c34ac"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

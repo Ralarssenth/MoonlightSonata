@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/short_blades.png-f6f8e110b2d486650484d94fc7e32729.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/skills/short_blades.png"
+source_md5="00d7f29778f2a5882f0fc3f854150fe1"
+
+dest_files=[ "res://.import/short_blades.png-f6f8e110b2d486650484d94fc7e32729.stex" ]
+dest_md5="4f0cab8a1fa87279898a15d46f167e19"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

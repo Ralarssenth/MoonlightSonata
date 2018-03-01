@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/boulder_beetle.png-f37c36ef18cc41f3e91df7bd2c9dc004.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/boulder_beetle.png"
+source_md5="550074a15123f532d436a27e6d29bde9"
+
+dest_files=[ "res://.import/boulder_beetle.png-f37c36ef18cc41f3e91df7bd2c9dc004.stex" ]
+dest_md5="e40972c7d779de064572aef5cca0ffb6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

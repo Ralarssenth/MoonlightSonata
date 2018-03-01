@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/umbra_1.png-0d5ada29bb37baf1d333cf0157dbf882.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/umbra_1.png"
+source_md5="4fe59519eb65581586b32d09fdcbec37"
+
+dest_files=[ "res://.import/umbra_1.png-0d5ada29bb37baf1d333cf0157dbf882.stex" ]
+dest_md5="54b8b4f69b69dcdada09041a2b33347f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

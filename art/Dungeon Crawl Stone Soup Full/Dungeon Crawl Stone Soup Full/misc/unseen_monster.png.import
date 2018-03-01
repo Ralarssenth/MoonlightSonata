@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/unseen_monster.png-324c8ec2a5f13a67f0139673176c4d2c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/unseen_monster.png"
+source_md5="d07c2d0af261e9d8b5e32535b2b1c502"
+
+dest_files=[ "res://.import/unseen_monster.png-324c8ec2a5f13a67f0139673176c4d2c.stex" ]
+dest_md5="71548983ebed0b786ed40f263714bfbc"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

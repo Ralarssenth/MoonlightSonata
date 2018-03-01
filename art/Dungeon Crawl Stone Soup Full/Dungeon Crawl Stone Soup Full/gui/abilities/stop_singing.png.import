@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/stop_singing.png-5bdf06f6ba6de0c47330306d55cf5380.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/abilities/stop_singing.png"
+source_md5="34180ed6b06f483a46cb48154202c32d"
+
+dest_files=[ "res://.import/stop_singing.png-5bdf06f6ba6de0c47330306d55cf5380.stex" ]
+dest_md5="d70369703dcf86a71d078bd60a7ca051"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

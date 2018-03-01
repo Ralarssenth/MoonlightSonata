@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/hell_wizard_50.png-c6b068fbee040eac8fa61b26a5163bf9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/vault/hell_wizard_50.png"
+source_md5="5d1229cdf3c8eb08e47bb57e98adf07f"
+
+dest_files=[ "res://.import/hell_wizard_50.png-c6b068fbee040eac8fa61b26a5163bf9.stex" ]
+dest_md5="708d6e3e6cc16a07d657b32c12681efc"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

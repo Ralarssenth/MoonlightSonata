@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/naga_mage.png-fb94e81782e0daf51ecb4678af6964a4.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/naga_mage.png"
+source_md5="98b8e7ae2823d08dae6b86fb17486f7d"
+
+dest_files=[ "res://.import/naga_mage.png-fb94e81782e0daf51ecb4678af6964a4.stex" ]
+dest_md5="12217670bd9a08da30546221fc3010b6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

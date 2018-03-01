@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/flight.png-971eaca9e5c6b06a0433f81a800e3e72.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/air/flight.png"
+source_md5="59738dc381cbf88cfe7dfb7b811bfb41"
+
+dest_files=[ "res://.import/flight.png-971eaca9e5c6b06a0433f81a800e3e72.stex" ]
+dest_md5="8c0391c33b0d44744cc97fba84677479"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

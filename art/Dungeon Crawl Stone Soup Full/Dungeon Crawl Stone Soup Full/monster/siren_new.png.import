@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/siren_new.png-b17d040cacd023491e80261114e54cc4.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/siren_new.png"
+source_md5="1bfba2d42e47099ac13554e6fec6b306"
+
+dest_files=[ "res://.import/siren_new.png-b17d040cacd023491e80261114e54cc4.stex" ]
+dest_md5="3b627543fe66e43652d985e8c7f7595f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

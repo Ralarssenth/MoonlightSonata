@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/earth_elementals.png-ed6ae52eb206f1ccdc7202b5e3df8961.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/monster/earth_elementals.png"
+source_md5="3a5f374fd689f32ed266d6482c1985dc"
+
+dest_files=[ "res://.import/earth_elementals.png-ed6ae52eb206f1ccdc7202b5e3df8961.stex" ]
+dest_md5="bd5842c9b2b33b32c6d0ba04280b2470"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

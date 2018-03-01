@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/find_altar.png-2aad9b14b721cb3ef5ed9e6cfe4d97db.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/commands/find_altar.png"
+source_md5="32f3c47ac1c276ebdc9491eb27ef0141"
+
+dest_files=[ "res://.import/find_altar.png-2aad9b14b721cb3ef5ed9e6cfe4d97db.stex" ]
+dest_md5="90883be0a8b02d6164e4c43778e59ec9"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

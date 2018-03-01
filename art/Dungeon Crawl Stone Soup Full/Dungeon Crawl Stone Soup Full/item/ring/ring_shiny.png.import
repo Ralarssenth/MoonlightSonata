@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ring_shiny.png-20a44aa03292181eac039ff456f1b1d7.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/ring/ring_shiny.png"
+source_md5="abf07d6c3b8f568a641b93a85c3bf5c7"
+
+dest_files=[ "res://.import/ring_shiny.png-20a44aa03292181eac039ff456f1b1d7.stex" ]
+dest_md5="f04fa88ba3fe762ec4c0fe1108eed2d3"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

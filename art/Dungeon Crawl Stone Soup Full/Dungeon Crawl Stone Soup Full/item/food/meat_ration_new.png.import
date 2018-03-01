@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/meat_ration_new.png-053c490259fb4d56ccea5f62d73684c0.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/food/meat_ration_new.png"
+source_md5="33fbcdb2c8e67b9b0a3fc3958d8f6171"
+
+dest_files=[ "res://.import/meat_ration_new.png-053c490259fb4d56ccea5f62d73684c0.stex" ]
+dest_md5="07934a6cb4fd6139b289be436547aeb8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

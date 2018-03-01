@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/haste_other.png-88cf982b782b4c3955d86e6a6b4b6c02.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/monster/haste_other.png"
+source_md5="529eb06707ddefa1f4e316067d290fc6"
+
+dest_files=[ "res://.import/haste_other.png-88cf982b782b4c3955d86e6a6b4b6c02.stex" ]
+dest_md5="64150d5a01d89ab96995361d24f9acfd"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

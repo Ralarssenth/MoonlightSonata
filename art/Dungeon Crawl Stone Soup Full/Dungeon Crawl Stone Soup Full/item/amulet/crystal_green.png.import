@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/crystal_green.png-bd4c1b32083a84d97b2daef8dfe1599c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/amulet/crystal_green.png"
+source_md5="d4c8ddbb1aa7a325790d0e768ac96ee2"
+
+dest_files=[ "res://.import/crystal_green.png-bd4c1b32083a84d97b2daef8dfe1599c.stex" ]
+dest_md5="31f485cad732144f7f2f33c9ab3abc20"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

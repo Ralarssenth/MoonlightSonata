@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/eastern_dragon.png-f16c9c82a7f5b1cc6330c37f1a96e897.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/holy/eastern_dragon.png"
+source_md5="43d9983d257dbe7bf90ef67b7d9eaea4"
+
+dest_files=[ "res://.import/eastern_dragon.png-f16c9c82a7f5b1cc6330c37f1a96e897.stex" ]
+dest_md5="130e01f8840ec0b6a119bfb6fd77b7be"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

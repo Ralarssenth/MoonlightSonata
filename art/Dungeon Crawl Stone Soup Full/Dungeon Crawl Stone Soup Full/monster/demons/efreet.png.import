@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/efreet.png-cb214484ee3b78e49784e7585b2ec228.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/demons/efreet.png"
+source_md5="3949a69445daf19cfa337307b34ed61a"
+
+dest_files=[ "res://.import/efreet.png-cb214484ee3b78e49784e7585b2ec228.stex" ]
+dest_md5="6e6c65d9179a97ebf9155deff83ab130"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

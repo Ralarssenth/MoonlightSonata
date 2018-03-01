@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/dirt_south_old.png-0a56f9a3f5164838780fe49386cf45d5.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/dirt_south_old.png"
+source_md5="422ff77f5733d359507c6502810aecd4"
+
+dest_files=[ "res://.import/dirt_south_old.png-0a56f9a3f5164838780fe49386cf45d5.stex" ]
+dest_md5="fad1aba54827244bb82d78eaab3cedfa"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

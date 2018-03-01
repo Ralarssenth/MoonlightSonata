@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ettin_old.png-f65ae03d3bda8c086125af7e5bd387a3.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/ettin_old.png"
+source_md5="6f6b7eb5b32fe2231edcb894ad308d04"
+
+dest_files=[ "res://.import/ettin_old.png-f65ae03d3bda8c086125af7e5bd387a3.stex" ]
+dest_md5="ac4e504aacec3ed0377843ba3410b922"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

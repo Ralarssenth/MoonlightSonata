@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/pedestal_south.png-273cf9a82fc97636a541fc2174bc8c7d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/pedestal_south.png"
+source_md5="d241e7822bc6ede0f4d0363ed5bac9c0"
+
+dest_files=[ "res://.import/pedestal_south.png-273cf9a82fc97636a541fc2174bc8c7d.stex" ]
+dest_md5="37efc131c5816dbd9c58e8fb8c3f34f1"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
