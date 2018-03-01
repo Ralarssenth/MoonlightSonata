@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/unseen_horror_new.png-a69e38507315b85f6eb666c3ae6e2630.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/aberration/unseen_horror_new.png"
+source_md5="482fe332a5d82ec60e93eb4ea624a510"
+
+dest_files=[ "res://.import/unseen_horror_new.png-a69e38507315b85f6eb666c3ae6e2630.stex" ]
+dest_md5="c5fb650a3c777e432ac613cd64024f92"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

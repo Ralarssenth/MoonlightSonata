@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/orange_crystal_statue_new.png-ffab6f7d82d0f4d39171c3eeea2c0b7e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/statues/orange_crystal_statue_new.png"
+source_md5="3cf216ea36d17a34bffb200a5ffc9bfd"
+
+dest_files=[ "res://.import/orange_crystal_statue_new.png-ffab6f7d82d0f4d39171c3eeea2c0b7e.stex" ]
+dest_md5="57332c7b35b9362308c6bb745622858a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/brass.png-1347c1597a5f7cbacd19b05a81075027.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/ring/brass.png"
+source_md5="c2c3a4c9c5c7c758a358079ab28f96bd"
+
+dest_files=[ "res://.import/brass.png-1347c1597a5f7cbacd19b05a81075027.stex" ]
+dest_md5="72139dee71de013d2f89b80fc28dc374"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

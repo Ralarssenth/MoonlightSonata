@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/vehumet_1.png-b62cb0f29f0f11bb250b2220e72975f6.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/altars/vehumet_1.png"
+source_md5="cfbc6a23040dbef73a9bab426e461dd8"
+
+dest_files=[ "res://.import/vehumet_1.png-b62cb0f29f0f11bb250b2220e72975f6.stex" ]
+dest_md5="bb192008234be053b0eeaa05dae420cb"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

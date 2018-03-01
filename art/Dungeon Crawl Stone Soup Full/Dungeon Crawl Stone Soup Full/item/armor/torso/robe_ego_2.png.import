@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/robe_ego_2.png-254f6d163904d6efd38d9e7b8dfd155f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/torso/robe_ego_2.png"
+source_md5="a66b818bea4ba4a500112d05d681837b"
+
+dest_files=[ "res://.import/robe_ego_2.png-254f6d163904d6efd38d9e7b8dfd155f.stex" ]
+dest_md5="d58c5d1e73abf5c8e879f78678a42e8a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

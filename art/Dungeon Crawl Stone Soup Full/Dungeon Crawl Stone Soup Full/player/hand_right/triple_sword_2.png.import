@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/triple_sword_2.png-1ee3ba85bae5af12c9ab2f035eca5ded.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/triple_sword_2.png"
+source_md5="45cd47a9d62280f5a7b1c2a6c9224486"
+
+dest_files=[ "res://.import/triple_sword_2.png-1ee3ba85bae5af12c9ab2f035eca5ded.stex" ]
+dest_md5="98695adcbfa76e30763411cd7e49a0d8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

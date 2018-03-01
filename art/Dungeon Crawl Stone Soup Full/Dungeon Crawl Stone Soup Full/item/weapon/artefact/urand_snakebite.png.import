@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/urand_snakebite.png-50fa7c604d206b4a0fdd98db5fb53fdd.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/artefact/urand_snakebite.png"
+source_md5="5e8cc596ed80703b615e491f6dcd494f"
+
+dest_files=[ "res://.import/urand_snakebite.png-50fa7c604d206b4a0fdd98db5fb53fdd.stex" ]
+dest_md5="73a65b7bad2c31a125de18495e4d5a14"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

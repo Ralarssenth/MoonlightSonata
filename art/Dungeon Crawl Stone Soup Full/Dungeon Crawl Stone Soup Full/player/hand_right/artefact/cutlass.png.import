@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/cutlass.png-13f3659e3d8abb9f89a5aac74ab1732d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/artefact/cutlass.png"
+source_md5="0237c25d2bbec54c2d9aa82026aa93ba"
+
+dest_files=[ "res://.import/cutlass.png-13f3659e3d8abb9f89a5aac74ab1732d.stex" ]
+dest_md5="b4cd5538fd96227c91d6629f9ca4d541"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

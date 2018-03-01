@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/statue_hydra.png-f8eda42caab4d5b23c39b135db8153b7.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/statues/statue_hydra.png"
+source_md5="a1e331e329fc48df766c91d8e32236ec"
+
+dest_files=[ "res://.import/statue_hydra.png-f8eda42caab4d5b23c39b135db8153b7.stex" ]
+dest_md5="5e15ea78aa5955c1c4959aedd33a41a5"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

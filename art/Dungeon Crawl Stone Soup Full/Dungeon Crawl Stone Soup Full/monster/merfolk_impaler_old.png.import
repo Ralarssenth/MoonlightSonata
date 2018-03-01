@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/merfolk_impaler_old.png-d3a00c2ab593c755ac0ec6e60fc08e3c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/merfolk_impaler_old.png"
+source_md5="5b34483623e36febc7d0b2e306344283"
+
+dest_files=[ "res://.import/merfolk_impaler_old.png-d3a00c2ab593c755ac0ec6e60fc08e3c.stex" ]
+dest_md5="30e58b22f3e8b646ea79c04df988d228"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/golden_sword.png-271179f0486fc8fdf60b85995984872e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/golden_sword.png"
+source_md5="ddda833f14feef996e57be408bc37d2b"
+
+dest_files=[ "res://.import/golden_sword.png-271179f0486fc8fdf60b85995984872e.stex" ]
+dest_md5="9c59b6aaf3198ef5f82c57c483489118"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/abyss_cyan_1.png-cc1b2ed33c188761d569b45d1439a73b.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/abyss/abyss_cyan_1.png"
+source_md5="439ce3d0bb3e1739eb28b9bc3c00d0a2"
+
+dest_files=[ "res://.import/abyss_cyan_1.png-cc1b2ed33c188761d569b45d1439a73b.stex" ]
+dest_md5="53ef503f618e6f66f57a7b68f73ff250"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

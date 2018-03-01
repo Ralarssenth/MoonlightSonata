@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/worldbinder.png-2881d5f71c9dff946490569aaf749dea.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/abyss/worldbinder.png"
+source_md5="e1fb7174e4e73096c2d89fe2cbfb000b"
+
+dest_files=[ "res://.import/worldbinder.png-2881d5f71c9dff946490569aaf749dea.stex" ]
+dest_md5="f6768fbe69243546cb7ee17c82270ca8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

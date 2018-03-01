@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/satyr.png-4a83a2d6a30c4389014390ac473e36a8.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/satyr.png"
+source_md5="65977ff72f7a1eeb54066101cc2302cc"
+
+dest_files=[ "res://.import/satyr.png-4a83a2d6a30c4389014390ac473e36a8.stex" ]
+dest_md5="906cc24c05435ef823eec77fbef4aed3"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

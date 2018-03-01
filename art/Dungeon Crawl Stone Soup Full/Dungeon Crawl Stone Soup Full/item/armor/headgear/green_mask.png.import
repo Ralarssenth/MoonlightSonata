@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/green_mask.png-a233ff8d2501d8cc5f67a55d3d136479.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/headgear/green_mask.png"
+source_md5="ac3c0ccec116b558251e3ff97d3e7612"
+
+dest_files=[ "res://.import/green_mask.png-a233ff8d2501d8cc5f67a55d3d136479.stex" ]
+dest_md5="c98c148eebf2019bae1af4468e758cc1"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

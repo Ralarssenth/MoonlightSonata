@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/dog_2.png-39a4b999910d1774a0875660a9769ca3.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/components/dog_2.png"
+source_md5="f33841c87c4389e696f4fd871ca5c298"
+
+dest_files=[ "res://.import/dog_2.png-39a4b999910d1774a0875660a9769ca3.stex" ]
+dest_md5="6dafe7b72768ea73b1a816bfbcdbe213"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

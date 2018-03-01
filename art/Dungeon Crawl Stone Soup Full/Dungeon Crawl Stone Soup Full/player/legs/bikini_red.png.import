@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/bikini_red.png-f0500ffead69cbbe12ac9880cc660b56.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/legs/bikini_red.png"
+source_md5="93081a9c5fb8e3e4860f8ae548a7fe99"
+
+dest_files=[ "res://.import/bikini_red.png-f0500ffead69cbbe12ac9880cc660b56.stex" ]
+dest_md5="ca8b4c74df9c5375bdc90391c956b03e"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

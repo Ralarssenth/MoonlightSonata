@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shadow_wraith.png-cb0721c508818d10627c7b266e4455ae.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/undead/shadow_wraith.png"
+source_md5="271f0e9ef00b892ff0864e38423198cc"
+
+dest_files=[ "res://.import/shadow_wraith.png-cb0721c508818d10627c7b266e4455ae.stex" ]
+dest_md5="80b669fb28662738ff97ede7b57cafe6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

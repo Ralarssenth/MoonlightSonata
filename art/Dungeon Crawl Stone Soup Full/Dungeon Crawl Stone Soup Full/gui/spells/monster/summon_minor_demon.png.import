@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/summon_minor_demon.png-a6c69827e476ca8f9ae6ae7c3c427c74.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/monster/summon_minor_demon.png"
+source_md5="bf2da8c81516c84f39073c5680dc1f84"
+
+dest_files=[ "res://.import/summon_minor_demon.png-a6c69827e476ca8f9ae6ae7c3c427c74.stex" ]
+dest_md5="34dc988a35425729baf1651449a084dc"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

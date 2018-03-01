@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/hydra_4_new.png-71c29338aebd27eb77a81fa91166e783.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/dragons/hydra_4_new.png"
+source_md5="2ce2b9b0e42d9b028f0d864aa8406e07"
+
+dest_files=[ "res://.import/hydra_4_new.png-71c29338aebd27eb77a81fa91166e783.stex" ]
+dest_md5="c859d5f127d094cd86eb1bb65045e821"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

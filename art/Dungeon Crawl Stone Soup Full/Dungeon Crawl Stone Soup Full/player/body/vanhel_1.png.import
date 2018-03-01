@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/vanhel_1.png-1897cc3c996ba92f3df8993c6e406aac.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/body/vanhel_1.png"
+source_md5="34e19b45659b6f39ee7b64a82fedcbb9"
+
+dest_files=[ "res://.import/vanhel_1.png-1897cc3c996ba92f3df8993c6e406aac.stex" ]
+dest_md5="28baa6b0342ff87d7527a2751c226f8c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

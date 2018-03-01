@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/draconian_male.png-5d6693e3fd45d5204af0a0ee1dfdfa64.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/base/draconian_male.png"
+source_md5="944cd4b039c385a3729f35fb6a375de8"
+
+dest_files=[ "res://.import/draconian_male.png-5d6693e3fd45d5204af0a0ee1dfdfa64.stex" ]
+dest_md5="e3f41410f706dca5d8b2432872ffcf42"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

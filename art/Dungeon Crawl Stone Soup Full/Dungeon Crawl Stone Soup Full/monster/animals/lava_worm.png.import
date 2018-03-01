@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/lava_worm.png-0c0cc951d8d9f95695032b94a8f25450.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/lava_worm.png"
+source_md5="e834095203b687c3cc4b311cdbb4b1ce"
+
+dest_files=[ "res://.import/lava_worm.png-0c0cc951d8d9f95695032b94a8f25450.stex" ]
+dest_md5="6f4737178ed426d3b57e62297d0117a0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

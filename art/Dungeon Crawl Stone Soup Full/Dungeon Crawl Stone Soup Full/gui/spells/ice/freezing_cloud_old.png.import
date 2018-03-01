@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/freezing_cloud_old.png-bdf45c27eb0b31e66b001e3a2331821c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/ice/freezing_cloud_old.png"
+source_md5="5d26c09eb7355ff1b05e588ddabdf5c4"
+
+dest_files=[ "res://.import/freezing_cloud_old.png-bdf45c27eb0b31e66b001e3a2331821c.stex" ]
+dest_md5="5ea6482c4501c4139762fd2691b57662"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/dryad.png-4ddb7e2c07b8fffd3a18714a5cff95b3.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/dryad.png"
+source_md5="e6fb752557b111cc43c7164b41067d71"
+
+dest_files=[ "res://.import/dryad.png-4ddb7e2c07b8fffd3a18714a5cff95b3.stex" ]
+dest_md5="16c4ca70487301e52e711649265ae557"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

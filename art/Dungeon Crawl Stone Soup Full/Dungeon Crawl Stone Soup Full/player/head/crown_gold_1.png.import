@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/crown_gold_1.png-832971814fa6320b2072f5ca3f242990.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/head/crown_gold_1.png"
+source_md5="8064d8f468cbcffb94b4e6466a704569"
+
+dest_files=[ "res://.import/crown_gold_1.png-832971814fa6320b2072f5ca3f242990.stex" ]
+dest_md5="579750b0bbca018311a0f4e653e06c02"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

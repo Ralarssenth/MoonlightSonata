@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-deck_war_old.png-7cacf914a868c442f6c3f19b0297a648.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/bottom_right/i-deck_war_old.png"
+source_md5="6b3d8f81a040f3e68e947f7fd64ae26b"
+
+dest_files=[ "res://.import/i-deck_war_old.png-7cacf914a868c442f6c3f19b0297a648.stex" ]
+dest_md5="324e6321f96669a7d5a4c822f23fd88b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

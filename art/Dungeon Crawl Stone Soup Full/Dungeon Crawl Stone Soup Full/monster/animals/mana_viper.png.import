@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/mana_viper.png-737382d6e870ca75b2c60bc5a36505b6.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/mana_viper.png"
+source_md5="3a0c326bb1afebf34a78a2ca4c758170"
+
+dest_files=[ "res://.import/mana_viper.png-737382d6e870ca75b2c60bc5a36505b6.stex" ]
+dest_md5="a03ff957fa35020cd81c399e124df23d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

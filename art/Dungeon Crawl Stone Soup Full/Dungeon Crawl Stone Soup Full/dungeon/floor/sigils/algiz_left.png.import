@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/algiz_left.png-24583cb4e7a062e8cf6e6e9bd597ae35.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/algiz_left.png"
+source_md5="9eea39fbf7bcf3de24318bb0851565fa"
+
+dest_files=[ "res://.import/algiz_left.png-24583cb4e7a062e8cf6e6e9bd597ae35.stex" ]
+dest_md5="b2ed406eb585f96e58b72ea9f62fe275"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

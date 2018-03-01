@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/elf_yellow.png-4d09e9b4aa93c7fbac4f7b33c118260a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hair/elf_yellow.png"
+source_md5="7a4703ea440ec27dc7ce2d5151459e72"
+
+dest_files=[ "res://.import/elf_yellow.png-4d09e9b4aa93c7fbac4f7b33c118260a.stex" ]
+dest_md5="261117834bcc0ad0c5b730100b9f8908"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

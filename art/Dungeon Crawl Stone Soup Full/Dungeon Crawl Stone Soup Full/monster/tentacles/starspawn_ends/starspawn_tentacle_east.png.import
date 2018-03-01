@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/starspawn_tentacle_east.png-1268c31df98540fec650df8a8dccad9c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/tentacles/starspawn_ends/starspawn_tentacle_east.png"
+source_md5="86349d18e27c2b268e582f859fe46223"
+
+dest_files=[ "res://.import/starspawn_tentacle_east.png-1268c31df98540fec650df8a8dccad9c.stex" ]
+dest_md5="940c7f3b1ec0d1452bed1e52b9d46b4e"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

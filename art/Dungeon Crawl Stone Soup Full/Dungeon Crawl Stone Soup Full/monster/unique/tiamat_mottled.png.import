@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/tiamat_mottled.png-e3e1cfe0ca11747b50cc48498eca03f1.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/tiamat_mottled.png"
+source_md5="44de1ac948bd44f9d2d4a7e95c4366f8"
+
+dest_files=[ "res://.import/tiamat_mottled.png-e3e1cfe0ca11747b50cc48498eca03f1.stex" ]
+dest_md5="8c1331235e91226592ed087b8f2a1307"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

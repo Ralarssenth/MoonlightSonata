@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/antaeus.png-6ff5a64a069f14216bdea77b6983f571.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/antaeus.png"
+source_md5="345868158ed7fd7249bbafd76c5da84d"
+
+dest_files=[ "res://.import/antaeus.png-6ff5a64a069f14216bdea77b6983f571.stex" ]
+dest_md5="aecb0e93e318cf5b914b33c62f5ee32d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

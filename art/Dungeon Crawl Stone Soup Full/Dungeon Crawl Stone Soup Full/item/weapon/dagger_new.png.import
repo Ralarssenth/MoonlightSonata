@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/dagger_new.png-0d3215f8ce6ffdfeda1ea3e8188e206e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/dagger_new.png"
+source_md5="a2d0c26832624e2dbd5c06dcb2fdbe6a"
+
+dest_files=[ "res://.import/dagger_new.png-0d3215f8ce6ffdfeda1ea3e8188e206e.stex" ]
+dest_md5="0406b9e79028244a3a75d63565798182"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/wiglaf_old.png-78ed205780c994b22dc6bcece36a7c52.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/wiglaf_old.png"
+source_md5="4427c2a14b122a817b3e4d0a7be18ddd"
+
+dest_files=[ "res://.import/wiglaf_old.png-78ed205780c994b22dc6bcece36a7c52.stex" ]
+dest_md5="67c671b6cf69c02f2460c1bd23eb90d9"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

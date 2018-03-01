@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/eos.png-d8da712c2d14d443659ad94a07811114.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/artefact/eos.png"
+source_md5="a779520bbee252d08bca0f7177c05f12"
+
+dest_files=[ "res://.import/eos.png-d8da712c2d14d443659ad94a07811114.stex" ]
+dest_md5="ec4c9325af32770b36d6e09cac05c40c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

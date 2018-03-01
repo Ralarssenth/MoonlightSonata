@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/chaos_spawn_1.png-17d15e50dee72d031c5fd7465e3f2734.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/demons/chaos_spawn_1.png"
+source_md5="11a70ecf3b4899985e43ca12b642e926"
+
+dest_files=[ "res://.import/chaos_spawn_1.png-17d15e50dee72d031c5fd7465e3f2734.stex" ]
+dest_md5="416d7b918477645d7de7521c879f8d4a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

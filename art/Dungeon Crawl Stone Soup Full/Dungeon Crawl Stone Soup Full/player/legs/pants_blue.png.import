@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/pants_blue.png-a1a76265b1cc1e66bc09dbac454e4f4f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/legs/pants_blue.png"
+source_md5="8850697f1660889b0bef9967e3e65772"
+
+dest_files=[ "res://.import/pants_blue.png-a1a76265b1cc1e66bc09dbac454e4f4f.stex" ]
+dest_md5="0d80d0c55492fc98930c7c09cbd18a1a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

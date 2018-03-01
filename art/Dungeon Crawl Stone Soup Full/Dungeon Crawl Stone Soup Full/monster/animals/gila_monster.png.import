@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/gila_monster.png-8024f599c21930404f58bcf6c2da9148.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/gila_monster.png"
+source_md5="51b1adf9e4b44a2ab77ae70eeed1ff62"
+
+dest_files=[ "res://.import/gila_monster.png-8024f599c21930404f58bcf6c2da9148.stex" ]
+dest_md5="8425e8405aaba8d49217242684a7c688"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

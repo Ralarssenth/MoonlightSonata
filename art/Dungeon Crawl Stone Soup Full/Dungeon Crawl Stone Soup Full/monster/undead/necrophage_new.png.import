@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/necrophage_new.png-9fce55133a036859bf22edc5c7650a8d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/undead/necrophage_new.png"
+source_md5="f6ccebd6d727066565e0000cda4fa1c4"
+
+dest_files=[ "res://.import/necrophage_new.png-9fce55133a036859bf22edc5c7650a8d.stex" ]
+dest_md5="7be467523305a714556ee71b0c36133f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

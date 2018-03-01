@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/rotting_devil.png-a04545f7d9258d898fef2d52e1207983.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/demons/rotting_devil.png"
+source_md5="482b7872a7169433db2a4313fa867415"
+
+dest_files=[ "res://.import/rotting_devil.png-a04545f7d9258d898fef2d52e1207983.stex" ]
+dest_md5="b4a196206733d24931b1cec0f33a990e"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

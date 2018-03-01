@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/urand_krishna_new.png-affc2061728dfa6353067bfb8d9a8299.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/artefact/urand_krishna_new.png"
+source_md5="241e0fead4f7e9e5434853da8f354852"
+
+dest_files=[ "res://.import/urand_krishna_new.png-affc2061728dfa6353067bfb8d9a8299.stex" ]
+dest_md5="0574de9479e437bd9d0a8ae7381ff549"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

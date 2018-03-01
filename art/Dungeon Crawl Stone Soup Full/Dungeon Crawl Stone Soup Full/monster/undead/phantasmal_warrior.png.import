@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/phantasmal_warrior.png-2af38b85d1a73e906a4c9997d780f446.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/undead/phantasmal_warrior.png"
+source_md5="3b787e0026e7b7aa8303d917d5d57df7"
+
+dest_files=[ "res://.import/phantasmal_warrior.png-2af38b85d1a73e906a4c9997d780f446.stex" ]
+dest_md5="d4f14960371f78b86c891c560b202927"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

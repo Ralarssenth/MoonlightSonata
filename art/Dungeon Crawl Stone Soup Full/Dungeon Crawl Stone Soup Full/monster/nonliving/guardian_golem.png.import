@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/guardian_golem.png-0fa065c6932650f099a6fe0ac5cc159c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/nonliving/guardian_golem.png"
+source_md5="68db1e8b05ac616f855f500c6e9a2a07"
+
+dest_files=[ "res://.import/guardian_golem.png-0fa065c6932650f099a6fe0ac5cc159c.stex" ]
+dest_md5="437f450163c642351936763638c99acf"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

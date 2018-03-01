@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/quad_glow.png-728638e9891fff02a08f29c00de45a32.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/quad_glow.png"
+source_md5="904a50f4a753116553119257a02c1eec"
+
+dest_files=[ "res://.import/quad_glow.png-728638e9891fff02a08f29c00de45a32.stex" ]
+dest_md5="5748aabc42a840a79ed8e3b1c4c97ce2"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

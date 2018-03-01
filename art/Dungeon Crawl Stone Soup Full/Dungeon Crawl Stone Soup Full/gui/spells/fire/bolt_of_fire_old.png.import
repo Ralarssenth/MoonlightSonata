@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/bolt_of_fire_old.png-ef5a5c218f9bec856e2366b65ef62cb3.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/fire/bolt_of_fire_old.png"
+source_md5="0dd2138ed31367eb1d52567953ab5dc0"
+
+dest_files=[ "res://.import/bolt_of_fire_old.png-ef5a5c218f9bec856e2366b65ef62cb3.stex" ]
+dest_md5="5f564f4e116995ec0a8f4f1312fe82d7"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

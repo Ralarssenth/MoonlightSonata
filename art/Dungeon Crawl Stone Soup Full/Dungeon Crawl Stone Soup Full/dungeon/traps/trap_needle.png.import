@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/trap_needle.png-717cff46a30b11e787c7b2ba944ee2e9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/traps/trap_needle.png"
+source_md5="2a8f93bdc893b84a52f49a0839ea7c1d"
+
+dest_files=[ "res://.import/trap_needle.png-717cff46a30b11e787c7b2ba944ee2e9.stex" ]
+dest_md5="641201fda617e6bfa5d02757437aba33"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

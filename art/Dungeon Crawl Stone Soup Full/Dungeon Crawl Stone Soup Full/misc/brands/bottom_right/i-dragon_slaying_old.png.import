@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-dragon_slaying_old.png-cbb03c0de1693d33ea266762c66e28b7.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/bottom_right/i-dragon_slaying_old.png"
+source_md5="7fc52d855bd509bee181cffe9e7254d9"
+
+dest_files=[ "res://.import/i-dragon_slaying_old.png-cbb03c0de1693d33ea266762c66e28b7.stex" ]
+dest_md5="97059d386f59d0ca95690ec9a0f1a90a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

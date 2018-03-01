@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/d_glaive.png-c97b81fa07eb49bef5086044be69c4b8.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/d_glaive.png"
+source_md5="12ec063825e756ecac09f8f59cdd75db"
+
+dest_files=[ "res://.import/d_glaive.png-c97b81fa07eb49bef5086044be69c4b8.stex" ]
+dest_md5="613b96a6876e1bdaf8089508fb430d6b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/hydrataur.png-a2029fbe69e57a2685fb288996e3bb72.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/hydrataur.png"
+source_md5="ccbb248728bc68153ff7072bed3f16c1"
+
+dest_files=[ "res://.import/hydrataur.png-a2029fbe69e57a2685fb288996e3bb72.stex" ]
+dest_md5="dbcef49e203a0a27c8c9ff991502cf66"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

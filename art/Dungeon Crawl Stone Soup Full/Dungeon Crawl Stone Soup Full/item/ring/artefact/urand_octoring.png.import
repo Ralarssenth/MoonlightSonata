@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/urand_octoring.png-f2b041a7d21aceea8c8084ca5a09456b.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/ring/artefact/urand_octoring.png"
+source_md5="184c923cd07f82dc9cdc1e9fe3649689"
+
+dest_files=[ "res://.import/urand_octoring.png-f2b041a7d21aceea8c8084ca5a09456b.stex" ]
+dest_md5="00034ddfe5c20252827eedb5801ca9c8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

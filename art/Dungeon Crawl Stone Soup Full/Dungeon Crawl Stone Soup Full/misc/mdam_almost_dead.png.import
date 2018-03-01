@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/mdam_almost_dead.png-87edb49fd24f869a83adf10f8f73236f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/mdam_almost_dead.png"
+source_md5="0a10f8b72531de57c73799c960d09b7c"
+
+dest_files=[ "res://.import/mdam_almost_dead.png-87edb49fd24f869a83adf10f8f73236f.stex" ]
+dest_md5="dedc44a8f59fb65c7f20ca0410bf0ffe"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

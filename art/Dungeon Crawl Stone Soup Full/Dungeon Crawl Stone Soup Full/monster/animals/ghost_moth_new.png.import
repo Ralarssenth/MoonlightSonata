@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ghost_moth_new.png-79a49040f504f97499971199687bbb5d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/ghost_moth_new.png"
+source_md5="044a7f81d1090ff593e521e03b122251"
+
+dest_files=[ "res://.import/ghost_moth_new.png-79a49040f504f97499971199687bbb5d.stex" ]
+dest_md5="fe42efd5ba0f0a62ca4dc2896d80d9d4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

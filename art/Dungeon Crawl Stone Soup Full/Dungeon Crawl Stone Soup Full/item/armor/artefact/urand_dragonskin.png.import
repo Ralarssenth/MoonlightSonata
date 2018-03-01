@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/urand_dragonskin.png-47263547a100ecc141f4f6089a36c54b.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/artefact/urand_dragonskin.png"
+source_md5="234de7c1cfc4d7e8e5d23cd5d6f10b78"
+
+dest_files=[ "res://.import/urand_dragonskin.png-47263547a100ecc141f4f6089a36c54b.stex" ]
+dest_md5="df17ddcd6b98a27d7f22447dcce93e65"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

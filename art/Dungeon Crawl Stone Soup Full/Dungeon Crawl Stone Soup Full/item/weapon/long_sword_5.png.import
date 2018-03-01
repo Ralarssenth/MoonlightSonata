@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/long_sword_5.png-efafc5d90bd1ab2a7430b0c4143fe5b1.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/long_sword_5.png"
+source_md5="6809250462bb4da46c6f9cee9cdd265e"
+
+dest_files=[ "res://.import/long_sword_5.png-efafc5d90bd1ab2a7430b0c4143fe5b1.stex" ]
+dest_md5="a2a272a8e06863c5e1a656ac4f35cfb9"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/honeycomb_new.png-2d72a5d41b476420455ecbdbeb19c0d8.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/food/honeycomb_new.png"
+source_md5="6e66f30006656d3e5b8bf13a455f5285"
+
+dest_files=[ "res://.import/honeycomb_new.png-2d72a5d41b476420455ecbdbeb19c0d8.stex" ]
+dest_md5="43151d3b2baaf466319dd62063a58e6d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

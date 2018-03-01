@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/mask_deep_water_murky.png-6064551de8282a61e35a3f629002e942.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/mask_deep_water_murky.png"
+source_md5="d6bbd90af85e693ab77ba5a26793f772"
+
+dest_files=[ "res://.import/mask_deep_water_murky.png-6064551de8282a61e35a3f629002e942.stex" ]
+dest_md5="2951a1a2a34d3593d06cf61de5800e2f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

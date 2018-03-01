@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/overlay_crossbow_old.png-f2fc4e7b6d610924d95f57d553697d9f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/statues/overlay_crossbow_old.png"
+source_md5="68c67611e5e4f6f0eba159dd6d307c5f"
+
+dest_files=[ "res://.import/overlay_crossbow_old.png-f2fc4e7b6d610924d95f57d553697d9f.stex" ]
+dest_md5="d0505e4d572e390095b71820a53874a2"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

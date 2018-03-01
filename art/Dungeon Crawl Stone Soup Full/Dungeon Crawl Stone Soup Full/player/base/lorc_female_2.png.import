@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/lorc_female_2.png-70d2c82e75625071f49e704fc9c22f92.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/base/lorc_female_2.png"
+source_md5="64ff2e4e17c268bd104d0be497211485"
+
+dest_files=[ "res://.import/lorc_female_2.png-70d2c82e75625071f49e704fc9c22f92.stex" ]
+dest_md5="fee4c11fc292128d77b1fd6558115d79"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

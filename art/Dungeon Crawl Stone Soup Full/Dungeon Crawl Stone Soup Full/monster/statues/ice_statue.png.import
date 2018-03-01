@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ice_statue.png-4044e58e74874332e6856a3d177e3828.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/statues/ice_statue.png"
+source_md5="c6706059f10c594f59fd2d96e85063fa"
+
+dest_files=[ "res://.import/ice_statue.png-4044e58e74874332e6856a3d177e3828.stex" ]
+dest_md5="2126ca8c38ccbebf7d2fa09b71eb17fe"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

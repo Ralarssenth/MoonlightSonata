@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/kraken_tentacle_4.png-86aaef6bd79847ffc5f0ec710a4278fc.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/tentacles/kraken_ends/kraken_tentacle_4.png"
+source_md5="343a110aabeaff029374b0066e00bd85"
+
+dest_files=[ "res://.import/kraken_tentacle_4.png-86aaef6bd79847ffc5f0ec710a4278fc.stex" ]
+dest_md5="b333f96006ade3e1086aeeb37f6bd0a4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

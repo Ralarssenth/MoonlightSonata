@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/moonstone.png-98651989b8617bda6abd2e6dc126e9bf.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/ring/moonstone.png"
+source_md5="716f95e7a13b5f42a89c0cf94e16d31d"
+
+dest_files=[ "res://.import/moonstone.png-98651989b8617bda6abd2e6dc126e9bf.stex" ]
+dest_md5="1c7c7256c4270fdfb5c863262980b2ff"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

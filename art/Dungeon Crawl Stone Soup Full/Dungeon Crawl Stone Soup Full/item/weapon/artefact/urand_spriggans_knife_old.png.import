@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/urand_spriggans_knife_old.png-a8b70d11d53ec6c05ffea1e0937a7949.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/artefact/urand_spriggans_knife_old.png"
+source_md5="8d5fd81afbf50ee2af272c070b9f4ec2"
+
+dest_files=[ "res://.import/urand_spriggans_knife_old.png-a8b70d11d53ec6c05ffea1e0937a7949.stex" ]
+dest_md5="87e586e74beae837febf6dee8863d3f4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

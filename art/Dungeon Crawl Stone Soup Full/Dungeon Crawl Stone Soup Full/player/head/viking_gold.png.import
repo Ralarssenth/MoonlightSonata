@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/viking_gold.png-f817931614e9eb2957cb00dfd5cb8786.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/head/viking_gold.png"
+source_md5="6cc6888d35a19ed3219c5e2825f21c5b"
+
+dest_files=[ "res://.import/viking_gold.png-f817931614e9eb2957cb00dfd5cb8786.stex" ]
+dest_md5="c89c7d60dae1ad78de17cca2a843ee99"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

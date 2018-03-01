@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/cutlass_5.png-dd10df538d7932c678a0bff3d4305e19.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/cutlass_5.png"
+source_md5="5f21e3658c1ae4d7c1d87b952093a177"
+
+dest_files=[ "res://.import/cutlass_5.png-dd10df538d7932c678a0bff3d4305e19.stex" ]
+dest_md5="3e02963a1f89c68569eb1bc1d87092b3"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/potion_golden.png-8f3b7fd5522de8c04dc85761b0a39e04.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/potion/potion_golden.png"
+source_md5="7d647f8b477f591e81157af863e90a39"
+
+dest_files=[ "res://.import/potion_golden.png-8f3b7fd5522de8c04dc85761b0a39e04.stex" ]
+dest_md5="1bcbf172d1a3881582e2d09d5ab05374"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

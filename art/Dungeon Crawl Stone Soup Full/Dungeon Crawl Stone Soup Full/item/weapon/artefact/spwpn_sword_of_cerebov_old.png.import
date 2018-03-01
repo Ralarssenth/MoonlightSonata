@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spwpn_sword_of_cerebov_old.png-2c04bee402e93df677966581adbe0cf7.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/artefact/spwpn_sword_of_cerebov_old.png"
+source_md5="f8b16e65ebb2c8bcfbd79fde86978ac3"
+
+dest_files=[ "res://.import/spwpn_sword_of_cerebov_old.png-2c04bee402e93df677966581adbe0cf7.stex" ]
+dest_md5="602a8eef9617b04d5e38a0616c401c00"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

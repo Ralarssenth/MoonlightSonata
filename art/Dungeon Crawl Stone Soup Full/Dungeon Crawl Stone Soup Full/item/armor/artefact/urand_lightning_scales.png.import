@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/urand_lightning_scales.png-6390fd0c230a63f81e507dfec4dd8d07.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/artefact/urand_lightning_scales.png"
+source_md5="20e036f34c11ca868137f882a2d7fd2e"
+
+dest_files=[ "res://.import/urand_lightning_scales.png-6390fd0c230a63f81e507dfec4dd8d07.stex" ]
+dest_md5="61bf8ff390a494a00f47ac5f89e2faf2"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

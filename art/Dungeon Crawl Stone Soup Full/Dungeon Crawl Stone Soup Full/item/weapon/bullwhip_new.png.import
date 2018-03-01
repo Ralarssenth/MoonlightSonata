@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/bullwhip_new.png-51d5dd67b1e306e4c3b897b93f22e2c0.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/bullwhip_new.png"
+source_md5="b53a15b4757c44f3f61b0d3065beb238"
+
+dest_files=[ "res://.import/bullwhip_new.png-51d5dd67b1e306e4c3b897b93f22e2c0.stex" ]
+dest_md5="1aba09b4a75df19210a1fa8b195b95b0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

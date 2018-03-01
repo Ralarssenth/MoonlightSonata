@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/turban_purple.png-6beba5ffb22388772642d2d46f94c7e6.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/head/turban_purple.png"
+source_md5="70fe4719408fce6f17a208247d345dc5"
+
+dest_files=[ "res://.import/turban_purple.png-6beba5ffb22388772642d2d46f94c7e6.stex" ]
+dest_md5="58772dd8deae18e23a65874f8e74aff5"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

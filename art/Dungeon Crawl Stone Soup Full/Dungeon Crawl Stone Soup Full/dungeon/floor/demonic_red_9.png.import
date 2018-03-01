@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/demonic_red_9.png-ec3bea75208d81119a3dc94d39911260.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/demonic_red_9.png"
+source_md5="6cc022ec43eb95b35f6992141143c032"
+
+dest_files=[ "res://.import/demonic_red_9.png-ec3bea75208d81119a3dc94d39911260.stex" ]
+dest_md5="6b8b086ec6f8d1df8ea46fb11d4d49b4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

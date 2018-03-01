@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/altar_makhleb_flame_5.png-63123dbe0f3f89766c38db1445c361fb.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/altars/altar_makhleb_flame_5.png"
+source_md5="fbab879e874a8366ee08727586c8ab94"
+
+dest_files=[ "res://.import/altar_makhleb_flame_5.png-63123dbe0f3f89766c38db1445c361fb.stex" ]
+dest_md5="cf4939f34db0278e00b77352c3084fc1"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

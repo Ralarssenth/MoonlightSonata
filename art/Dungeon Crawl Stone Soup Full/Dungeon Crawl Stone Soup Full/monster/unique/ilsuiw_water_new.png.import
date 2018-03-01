@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ilsuiw_water_new.png-feeaea8e38396b15f3c65784329597a0.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/ilsuiw_water_new.png"
+source_md5="f79860a290ee42285bf74efcf6a41759"
+
+dest_files=[ "res://.import/ilsuiw_water_new.png-feeaea8e38396b15f3c65784329597a0.stex" ]
+dest_md5="9e862694784fd868483f2a4343c41b6d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

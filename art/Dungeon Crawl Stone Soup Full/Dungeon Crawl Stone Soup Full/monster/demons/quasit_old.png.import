@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/quasit_old.png-bdbf3f110d86d4d52211f80be77dba4b.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/demons/quasit_old.png"
+source_md5="51ea2231571362ccca900dba90a16624"
+
+dest_files=[ "res://.import/quasit_old.png-bdbf3f110d86d4d52211f80be77dba4b.stex" ]
+dest_md5="fd6a0b8df11d7c1bc419c0d4b3328d29"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

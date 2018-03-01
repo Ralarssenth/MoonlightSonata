@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/urand_jihad_old.png-3db25086f679ef840e9fa61e5c48d4a0.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/artefact/urand_jihad_old.png"
+source_md5="8e642c05065bfdcca2e545558395c390"
+
+dest_files=[ "res://.import/urand_jihad_old.png-3db25086f679ef840e9fa61e5c48d4a0.stex" ]
+dest_md5="26e77d6ef30606aa5c45ce236363a2e9"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

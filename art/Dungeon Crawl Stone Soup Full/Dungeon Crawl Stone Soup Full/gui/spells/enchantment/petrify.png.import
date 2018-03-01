@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/petrify.png-243033b015e1e74aad66b02b918c1ab0.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/enchantment/petrify.png"
+source_md5="b8dfb6953ce7d7e7bd76214e28fa7321"
+
+dest_files=[ "res://.import/petrify.png-243033b015e1e74aad66b02b918c1ab0.stex" ]
+dest_md5="cc91d1094e4dd0f51bd5c1298aeae3a7"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

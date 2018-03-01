@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/elven_broadsword.png-3c8bcd1490c7fb337162edc4b90708e5.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/elven_broadsword.png"
+source_md5="fa6bc8e3a864d14a74123f5b9739c406"
+
+dest_files=[ "res://.import/elven_broadsword.png-3c8bcd1490c7fb337162edc4b90708e5.stex" ]
+dest_md5="08a6b56c6736e4d65bf1c00b1def1fd3"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

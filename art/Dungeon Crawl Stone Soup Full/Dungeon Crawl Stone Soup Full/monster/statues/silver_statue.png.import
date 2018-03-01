@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/silver_statue.png-6798be344c779cfbd8f6978e87d78959.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/statues/silver_statue.png"
+source_md5="5728aa25018dcb9fbe8c512542437f39"
+
+dest_files=[ "res://.import/silver_statue.png-6798be344c779cfbd8f6978e87d78959.stex" ]
+dest_md5="0d1cd2e304ff0db48ec336ba19c92cc4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

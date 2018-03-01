@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/misc_lamp_inert.png-df5bcaa73488c97dccc907c51c0684fb.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/misc/misc_lamp_inert.png"
+source_md5="89f66cdab20fb318b082cbed265977e9"
+
+dest_files=[ "res://.import/misc_lamp_inert.png-df5bcaa73488c97dccc907c51c0684fb.stex" ]
+dest_md5="8df68b6c7609ceb10f68eca585655d94"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/zombie_octopode.png-0c78cf805b280a144e08b4de5d1238df.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/undead/zombies/zombie_octopode.png"
+source_md5="c8bd4208e1394aa94775a87205f03bb4"
+
+dest_files=[ "res://.import/zombie_octopode.png-0c78cf805b280a144e08b4de5d1238df.stex" ]
+dest_md5="2d5e8898c0521bcafb943671905b99b0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

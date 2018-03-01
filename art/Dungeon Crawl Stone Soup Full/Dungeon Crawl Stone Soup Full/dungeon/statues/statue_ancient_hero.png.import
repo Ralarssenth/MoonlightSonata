@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/statue_ancient_hero.png-e652c5d03156750a3c4a73c86ff0f762.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/statues/statue_ancient_hero.png"
+source_md5="98cd7b30c7c1a21f1583b11415152178"
+
+dest_files=[ "res://.import/statue_ancient_hero.png-e652c5d03156750a3c4a73c86ff0f762.stex" ]
+dest_md5="8f7027c510286720c513b2376afe5b42"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

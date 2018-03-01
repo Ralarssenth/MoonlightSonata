@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/summonings.png-2e8d8b10636edc7d2749a9945ff6e94f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/skills/summonings.png"
+source_md5="ad0c26034f3db368aba3cf72cac18795"
+
+dest_files=[ "res://.import/summonings.png-2e8d8b10636edc7d2749a9945ff6e94f.stex" ]
+dest_md5="6a67d1b16ecdd41091fb865fe5088cc4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

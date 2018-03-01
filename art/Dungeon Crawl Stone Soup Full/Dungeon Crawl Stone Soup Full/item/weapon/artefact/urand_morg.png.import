@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/urand_morg.png-ead3c4c151a58deb5b140db0aaf76800.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/artefact/urand_morg.png"
+source_md5="fabaae90511798370e0702c7c01565e4"
+
+dest_files=[ "res://.import/urand_morg.png-ead3c4c151a58deb5b140db0aaf76800.stex" ]
+dest_md5="48e2bc873f12a3748dfa67fe78ee3cfc"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

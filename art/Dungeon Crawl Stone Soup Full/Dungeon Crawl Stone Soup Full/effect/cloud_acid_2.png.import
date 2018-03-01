@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/cloud_acid_2.png-2f33731d87a40922941b27973d490d74.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/cloud_acid_2.png"
+source_md5="51b42dd61a211756398a432af96b88e5"
+
+dest_files=[ "res://.import/cloud_acid_2.png-2f33731d87a40922941b27973d490d74.stex" ]
+dest_md5="ea10631d3910c464bf2aeb08928897bf"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

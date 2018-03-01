@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/animate_skeleton_new.png-50be9169bd6cfba82f68e8c8226d2fcd.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/necromancy/animate_skeleton_new.png"
+source_md5="108fc63c0d5bf03fa116c9a67b1fe53c"
+
+dest_files=[ "res://.import/animate_skeleton_new.png-50be9169bd6cfba82f68e8c8226d2fcd.stex" ]
+dest_md5="dfada584c3bd055ea36450af4668e6b5"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/mnoleg.png-2175d3b55ebe5460ceba741a6463778e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/mnoleg.png"
+source_md5="a52b40f6634eccb494311748af66c7b0"
+
+dest_files=[ "res://.import/mnoleg.png-2175d3b55ebe5460ceba741a6463778e.stex" ]
+dest_md5="e53dd4a5cb6a284cf590cbe46b7fe27a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/buckle_old.png-ad94595274747bf17eb750e0f3e85b33.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/book/artefact/buckle_old.png"
+source_md5="851c5c504383a804dcee29971184ab90"
+
+dest_files=[ "res://.import/buckle_old.png-ad94595274747bf17eb750e0f3e85b33.stex" ]
+dest_md5="bd22b869df19138774a92010b335a97f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

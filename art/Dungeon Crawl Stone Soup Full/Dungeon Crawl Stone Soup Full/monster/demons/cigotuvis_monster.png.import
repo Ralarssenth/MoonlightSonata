@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/cigotuvis_monster.png-80bc27e8740f48982170043f9c5194b8.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/demons/cigotuvis_monster.png"
+source_md5="8e6f4d829c728d3b1b5ebe689904db1f"
+
+dest_files=[ "res://.import/cigotuvis_monster.png-80bc27e8740f48982170043f9c5194b8.stex" ]
+dest_md5="f656120e054d6b00cf307917c793404f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

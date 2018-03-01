@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/sharp_north_east.png-6356ac442d2b70e27f549828caa4617a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/sharp_north_east.png"
+source_md5="872352f6a892a88d1664b54fec76d02d"
+
+dest_files=[ "res://.import/sharp_north_east.png-6356ac442d2b70e27f549828caa4617a.stex" ]
+dest_md5="bc32647b468c41da98963d301fa0e352"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/excruciating_wounds_new.png-0d535f7d442cfbfbd99f03630cf2fb75.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/necromancy/excruciating_wounds_new.png"
+source_md5="c052d5ae82e6669280c98427a90a447d"
+
+dest_files=[ "res://.import/excruciating_wounds_new.png-0d535f7d442cfbfbd99f03630cf2fb75.stex" ]
+dest_md5="85374ca36d143d31235bd31d5dc88424"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

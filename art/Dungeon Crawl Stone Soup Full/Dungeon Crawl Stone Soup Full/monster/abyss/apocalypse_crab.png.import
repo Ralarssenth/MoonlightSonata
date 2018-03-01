@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/apocalypse_crab.png-c1e9bfc92b6491ba2e65df93065d3374.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/abyss/apocalypse_crab.png"
+source_md5="2052fa0a1c56e30661ad301fe9b47ede"
+
+dest_files=[ "res://.import/apocalypse_crab.png-c1e9bfc92b6491ba2e65df93065d3374.stex" ]
+dest_md5="f1563af3b6b7debe6a31753d5eff5187"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

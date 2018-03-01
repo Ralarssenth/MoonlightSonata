@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/stonemail.png-eb70fb998bcca2b26ff6f4853c3aa05c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/stonemail.png"
+source_md5="04ee1a17c2e8024e8f153ad2e73984fc"
+
+dest_files=[ "res://.import/stonemail.png-eb70fb998bcca2b26ff6f4853c3aa05c.stex" ]
+dest_md5="9fa0e85caca4a785f545edeecd8d2698"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

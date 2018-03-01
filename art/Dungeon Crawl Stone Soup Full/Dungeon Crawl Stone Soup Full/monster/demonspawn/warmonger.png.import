@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/warmonger.png-b3d8411fb30c6ac9103a25b0e60ef2d5.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/demonspawn/warmonger.png"
+source_md5="b9ff248060e319382820bb99362cb971"
+
+dest_files=[ "res://.import/warmonger.png-b3d8411fb30c6ac9103a25b0e60ef2d5.stex" ]
+dest_md5="e951b1ad8e094acff45973caeb78a26c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

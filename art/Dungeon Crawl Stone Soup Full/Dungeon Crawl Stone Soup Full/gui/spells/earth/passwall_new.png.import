@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/passwall_new.png-9462a7aa53b6e01a7b188e09a718e952.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/earth/passwall_new.png"
+source_md5="64b7530fb6c0468ce97635de44bf8f37"
+
+dest_files=[ "res://.import/passwall_new.png-9462a7aa53b6e01a7b188e09a718e952.stex" ]
+dest_md5="01359e80094a2b30547b26095920774c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

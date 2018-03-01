@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/simulacrum_small_old.png-744ee86b5fff431e45213718526593a2.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/undead/simulacra/simulacrum_small_old.png"
+source_md5="c9b3d27d7cc82e379cba1e1de0e6d217"
+
+dest_files=[ "res://.import/simulacrum_small_old.png-744ee86b5fff431e45213718526593a2.stex" ]
+dest_md5="ac47bf6165abf201f7b587c3037dd58c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/dark_vine_statue_base_new.png-e5cadf7bf71204fd4a5b0ace2e5b166f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/statues/dark_vine_statue_base_new.png"
+source_md5="039903b24e9fd7838bbc10c63ae5f547"
+
+dest_files=[ "res://.import/dark_vine_statue_base_new.png-e5cadf7bf71204fd4a5b0ace2e5b166f.stex" ]
+dest_md5="a90a49ade7dc12063da731e0e7030b03"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

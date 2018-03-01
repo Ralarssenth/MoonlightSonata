@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/tentacled_monstrosity.png-f7424143bcd607fd079ae5adb7894e09.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/demons/tentacled_monstrosity.png"
+source_md5="d4ef55be3982e7ee3060a5deacfe770c"
+
+dest_files=[ "res://.import/tentacled_monstrosity.png-f7424143bcd607fd079ae5adb7894e09.stex" ]
+dest_md5="e6f6e036422e36bb0815b5dcbf19a814"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

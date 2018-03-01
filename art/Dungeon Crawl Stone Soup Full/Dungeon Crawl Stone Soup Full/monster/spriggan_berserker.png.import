@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spriggan_berserker.png-89e812e2ec0bf2b937df90ad41d69833.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/spriggan_berserker.png"
+source_md5="04c13c149f31abdc67c94e906e7e8746"
+
+dest_files=[ "res://.import/spriggan_berserker.png-89e812e2ec0bf2b937df90ad41d69833.stex" ]
+dest_md5="b529e0e6bfe307c553b5c233f0a83ba8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

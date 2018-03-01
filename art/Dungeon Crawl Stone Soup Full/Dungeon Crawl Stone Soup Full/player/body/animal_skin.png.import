@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/animal_skin.png-53d7302544004fc5a933594c8dae237e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/body/animal_skin.png"
+source_md5="f3ff1e0725301afb5fea8bf32a4cfa95"
+
+dest_files=[ "res://.import/animal_skin.png-53d7302544004fc5a933594c8dae237e.stex" ]
+dest_md5="4538c0f4c4c8f6d831213cc9058ad28a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

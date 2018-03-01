@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/feather_green.png-91599efe43bf317bb697d771d57e10a9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/head/feather_green.png"
+source_md5="faeb7642035a8bea21b1f7a903c96a29"
+
+dest_files=[ "res://.import/feather_green.png-91599efe43bf317bb697d771d57e10a9.stex" ]
+dest_md5="ba99898954b1667664ce4797b2ce58ca"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

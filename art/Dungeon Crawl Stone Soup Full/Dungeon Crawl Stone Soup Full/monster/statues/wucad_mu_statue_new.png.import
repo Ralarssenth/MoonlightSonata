@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/wucad_mu_statue_new.png-01cb620d461652b49aed44b0c6dec6ea.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/statues/wucad_mu_statue_new.png"
+source_md5="5ff10864cf034bac8b4749b0a089dba0"
+
+dest_files=[ "res://.import/wucad_mu_statue_new.png-01cb620d461652b49aed44b0c6dec6ea.stex" ]
+dest_md5="26a94d2e33adae92748ddfe51e4760e1"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

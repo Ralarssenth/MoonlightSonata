@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/great_staff.png-46eb5f0b63b3c01680d8fecb60bac420.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/great_staff.png"
+source_md5="81c8f20079e534348feeb79a358e27cf"
+
+dest_files=[ "res://.import/great_staff.png-46eb5f0b63b3c01680d8fecb60bac420.stex" ]
+dest_md5="51e7691210eca69bd145c9e56c2ee4ef"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shadow_imp_new.png-7b53047c37848bb8cfdb4ad9e1b18a27.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/demons/shadow_imp_new.png"
+source_md5="1558dc319931376d89f7f77df9db87f2"
+
+dest_files=[ "res://.import/shadow_imp_new.png-7b53047c37848bb8cfdb4ad9e1b18a27.stex" ]
+dest_md5="f32964b2beda93e483d142bb949c689f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

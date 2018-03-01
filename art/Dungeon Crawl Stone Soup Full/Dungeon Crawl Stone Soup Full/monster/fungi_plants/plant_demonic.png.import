@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/plant_demonic.png-6b8bd0e298798887899ad8b012ea3585.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/fungi_plants/plant_demonic.png"
+source_md5="496358680eee1e8efc29207b77f86af4"
+
+dest_files=[ "res://.import/plant_demonic.png-6b8bd0e298798887899ad8b012ea3585.stex" ]
+dest_md5="081076441358303a7d88bebdb71c294b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

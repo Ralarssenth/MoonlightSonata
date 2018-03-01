@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ice_storm_new.png-585b91a8b5a9a3a3c7df9b17a2ede238.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/ice/ice_storm_new.png"
+source_md5="97ddff23f297a1dd3fe3487165ccc7bd"
+
+dest_files=[ "res://.import/ice_storm_new.png-585b91a8b5a9a3a3c7df9b17a2ede238.stex" ]
+dest_md5="6c749e33bda115060e7ae946dc2d9ddf"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

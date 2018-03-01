@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/smoke_demon_old.png-efbb01d8544f77b56936407d04721880.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/demons/smoke_demon_old.png"
+source_md5="a866599dba248acbd909f788238a6478"
+
+dest_files=[ "res://.import/smoke_demon_old.png-efbb01d8544f77b56936407d04721880.stex" ]
+dest_md5="10f9c9be65434b50481cfe60210ea663"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

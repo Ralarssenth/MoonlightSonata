@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/orb_spider.png-6ff8119490fa048e2deea2787e830f60.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/orb_spider.png"
+source_md5="e6eb35fd4e76872faa73dd92ae9b85fa"
+
+dest_files=[ "res://.import/orb_spider.png-6ff8119490fa048e2deea2787e830f60.stex" ]
+dest_md5="904a1dd37d785d421f5672f4cb46da99"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

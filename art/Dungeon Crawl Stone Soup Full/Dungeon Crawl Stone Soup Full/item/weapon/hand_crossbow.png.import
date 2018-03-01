@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/hand_crossbow.png-d0b26bf9805a23dcafc533e3f4bca2b0.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/hand_crossbow.png"
+source_md5="2fb2c1fc441bc6b77ae14ea5c9d86c87"
+
+dest_files=[ "res://.import/hand_crossbow.png-d0b26bf9805a23dcafc533e3f4bca2b0.stex" ]
+dest_md5="4aa5015ddf25379ed23795e435aac150"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

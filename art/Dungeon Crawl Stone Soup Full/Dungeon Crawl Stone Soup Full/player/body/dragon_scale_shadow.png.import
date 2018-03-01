@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/dragon_scale_shadow.png-b98ae87b5ad719616a6b9dff877c66f9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/body/dragon_scale_shadow.png"
+source_md5="53359728c4856abb94f8e0c9d2ad2f7e"
+
+dest_files=[ "res://.import/dragon_scale_shadow.png-b98ae87b5ad719616a6b9dff877c66f9.stex" ]
+dest_md5="24d2d459bb407a804584a1c8ae6d3cb0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

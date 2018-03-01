@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/magic_bolt_5.png-615102e30175ee6011bd120a5fcaab14.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/magic_bolt_5.png"
+source_md5="c60c9be88f0414bc3d71e4e8a6f62fba"
+
+dest_files=[ "res://.import/magic_bolt_5.png-615102e30175ee6011bd120a5fcaab14.stex" ]
+dest_md5="e2359b1cc0ba1f564e2dbb181710cce7"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

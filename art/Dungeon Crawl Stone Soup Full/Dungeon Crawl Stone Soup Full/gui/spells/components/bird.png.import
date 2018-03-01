@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/bird.png-e9d4db2c424b1154a398815aa8c3bc7f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/components/bird.png"
+source_md5="e2539b2ab552b7ace79674a2658fa24c"
+
+dest_files=[ "res://.import/bird.png-e9d4db2c424b1154a398815aa8c3bc7f.stex" ]
+dest_md5="14060fb44c95742c41206a381fe39136"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

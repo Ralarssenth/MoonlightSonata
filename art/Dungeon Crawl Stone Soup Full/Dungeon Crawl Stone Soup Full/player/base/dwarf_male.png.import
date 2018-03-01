@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/dwarf_male.png-9a132c7706b70d23b4c2640502e57f8d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/base/dwarf_male.png"
+source_md5="c07843ad4c85c89e22d51a72dae277ee"
+
+dest_files=[ "res://.import/dwarf_male.png-9a132c7706b70d23b4c2640502e57f8d.stex" ]
+dest_md5="7e183d8f4e680f665fe36c31c2c6ece0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

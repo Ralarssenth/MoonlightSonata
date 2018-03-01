@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/war_dog.png-a9b74476d07d174726d64f04e6487a45.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/war_dog.png"
+source_md5="1052bd287d5211f74634dd4668062d87"
+
+dest_files=[ "res://.import/war_dog.png-a9b74476d07d174726d64f04e6487a45.stex" ]
+dest_md5="78e8801cbcc17bd18f7cca851142bf47"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

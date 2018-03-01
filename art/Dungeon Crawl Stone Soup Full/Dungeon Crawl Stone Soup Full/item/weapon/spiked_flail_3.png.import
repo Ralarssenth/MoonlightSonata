@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spiked_flail_3.png-ae559a614c5f9003027a7a4c56cc4569.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/spiked_flail_3.png"
+source_md5="52426e837b192b987e0f5264ce4a40f4"
+
+dest_files=[ "res://.import/spiked_flail_3.png-ae559a614c5f9003027a7a4c56cc4569.stex" ]
+dest_md5="a5e2a91695ada3f82f0f2db924597080"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

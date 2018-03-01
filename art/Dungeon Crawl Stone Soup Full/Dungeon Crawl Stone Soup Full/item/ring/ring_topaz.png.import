@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ring_topaz.png-09f76a18fafc6ef36cdc9e588a8b87ae.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/ring/ring_topaz.png"
+source_md5="233e877fe544ab95fd5b3a08b1ab53a3"
+
+dest_files=[ "res://.import/ring_topaz.png-09f76a18fafc6ef36cdc9e588a8b87ae.stex" ]
+dest_md5="eb67f7fe872da2f8abab1eaf98dfc5e6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

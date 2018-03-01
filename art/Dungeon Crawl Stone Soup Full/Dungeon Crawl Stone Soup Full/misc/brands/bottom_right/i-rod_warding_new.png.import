@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-rod_warding_new.png-e3f78760afcaa0da0e6903af0723aaeb.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/bottom_right/i-rod_warding_new.png"
+source_md5="6e18d785d0460b3d54dcf6e665c6db76"
+
+dest_files=[ "res://.import/i-rod_warding_new.png-e3f78760afcaa0da0e6903af0723aaeb.stex" ]
+dest_md5="a90ac8d87d24f1267f35fa53a37c62be"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

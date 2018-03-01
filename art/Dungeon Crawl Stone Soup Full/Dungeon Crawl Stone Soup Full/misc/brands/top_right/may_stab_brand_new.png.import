@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/may_stab_brand_new.png-65696fba6a4135e7310a2341506df89a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/top_right/may_stab_brand_new.png"
+source_md5="a10d4b1192471ae821dea9e2e67248ae"
+
+dest_files=[ "res://.import/may_stab_brand_new.png-65696fba6a4135e7310a2341506df89a.stex" ]
+dest_md5="22393aedc15a48c6309fbaebab790e2f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

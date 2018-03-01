@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/altar_jiyva_7.png-fe7981d9eae202ee3594a5a3e7573929.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/altars/altar_jiyva_7.png"
+source_md5="912ada1544bd7a1b329e4825ca2fb7d2"
+
+dest_files=[ "res://.import/altar_jiyva_7.png-fe7981d9eae202ee3594a5a3e7573929.stex" ]
+dest_md5="299bf66a2503dfafe888d42b8c104bd4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/detect_creatures.png-7285d9aa776cca5eb9d64d8a836a775c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/divination/detect_creatures.png"
+source_md5="02a20190558fe02d8c396c2c5c6e958d"
+
+dest_files=[ "res://.import/detect_creatures.png-7285d9aa776cca5eb9d64d8a836a775c.stex" ]
+dest_md5="3e3cd3ab2da247e61f3a1e62c2d65764"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

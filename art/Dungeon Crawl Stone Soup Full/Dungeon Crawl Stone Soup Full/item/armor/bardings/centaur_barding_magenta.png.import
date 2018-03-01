@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/centaur_barding_magenta.png-bc4092827d64e4c33b922921d5062b25.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/bardings/centaur_barding_magenta.png"
+source_md5="28f90f6317169a0de15bb10ba512df68"
+
+dest_files=[ "res://.import/centaur_barding_magenta.png-bc4092827d64e4c33b922921d5062b25.stex" ]
+dest_md5="698d77cd83221ebd7d2bf9ef027757ca"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

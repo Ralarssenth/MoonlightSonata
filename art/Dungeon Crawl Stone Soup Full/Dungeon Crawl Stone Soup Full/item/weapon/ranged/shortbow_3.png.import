@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shortbow_3.png-4d648cdc45b1bef6e3fb96330b99004b.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/ranged/shortbow_3.png"
+source_md5="5d7e97ec7a70e4e7d384d479962f86d8"
+
+dest_files=[ "res://.import/shortbow_3.png-4d648cdc45b1bef6e3fb96330b99004b.stex" ]
+dest_md5="b092be4fc2fd61db5f284b5dd573c076"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

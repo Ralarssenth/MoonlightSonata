@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/book_of_the_dead_old.png-76a1e568711a9c0d93ed5869942b312b.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/book/book_of_the_dead_old.png"
+source_md5="eec2acbc668bafe4afa12f9645e05b0d"
+
+dest_files=[ "res://.import/book_of_the_dead_old.png-76a1e568711a9c0d93ed5869942b312b.stex" ]
+dest_md5="93cf86be878ebe6c42781662b331a3ad"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

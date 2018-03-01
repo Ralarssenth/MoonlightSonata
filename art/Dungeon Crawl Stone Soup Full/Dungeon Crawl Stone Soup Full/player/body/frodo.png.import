@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/frodo.png-1559d196248b8d2053c8df07548b7ea8.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/body/frodo.png"
+source_md5="f854ff9d5cbb056564a85d8f698f4348"
+
+dest_files=[ "res://.import/frodo.png-1559d196248b8d2053c8df07548b7ea8.stex" ]
+dest_md5="f242d74f3f9951ab9c4b92205a1da2f9"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

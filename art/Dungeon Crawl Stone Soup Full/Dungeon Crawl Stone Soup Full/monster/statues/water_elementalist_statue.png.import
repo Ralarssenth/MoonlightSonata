@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/water_elementalist_statue.png-568b7b8603ac2b1ab08b11bd2fc4a0e3.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/statues/water_elementalist_statue.png"
+source_md5="441bba098ca4cf33201e58ba1a13818e"
+
+dest_files=[ "res://.import/water_elementalist_statue.png-568b7b8603ac2b1ab08b11bd2fc4a0e3.stex" ]
+dest_md5="aae75be3ec74cade9e6b5d4e34e3022e"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

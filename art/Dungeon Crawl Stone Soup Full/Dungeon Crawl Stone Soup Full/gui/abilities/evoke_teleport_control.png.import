@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/evoke_teleport_control.png-d99e7e63f9ab6c0086770530d3dc87d5.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/abilities/evoke_teleport_control.png"
+source_md5="2ace5cce9407de263ac26fd84d6edf8e"
+
+dest_files=[ "res://.import/evoke_teleport_control.png-d99e7e63f9ab6c0086770530d3dc87d5.stex" ]
+dest_md5="7a252fd9b3e265d83bf93e64ceed8010"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

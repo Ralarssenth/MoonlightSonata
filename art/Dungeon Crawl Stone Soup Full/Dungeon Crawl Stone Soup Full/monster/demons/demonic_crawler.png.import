@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/demonic_crawler.png-ae615c2a8122684f00f06ab6edf7ef06.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/demons/demonic_crawler.png"
+source_md5="0bf846300012a5875bcb03d09674ef2f"
+
+dest_files=[ "res://.import/demonic_crawler.png-ae615c2a8122684f00f06ab6edf7ef06.stex" ]
+dest_md5="8b2c4233e8c4c60c4726da1a471e2eb7"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

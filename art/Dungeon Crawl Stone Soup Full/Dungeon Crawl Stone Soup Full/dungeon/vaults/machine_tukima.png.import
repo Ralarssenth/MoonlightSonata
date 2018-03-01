@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/machine_tukima.png-2b1a2e21d010ae8bdeafdab17c984e65.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/vaults/machine_tukima.png"
+source_md5="f20c6d5cd219962b7b7d9eea7281f5d4"
+
+dest_files=[ "res://.import/machine_tukima.png-2b1a2e21d010ae8bdeafdab17c984e65.stex" ]
+dest_md5="59026aeae4aa77b23571626ee6dff257"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

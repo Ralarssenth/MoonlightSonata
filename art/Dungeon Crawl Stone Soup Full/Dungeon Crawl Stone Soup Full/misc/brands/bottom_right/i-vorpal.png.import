@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-vorpal.png-3c79598f9cc2a323773b001f6081dd7b.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/bottom_right/i-vorpal.png"
+source_md5="6f6da0027f23cd89d0d5567c814517f8"
+
+dest_files=[ "res://.import/i-vorpal.png-3c79598f9cc2a323773b001f6081dd7b.stex" ]
+dest_md5="e55e89f21c3513a6db1d72b866a8cfb4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

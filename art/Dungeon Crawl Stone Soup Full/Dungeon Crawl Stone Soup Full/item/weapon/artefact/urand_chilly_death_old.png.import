@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/urand_chilly_death_old.png-4ce4de8cf166e9db7f7e348dc13d9a8b.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/artefact/urand_chilly_death_old.png"
+source_md5="ea5d102691a5f6ab6c9bd10fcccf1730"
+
+dest_files=[ "res://.import/urand_chilly_death_old.png-4ce4de8cf166e9db7f7e348dc13d9a8b.stex" ]
+dest_md5="3eddde58778c291d4528f2aaff02a825"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/pick_axe.png-0c7e4d4ade32d81bf6392b1b4d4ede83.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/pick_axe.png"
+source_md5="bd9d5d3307c394038eb178ad2210ae68"
+
+dest_files=[ "res://.import/pick_axe.png-0c7e4d4ade32d81bf6392b1b4d4ede83.stex" ]
+dest_md5="638c784a898cdb710045b09057d8816a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

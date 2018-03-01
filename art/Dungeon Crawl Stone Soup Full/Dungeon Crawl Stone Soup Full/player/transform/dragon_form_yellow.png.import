@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/dragon_form_yellow.png-f3a1e07fd6fdef7ff2eb7b13aef1c8a1.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/transform/dragon_form_yellow.png"
+source_md5="f520ae1c19454a0adf411630c422d595"
+
+dest_files=[ "res://.import/dragon_form_yellow.png-f3a1e07fd6fdef7ff2eb7b13aef1c8a1.stex" ]
+dest_md5="5b8fcc603895da6d54c437bb899406dc"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

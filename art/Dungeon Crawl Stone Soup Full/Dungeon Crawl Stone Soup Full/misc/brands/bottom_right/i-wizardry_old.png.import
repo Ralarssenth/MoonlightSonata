@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-wizardry_old.png-0548cdd9587df250ede0bbb91097e664.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/bottom_right/i-wizardry_old.png"
+source_md5="2e4596684bb8962705dd35b2c8780c6e"
+
+dest_files=[ "res://.import/i-wizardry_old.png-0548cdd9587df250ede0bbb91097e664.stex" ]
+dest_md5="be571f6626acc97639194eb7acb23498"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

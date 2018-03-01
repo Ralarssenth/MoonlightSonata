@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/mushroom_form.png-01c9944e386fbf908b3d99bb44380af6.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/transform/mushroom_form.png"
+source_md5="37148f43a9aecf91a070e33d13d5bea3"
+
+dest_files=[ "res://.import/mushroom_form.png-01c9944e386fbf908b3d99bb44380af6.stex" ]
+dest_md5="c1e46d2eca784184998c0267b4330149"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

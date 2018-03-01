@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/find_you.png-73f7bc9b02dd6f11bf8ea0a2aad7f512.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/commands/find_you.png"
+source_md5="bb5751d90fe7594961e0f1dc7c84ac2b"
+
+dest_files=[ "res://.import/find_you.png-73f7bc9b02dd6f11bf8ea0a2aad7f512.stex" ]
+dest_md5="524ee8834fc12c8dcc3e89a1c6bf9189"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

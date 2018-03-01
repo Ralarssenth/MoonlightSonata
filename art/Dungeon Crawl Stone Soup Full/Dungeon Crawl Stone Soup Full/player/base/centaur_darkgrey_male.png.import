@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/centaur_darkgrey_male.png-98423ad94a9a7d6f9bde2ea0c0cc9b1a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/base/centaur_darkgrey_male.png"
+source_md5="b162ce6d0ccdbe3ea7b595e58375a6a3"
+
+dest_files=[ "res://.import/centaur_darkgrey_male.png-98423ad94a9a7d6f9bde2ea0c0cc9b1a.stex" ]
+dest_md5="ad425c2fcd6082fc5cfc4cfe3a3e83a8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

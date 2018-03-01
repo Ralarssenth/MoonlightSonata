@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ru_sacrifice_durability.png-e1d923505fc126724d28a664caf7e82b.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/invocations/ru_sacrifice_durability.png"
+source_md5="8d03310ecd70f91994a18a36fa376337"
+
+dest_files=[ "res://.import/ru_sacrifice_durability.png-e1d923505fc126724d28a664caf7e82b.stex" ]
+dest_md5="6124dc459396e92fb1d1d10ce42dda6f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

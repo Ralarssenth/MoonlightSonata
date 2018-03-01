@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/human.png-8e447c8b4f2e0deaf9d6fc8909f2b3c8.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/human.png"
+source_md5="85655a3acee32a44d59c907bfa204b91"
+
+dest_files=[ "res://.import/human.png-8e447c8b4f2e0deaf9d6fc8909f2b3c8.stex" ]
+dest_md5="bfc6d488c90307e03529c464d1fb7ad3"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

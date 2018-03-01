@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/cloud_calc_dust_0.png-95795c469d70bbf66e91cfed7e79155d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/cloud_calc_dust_0.png"
+source_md5="ecd01c7d438076ee3fc00acfd418fd47"
+
+dest_files=[ "res://.import/cloud_calc_dust_0.png-95795c469d70bbf66e91cfed7e79155d.stex" ]
+dest_md5="5dad0dcd25f7159ac60f2a7744ba35a4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

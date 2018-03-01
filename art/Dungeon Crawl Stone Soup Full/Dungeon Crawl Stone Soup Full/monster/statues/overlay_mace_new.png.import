@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/overlay_mace_new.png-e5f8d37213cc4166db12769161f0d8e9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/statues/overlay_mace_new.png"
+source_md5="c320152b0a98a40c69138107a6cbe072"
+
+dest_files=[ "res://.import/overlay_mace_new.png-e5f8d37213cc4166db12769161f0d8e9.stex" ]
+dest_md5="9ef1023bbc063eb27247f2d0dc296970"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

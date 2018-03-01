@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/mold_glowing_3.png-89fc2dc33abaea2e653791be8601987e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/mold_glowing_3.png"
+source_md5="ece76e7b6ff74629514ec47b82d2df04"
+
+dest_files=[ "res://.import/mold_glowing_3.png-89fc2dc33abaea2e653791be8601987e.stex" ]
+dest_md5="e091b8901174b9196cd9431d6c7afeae"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

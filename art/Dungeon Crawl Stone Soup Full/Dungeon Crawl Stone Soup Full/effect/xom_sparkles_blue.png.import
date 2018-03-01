@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/xom_sparkles_blue.png-ddde17d293d86e278dd13bd1dd9ca2e1.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/xom_sparkles_blue.png"
+source_md5="eb49cde2b7fd1449dd7a51a85415d8bd"
+
+dest_files=[ "res://.import/xom_sparkles_blue.png-ddde17d293d86e278dd13bd1dd9ca2e1.stex" ]
+dest_md5="58c9174295bedbc8b4000a6d07241480"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

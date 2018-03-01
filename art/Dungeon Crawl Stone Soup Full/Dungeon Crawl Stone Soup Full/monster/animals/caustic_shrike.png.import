@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/caustic_shrike.png-68a4c8d9e76d2be5325425a166290323.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/caustic_shrike.png"
+source_md5="e49e89791d246859fec395a0d192e2f0"
+
+dest_files=[ "res://.import/caustic_shrike.png-68a4c8d9e76d2be5325425a166290323.stex" ]
+dest_md5="02e284bb7a6c6d6a81212b3d2449c1a2"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

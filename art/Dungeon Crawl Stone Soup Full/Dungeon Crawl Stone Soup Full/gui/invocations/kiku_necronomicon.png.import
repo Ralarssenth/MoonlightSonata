@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/kiku_necronomicon.png-d1bec4c2b8af8b8c46cec0588a69f51d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/invocations/kiku_necronomicon.png"
+source_md5="ded55d785a938a781b0f40b7261f70e1"
+
+dest_files=[ "res://.import/kiku_necronomicon.png-d1bec4c2b8af8b8c46cec0588a69f51d.stex" ]
+dest_md5="9f30f5ea870c4187db0867e492068776"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/buckler_round_2.png-5e2859e6fac343891e75dbb9a8de6547.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_left/buckler_round_2.png"
+source_md5="e26add135f0a466bfbee63a4a9c7483a"
+
+dest_files=[ "res://.import/buckler_round_2.png-5e2859e6fac343891e75dbb9a8de6547.stex" ]
+dest_md5="0f0bb6f76380ba66136129615273c0d3"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

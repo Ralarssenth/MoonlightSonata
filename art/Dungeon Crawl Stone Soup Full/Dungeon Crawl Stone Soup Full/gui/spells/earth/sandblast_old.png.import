@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/sandblast_old.png-2ec6dfc6cde8466ee1c8207f2e48dfe6.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/earth/sandblast_old.png"
+source_md5="22eec073efeffa2d21205729fbc868cc"
+
+dest_files=[ "res://.import/sandblast_old.png-2ec6dfc6cde8466ee1c8207f2e48dfe6.stex" ]
+dest_md5="d6791cdd0a3b082909b02b6a306cea01"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

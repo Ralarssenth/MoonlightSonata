@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/cause_fear_old.png-6302743d9440c431a544f65488fa9a7c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/enchantment/cause_fear_old.png"
+source_md5="36b639de1c6263b8fc535742ccf8d0a6"
+
+dest_files=[ "res://.import/cause_fear_old.png-6302743d9440c431a544f65488fa9a7c.stex" ]
+dest_md5="ec37ee506b685bd5973451e01d9c8d19"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

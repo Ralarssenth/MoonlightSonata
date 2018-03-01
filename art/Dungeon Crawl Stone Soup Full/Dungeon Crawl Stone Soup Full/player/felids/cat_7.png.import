@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/cat_7.png-ce65f6ebe754e3f696e44c16d3f604fd.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/felids/cat_7.png"
+source_md5="b9698e088106e51f3379978f1b827ffe"
+
+dest_files=[ "res://.import/cat_7.png-ce65f6ebe754e3f696e44c16d3f604fd.stex" ]
+dest_md5="853259cb76e46c60b94837b952fb9b90"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

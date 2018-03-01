@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/orcish_glaive.png-82b65323e06d986c23077fc8fb94645c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/orcish_glaive.png"
+source_md5="ece9ba245e01813eb58986b0a053c571"
+
+dest_files=[ "res://.import/orcish_glaive.png-82b65323e06d986c23077fc8fb94645c.stex" ]
+dest_md5="6e2b7f19174aaa9fe4a0451d5db54417"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

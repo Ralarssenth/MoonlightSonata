@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/merfolk_female.png-01bb5213b4d82b15c6098ee763a6e34d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/base/merfolk_female.png"
+source_md5="50c6f08f0582c2cf2465e57a09554ab5"
+
+dest_files=[ "res://.import/merfolk_female.png-01bb5213b4d82b15c6098ee763a6e34d.stex" ]
+dest_md5="e02992b18a464ce8ef7e3a1a923a12d0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

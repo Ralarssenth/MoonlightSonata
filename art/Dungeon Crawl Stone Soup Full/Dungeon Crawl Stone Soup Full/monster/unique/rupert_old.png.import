@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/rupert_old.png-eb2120b40ee0d8bcbb5e6019545b9aa1.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/rupert_old.png"
+source_md5="35a80b72aad984986c5fc7afbdb79112"
+
+dest_files=[ "res://.import/rupert_old.png-eb2120b40ee0d8bcbb5e6019545b9aa1.stex" ]
+dest_md5="b8750bf3bde2c051ebaff62649ef89b2"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/book_green.png-dc42a9d5e682b755e5bb6857b2b50fb2.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_left/misc/book_green.png"
+source_md5="b16613a9d411df124e532d0ca6a5eb07"
+
+dest_files=[ "res://.import/book_green.png-dc42a9d5e682b755e5bb6857b2b50fb2.stex" ]
+dest_md5="3da2486d7c6d69f226c94215e815f8dc"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

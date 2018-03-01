@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/sigil_straight_northwest_southeast.png-f64d8fd5a4e1b6f6d1ce3b21e9046f48.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigil_straight_northwest_southeast.png"
+source_md5="2915dade3e6500d3a98e37f91703c955"
+
+dest_files=[ "res://.import/sigil_straight_northwest_southeast.png-f64d8fd5a4e1b6f6d1ce3b21e9046f48.stex" ]
+dest_md5="262ba719e0ab8e348dbbc67fd1f14bfa"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

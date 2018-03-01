@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/copper.png-ce072b3e4f6472de39558e4503739118.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/book/copper.png"
+source_md5="835cbcb1e332ceac2506624c278f1bdc"
+
+dest_files=[ "res://.import/copper.png-ce072b3e4f6472de39558e4503739118.stex" ]
+dest_md5="06c2c5216e0b5a3a67e8c151b1d0f781"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

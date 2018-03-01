@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-cancel.png-cc4bc8ea3dda0dbc6efaf1ad76cab6df.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/bottom_right/i-cancel.png"
+source_md5="6a9b94ab873646c77043ca9f0c063f70"
+
+dest_files=[ "res://.import/i-cancel.png-cc4bc8ea3dda0dbc6efaf1ad76cab6df.stex" ]
+dest_md5="e730dc5339e45594a5727ec2a7cd51d0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

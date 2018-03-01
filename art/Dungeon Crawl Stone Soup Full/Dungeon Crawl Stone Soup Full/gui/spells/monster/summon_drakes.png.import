@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/summon_drakes.png-320c5675acd961496fb3248c1d839b8f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/monster/summon_drakes.png"
+source_md5="ff59ed445d7e3c503ca0e062e4c8599f"
+
+dest_files=[ "res://.import/summon_drakes.png-320c5675acd961496fb3248c1d839b8f.stex" ]
+dest_md5="5e0c6fcc2ee203d74df0f06975fbf24c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

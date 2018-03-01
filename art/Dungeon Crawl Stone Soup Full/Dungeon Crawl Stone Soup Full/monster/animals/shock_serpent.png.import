@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shock_serpent.png-1a89004476ba9852405b071e455895c5.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/shock_serpent.png"
+source_md5="88c28b5f2f99c8e205b014689c0055c1"
+
+dest_files=[ "res://.import/shock_serpent.png-1a89004476ba9852405b071e455895c5.stex" ]
+dest_md5="03762a3c781f6cf581ae128f3c22aae4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

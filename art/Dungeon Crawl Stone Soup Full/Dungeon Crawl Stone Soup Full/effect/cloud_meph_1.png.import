@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/cloud_meph_1.png-294634dafbb5ef4e3f9e4f64a64231a3.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/cloud_meph_1.png"
+source_md5="cc782aa666deeefd9d9e586338e14455"
+
+dest_files=[ "res://.import/cloud_meph_1.png-294634dafbb5ef4e3f9e4f64a64231a3.stex" ]
+dest_md5="c210aa063f1362fce585395afd3ba20f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

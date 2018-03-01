@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/gold_blue.png-669af982aa8ca56cca1b8a1ffba8f541.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/ring/gold_blue.png"
+source_md5="3e5f2979b56e84fd22b6077305f00b85"
+
+dest_files=[ "res://.import/gold_blue.png-669af982aa8ca56cca1b8a1ffba8f541.stex" ]
+dest_md5="6f87c810c2120bb2bd0d4c15d0926966"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

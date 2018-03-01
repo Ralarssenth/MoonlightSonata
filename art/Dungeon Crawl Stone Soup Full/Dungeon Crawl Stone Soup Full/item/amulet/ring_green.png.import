@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ring_green.png-b00bc8d4cea64b8011f284326bfbf92c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/amulet/ring_green.png"
+source_md5="71ba4e759d5f9a068f9fb6587bd73369"
+
+dest_files=[ "res://.import/ring_green.png-b00bc8d4cea64b8011f284326bfbf92c.stex" ]
+dest_md5="9c83706a457898f2ee2d4ae8b7f7472c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

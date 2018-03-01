@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/gargoyle_female.png-0b52083151670569fdc6630df50f16b0.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/base/gargoyle_female.png"
+source_md5="f550d2367432a5759163580b5f19b5bc"
+
+dest_files=[ "res://.import/gargoyle_female.png-0b52083151670569fdc6630df50f16b0.stex" ]
+dest_md5="02c2388b4df22aac6749c5e49efdf245"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/staves.png-428863558a3eb2a840d1ca7a7144229b.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/skills/staves.png"
+source_md5="86b8e975c87204a3565185ccf594aa63"
+
+dest_files=[ "res://.import/staves.png-428863558a3eb2a840d1ca7a7144229b.stex" ]
+dest_md5="9bfe492b630417554b90a57e5b1e68b0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

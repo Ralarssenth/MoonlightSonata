@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/zombie_ogre.png-7504844f4b02b488eba2b74e3d3c70fe.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/undead/zombies/zombie_ogre.png"
+source_md5="20758ea1c82645f2bae82fee44ea2f40"
+
+dest_files=[ "res://.import/zombie_ogre.png-7504844f4b02b488eba2b74e3d3c70fe.stex" ]
+dest_md5="b10852c3843cf1030a8cea0bafaaa789"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

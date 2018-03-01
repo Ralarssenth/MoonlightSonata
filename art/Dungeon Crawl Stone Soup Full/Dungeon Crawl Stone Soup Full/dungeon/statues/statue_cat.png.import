@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/statue_cat.png-770368c18bdd4970109952568623432f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/statues/statue_cat.png"
+source_md5="eb3f7b41ecf3d6a9c5bfa406fd20237a"
+
+dest_files=[ "res://.import/statue_cat.png-770368c18bdd4970109952568623432f.stex" ]
+dest_md5="0ecafc77d12390992d6244e388a7b3ab"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

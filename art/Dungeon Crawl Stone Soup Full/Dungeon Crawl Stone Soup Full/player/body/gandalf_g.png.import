@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/gandalf_g.png-5715ced88b74ff57b1615f9ef20f3d82.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/body/gandalf_g.png"
+source_md5="62990e5b321f5dec79e1bcd8d42ab9d2"
+
+dest_files=[ "res://.import/gandalf_g.png-5715ced88b74ff57b1615f9ef20f3d82.stex" ]
+dest_md5="41a4ff7cd312577848c3957db8f0dc82"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/deathcap.png-5e2e7492f40d0f792dc7cd90244644fb.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/fungi_plants/deathcap.png"
+source_md5="4f70b9dbddab96aab296cf84889b09e6"
+
+dest_files=[ "res://.import/deathcap.png-5e2e7492f40d0f792dc7cd90244644fb.stex" ]
+dest_md5="5f37c9511ef9357072af9316dcdcf5d8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

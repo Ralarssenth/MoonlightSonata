@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/death_ooze_old.png-c03310d77225ad5cfc96eb9641a958f2.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/amorphous/death_ooze_old.png"
+source_md5="a62e859616e542be938b472a1ea164fa"
+
+dest_files=[ "res://.import/death_ooze_old.png-c03310d77225ad5cfc96eb9641a958f2.stex" ]
+dest_md5="80b5c7bf268e9ca83596a67e9bcedad7"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

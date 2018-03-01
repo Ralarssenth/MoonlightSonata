@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/hyperactive_ballistomycete.png-e45141f476320a2e2111de2c7ee6dcb9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/fungi_plants/hyperactive_ballistomycete.png"
+source_md5="29b2db185f10f9c31ec1d3ce8767bdf1"
+
+dest_files=[ "res://.import/hyperactive_ballistomycete.png-e45141f476320a2e2111de2c7ee6dcb9.stex" ]
+dest_md5="7b107eee777ccda135f80e2d6c19f53e"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

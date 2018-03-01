@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/searing_ray_4.png-de2afac19bf5939258c3714228e87d9a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/searing_ray_4.png"
+source_md5="3118de91d2f1aa7d2d0a769a8ddc49ea"
+
+dest_files=[ "res://.import/searing_ray_4.png-de2afac19bf5939258c3714228e87d9a.stex" ]
+dest_md5="6e2f75f51105406ee9f621964a740667"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

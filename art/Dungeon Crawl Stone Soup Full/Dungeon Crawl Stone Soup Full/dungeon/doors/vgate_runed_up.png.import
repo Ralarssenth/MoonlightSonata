@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/vgate_runed_up.png-839acdf5ef2d277f1ec5b52fbb348e4a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/doors/vgate_runed_up.png"
+source_md5="5c435cc5894e096955e0e90e88c4e838"
+
+dest_files=[ "res://.import/vgate_runed_up.png-839acdf5ef2d277f1ec5b52fbb348e4a.stex" ]
+dest_md5="719b3302a17635470135884a3f92c553"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

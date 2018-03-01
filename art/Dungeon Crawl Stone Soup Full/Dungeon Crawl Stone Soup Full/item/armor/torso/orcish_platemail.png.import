@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/orcish_platemail.png-b2edd5697a764e78aa5322a65228c72c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/torso/orcish_platemail.png"
+source_md5="9d66fec135402ed3e661302e95239962"
+
+dest_files=[ "res://.import/orcish_platemail.png-b2edd5697a764e78aa5322a65228c72c.stex" ]
+dest_md5="8b98bc4c027e0277a8c3692d9ac56969"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/azrael.png-cf355d6c7d94150326767e873cfe1931.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/azrael.png"
+source_md5="51842c1f831800d1b15f7841b24435db"
+
+dest_files=[ "res://.import/azrael.png-cf355d6c7d94150326767e873cfe1931.stex" ]
+dest_md5="0faf80a7be828ce10231a53be5eea1a0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

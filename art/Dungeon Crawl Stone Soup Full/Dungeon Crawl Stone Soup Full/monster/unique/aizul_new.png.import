@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/aizul_new.png-8e538a8e29e91d7aeeab8d4e6bfcfee1.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/aizul_new.png"
+source_md5="e773d1606681c482d0055df92b643d56"
+
+dest_files=[ "res://.import/aizul_new.png-8e538a8e29e91d7aeeab8d4e6bfcfee1.stex" ]
+dest_md5="5d6a6bec89bd8e72ecb542310dcc3713"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

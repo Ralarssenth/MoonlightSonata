@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/sting_new.png-8b4eb9fd8dbb5dc78f4e1432d944110a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/poison/sting_new.png"
+source_md5="23bfdfc0881f12dce8c49ddd453e72aa"
+
+dest_files=[ "res://.import/sting_new.png-8b4eb9fd8dbb5dc78f4e1432d944110a.stex" ]
+dest_md5="7c63e11ca0c8554430f54897089b0247"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

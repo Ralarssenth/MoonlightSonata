@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/orb_of_fire_old.png-0016e92a5a6071ac7890356a0d457e8a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/nonliving/orb_of_fire_old.png"
+source_md5="24144b02bf07b47e1a1c15af330d7621"
+
+dest_files=[ "res://.import/orb_of_fire_old.png-0016e92a5a6071ac7890356a0d457e8a.stex" ]
+dest_md5="6a6aa986a03e1270b89512aa6aaf803d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

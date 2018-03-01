@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/gargoyle.png-a95852f1ecbc0cbb6d578d6ff2d1e02d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/nonliving/gargoyle.png"
+source_md5="fb3b1fe2fe9adfb9657890548516884e"
+
+dest_files=[ "res://.import/gargoyle.png-a95852f1ecbc0cbb6d578d6ff2d1e02d.stex" ]
+dest_md5="4980c19d6a6d76e979f9e7b354ed216b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

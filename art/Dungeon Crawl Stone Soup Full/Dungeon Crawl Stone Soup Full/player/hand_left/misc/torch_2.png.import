@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/torch_2.png-0fe7a5282503012081376f82a6d434d5.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_left/misc/torch_2.png"
+source_md5="8c26f5800d999d66c7b1c43bf9005ba3"
+
+dest_files=[ "res://.import/torch_2.png-0fe7a5282503012081376f82a6d434d5.stex" ]
+dest_md5="134f39a1d80c8848ee581d005919dfe1"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

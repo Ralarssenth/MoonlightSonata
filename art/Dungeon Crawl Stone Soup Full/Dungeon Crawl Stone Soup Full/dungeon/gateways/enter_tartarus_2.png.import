@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/enter_tartarus_2.png-cf61eee74451fa1206a5b6e52578de12.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/gateways/enter_tartarus_2.png"
+source_md5="ec07b032540dced5ce8c60cc7e0880f3"
+
+dest_files=[ "res://.import/enter_tartarus_2.png-cf61eee74451fa1206a5b6e52578de12.stex" ]
+dest_md5="9ef0e85f9256572b4842a78aa361fe6a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

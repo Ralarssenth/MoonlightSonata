@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/rod_3_new.png-459e65c25882fbecfc3c02e665d812e2.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/rod/rod_3_new.png"
+source_md5="7f223036ee6271c6319fd8d5f2455720"
+
+dest_files=[ "res://.import/rod_3_new.png-459e65c25882fbecfc3c02e665d812e2.stex" ]
+dest_md5="c0590d2a4b7bbc9b2ac77f6c24f1d6c9"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

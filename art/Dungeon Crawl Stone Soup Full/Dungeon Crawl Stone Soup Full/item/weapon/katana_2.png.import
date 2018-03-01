@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/katana_2.png-4805acf5f523fd7d2d9fd376e4ada9ba.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/katana_2.png"
+source_md5="d740626a2a28439260bbdca837e3d1c2"
+
+dest_files=[ "res://.import/katana_2.png-4805acf5f523fd7d2d9fd376e4ada9ba.stex" ]
+dest_md5="9f7e15c6a5233ae3e03218f8ca33a25f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

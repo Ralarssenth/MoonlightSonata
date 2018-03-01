@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/wall_blood_12_west.png-bb3ed8a1ec2ca4d887c947107938ebff.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/blood/wall_blood_12_west.png"
+source_md5="21691aff4b985501f70522cd10a54ae5"
+
+dest_files=[ "res://.import/wall_blood_12_west.png-bb3ed8a1ec2ca4d887c947107938ebff.stex" ]
+dest_md5="b351e658541205093f50395a6e4103cd"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

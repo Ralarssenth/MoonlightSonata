@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/short_sword_2_new.png-f78fc07c6915d33f12d09bbb57c7c65f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/short_sword_2_new.png"
+source_md5="b9f4445258f64f1169ae85ac5c77ae6f"
+
+dest_files=[ "res://.import/short_sword_2_new.png-f78fc07c6915d33f12d09bbb57c7c65f.stex" ]
+dest_md5="752dfcb25bb020eeeadaafb859287492"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

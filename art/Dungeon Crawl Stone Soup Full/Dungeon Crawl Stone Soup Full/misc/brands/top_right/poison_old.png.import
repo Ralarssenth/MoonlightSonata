@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/poison_old.png-6ee63d70b4ca865051bc2a09d6f0c7b9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/top_right/poison_old.png"
+source_md5="0d0d929740ceb3b9ddf12991074992ed"
+
+dest_files=[ "res://.import/poison_old.png-6ee63d70b4ca865051bc2a09d6f0c7b9.stex" ]
+dest_md5="131f2fbc514caeef4761ba48c4eba0d4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

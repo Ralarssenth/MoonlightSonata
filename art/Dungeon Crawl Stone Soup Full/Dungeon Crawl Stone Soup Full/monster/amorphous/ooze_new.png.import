@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ooze_new.png-fa387745af658a7bc799c538c55245b5.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/amorphous/ooze_new.png"
+source_md5="d8b85c8c1203cf0f9ade819e360d8f47"
+
+dest_files=[ "res://.import/ooze_new.png-fa387745af658a7bc799c538c55245b5.stex" ]
+dest_md5="70bd97f990ad49100bcaa157d419ad1d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

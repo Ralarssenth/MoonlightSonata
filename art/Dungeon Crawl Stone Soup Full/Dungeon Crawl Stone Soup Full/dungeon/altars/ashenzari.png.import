@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ashenzari.png-0f4f8499c7c491f5002c21ec200b2ad9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/altars/ashenzari.png"
+source_md5="60176b7d85fab7197a25198cdf1ff936"
+
+dest_files=[ "res://.import/ashenzari.png-0f4f8499c7c491f5002c21ec200b2ad9.stex" ]
+dest_md5="3ec7ba778d281fec180d6e3c0fb63394"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

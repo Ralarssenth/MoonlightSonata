@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/frozen_2.png-a936a54c75f9e60b39899c8b3e1fffbd.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/frozen_2.png"
+source_md5="7ff7eddee8b1d49c285f43668e93f97d"
+
+dest_files=[ "res://.import/frozen_2.png-a936a54c75f9e60b39899c8b3e1fffbd.stex" ]
+dest_md5="feb7536d9561123f95645f63a52945ad"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

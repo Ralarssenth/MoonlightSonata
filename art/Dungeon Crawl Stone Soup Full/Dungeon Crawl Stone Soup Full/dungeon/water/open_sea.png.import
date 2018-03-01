@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/open_sea.png-8b627ca4a84ebf77e29cf1daf3d1a265.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/water/open_sea.png"
+source_md5="22b819edadc2b851ed5628d6a788dc25"
+
+dest_files=[ "res://.import/open_sea.png-8b627ca4a84ebf77e29cf1daf3d1a265.stex" ]
+dest_md5="7cb7f971aebfa839b5e3e4ad276908ad"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

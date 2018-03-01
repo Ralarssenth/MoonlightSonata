@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/dwarf_female.png-636179ddbc5670c02c89d86d870426ed.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/base/dwarf_female.png"
+source_md5="cec9ac3e2dc292d68cf20d175fe49642"
+
+dest_files=[ "res://.import/dwarf_female.png-636179ddbc5670c02c89d86d870426ed.stex" ]
+dest_md5="4e974e0a53e33a7a0bb07c01a223526e"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

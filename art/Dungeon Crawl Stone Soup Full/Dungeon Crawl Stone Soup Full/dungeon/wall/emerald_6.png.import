@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/emerald_6.png-352b8f4d6fa88c9ae93b8fb4fc8af844.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/emerald_6.png"
+source_md5="c1d5561828b677770af36541a8f03b07"
+
+dest_files=[ "res://.import/emerald_6.png-352b8f4d6fa88c9ae93b8fb4fc8af844.stex" ]
+dest_md5="b67de25f4f476a1d86b9ce1565d98778"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

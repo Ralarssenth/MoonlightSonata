@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-deck_destruction_new.png-bcfd6f733d7cdb69561dcc317fbad228.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/bottom_right/i-deck_destruction_new.png"
+source_md5="cb722430d72f47886df137dd7d9e00f2"
+
+dest_files=[ "res://.import/i-deck_destruction_new.png-bcfd6f733d7cdb69561dcc317fbad228.stex" ]
+dest_md5="60cf21e3e8bd7a2da159fbb29085a06b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

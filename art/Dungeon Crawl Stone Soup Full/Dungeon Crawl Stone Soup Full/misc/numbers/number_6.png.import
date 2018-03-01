@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/number_6.png-8c54670fa11353a0a0b5a786d1de5020.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/numbers/number_6.png"
+source_md5="911df1fe713a4ed0b0908b4fe2fb3f65"
+
+dest_files=[ "res://.import/number_6.png-8c54670fa11353a0a0b5a786d1de5020.stex" ]
+dest_md5="a0a1e64358edd49273eb820fae3ebb00"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

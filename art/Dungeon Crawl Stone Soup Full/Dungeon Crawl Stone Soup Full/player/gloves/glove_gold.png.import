@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/glove_gold.png-cb801cef511e1110c16cd7d6bb35029a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/gloves/glove_gold.png"
+source_md5="1526e3caf6377eab8fdf4f215a1c374b"
+
+dest_files=[ "res://.import/glove_gold.png-cb801cef511e1110c16cd7d6bb35029a.stex" ]
+dest_md5="ea4903bc17843ef7610fd7da8dc35d69"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ring_gold_yellow.png-5d0ef55810b67a54c0c3392b58989c6e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/ring/ring_gold_yellow.png"
+source_md5="ec87b38f27c8e05820406378686b93e0"
+
+dest_files=[ "res://.import/ring_gold_yellow.png-5d0ef55810b67a54c0c3392b58989c6e.stex" ]
+dest_md5="4f31df1fd6658f4118c190edc8a4a82e"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/glove_orange.png-63684995287ce285bac6cd16517befb6.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/gloves/glove_orange.png"
+source_md5="4014c3a4b574bffd0c422f6ad0bf3a7f"
+
+dest_files=[ "res://.import/glove_orange.png-63684995287ce285bac6cd16517befb6.stex" ]
+dest_md5="0a040ea7ba35a76516b79b8d00e56d55"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

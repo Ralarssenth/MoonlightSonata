@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/staff_mummy.png-f45265b4c0143b8c310c35521c1875d7.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/staff_mummy.png"
+source_md5="f692a1b0efa2ded25fd8ce683ff7368a"
+
+dest_files=[ "res://.import/staff_mummy.png-f45265b4c0143b8c310c35521c1875d7.stex" ]
+dest_md5="191da74035f1c782f87b5cdcd44b40ee"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

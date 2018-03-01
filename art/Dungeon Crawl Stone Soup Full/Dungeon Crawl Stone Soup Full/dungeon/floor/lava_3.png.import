@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/lava_3.png-ea1777d84cc615c5b20287c5dc53ecf0.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/lava_3.png"
+source_md5="06c19861f3ae304042629b9a96b049e1"
+
+dest_files=[ "res://.import/lava_3.png-ea1777d84cc615c5b20287c5dc53ecf0.stex" ]
+dest_md5="7d9dfce82e4321429e4b9f06c9a772cd"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

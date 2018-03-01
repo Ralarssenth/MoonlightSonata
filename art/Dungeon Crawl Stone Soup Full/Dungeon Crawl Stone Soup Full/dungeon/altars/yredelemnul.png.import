@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/yredelemnul.png-6cdf35f319ebc32a80cea83edfd8588d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/altars/yredelemnul.png"
+source_md5="fecaccec0511ef3caba1d64f76daca0b"
+
+dest_files=[ "res://.import/yredelemnul.png-6cdf35f319ebc32a80cea83edfd8588d.stex" ]
+dest_md5="56c85f8d3ee7b1d688084f11559389f9"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

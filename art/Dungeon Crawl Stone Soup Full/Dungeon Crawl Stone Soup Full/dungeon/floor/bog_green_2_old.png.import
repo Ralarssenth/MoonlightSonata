@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/bog_green_2_old.png-af057094209601948706b1391d75ba50.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/bog_green_2_old.png"
+source_md5="5fa315dd559f11193b30f97b221406c7"
+
+dest_files=[ "res://.import/bog_green_2_old.png-af057094209601948706b1391d75ba50.stex" ]
+dest_md5="0ee1d09cf2618259783c0cb6bc08bde6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

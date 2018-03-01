@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/poison_arrow_5.png-3231e4ea7fa0cc8603818804e3e9b31c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/poison_arrow_5.png"
+source_md5="593c89358f1ecb9847f5fbf7ac497fb9"
+
+dest_files=[ "res://.import/poison_arrow_5.png-3231e4ea7fa0cc8603818804e3e9b31c.stex" ]
+dest_md5="db01140a08e5b5baa1799ec3f6ec6e8e"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

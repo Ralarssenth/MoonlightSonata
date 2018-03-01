@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/maurice_old.png-9d47e3b109f2ec9e43882f4a5d4afe77.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/maurice_old.png"
+source_md5="fa191a75c20f5c05be089c5c05bdec4a"
+
+dest_files=[ "res://.import/maurice_old.png-9d47e3b109f2ec9e43882f4a5d4afe77.stex" ]
+dest_md5="1751e88ba39b30927e876c706b434011"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/deep_elf_master_archer.png-9195f54626c7d6985ae50b49314e6ca7.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/deep_elf_master_archer.png"
+source_md5="2f62a1da4b4a11c4376df7fc2b77b318"
+
+dest_files=[ "res://.import/deep_elf_master_archer.png-9195f54626c7d6985ae50b49314e6ca7.stex" ]
+dest_md5="ef0538fead60e85baf4d35a91861872b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

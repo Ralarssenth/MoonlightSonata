@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/broad_axe_4.png-86517c3d8881f010a736d4d885ab5550.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/broad_axe_4.png"
+source_md5="4ab97188c9a882789c5d89adf51602c5"
+
+dest_files=[ "res://.import/broad_axe_4.png-86517c3d8881f010a736d4d885ab5550.stex" ]
+dest_md5="95b0a73bf0c8f4e31e2a79e9235c1680"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

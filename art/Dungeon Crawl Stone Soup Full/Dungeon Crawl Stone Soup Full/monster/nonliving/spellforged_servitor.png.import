@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spellforged_servitor.png-d3fcb038c7efb2b7279321da9b5aec04.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/nonliving/spellforged_servitor.png"
+source_md5="55f356cd633d881205f3a268ad899117"
+
+dest_files=[ "res://.import/spellforged_servitor.png-d3fcb038c7efb2b7279321da9b5aec04.stex" ]
+dest_md5="9aa070c94aa0a8695c17f02ac4a68567"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

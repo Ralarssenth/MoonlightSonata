@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/frances_male.png-c872c261073c9722487389054f75b5e9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/frances_male.png"
+source_md5="c3f601af9d4bf347bd37d6b40255ee12"
+
+dest_files=[ "res://.import/frances_male.png-c872c261073c9722487389054f75b5e9.stex" ]
+dest_md5="86a7de183319e437ca27513fec346fba"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

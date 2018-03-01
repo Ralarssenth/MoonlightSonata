@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/statue_iron.png-d21deb794c577f44f58579393c833fb4.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/statues/statue_iron.png"
+source_md5="cc342b9baf4e8806cabf9f27dbfd349a"
+
+dest_files=[ "res://.import/statue_iron.png-d21deb794c577f44f58579393c833fb4.stex" ]
+dest_md5="12a29aa65ce20cc29e3ec20187803c9b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

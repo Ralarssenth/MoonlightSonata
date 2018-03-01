@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/halfling_male.png-b8532aaad278dc4493de480a12179e1d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/base/halfling_male.png"
+source_md5="4610c1811d98f18d76f9b07f73bae07b"
+
+dest_files=[ "res://.import/halfling_male.png-b8532aaad278dc4493de480a12179e1d.stex" ]
+dest_md5="0150ca07d77912d93ff9b034d0c5b715"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

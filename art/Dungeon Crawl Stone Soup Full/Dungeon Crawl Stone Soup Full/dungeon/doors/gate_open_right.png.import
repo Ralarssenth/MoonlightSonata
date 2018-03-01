@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/gate_open_right.png-3d4eac787e3994895b1c6ab37b5ebda2.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/doors/gate_open_right.png"
+source_md5="01f686760c7c5a2b4e5b35762ece08bc"
+
+dest_files=[ "res://.import/gate_open_right.png-3d4eac787e3994895b1c6ab37b5ebda2.stex" ]
+dest_md5="d9b0bf0d9e2365e9b3081d21a4b2de81"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

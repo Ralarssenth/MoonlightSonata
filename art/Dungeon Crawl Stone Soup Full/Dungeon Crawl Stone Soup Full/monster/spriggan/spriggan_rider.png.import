@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spriggan_rider.png-c50f0e2ad829b84b0f82788635788021.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/spriggan/spriggan_rider.png"
+source_md5="f635a82c0fea7cf8224542afa16a9a2e"
+
+dest_files=[ "res://.import/spriggan_rider.png-c50f0e2ad829b84b0f82788635788021.stex" ]
+dest_md5="6ebb028eae9fb87a25e71eed6de80fd4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

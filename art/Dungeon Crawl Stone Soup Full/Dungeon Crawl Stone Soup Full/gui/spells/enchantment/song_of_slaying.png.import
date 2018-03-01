@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/song_of_slaying.png-049d3751b9990c64144b23ebd281a6bc.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/enchantment/song_of_slaying.png"
+source_md5="5767d7ade28e719ca39ebe7d8a24028c"
+
+dest_files=[ "res://.import/song_of_slaying.png-049d3751b9990c64144b23ebd281a6bc.stex" ]
+dest_md5="87a1200309ce7ea7cf1ebd3dde7408e2"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

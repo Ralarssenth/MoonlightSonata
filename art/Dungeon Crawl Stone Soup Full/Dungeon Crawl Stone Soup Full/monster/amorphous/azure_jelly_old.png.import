@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/azure_jelly_old.png-b14b13cd978318cd1dc002d785d58954.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/amorphous/azure_jelly_old.png"
+source_md5="2ffb076d55f4d63fc3373ddc2ca8a4b2"
+
+dest_files=[ "res://.import/azure_jelly_old.png-b14b13cd978318cd1dc002d785d58954.stex" ]
+dest_md5="464a87bb16444e3f43a5b6056f2f8eef"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

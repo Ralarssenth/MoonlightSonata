@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/teleport_other_new.png-a5c919736e3d6ba32ca8522c96f365f0.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/translocation/teleport_other_new.png"
+source_md5="de230e83a8a45c50c838d0d48499b372"
+
+dest_files=[ "res://.import/teleport_other_new.png-a5c919736e3d6ba32ca8522c96f365f0.stex" ]
+dest_md5="efdeac4ec12c2bfa52c492768ff40e89"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/axes.png-32b59b9da6d0044f771ccb4027fe2dd9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/skills/axes.png"
+source_md5="ead99a09c5f066619a4e5ffd954c0e41"
+
+dest_files=[ "res://.import/axes.png-32b59b9da6d0044f771ccb4027fe2dd9.stex" ]
+dest_md5="38ff3812105030f002a5527c32f076c8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ru_sacrifice_resistance.png-6eac0fefaa5e732090aecb312da5d661.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/invocations/ru_sacrifice_resistance.png"
+source_md5="208dda5482d4fd1dc0750c90aacae416"
+
+dest_files=[ "res://.import/ru_sacrifice_resistance.png-6eac0fefaa5e732090aecb312da5d661.stex" ]
+dest_md5="f26aedb7a96b8e066eb0f9dc418ea1a6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

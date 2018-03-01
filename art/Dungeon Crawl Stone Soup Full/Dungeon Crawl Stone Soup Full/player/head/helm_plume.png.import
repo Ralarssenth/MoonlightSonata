@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/helm_plume.png-a4686d346c05267eaab8098a3aa37e89.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/head/helm_plume.png"
+source_md5="a2b1a0631b55052a6ce74dbceac28904"
+
+dest_files=[ "res://.import/helm_plume.png-a4686d346c05267eaab8098a3aa37e89.stex" ]
+dest_md5="7693ba24bed71e73901c0775206e4d1c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

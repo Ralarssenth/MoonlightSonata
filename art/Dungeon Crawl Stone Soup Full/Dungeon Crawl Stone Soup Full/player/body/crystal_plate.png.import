@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/crystal_plate.png-3fe16093cf1186cc54ada65594521555.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/body/crystal_plate.png"
+source_md5="b0920713942b898cc7c96b6302bb70cc"
+
+dest_files=[ "res://.import/crystal_plate.png-3fe16093cf1186cc54ada65594521555.stex" ]
+dest_md5="fe689eceec7fd4f3c3d2015d7173f92f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

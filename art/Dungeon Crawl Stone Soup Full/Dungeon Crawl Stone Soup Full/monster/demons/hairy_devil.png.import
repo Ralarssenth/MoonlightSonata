@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/hairy_devil.png-6746d2854cbd4a8bc1d3a2afffec804e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/demons/hairy_devil.png"
+source_md5="687d3e40d94dedf148ba7fdfc3b959a3"
+
+dest_files=[ "res://.import/hairy_devil.png-6746d2854cbd4a8bc1d3a2afffec804e.stex" ]
+dest_md5="ac7dda802aaf43a3fd83a60b98e0f9aa"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

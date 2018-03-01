@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/angel.png-f7e8fdc26d56306de4c7b4a41777e66c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/angel.png"
+source_md5="c263773bba6288a83a0cadaff57babef"
+
+dest_files=[ "res://.import/angel.png-f7e8fdc26d56306de4c7b4a41777e66c.stex" ]
+dest_md5="009ee3fcffefc866265f545300f43536"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

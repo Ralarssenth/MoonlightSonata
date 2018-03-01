@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/erica_old.png-bd4dad11798e8bb26fcde442a75da53e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/erica_old.png"
+source_md5="4911d86f45ce5fafe76002ef64523faa"
+
+dest_files=[ "res://.import/erica_old.png-bd4dad11798e8bb26fcde442a75da53e.stex" ]
+dest_md5="665b8c59502ef6fb6647b69028e6349b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

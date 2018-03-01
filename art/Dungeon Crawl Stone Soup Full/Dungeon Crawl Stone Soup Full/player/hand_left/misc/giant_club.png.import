@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/giant_club.png-31bf04a1207007b271168c6a02c0cf9a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_left/misc/giant_club.png"
+source_md5="cbb5971bdea826be3b9c6e178eba86ff"
+
+dest_files=[ "res://.import/giant_club.png-31bf04a1207007b271168c6a02c0cf9a.stex" ]
+dest_md5="c25fa18031ac432872b318d8b92bc6c3"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

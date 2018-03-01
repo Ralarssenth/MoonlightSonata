@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/etched_1.png-12bcf5ee33e40519879c91a0d5028bc9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/etched_1.png"
+source_md5="fb19ec451cde57514cbf8393ac679da5"
+
+dest_files=[ "res://.import/etched_1.png-12bcf5ee33e40519879c91a0d5028bc9.stex" ]
+dest_md5="1491ac14d14901031b7d00d95977bcb6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

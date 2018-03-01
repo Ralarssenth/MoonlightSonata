@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/silver.png-ec021a163fcaf4e99d4ee40f27d2d689.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/potion/silver.png"
+source_md5="840d25147c4677e9563cf9a27b81f1b6"
+
+dest_files=[ "res://.import/silver.png-ec021a163fcaf4e99d4ee40f27d2d689.stex" ]
+dest_md5="2a7e40f42b485cadfe6cf4bc36b48625"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

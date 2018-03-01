@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/pebble_brown_1_old.png-9e266f55b56974c07441b6290e48d9b7.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/pebble_brown_1_old.png"
+source_md5="62ed519dc9e74c14922de3eaff04d5bc"
+
+dest_files=[ "res://.import/pebble_brown_1_old.png-9e266f55b56974c07441b6290e48d9b7.stex" ]
+dest_md5="8966d23327d117692d67ec1c56279bf7"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

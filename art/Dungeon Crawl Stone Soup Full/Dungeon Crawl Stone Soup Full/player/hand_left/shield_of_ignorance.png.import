@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shield_of_ignorance.png-6352defc66170fb68652aa17ef30e081.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_left/shield_of_ignorance.png"
+source_md5="0d42033cd3ea0e6108f3bac9dc2395e4"
+
+dest_files=[ "res://.import/shield_of_ignorance.png-6352defc66170fb68652aa17ef30e081.stex" ]
+dest_md5="45c1856c957f1b1d3468f398fac529b6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

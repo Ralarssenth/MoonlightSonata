@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/grizzly_bear.png-0859acd417b45779af3b1480b9ecc102.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/grizzly_bear.png"
+source_md5="ce142746d4e54e0e00e4d07f498919d1"
+
+dest_files=[ "res://.import/grizzly_bear.png-0859acd417b45779af3b1480b9ecc102.stex" ]
+dest_md5="6d2568979dc8ed57a5c7dddf43f253e1"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

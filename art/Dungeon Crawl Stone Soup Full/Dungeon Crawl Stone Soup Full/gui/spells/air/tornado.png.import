@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/tornado.png-1b1765e36313a99b501fb33069269b7c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/air/tornado.png"
+source_md5="3c222142124102d231cea4296043354e"
+
+dest_files=[ "res://.import/tornado.png-1b1765e36313a99b501fb33069269b7c.stex" ]
+dest_md5="ad791c6bb0a42939c0b4dd3eefb6b692"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

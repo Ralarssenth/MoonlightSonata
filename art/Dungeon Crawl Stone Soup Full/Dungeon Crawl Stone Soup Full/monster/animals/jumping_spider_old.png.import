@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/jumping_spider_old.png-e0740516074ba45724c671827d96fb09.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/jumping_spider_old.png"
+source_md5="a4f80726d41deec583ce0d5d3c88d253"
+
+dest_files=[ "res://.import/jumping_spider_old.png-e0740516074ba45724c671827d96fb09.stex" ]
+dest_md5="7ffdb36b8c3943af62fc6fd2e8b82112"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

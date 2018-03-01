@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-lightning_old.png-1d116491329d8959d81b460c71e26493.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/bottom_right/i-lightning_old.png"
+source_md5="e1ec09a68974b417b04d9c4c95d23654"
+
+dest_files=[ "res://.import/i-lightning_old.png-1d116491329d8959d81b460c71e26493.stex" ]
+dest_md5="97dadc15826fc0fb0baadbdd2bbd9851"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

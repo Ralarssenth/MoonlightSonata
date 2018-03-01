@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/merfolk_javelineer_new.png-1a2fb36966b325c1a2f5d1fc0968d90a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/merfolk_javelineer_new.png"
+source_md5="0c86cd060e19ef74920175505aa50143"
+
+dest_files=[ "res://.import/merfolk_javelineer_new.png-1a2fb36966b325c1a2f5d1fc0968d90a.stex" ]
+dest_md5="d66a7836e4bf70def05c8d720c986c54"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

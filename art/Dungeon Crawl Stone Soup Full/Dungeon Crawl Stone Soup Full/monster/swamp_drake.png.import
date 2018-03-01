@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/swamp_drake.png-1e9d994012abdc45ffc9b89e038ce755.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/swamp_drake.png"
+source_md5="74f4c29f2b961659aed2125ff91584a7"
+
+dest_files=[ "res://.import/swamp_drake.png-1e9d994012abdc45ffc9b89e038ce755.stex" ]
+dest_md5="acb31e345ef72d1b33288a3fe849d89e"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

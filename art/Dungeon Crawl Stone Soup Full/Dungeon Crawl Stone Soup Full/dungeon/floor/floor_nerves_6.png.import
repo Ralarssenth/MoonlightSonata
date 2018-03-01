@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/floor_nerves_6.png-ab41894e36e215336bb90003e3465128.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/floor_nerves_6.png"
+source_md5="0982865abee2532e05523f11e880f5d9"
+
+dest_files=[ "res://.import/floor_nerves_6.png-ab41894e36e215336bb90003e3465128.stex" ]
+dest_md5="0742df20b177082502100416d9cb28d6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/scepter.png-8c939a7aa4610c590a78731178cf92c2.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/scepter.png"
+source_md5="0943c98c2c7a837dd07f738f40f915de"
+
+dest_files=[ "res://.import/scepter.png-8c939a7aa4610c590a78731178cf92c2.stex" ]
+dest_md5="150d08b03e725b33d12d929371abd63f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/cobalt_stone_1.png-19c3e94a1a78b186d5d9ee6d378a8087.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/cobalt_stone_1.png"
+source_md5="ea0ecf279e411d1d672e315a2bc61f69"
+
+dest_files=[ "res://.import/cobalt_stone_1.png-19c3e94a1a78b186d5d9ee6d378a8087.stex" ]
+dest_md5="ccbf6bb0b0351e1f8adcc32c96489f6a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

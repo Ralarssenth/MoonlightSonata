@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/boggart_new.png-3efc43ad8c3c0644022e5cd17ed3db62.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/boggart_new.png"
+source_md5="ed5993d347afca5fc570968913d86aa0"
+
+dest_files=[ "res://.import/boggart_new.png-3efc43ad8c3c0644022e5cd17ed3db62.stex" ]
+dest_md5="2cdafb21dd79252063a5c288c03f7361"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

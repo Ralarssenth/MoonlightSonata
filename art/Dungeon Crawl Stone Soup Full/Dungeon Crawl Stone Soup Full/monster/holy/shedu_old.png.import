@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shedu_old.png-b4b8ff0421d2d1647a5163e5f1432ef5.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/holy/shedu_old.png"
+source_md5="71e74f42ebe3a399f57c9a6b6e31dc88"
+
+dest_files=[ "res://.import/shedu_old.png-b4b8ff0421d2d1647a5163e5f1432ef5.stex" ]
+dest_md5="a4794f0a088e31a4d0d2afa976dec26e"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

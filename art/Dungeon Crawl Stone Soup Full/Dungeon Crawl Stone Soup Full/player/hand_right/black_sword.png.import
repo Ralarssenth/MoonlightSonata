@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/black_sword.png-bb0be1d69c4710bac6fc6a821bc8dec9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/black_sword.png"
+source_md5="25a3259d1b33ab7efa84f9f0d58f2b19"
+
+dest_files=[ "res://.import/black_sword.png-bb0be1d69c4710bac6fc6a821bc8dec9.stex" ]
+dest_md5="2d99bf0525ddb436b604c7ae954354b2"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

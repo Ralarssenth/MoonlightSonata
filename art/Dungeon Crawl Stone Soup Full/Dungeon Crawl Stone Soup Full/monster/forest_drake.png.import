@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/forest_drake.png-ac21845f2ba840817f75f1f0470b2b3f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/forest_drake.png"
+source_md5="09e625f51ace11871761984088805bb4"
+
+dest_files=[ "res://.import/forest_drake.png-ac21845f2ba840817f75f1f0470b2b3f.stex" ]
+dest_md5="7e9186df8fc2c9fe94dde18681f5d87b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

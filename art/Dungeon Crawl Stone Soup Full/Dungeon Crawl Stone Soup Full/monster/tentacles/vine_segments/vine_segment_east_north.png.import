@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/vine_segment_east_north.png-14a75626f787ca9b5fa41901dd0bfe80.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/tentacles/vine_segments/vine_segment_east_north.png"
+source_md5="bc120c39a6dee267f85a94cb26eb763c"
+
+dest_files=[ "res://.import/vine_segment_east_north.png-14a75626f787ca9b5fa41901dd0bfe80.stex" ]
+dest_md5="599856c6d2f5eb3f1c3bfac1c9f084dd"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

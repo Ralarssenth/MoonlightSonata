@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/orange_rat.png-b225d1ce3629c57bf916950540e7e498.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/orange_rat.png"
+source_md5="eb83c0472fa95e7661d6051f8657ee2e"
+
+dest_files=[ "res://.import/orange_rat.png-b225d1ce3629c57bf916950540e7e498.stex" ]
+dest_md5="0ae86e92ea7dfaa07a60fd3a99b8e79a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

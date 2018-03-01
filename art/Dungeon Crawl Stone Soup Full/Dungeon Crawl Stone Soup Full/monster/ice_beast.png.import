@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ice_beast.png-7dcdf6b9571793d3369446bfc6d952d2.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/ice_beast.png"
+source_md5="09b8813972a879031f4e02077245010b"
+
+dest_files=[ "res://.import/ice_beast.png-7dcdf6b9571793d3369446bfc6d952d2.stex" ]
+dest_md5="f74f3f3b1b3d82887e2abeac7dce2347"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

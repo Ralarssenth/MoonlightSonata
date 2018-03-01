@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/evocations.png-0e98a82b3c5ad4e8dedce21b654e07b5.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/skills/evocations.png"
+source_md5="b9ff88719663e8d91f0f26a8f1b87145"
+
+dest_files=[ "res://.import/evocations.png-0e98a82b3c5ad4e8dedce21b654e07b5.stex" ]
+dest_md5="d5f3acfc069dec63f2d775c565ccdf68"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

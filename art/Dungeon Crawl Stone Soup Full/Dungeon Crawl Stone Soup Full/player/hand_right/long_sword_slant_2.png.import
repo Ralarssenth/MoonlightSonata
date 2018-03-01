@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/long_sword_slant_2.png-7903c0c24ec9cfbbd3c7432f588ab00f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/long_sword_slant_2.png"
+source_md5="012e3774561993abfd06f03e14f94e2b"
+
+dest_files=[ "res://.import/long_sword_slant_2.png-7903c0c24ec9cfbbd3c7432f588ab00f.stex" ]
+dest_md5="eb9fb683ea110029c613aa0dc958c993"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

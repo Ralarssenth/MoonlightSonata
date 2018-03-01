@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/sigil_rhombus.png-6f6f2dc767d1b3b6b4195e17c8e6b7aa.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigil_rhombus.png"
+source_md5="4ccc9d2a711aa4038d3d7fa5633956d5"
+
+dest_files=[ "res://.import/sigil_rhombus.png-6f6f2dc767d1b3b6b4195e17c8e6b7aa.stex" ]
+dest_md5="b68770fe98972df1b64fa9189687c8ac"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

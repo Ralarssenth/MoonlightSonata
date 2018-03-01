@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/infernal_3.png-d8dcd10e28db0ac22278e3bb2334bbe6.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/infernal_3.png"
+source_md5="968849e39a846eca86335b77bc30d88f"
+
+dest_files=[ "res://.import/infernal_3.png-d8dcd10e28db0ac22278e3bb2334bbe6.stex" ]
+dest_md5="f058a21228d3f6727ec1f070b4cf47dc"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-rod_discovery.png-1a15f3a25a192a01c3854d101e4960e5.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/bottom_right/i-rod_discovery.png"
+source_md5="6922587de636dec4b2e486b3eae1c51b"
+
+dest_files=[ "res://.import/i-rod_discovery.png-1a15f3a25a192a01c3854d101e4960e5.stex" ]
+dest_md5="96f80f5bdd516c76424c8a5e14b467c8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/bone_dragon_old.png-3ce28838a5d22b6af8e93c7c8c9e23c3.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/undead/bone_dragon_old.png"
+source_md5="e536c28b2aa30bbc5e8b36f5ec2243f0"
+
+dest_files=[ "res://.import/bone_dragon_old.png-3ce28838a5d22b6af8e93c7c8c9e23c3.stex" ]
+dest_md5="ea9d34c1264c06609f85398125a2c1c2"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

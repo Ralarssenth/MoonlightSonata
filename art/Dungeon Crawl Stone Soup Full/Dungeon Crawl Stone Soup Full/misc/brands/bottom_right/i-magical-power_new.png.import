@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-magical-power_new.png-286cdb73c1817d01634bc95b32e1ca1f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/bottom_right/i-magical-power_new.png"
+source_md5="3ad8c20bc010432fde965749170a6702"
+
+dest_files=[ "res://.import/i-magical-power_new.png-286cdb73c1817d01634bc95b32e1ca1f.stex" ]
+dest_md5="f31eb70ed018a56efae23cb45449e1af"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

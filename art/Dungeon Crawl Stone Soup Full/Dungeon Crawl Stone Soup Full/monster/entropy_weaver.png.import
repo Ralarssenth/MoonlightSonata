@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/entropy_weaver.png-ef62431ddd986b9e5f214a7fdf61aa21.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/entropy_weaver.png"
+source_md5="02482b1c54138402952de611170ba946"
+
+dest_files=[ "res://.import/entropy_weaver.png-ef62431ddd986b9e5f214a7fdf61aa21.stex" ]
+dest_md5="1b86425353c728f227bcc036bab2b71b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

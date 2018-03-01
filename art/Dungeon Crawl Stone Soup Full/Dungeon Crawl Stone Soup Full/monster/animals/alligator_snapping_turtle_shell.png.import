@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/alligator_snapping_turtle_shell.png-4d81058851c9d0c66d57656203c32d42.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/alligator_snapping_turtle_shell.png"
+source_md5="845220ea762288429149a0c07be8d477"
+
+dest_files=[ "res://.import/alligator_snapping_turtle_shell.png-4d81058851c9d0c66d57656203c32d42.stex" ]
+dest_md5="bb850d8f905540c7322dff94b34904a2"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

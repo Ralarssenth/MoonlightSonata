@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/yaktaur_old.png-6c19625faf3ca5166c19e5500a476b82.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/yaktaur_old.png"
+source_md5="3d360c92ca57e41ce29dca792062d1fa"
+
+dest_files=[ "res://.import/yaktaur_old.png-6c19625faf3ca5166c19e5500a476b82.stex" ]
+dest_md5="75abc01eefb8ed02fc9d87ca17140b75"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

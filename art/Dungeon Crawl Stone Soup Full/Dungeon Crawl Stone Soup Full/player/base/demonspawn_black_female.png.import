@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/demonspawn_black_female.png-52f0eb7d7fa4291b5c21e50b568822a1.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/base/demonspawn_black_female.png"
+source_md5="fc1fe82d17568a3d96f63c4c2a7593af"
+
+dest_files=[ "res://.import/demonspawn_black_female.png-52f0eb7d7fa4291b5c21e50b568822a1.stex" ]
+dest_md5="5ef551b14a5e3b2fcde5988edb9197f2"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

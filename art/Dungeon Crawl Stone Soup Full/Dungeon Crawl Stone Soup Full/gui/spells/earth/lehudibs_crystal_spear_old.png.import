@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/lehudibs_crystal_spear_old.png-14311043f88778d9a888bcebc79e845a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/earth/lehudibs_crystal_spear_old.png"
+source_md5="4cf1a52e916c8b09581c12f8a7cc6bc6"
+
+dest_files=[ "res://.import/lehudibs_crystal_spear_old.png-14311043f88778d9a888bcebc79e845a.stex" ]
+dest_md5="5daa4aa2b3941346e54b428857ef42f8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

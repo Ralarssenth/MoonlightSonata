@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ring_ruby.png-0cc84e1994f8938b3aad5c6226153a77.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/ring/ring_ruby.png"
+source_md5="199eeeb489fae338e229346036506590"
+
+dest_files=[ "res://.import/ring_ruby.png-0cc84e1994f8938b3aad5c6226153a77.stex" ]
+dest_md5="8526df82473d257b6448102dc8e39aaf"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

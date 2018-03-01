@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/enchantress_human.png-06956dbdc6d2ccb2173213d206383639.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/enchantress_human.png"
+source_md5="f377a787a44d094f40c3eea78a79ab24"
+
+dest_files=[ "res://.import/enchantress_human.png-06956dbdc6d2ccb2173213d206383639.stex" ]
+dest_md5="5d34893e188d4057fbc2811d91572003"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

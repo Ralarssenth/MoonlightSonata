@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/stone_black_marked_3.png-d7fabddaea51b8d9ede3039dc7e1761f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/stone_black_marked_3.png"
+source_md5="00a8ae606864a04fed1315ac768d4f03"
+
+dest_files=[ "res://.import/stone_black_marked_3.png-d7fabddaea51b8d9ede3039dc7e1761f.stex" ]
+dest_md5="714d61c7c4e57455a805891a22c6c5fd"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

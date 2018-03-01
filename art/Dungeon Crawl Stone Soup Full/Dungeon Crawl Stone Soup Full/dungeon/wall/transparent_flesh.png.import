@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/transparent_flesh.png-6aeea16dd397ecf1a47b2792d3650c0a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/transparent_flesh.png"
+source_md5="6fff512e68a7c91159be8c34db050502"
+
+dest_files=[ "res://.import/transparent_flesh.png-6aeea16dd397ecf1a47b2792d3650c0a.stex" ]
+dest_md5="f5d50dc18ad1f75514cae868c35762e9"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

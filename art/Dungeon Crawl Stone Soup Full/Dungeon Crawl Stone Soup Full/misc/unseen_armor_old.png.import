@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/unseen_armor_old.png-2a3d0b0d3d420b5d116f79b667f9daf6.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/unseen_armor_old.png"
+source_md5="e894f6e891b629b3edffad2a69994d83"
+
+dest_files=[ "res://.import/unseen_armor_old.png-2a3d0b0d3d420b5d116f79b667f9daf6.stex" ]
+dest_md5="71cb1456117e218d9388d143eafbf5c7"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/scimitar_2.png-29f67f3747b32dc49d648a1204d68207.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/scimitar_2.png"
+source_md5="44f942de82db458137be3ef18b4bb993"
+
+dest_files=[ "res://.import/scimitar_2.png-29f67f3747b32dc49d648a1204d68207.stex" ]
+dest_md5="50d13ba4de5736f49bc5e81b88e2ae38"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

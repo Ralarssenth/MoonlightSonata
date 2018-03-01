@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/draconic_job-annihilator_old.png-21994ff8e7aa6b6e254b8867e847f95a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/draconic/draconic_job-annihilator_old.png"
+source_md5="647f805bfe329ee170a33ce75e495b2a"
+
+dest_files=[ "res://.import/draconic_job-annihilator_old.png-21994ff8e7aa6b6e254b8867e847f95a.stex" ]
+dest_md5="8893892f65cbc84a1317c863dd7d7077"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ozocubus_armor_old.png-e7c2c0612a4864db91dfeca922bf9d31.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/ice/ozocubus_armor_old.png"
+source_md5="0f0a365ba0e8b4f88de77067980d947e"
+
+dest_files=[ "res://.import/ozocubus_armor_old.png-e7c2c0612a4864db91dfeca922bf9d31.stex" ]
+dest_md5="7bb1ea2fa9a70b69190d0b8d9b0e5d9a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

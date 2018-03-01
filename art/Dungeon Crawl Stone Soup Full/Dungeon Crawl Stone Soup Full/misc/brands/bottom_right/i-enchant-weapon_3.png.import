@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-enchant-weapon_3.png-7ff0e9a0ca6bc5511d17b4765cd5c38f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/bottom_right/i-enchant-weapon_3.png"
+source_md5="333a840deb36d66c523935bcb4c80a7a"
+
+dest_files=[ "res://.import/i-enchant-weapon_3.png-7ff0e9a0ca6bc5511d17b4765cd5c38f.stex" ]
+dest_md5="eee924f022d054d97a70a77120fc17ff"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

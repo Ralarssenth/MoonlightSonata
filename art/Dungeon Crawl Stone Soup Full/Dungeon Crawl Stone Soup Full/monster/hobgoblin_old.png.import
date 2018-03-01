@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/hobgoblin_old.png-9908b4f9aad2ef65dde7c4d5cd82df62.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/hobgoblin_old.png"
+source_md5="b143dde33794131a1c07b43a04f3d965"
+
+dest_files=[ "res://.import/hobgoblin_old.png-9908b4f9aad2ef65dde7c4d5cd82df62.stex" ]
+dest_md5="2d7eda55e55f55915f0bc37fba6033fa"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

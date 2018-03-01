@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/tan_new.png-c945f9355d81752e3e821427922cf24f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/book/tan_new.png"
+source_md5="2ab6f68e305fc157996ed7134d5241ac"
+
+dest_files=[ "res://.import/tan_new.png-c945f9355d81752e3e821427922cf24f.stex" ]
+dest_md5="1552243bbcc10dfbb11a45929139dba4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

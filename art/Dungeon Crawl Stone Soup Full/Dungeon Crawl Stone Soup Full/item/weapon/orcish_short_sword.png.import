@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/orcish_short_sword.png-28bea0fbfb40461933273e350d4f4fac.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/orcish_short_sword.png"
+source_md5="8814c2e09e54f2ed8dcc295fbd156a2c"
+
+dest_files=[ "res://.import/orcish_short_sword.png-28bea0fbfb40461933273e350d4f4fac.stex" ]
+dest_md5="3fe2005c32a85586e3049331cb30e13a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

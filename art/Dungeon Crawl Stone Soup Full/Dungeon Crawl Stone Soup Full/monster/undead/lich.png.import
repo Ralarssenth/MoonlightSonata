@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/lich.png-aa3a1fac99c1f0bd38aa704d5c2e106e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/undead/lich.png"
+source_md5="ef234bb33b8047cd7d6d963f4bf64476"
+
+dest_files=[ "res://.import/lich.png-aa3a1fac99c1f0bd38aa704d5c2e106e.stex" ]
+dest_md5="588a21c16533d8482014b0a3fb36b49d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

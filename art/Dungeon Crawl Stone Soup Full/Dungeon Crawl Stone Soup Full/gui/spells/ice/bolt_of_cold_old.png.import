@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/bolt_of_cold_old.png-fa19f3f26db770c4dc5fa4be3bd97ab3.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/ice/bolt_of_cold_old.png"
+source_md5="7430bf6070a4e1eb7d4c8c408750ea3f"
+
+dest_files=[ "res://.import/bolt_of_cold_old.png-fa19f3f26db770c4dc5fa4be3bd97ab3.stex" ]
+dest_md5="829e83e95df82cce67cf5fa0e0c24793"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/rune_tartarus_old.png-25a80a65e1549835b8d20010f1de5046.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/misc/runes/rune_tartarus_old.png"
+source_md5="8c7f15aadb7aed948107b612b07adc4c"
+
+dest_files=[ "res://.import/rune_tartarus_old.png-25a80a65e1549835b8d20010f1de5046.stex" ]
+dest_md5="e986d82836b1607d915d3aab48972dcb"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

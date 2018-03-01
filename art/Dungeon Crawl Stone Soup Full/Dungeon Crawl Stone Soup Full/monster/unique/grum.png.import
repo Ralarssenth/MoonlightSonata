@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/grum.png-3ec082e0b7bb8e34a9a535c76f1237c4.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/grum.png"
+source_md5="c3ed543ee6beb89101f05ee06fea7067"
+
+dest_files=[ "res://.import/grum.png-3ec082e0b7bb8e34a9a535c76f1237c4.stex" ]
+dest_md5="59a99b571a47c88fa875e080481a1061"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

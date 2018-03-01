@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/gil-galad.png-037189a4b042043460a13aa1cf65099d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/body/gil-galad.png"
+source_md5="ba6bf2f4b09c48b124d288d702bca2c0"
+
+dest_files=[ "res://.import/gil-galad.png-037189a4b042043460a13aa1cf65099d.stex" ]
+dest_md5="1cdab985f1615b86ad2935b8d74618ac"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

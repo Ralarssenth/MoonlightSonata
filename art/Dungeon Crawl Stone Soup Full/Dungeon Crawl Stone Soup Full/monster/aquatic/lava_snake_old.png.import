@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/lava_snake_old.png-2e0e3a2ee461bfcb0ab1d852181d9646.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/aquatic/lava_snake_old.png"
+source_md5="bf1a21508037dbec07ea205cd2d8fea3"
+
+dest_files=[ "res://.import/lava_snake_old.png-2e0e3a2ee461bfcb0ab1d852181d9646.stex" ]
+dest_md5="128a0f4c6fde72aae633f84e30e2d305"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

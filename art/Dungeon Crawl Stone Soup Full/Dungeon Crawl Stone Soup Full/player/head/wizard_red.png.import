@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/wizard_red.png-d06d10797d089eae0aac49c974caa48a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/head/wizard_red.png"
+source_md5="162598511d7b777a0ee06835a0c469be"
+
+dest_files=[ "res://.import/wizard_red.png-d06d10797d089eae0aac49c974caa48a.stex" ]
+dest_md5="2190652d07421891a8e5abc89e0b8365"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/goldaura_1.png-768e372ea74a5bae0d399248b0725f54.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/goldaura_1.png"
+source_md5="4a93993f2c7cb13088b26bdd5df33a20"
+
+dest_files=[ "res://.import/goldaura_1.png-768e372ea74a5bae0d399248b0725f54.stex" ]
+dest_md5="286b84c55dd77f2f4c287b68f9537163"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

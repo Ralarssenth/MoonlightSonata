@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/long_red.png-d6408da39d18fb76fda34ef2d09e9088.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hair/long_red.png"
+source_md5="4dfffce1cfdabca9bb6d6db95249c282"
+
+dest_files=[ "res://.import/long_red.png-d6408da39d18fb76fda34ef2d09e9088.stex" ]
+dest_md5="bc6ffe9eef038d9b052d743861b5188f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

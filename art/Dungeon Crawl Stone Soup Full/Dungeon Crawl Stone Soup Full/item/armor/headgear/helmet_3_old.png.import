@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/helmet_3_old.png-85a382609c639dc10317e320fb6c8b73.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/headgear/helmet_3_old.png"
+source_md5="c3328886c72dcd484572f35ec3ea6231"
+
+dest_files=[ "res://.import/helmet_3_old.png-85a382609c639dc10317e320fb6c8b73.stex" ]
+dest_md5="5701f4de7d74d00afc0b6ad10202d8f5"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

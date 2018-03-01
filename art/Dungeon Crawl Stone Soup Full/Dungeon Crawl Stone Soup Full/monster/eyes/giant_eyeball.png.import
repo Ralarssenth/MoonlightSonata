@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/giant_eyeball.png-415155c92b72af52d4bc35268ab2b141.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/eyes/giant_eyeball.png"
+source_md5="33ec042cc974b55490b2fcd61e6d724d"
+
+dest_files=[ "res://.import/giant_eyeball.png-415155c92b72af52d4bc35268ab2b141.stex" ]
+dest_md5="8e84755a8d0dc7d88e37bffeec55f7e1"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

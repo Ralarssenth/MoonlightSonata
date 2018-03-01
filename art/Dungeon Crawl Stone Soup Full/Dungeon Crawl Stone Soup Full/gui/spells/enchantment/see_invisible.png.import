@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/see_invisible.png-ab5b0d3c563da42ad2b762c74a840081.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/enchantment/see_invisible.png"
+source_md5="503e7f32ee35cb36b5d04301e863089f"
+
+dest_files=[ "res://.import/see_invisible.png-ab5b0d3c563da42ad2b762c74a840081.stex" ]
+dest_md5="a7ae221091875cd46d2b7ce932550caf"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

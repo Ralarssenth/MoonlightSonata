@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/blue_fountain_2.png-ed712598194132aa3b0f6aedd4c3d484.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/blue_fountain_2.png"
+source_md5="a03b68ee488072b74af9013577d402c3"
+
+dest_files=[ "res://.import/blue_fountain_2.png-ed712598194132aa3b0f6aedd4c3d484.stex" ]
+dest_md5="b7b311c98b56c494f884319650a0136f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

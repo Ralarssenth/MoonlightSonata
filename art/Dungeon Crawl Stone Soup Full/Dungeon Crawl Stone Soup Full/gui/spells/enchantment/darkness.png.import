@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/darkness.png-e2feb210a026b469b835e16f201653cc.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/enchantment/darkness.png"
+source_md5="176ba46b7d6f61f11af4b1c3e928e9cd"
+
+dest_files=[ "res://.import/darkness.png-e2feb210a026b469b835e16f201653cc.stex" ]
+dest_md5="75dabf71505d9bc1127e891b69600d00"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

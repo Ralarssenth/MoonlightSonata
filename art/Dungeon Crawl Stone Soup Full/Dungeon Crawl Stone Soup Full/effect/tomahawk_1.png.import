@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/tomahawk_1.png-9f6581595751547e303219ab5f7c9ec4.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/tomahawk_1.png"
+source_md5="793cab16738fb1a1e70bf0e3458185e7"
+
+dest_files=[ "res://.import/tomahawk_1.png-9f6581595751547e303219ab5f7c9ec4.stex" ]
+dest_md5="ed62bfa3f1b1faadc53e5a29b43518b5"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/abomination_small.png-8c859e8ae13a191213ad1d92cbba8d53.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/demons/abomination_small.png"
+source_md5="9f0d384c6bba4b93361223388e2a7c25"
+
+dest_files=[ "res://.import/abomination_small.png-8c859e8ae13a191213ad1d92cbba8d53.stex" ]
+dest_md5="6aeb5c0e4fb4e08ef957769ac1fedb97"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

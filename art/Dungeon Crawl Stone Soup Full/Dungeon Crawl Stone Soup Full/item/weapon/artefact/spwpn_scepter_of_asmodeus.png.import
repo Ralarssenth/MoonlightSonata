@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spwpn_scepter_of_asmodeus.png-5c736a2ae91137482f6481f44b1b79d9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/artefact/spwpn_scepter_of_asmodeus.png"
+source_md5="6bc368776e3d2431f14126637d874404"
+
+dest_files=[ "res://.import/spwpn_scepter_of_asmodeus.png-5c736a2ae91137482f6481f44b1b79d9.stex" ]
+dest_md5="c6f0fbe8fe4430fed0e35f799ab7841a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/sword_twist.png-6f82a28f1ed0181d55d9c3dc0edb7dc6.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/sword_twist.png"
+source_md5="bc9ac7b6ce3430c5bbc38a627d58f3ec"
+
+dest_files=[ "res://.import/sword_twist.png-6f82a28f1ed0181d55d9c3dc0edb7dc6.stex" ]
+dest_md5="1cd667f8d25e80fc9b27feb86e69b026"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

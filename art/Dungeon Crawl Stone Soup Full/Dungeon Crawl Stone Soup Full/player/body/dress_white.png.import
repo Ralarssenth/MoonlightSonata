@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/dress_white.png-c73beb29cb2769058d781023837f9ca2.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/body/dress_white.png"
+source_md5="5b6436e74ae423def46203d2947bdd14"
+
+dest_files=[ "res://.import/dress_white.png-c73beb29cb2769058d781023837f9ca2.stex" ]
+dest_md5="8b187de18853309e1e01ac1800dd191c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

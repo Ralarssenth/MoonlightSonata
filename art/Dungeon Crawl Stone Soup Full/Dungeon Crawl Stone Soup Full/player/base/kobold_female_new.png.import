@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/kobold_female_new.png-0e0fc0983a82b9c7fad9352588f66170.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/base/kobold_female_new.png"
+source_md5="da41a62f8bcac1cafd12e1676e8731e8"
+
+dest_files=[ "res://.import/kobold_female_new.png-0e0fc0983a82b9c7fad9352588f66170.stex" ]
+dest_md5="9179731b252522a725244747346449bb"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

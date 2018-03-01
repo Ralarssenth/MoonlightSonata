@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/robe_green.png-414e29d0cdab353f954c09525f2f2600.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/body/robe_green.png"
+source_md5="f58c5d3c196d80b0074e07dda54bca84"
+
+dest_files=[ "res://.import/robe_green.png-414e29d0cdab353f954c09525f2f2600.stex" ]
+dest_md5="ed8bec52fbd8ffb5eb064768c4ca2ab2"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

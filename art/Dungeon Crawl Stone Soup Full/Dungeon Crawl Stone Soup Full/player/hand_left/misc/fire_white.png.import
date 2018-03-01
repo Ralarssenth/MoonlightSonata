@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/fire_white.png-1103ffb5ec2547f1287d005610b92e2c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_left/misc/fire_white.png"
+source_md5="638f27fcc0fafeb9122e652207f09392"
+
+dest_files=[ "res://.import/fire_white.png-1103ffb5ec2547f1287d005610b92e2c.stex" ]
+dest_md5="19df14b5d38d1ff2d12641c432a65605"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

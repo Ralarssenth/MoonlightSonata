@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/evaporate.png-b737b61bd56e01de4759fe3e2a3f7425.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/fire/evaporate.png"
+source_md5="953c42913255b1631425d259b22c601d"
+
+dest_files=[ "res://.import/evaporate.png-b737b61bd56e01de4759fe3e2a3f7425.stex" ]
+dest_md5="9d7e33e794204716f4686a065578c767"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

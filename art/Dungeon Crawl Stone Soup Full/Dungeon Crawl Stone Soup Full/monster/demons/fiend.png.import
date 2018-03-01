@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/fiend.png-52d21aa590e5d232e337f0bdaa7677cc.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/demons/fiend.png"
+source_md5="26638c0a7da0273fca68ead421015c70"
+
+dest_files=[ "res://.import/fiend.png-52d21aa590e5d232e337f0bdaa7677cc.stex" ]
+dest_md5="c7b982ce4999c0c92e58020d9b8bffe1"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

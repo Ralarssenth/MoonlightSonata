@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/firespitter_statue_old.png-2ee3664162e78cf4d18c4a64c3792710.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/statues/firespitter_statue_old.png"
+source_md5="ed5fbb0a278d20d7ce62a8bffd2da4e6"
+
+dest_files=[ "res://.import/firespitter_statue_old.png-2ee3664162e78cf4d18c4a64c3792710.stex" ]
+dest_md5="1b98c635058bc967c3118c538be664f8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

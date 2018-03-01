@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/metal_blue.png-5665b151091e9a2703ac799ccd065c4f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/body/metal_blue.png"
+source_md5="1e57a6fa00a78b26a21c23dad31d8a41"
+
+dest_files=[ "res://.import/metal_blue.png-5665b151091e9a2703ac799ccd065c4f.stex" ]
+dest_md5="f84109e5d11b22e2b9f60714639ef430"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

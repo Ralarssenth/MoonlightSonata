@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/swiftness_new.png-17af3122086114a5758fcbe4439b8f8c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/air/swiftness_new.png"
+source_md5="7cba350b0e68bcf7ce7be2a75458d7ab"
+
+dest_files=[ "res://.import/swiftness_new.png-17af3122086114a5758fcbe4439b8f8c.stex" ]
+dest_md5="e6da9c99361cb13b969e159d5bf1e9eb"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

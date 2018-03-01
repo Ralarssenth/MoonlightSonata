@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/angel_old.png-b47f6bfa6d240d41c52a6eee8c147224.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/holy/angel_old.png"
+source_md5="cc4818ed3acb956b718e48982f13a4a3"
+
+dest_files=[ "res://.import/angel_old.png-b47f6bfa6d240d41c52a6eee8c147224.stex" ]
+dest_md5="b9b3ad2968506e448797537294051324"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

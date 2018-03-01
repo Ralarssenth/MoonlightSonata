@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/sabre_2.png-06058f7e4640dc13be9641eb45c2bdef.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/sabre_2.png"
+source_md5="291ed5869be3276542e2e627b03cd86c"
+
+dest_files=[ "res://.import/sabre_2.png-06058f7e4640dc13be9641eb45c2bdef.stex" ]
+dest_md5="24600627fa84eb71fa366b1ba08e8134"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

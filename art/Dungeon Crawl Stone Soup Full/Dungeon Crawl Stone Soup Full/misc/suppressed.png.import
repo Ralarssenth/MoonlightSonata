@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/suppressed.png-bf872392b25b49bcd95e8c962195bebb.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/suppressed.png"
+source_md5="bd26b17c09a56d04c5b3d873910a533b"
+
+dest_files=[ "res://.import/suppressed.png-bf872392b25b49bcd95e8c962195bebb.stex" ]
+dest_md5="e649728c2adf6f24e2c9f4aeeadc7f02"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/gozag_call_merchant.png-4296f883a78a6e0b021d28d591b73e9e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/invocations/gozag_call_merchant.png"
+source_md5="88eed425b0365d283b47c01dd47aae3b"
+
+dest_files=[ "res://.import/gozag_call_merchant.png-4296f883a78a6e0b021d28d591b73e9e.stex" ]
+dest_md5="e3795bb58da8ba68b66c84c203a26ae1"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/naga_warrior_unique.png-faf808cdfa464984ce378f7ee6e34ca0.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/naga_warrior_unique.png"
+source_md5="a99d4cf187283616d0c88e0e2d2edac4"
+
+dest_files=[ "res://.import/naga_warrior_unique.png-faf808cdfa464984ce378f7ee6e34ca0.stex" ]
+dest_md5="97559fee2b4b22d154f2f43a4f451875"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

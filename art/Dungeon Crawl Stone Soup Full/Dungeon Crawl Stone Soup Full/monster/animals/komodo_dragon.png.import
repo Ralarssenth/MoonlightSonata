@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/komodo_dragon.png-937453fb2902addafef9505c37899844.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/komodo_dragon.png"
+source_md5="ca82102218a71e156ea12148c928ddde"
+
+dest_files=[ "res://.import/komodo_dragon.png-937453fb2902addafef9505c37899844.stex" ]
+dest_md5="e835592042a25c8bbf04ae83c8dafb5f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

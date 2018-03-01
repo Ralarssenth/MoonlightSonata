@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/mesh_red.png-a88122f2082b5ae3c2a62433e7adbac9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/boots/mesh_red.png"
+source_md5="677e4c43142bebee4452e587ca7a8cad"
+
+dest_files=[ "res://.import/mesh_red.png-a88122f2082b5ae3c2a62433e7adbac9.stex" ]
+dest_md5="3e53431be4ecc88f61df8a52029442fc"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

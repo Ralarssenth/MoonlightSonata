@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/giant_goldfish.png-ca3028c2dbd885cb523b2c439cabd998.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/giant_goldfish.png"
+source_md5="f686471e29ef0dd2fdd15ff325dba7b5"
+
+dest_files=[ "res://.import/giant_goldfish.png-ca3028c2dbd885cb523b2c439cabd998.stex" ]
+dest_md5="84bf389c7aa76569aed0a8a645f48428"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

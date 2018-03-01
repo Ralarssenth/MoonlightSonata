@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/okawaru_bottom.png-556f305e474851e9e919bb547e3ed81a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/emissaries/okawaru_bottom.png"
+source_md5="00ee0d754bee176211afd5e710fe7da1"
+
+dest_files=[ "res://.import/okawaru_bottom.png-556f305e474851e9e919bb547e3ed81a.stex" ]
+dest_md5="b422b8b5123b6f5c1a681de440955cc6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

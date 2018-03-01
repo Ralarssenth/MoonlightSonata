@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/deep_troll_berserker.png-1cf071999d98ec6c6529c3416235b0a5.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/deep_troll_berserker.png"
+source_md5="3df3a94a54c9b87ddc7a44991060c5c4"
+
+dest_files=[ "res://.import/deep_troll_berserker.png-1cf071999d98ec6c6529c3416235b0a5.stex" ]
+dest_md5="0641a679393f67f817896d0ffeefc461"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

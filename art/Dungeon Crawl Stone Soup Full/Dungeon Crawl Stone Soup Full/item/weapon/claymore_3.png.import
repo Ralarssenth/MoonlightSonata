@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/claymore_3.png-3ed5cb3e0811463c0ce271938e03443e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/claymore_3.png"
+source_md5="7359b37197796b3e2280e1627a26c9ab"
+
+dest_files=[ "res://.import/claymore_3.png-3ed5cb3e0811463c0ce271938e03443e.stex" ]
+dest_md5="bf77035eee18301cf95125ff0498d0c2"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

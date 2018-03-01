@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/long_green.png-95dfcac7c4a3a777c9cdbf7f99b3a02c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/beard/long_green.png"
+source_md5="61616285a8ca01c63153e2d73c34fbc3"
+
+dest_files=[ "res://.import/long_green.png-95dfcac7c4a3a777c9cdbf7f99b3a02c.stex" ]
+dest_md5="532d47147d1b26f812af6d6a89078b28"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

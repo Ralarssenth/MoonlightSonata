@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/enter_hell_3.png-3c41fa95c68f321e787e60b888ad1541.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/gateways/enter_hell_3.png"
+source_md5="a9d27a9cb9988a9f69a33677195d80d2"
+
+dest_files=[ "res://.import/enter_hell_3.png-3c41fa95c68f321e787e60b888ad1541.stex" ]
+dest_md5="5de01a480cad1695d22ad32e1b1e6ce1"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/unseen_weapon_new.png-edfdd24c1b398e556d0836ec75641148.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/unseen_weapon_new.png"
+source_md5="66ddce3605098729bda826346df93760"
+
+dest_files=[ "res://.import/unseen_weapon_new.png-edfdd24c1b398e556d0836ec75641148.stex" ]
+dest_md5="7fae017bbd5c14aee458a4fada182226"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/kobold_male_old.png-4c9280e552ee6f932c69184a4762beb8.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/base/kobold_male_old.png"
+source_md5="51e2965cb4b80cb75c26faf7945aed36"
+
+dest_files=[ "res://.import/kobold_male_old.png-4c9280e552ee6f932c69184a4762beb8.stex" ]
+dest_md5="7b8bec176c1dcf4012756962be0916a2"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

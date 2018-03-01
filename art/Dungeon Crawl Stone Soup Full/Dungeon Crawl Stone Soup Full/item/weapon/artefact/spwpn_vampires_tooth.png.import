@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spwpn_vampires_tooth.png-1ffb3d54d7099b95a76ad05def94644c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/artefact/spwpn_vampires_tooth.png"
+source_md5="cc560ae66a63dc35e89732bbc59c5cfb"
+
+dest_files=[ "res://.import/spwpn_vampires_tooth.png-1ffb3d54d7099b95a76ad05def94644c.stex" ]
+dest_md5="29c1cada1165fd555a56262916f7391a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

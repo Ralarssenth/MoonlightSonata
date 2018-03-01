@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/black_knight.png-c7ddae0230cf9a36b90ef74bfcb9bc04.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/barding/black_knight.png"
+source_md5="fa23fd0f6997953b1caa2949b4eebacd"
+
+dest_files=[ "res://.import/black_knight.png-c7ddae0230cf9a36b90ef74bfcb9bc04.stex" ]
+dest_md5="d55e9af5b464518a13f6a862f062f7f8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ru_sacrifice_eye.png-74baf544420733a59dc438ef29e9fb10.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/invocations/ru_sacrifice_eye.png"
+source_md5="32776eaa48fded423bba748655556efe"
+
+dest_files=[ "res://.import/ru_sacrifice_eye.png-74baf544420733a59dc438ef29e9fb10.stex" ]
+dest_md5="1ff4365508b23ec4042a644cc95571b8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

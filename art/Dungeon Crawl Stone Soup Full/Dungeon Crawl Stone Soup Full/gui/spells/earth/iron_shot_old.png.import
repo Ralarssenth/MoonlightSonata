@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/iron_shot_old.png-4656b8f679692a0d5ff538cd1bfec95e.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/earth/iron_shot_old.png"
+source_md5="fb27c2b6e51cc0e709fb478da1642298"
+
+dest_files=[ "res://.import/iron_shot_old.png-4656b8f679692a0d5ff538cd1bfec95e.stex" ]
+dest_md5="7c7a5ea3d58e4d3b4ff4290750730303"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

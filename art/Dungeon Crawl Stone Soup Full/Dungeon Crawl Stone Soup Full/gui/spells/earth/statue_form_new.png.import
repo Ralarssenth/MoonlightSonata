@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/statue_form_new.png-1a65686eea43046202292000cef10610.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/earth/statue_form_new.png"
+source_md5="36b67c37d79f1d3596c366e60b12497d"
+
+dest_files=[ "res://.import/statue_form_new.png-1a65686eea43046202292000cef10610.stex" ]
+dest_md5="a19a95e4d2718d616f3cfcc4fd4633c7"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

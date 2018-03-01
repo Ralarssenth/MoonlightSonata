@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/duane.png-abfb9cf5beb1eac4dd213e13667c495c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/duane.png"
+source_md5="bd93fe942e7f09d7afb558b767d24d50"
+
+dest_files=[ "res://.import/duane.png-abfb9cf5beb1eac4dd213e13667c495c.stex" ]
+dest_md5="65a5a0db355a99f595ba81bb9618718a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

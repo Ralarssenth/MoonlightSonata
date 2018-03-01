@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/skeleton_humanoid_large_new.png-d536588802748374a1e1ff4ca7f72a75.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/undead/skeletons/skeleton_humanoid_large_new.png"
+source_md5="e60dcd48c672fcde599c8fc6c6100a83"
+
+dest_files=[ "res://.import/skeleton_humanoid_large_new.png-d536588802748374a1e1ff4ca7f72a75.stex" ]
+dest_md5="25e569769cdbad7435d830487ed412ba"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

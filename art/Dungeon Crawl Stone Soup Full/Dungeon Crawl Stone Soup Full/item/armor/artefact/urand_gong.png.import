@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/urand_gong.png-c962c0ad45527c1765ced7353bf6f00a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/artefact/urand_gong.png"
+source_md5="28009efd36bf2e586f6fb555bf159f1f"
+
+dest_files=[ "res://.import/urand_gong.png-c962c0ad45527c1765ced7353bf6f00a.stex" ]
+dest_md5="46a78577a576cd8c8fe1b63c889cd84b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

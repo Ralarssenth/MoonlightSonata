@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-intelligence_old.png-f323c127e929bbb38324b93f70b35c38.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/bottom_right/i-intelligence_old.png"
+source_md5="c1e970dbd4d3b80b0e5f86856cbe0ff3"
+
+dest_files=[ "res://.import/i-intelligence_old.png-f323c127e929bbb38324b93f70b35c38.stex" ]
+dest_md5="5b5234dda53e43f4653e2ae4f46bc45d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

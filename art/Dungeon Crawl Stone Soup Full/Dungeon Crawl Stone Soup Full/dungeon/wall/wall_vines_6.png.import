@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/wall_vines_6.png-67781200c63ab9c7073b6aad893269c9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/wall_vines_6.png"
+source_md5="d5fc5aa21c502f3b9c5e3a24d6ee1012"
+
+dest_files=[ "res://.import/wall_vines_6.png-67781200c63ab9c7073b6aad893269c9.stex" ]
+dest_md5="060fe5a68b54b6d0e589fa75a866225c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

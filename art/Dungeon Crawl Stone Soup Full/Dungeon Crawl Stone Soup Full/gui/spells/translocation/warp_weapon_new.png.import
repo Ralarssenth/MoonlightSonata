@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/warp_weapon_new.png-6db8d0cfecfc3c3cb7a6cd1b546495ff.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/translocation/warp_weapon_new.png"
+source_md5="43673bdf548164bfcb4b26b3790b8f12"
+
+dest_files=[ "res://.import/warp_weapon_new.png-6db8d0cfecfc3c3cb7a6cd1b546495ff.stex" ]
+dest_md5="a1dc820d0962360b9ba3db4b803daccf"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

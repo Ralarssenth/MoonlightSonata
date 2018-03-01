@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/mottled_dragon_armor_old.png-5fb8df4776f0283c187de1b260f44c1c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/torso/mottled_dragon_armor_old.png"
+source_md5="d1372a4e684831e7bdcadc27f9a5c5e5"
+
+dest_files=[ "res://.import/mottled_dragon_armor_old.png-5fb8df4776f0283c187de1b260f44c1c.stex" ]
+dest_md5="3f176de12d51b817d40570a5891c765b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

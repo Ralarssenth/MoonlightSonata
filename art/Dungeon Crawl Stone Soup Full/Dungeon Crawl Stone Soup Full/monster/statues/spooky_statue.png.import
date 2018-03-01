@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spooky_statue.png-149c604ce550e0eef953fdb602a3ba73.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/statues/spooky_statue.png"
+source_md5="dcd636ee7ada59c475f96ced34ebee37"
+
+dest_files=[ "res://.import/spooky_statue.png-149c604ce550e0eef953fdb602a3ba73.stex" ]
+dest_md5="e23fc3648d27434f14ba814d00bbd916"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

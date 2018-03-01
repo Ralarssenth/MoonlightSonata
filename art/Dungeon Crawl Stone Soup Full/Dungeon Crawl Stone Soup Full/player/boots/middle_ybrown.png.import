@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/middle_ybrown.png-1747f9612e28780b88841359b7ac48dc.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/boots/middle_ybrown.png"
+source_md5="8be5b1ecc82f31e3b76fc153b1e9a3c5"
+
+dest_files=[ "res://.import/middle_ybrown.png-1747f9612e28780b88841359b7ac48dc.stex" ]
+dest_md5="18ba52ede250e26174b8048f75fe1490"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

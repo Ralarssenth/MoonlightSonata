@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/confuse_new.png-e7911293315d17caf2c65695137d7db0.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/enchantment/confuse_new.png"
+source_md5="639974754959c2118a5fc9692271b26e"
+
+dest_files=[ "res://.import/confuse_new.png-e7911293315d17caf2c65695137d7db0.stex" ]
+dest_md5="33a552a447266f7323f0a3d64c30b069"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

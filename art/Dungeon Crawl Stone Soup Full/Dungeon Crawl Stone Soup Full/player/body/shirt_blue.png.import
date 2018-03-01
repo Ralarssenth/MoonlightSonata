@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shirt_blue.png-9468405bcb6eef0f83cadf69d2af2723.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/body/shirt_blue.png"
+source_md5="2da05a28dfdf63a935e49a3cc8acd163"
+
+dest_files=[ "res://.import/shirt_blue.png-9468405bcb6eef0f83cadf69d2af2723.stex" ]
+dest_md5="a3ae6e7abcad22e2430edc75cbdc9f8d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

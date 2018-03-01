@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/morningstar_3.png-bd63e1c0734bcad168f61ff43b7aa518.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/morningstar_3.png"
+source_md5="84eb5cbdac161af66f1115e37994788e"
+
+dest_files=[ "res://.import/morningstar_3.png-bd63e1c0734bcad168f61ff43b7aa518.stex" ]
+dest_md5="52598d71c94883b21495014e738ef80f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

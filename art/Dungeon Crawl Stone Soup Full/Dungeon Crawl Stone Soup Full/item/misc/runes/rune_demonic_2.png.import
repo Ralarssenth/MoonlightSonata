@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/rune_demonic_2.png-53d9987b719c066ab235e7ee7600b12d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/misc/runes/rune_demonic_2.png"
+source_md5="6ed80a376c45152260969ce47b1f18ee"
+
+dest_files=[ "res://.import/rune_demonic_2.png-53d9987b719c066ab235e7ee7600b12d.stex" ]
+dest_md5="5e4ddb11055d7fad24ad08215df8aed4"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

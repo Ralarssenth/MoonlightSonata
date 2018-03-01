@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/leg_armor_1.png-c4e3b2dad7b1842c6634b05720862d59.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/legs/leg_armor_1.png"
+source_md5="4de22cbf2dc471773b2fb5101b0a0612"
+
+dest_files=[ "res://.import/leg_armor_1.png-c4e3b2dad7b1842c6634b05720862d59.stex" ]
+dest_md5="fd1c6e1a30ba9a0a95a20ffab9c8aaa0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

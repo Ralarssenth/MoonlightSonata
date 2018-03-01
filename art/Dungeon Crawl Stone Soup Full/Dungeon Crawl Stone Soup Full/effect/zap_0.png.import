@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/zap_0.png-fd185f7a1a88c525100b042a16eee382.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/zap_0.png"
+source_md5="2f2ea8221292d007c7d527a46ae39d24"
+
+dest_files=[ "res://.import/zap_0.png-fd185f7a1a88c525100b042a16eee382.stex" ]
+dest_md5="d8386de63981497beb645a73a202dca2"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

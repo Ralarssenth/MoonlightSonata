@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/wizard_darkgreen.png-abe0bef5cdd8b0777e25caf189def2eb.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/head/wizard_darkgreen.png"
+source_md5="90c625b65e076c16aaec8fb2b8e2ed10"
+
+dest_files=[ "res://.import/wizard_darkgreen.png-abe0bef5cdd8b0777e25caf189def2eb.stex" ]
+dest_md5="35b4830e0de6aa1e6d5972b4d96f36b1"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

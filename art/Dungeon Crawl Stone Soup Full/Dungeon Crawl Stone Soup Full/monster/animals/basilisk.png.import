@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/basilisk.png-a04e18b7f21677d4a8f26421e8b89b1f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/basilisk.png"
+source_md5="6b8a5cb8e256a523453c960e0c54cb8e"
+
+dest_files=[ "res://.import/basilisk.png-a04e18b7f21677d4a8f26421e8b89b1f.stex" ]
+dest_md5="19d42854289e95c4c0c0097df5f1b2d6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/cigotuvis_embrace.png-8a853bba923e04f23f8b42bba781cc26.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/necromancy/cigotuvis_embrace.png"
+source_md5="886fadcf338b6475070fc82bd0f167c1"
+
+dest_files=[ "res://.import/cigotuvis_embrace.png-8a853bba923e04f23f8b42bba781cc26.stex" ]
+dest_md5="779f90615f1d87fd84cb65a9b81823a3"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

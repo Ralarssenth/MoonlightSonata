@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/battlesphere.png-e94df8f8dfb61868465ec18759c4280f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/nonliving/battlesphere.png"
+source_md5="03c50d77e17c1631ee869c3426aa7c5d"
+
+dest_files=[ "res://.import/battlesphere.png-e94df8f8dfb61868465ec18759c4280f.stex" ]
+dest_md5="99b0ba7474a7f5311714793d049d1882"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

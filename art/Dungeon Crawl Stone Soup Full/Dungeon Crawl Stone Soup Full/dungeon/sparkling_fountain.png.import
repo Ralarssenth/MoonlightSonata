@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/sparkling_fountain.png-9acaf38d3f934deaa1fd30c9d4b909a7.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/sparkling_fountain.png"
+source_md5="d0761db313837e112bfd13760cfb7f4f"
+
+dest_files=[ "res://.import/sparkling_fountain.png-9acaf38d3f934deaa1fd30c9d4b909a7.stex" ]
+dest_md5="d02c6ed82a8c3d71af7f08be89971d5b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

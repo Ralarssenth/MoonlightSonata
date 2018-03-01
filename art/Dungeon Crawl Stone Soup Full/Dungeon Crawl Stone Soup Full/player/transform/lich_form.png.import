@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/lich_form.png-4c21b4c6256d3c8ef32b93b0a75235d4.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/transform/lich_form.png"
+source_md5="224be6083867c12803dfa9973f39226b"
+
+dest_files=[ "res://.import/lich_form.png-4c21b4c6256d3c8ef32b93b0a75235d4.stex" ]
+dest_md5="4b8a9dbe9a3c3055a2a015bffe72805f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

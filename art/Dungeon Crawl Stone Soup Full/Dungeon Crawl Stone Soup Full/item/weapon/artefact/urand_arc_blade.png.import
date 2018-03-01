@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/urand_arc_blade.png-740482d9c29578a8986de37ab58afea2.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/artefact/urand_arc_blade.png"
+source_md5="a65630d48ca637993e1622f1f3013ebe"
+
+dest_files=[ "res://.import/urand_arc_blade.png-740482d9c29578a8986de37ab58afea2.stex" ]
+dest_md5="919d8fc2a471a1b653e1943a30ac62e5"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

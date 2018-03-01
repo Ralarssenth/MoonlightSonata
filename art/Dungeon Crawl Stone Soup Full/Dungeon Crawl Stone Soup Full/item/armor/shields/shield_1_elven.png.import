@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shield_1_elven.png-5f9a90e01f7b23a5918038203675a402.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/shields/shield_1_elven.png"
+source_md5="a56bd6ccb346863fac7b10a1a8c001b1"
+
+dest_files=[ "res://.import/shield_1_elven.png-5f9a90e01f7b23a5918038203675a402.stex" ]
+dest_md5="7c97dae080b16ae8c27dc9b93113a183"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/eveningstar_1_new.png-a6e97cb25b572e11ac083f29d0b52825.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/eveningstar_1_new.png"
+source_md5="f7646c9631e9189d9fce603ab0904e40"
+
+dest_files=[ "res://.import/eveningstar_1_new.png-a6e97cb25b572e11ac083f29d0b52825.stex" ]
+dest_md5="37bfa02db555b8defac26fab74e59bba"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

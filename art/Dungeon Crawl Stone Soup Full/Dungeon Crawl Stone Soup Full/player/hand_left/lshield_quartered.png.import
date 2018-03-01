@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/lshield_quartered.png-88a02d052ac0fcfd0a411671fa036901.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_left/lshield_quartered.png"
+source_md5="1a5addfe273139effaa9c47ce70c9ce1"
+
+dest_files=[ "res://.import/lshield_quartered.png-88a02d052ac0fcfd0a411671fa036901.stex" ]
+dest_md5="01ce02e786f47dbc103bcbcc111c3591"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

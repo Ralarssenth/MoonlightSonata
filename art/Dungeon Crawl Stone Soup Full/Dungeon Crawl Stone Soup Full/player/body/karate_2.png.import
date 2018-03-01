@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/karate_2.png-bf723398233e3bf824b3be08717e24d9.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/body/karate_2.png"
+source_md5="3cfcf42eea727d01119c0f9a2b1a83b4"
+
+dest_files=[ "res://.import/karate_2.png-bf723398233e3bf824b3be08717e24d9.stex" ]
+dest_md5="f18de76550f777f669da8f3ac90fb220"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

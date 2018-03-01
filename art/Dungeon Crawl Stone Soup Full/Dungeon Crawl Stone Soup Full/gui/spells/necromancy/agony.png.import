@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/agony.png-771a59d554a7ed04a8a8f0cb250c75a0.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/necromancy/agony.png"
+source_md5="cc21012743f917e747d83cbb287d9f7a"
+
+dest_files=[ "res://.import/agony.png-771a59d554a7ed04a8a8f0cb250c75a0.stex" ]
+dest_md5="06246cb51316b6cf0f4d82f320c553b6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

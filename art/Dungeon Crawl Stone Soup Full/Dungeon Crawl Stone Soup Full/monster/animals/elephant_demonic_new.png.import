@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/elephant_demonic_new.png-6a2c3c9da655b9ec35e5d2eb31ec62ee.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/elephant_demonic_new.png"
+source_md5="89ffe34be28a68e8d8b0acda71a178a8"
+
+dest_files=[ "res://.import/elephant_demonic_new.png-6a2c3c9da655b9ec35e5d2eb31ec62ee.stex" ]
+dest_md5="16d3819ee800321808dfd3888824b162"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

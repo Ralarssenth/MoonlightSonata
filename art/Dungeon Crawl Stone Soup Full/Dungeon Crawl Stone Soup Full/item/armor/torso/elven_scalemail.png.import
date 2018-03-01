@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/elven_scalemail.png-c1db7acc0573000778716e88b79bda86.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/torso/elven_scalemail.png"
+source_md5="b04983c6b64b4ffe9a99cf8b696fd79c"
+
+dest_files=[ "res://.import/elven_scalemail.png-c1db7acc0573000778716e88b79bda86.stex" ]
+dest_md5="a3488cb32fc7cb5175d504999db02fb6"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

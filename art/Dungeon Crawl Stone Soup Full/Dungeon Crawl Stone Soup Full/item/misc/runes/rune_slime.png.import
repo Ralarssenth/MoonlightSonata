@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/rune_slime.png-798ae4da48c61fb9688d23db6476f530.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/misc/runes/rune_slime.png"
+source_md5="c389b980576872032bd7166f2cf324f1"
+
+dest_files=[ "res://.import/rune_slime.png-798ae4da48c61fb9688d23db6476f530.stex" ]
+dest_md5="89c64463fee9efeca69c654365f92ed7"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

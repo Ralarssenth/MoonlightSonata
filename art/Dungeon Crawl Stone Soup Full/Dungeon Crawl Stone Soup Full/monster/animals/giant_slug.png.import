@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/giant_slug.png-d9bae4bce6c1ea6beaef94161510e1da.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/giant_slug.png"
+source_md5="501d5ca57a3bcdce59a55c677d08f0ba"
+
+dest_files=[ "res://.import/giant_slug.png-d9bae4bce6c1ea6beaef94161510e1da.stex" ]
+dest_md5="86de5a0e8dcd1e1e5400cad10640d772"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

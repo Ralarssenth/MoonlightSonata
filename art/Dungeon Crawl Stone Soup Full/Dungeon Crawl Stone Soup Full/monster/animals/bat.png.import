@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/bat.png-5f016285d644487aaad5a2612f6177e3.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/bat.png"
+source_md5="5ed9fa84189527ae05b0a7a84d6d547f"
+
+dest_files=[ "res://.import/bat.png-5f016285d644487aaad5a2612f6177e3.stex" ]
+dest_md5="9d900e54ab5f447addd01495f3df8177"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

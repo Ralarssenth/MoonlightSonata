@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/vault_warden.png-a84cc1c6f9619bf74f4c36c8203e5218.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/vault/vault_warden.png"
+source_md5="5b5dbf7c708d1c0213011b85faa9606d"
+
+dest_files=[ "res://.import/vault_warden.png-a84cc1c6f9619bf74f4c36c8203e5218.stex" ]
+dest_md5="dd8e6c763244b0eda338c36ad3b725b3"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

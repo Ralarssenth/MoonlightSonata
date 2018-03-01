@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/profane_servitor.png-5c16ec1277ffd36b155c2efa218157ce.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/undead/profane_servitor.png"
+source_md5="5e204c3990ecac91b2390e8aae1cd44d"
+
+dest_files=[ "res://.import/profane_servitor.png-5c16ec1277ffd36b155c2efa218157ce.stex" ]
+dest_md5="d4e68b3cc7552d475046183b9976cf2e"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

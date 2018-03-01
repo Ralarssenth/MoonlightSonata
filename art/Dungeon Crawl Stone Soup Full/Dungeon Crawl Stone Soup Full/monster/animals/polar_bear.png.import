@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/polar_bear.png-d09581d5215bd2c812e99bf3fcf28196.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/polar_bear.png"
+source_md5="f248c1516e2f6cc99d28bdf2606ffcd1"
+
+dest_files=[ "res://.import/polar_bear.png-d09581d5215bd2c812e99bf3fcf28196.stex" ]
+dest_md5="de52a23ac87ecc07d06b74264c887577"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

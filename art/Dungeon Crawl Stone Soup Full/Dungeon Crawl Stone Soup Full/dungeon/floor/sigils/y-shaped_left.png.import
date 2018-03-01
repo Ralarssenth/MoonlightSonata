@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/y-shaped_left.png-b878996fa0f96d849064080815cdae62.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/sigils/y-shaped_left.png"
+source_md5="dee1ffa281a6dba7e2b72913c3eb7092"
+
+dest_files=[ "res://.import/y-shaped_left.png-b878996fa0f96d849064080815cdae62.stex" ]
+dest_md5="51e5309c484fec753f82c76ca8c4b4ee"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

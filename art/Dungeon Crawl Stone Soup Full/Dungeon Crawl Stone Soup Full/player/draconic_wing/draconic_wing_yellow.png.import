@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/draconic_wing_yellow.png-5e3305253ec039a2b7e9ee7628716b8a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/draconic_wing/draconic_wing_yellow.png"
+source_md5="1bf58a8145d09d68331a9251b85c3e89"
+
+dest_files=[ "res://.import/draconic_wing_yellow.png-5e3305253ec039a2b7e9ee7628716b8a.stex" ]
+dest_md5="327596c610d4a8f310541620ce828283"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

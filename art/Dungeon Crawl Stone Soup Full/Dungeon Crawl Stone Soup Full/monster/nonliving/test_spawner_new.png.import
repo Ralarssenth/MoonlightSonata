@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/test_spawner_new.png-453a741e06dc7cb869925afe489c1b25.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/nonliving/test_spawner_new.png"
+source_md5="eda8c4d7b07428e914c02b46e7106c4b"
+
+dest_files=[ "res://.import/test_spawner_new.png-453a741e06dc7cb869925afe489c1b25.stex" ]
+dest_md5="e4250012d0d0b25e3951c71b065b751c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

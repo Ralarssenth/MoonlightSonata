@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/twister_4.png-01d4fbcec9af42b411fb2120ce91373a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/nonliving/twister_4.png"
+source_md5="08f37c9d198742fa3575e858c45a25b8"
+
+dest_files=[ "res://.import/twister_4.png-01d4fbcec9af42b411fb2120ce91373a.stex" ]
+dest_md5="e25e98bce64af8dc5a2f7a3ef62c9cf8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

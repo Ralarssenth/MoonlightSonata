@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/hog_old.png-ba001a27a64fc1bd04095df9dedeb14a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/hog_old.png"
+source_md5="45d0a8b09fd14c0c492b2a9b263c2108"
+
+dest_files=[ "res://.import/hog_old.png-ba001a27a64fc1bd04095df9dedeb14a.stex" ]
+dest_md5="84ea20e3f4f914bb39c20c713ae4fe6f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

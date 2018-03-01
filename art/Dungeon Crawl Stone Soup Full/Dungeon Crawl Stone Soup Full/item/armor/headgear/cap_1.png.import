@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/cap_1.png-8c19c01a53511359f639a577211c8ad5.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/headgear/cap_1.png"
+source_md5="2cc51d2e6668d4a28050ae859d3fa42e"
+
+dest_files=[ "res://.import/cap_1.png-8c19c01a53511359f639a577211c8ad5.stex" ]
+dest_md5="93a68ff9cb522216ba795d2ee276c0c1"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

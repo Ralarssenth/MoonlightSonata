@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ice_dragon_hide_new.png-06432334381af0cf3b11f72d1f8c1554.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/torso/ice_dragon_hide_new.png"
+source_md5="b69a0be04e741d2c005e098a9497ae9d"
+
+dest_files=[ "res://.import/ice_dragon_hide_new.png-06432334381af0cf3b11f72d1f8c1554.stex" ]
+dest_md5="1fda2a1dde78bfd694a9701de8b9e844"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/urand_four_winds_new.png-7b2f4f84a25d98a74ca6a359b923feee.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/amulet/artefact/urand_four_winds_new.png"
+source_md5="ad3e223df96ee2fa967f2b83faa0bd20"
+
+dest_files=[ "res://.import/urand_four_winds_new.png-7b2f4f84a25d98a74ca6a359b923feee.stex" ]
+dest_md5="285147da9c4f2c982bc7ae9dc631af06"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

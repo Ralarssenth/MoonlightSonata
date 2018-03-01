@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/statue_form_centaur.png-5a59c796dd1e2ce8473a0aeeea359fc1.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/transform/statue_form_centaur.png"
+source_md5="0f3a000d9e793009c9c177187e9dfcd2"
+
+dest_files=[ "res://.import/statue_form_centaur.png-5a59c796dd1e2ce8473a0aeeea359fc1.stex" ]
+dest_md5="751c2db1c74d047b6895ada79b9f8357"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

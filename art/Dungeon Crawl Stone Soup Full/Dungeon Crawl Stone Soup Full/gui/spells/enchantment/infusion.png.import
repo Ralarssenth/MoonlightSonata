@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/infusion.png-30933fd0d1e9e42888ff1a3aff04b866.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/enchantment/infusion.png"
+source_md5="dbad74f9cdd7f8130796dc6878467685"
+
+dest_files=[ "res://.import/infusion.png-30933fd0d1e9e42888ff1a3aff04b866.stex" ]
+dest_md5="f026acf9bf3d60b71ef492597c976257"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

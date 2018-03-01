@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/asmodeus_top.png-fa0b8de538aec1f2cb35a1ef28a44b85.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/unique/asmodeus_top.png"
+source_md5="72967413cacf84a5cd589a92cbbcb22e"
+
+dest_files=[ "res://.import/asmodeus_top.png-fa0b8de538aec1f2cb35a1ef28a44b85.stex" ]
+dest_md5="2c79fa77cb68f16e97a399fd21f43b38"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

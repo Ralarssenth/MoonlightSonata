@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spriggan_female.png-d043431d297592e518d9c0f8335afcbc.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/base/spriggan_female.png"
+source_md5="98aab620902e6ad641e71d6c7b761146"
+
+dest_files=[ "res://.import/spriggan_female.png-d043431d297592e518d9c0f8335afcbc.stex" ]
+dest_md5="be933912ca857e6ccec55a834c275a6b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

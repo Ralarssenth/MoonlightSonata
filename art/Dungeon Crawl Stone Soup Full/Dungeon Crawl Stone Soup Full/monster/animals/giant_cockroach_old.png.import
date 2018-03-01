@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/giant_cockroach_old.png-928e2a3c702c6c86439dee6572154f4d.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/animals/giant_cockroach_old.png"
+source_md5="bd22fb48e9d2fed6ba145921e75a6ba9"
+
+dest_files=[ "res://.import/giant_cockroach_old.png-928e2a3c702c6c86439dee6572154f4d.stex" ]
+dest_md5="144684dcc97c651e8af060ef15701660"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

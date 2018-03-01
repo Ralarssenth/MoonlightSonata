@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/urand_ratskin_cloak.png-1fd6b36b08a8c7dd4fcf2a38ed215275.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/artefact/urand_ratskin_cloak.png"
+source_md5="a3005bb653ad11569ca2c017fe5d6fd0"
+
+dest_files=[ "res://.import/urand_ratskin_cloak.png-1fd6b36b08a8c7dd4fcf2a38ed215275.stex" ]
+dest_md5="0995fc467afe21ca19468f764792d9bc"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

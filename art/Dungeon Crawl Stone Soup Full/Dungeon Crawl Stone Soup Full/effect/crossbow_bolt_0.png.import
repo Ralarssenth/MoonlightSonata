@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/crossbow_bolt_0.png-575c7ebb6d9890ae1d70ac0e0b0997a6.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/crossbow_bolt_0.png"
+source_md5="349d5a1685b2c8e611c7cfc96a72fbf1"
+
+dest_files=[ "res://.import/crossbow_bolt_0.png-575c7ebb6d9890ae1d70ac0e0b0997a6.stex" ]
+dest_md5="ace7d262d2e595b3999838dafef54868"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

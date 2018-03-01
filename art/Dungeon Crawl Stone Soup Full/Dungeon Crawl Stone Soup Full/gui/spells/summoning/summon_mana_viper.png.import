@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/summon_mana_viper.png-b1a8daf0a7fcdf77b7bba449ffa729a2.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/summoning/summon_mana_viper.png"
+source_md5="40ef977b565b1f23dc78948920da9874"
+
+dest_files=[ "res://.import/summon_mana_viper.png-b1a8daf0a7fcdf77b7bba449ffa729a2.stex" ]
+dest_md5="c5b662c5bc6c47fd56741fee6d943079"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/crystal_plate_mail.png-3566f79a481a090839c654760a6ae944.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/torso/crystal_plate_mail.png"
+source_md5="496bd3b67253ed1c83308a81504fec81"
+
+dest_files=[ "res://.import/crystal_plate_mail.png-3566f79a481a090839c654760a6ae944.stex" ]
+dest_md5="3e3a2505ccb901288090ca6e9c6093d9"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

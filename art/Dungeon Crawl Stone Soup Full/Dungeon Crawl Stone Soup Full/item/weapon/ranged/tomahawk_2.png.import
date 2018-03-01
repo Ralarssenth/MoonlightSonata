@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/tomahawk_2.png-832240d53e8dbaa4b5f3f1f8e094074c.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/ranged/tomahawk_2.png"
+source_md5="0d0860f6ec6a2d079ace17f94c0f0581"
+
+dest_files=[ "res://.import/tomahawk_2.png-832240d53e8dbaa4b5f3f1f8e094074c.stex" ]
+dest_md5="e442fa79f33ac0aabe95df33315ad13a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

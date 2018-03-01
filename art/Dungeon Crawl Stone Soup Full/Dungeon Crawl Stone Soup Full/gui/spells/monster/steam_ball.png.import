@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/steam_ball.png-ce63fbcac7840eea09606905348356e6.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/monster/steam_ball.png"
+source_md5="fc24c0bdb02c070e41c3d6248a530e34"
+
+dest_files=[ "res://.import/steam_ball.png-ce63fbcac7840eea09606905348356e6.stex" ]
+dest_md5="a6e5f8ac2ba0a1b7f74e4bf0daa24119"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-life-protection_old.png-357e57a4113212a7ae12793daea11463.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/misc/brands/bottom_right/i-life-protection_old.png"
+source_md5="ed9dff6d4f9feedea9348f2a94362658"
+
+dest_files=[ "res://.import/i-life-protection_old.png-357e57a4113212a7ae12793daea11463.stex" ]
+dest_md5="0f0de5d297d029b893372042c17ff62e"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

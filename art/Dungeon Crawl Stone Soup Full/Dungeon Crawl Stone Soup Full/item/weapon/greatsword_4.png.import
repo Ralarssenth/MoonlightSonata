@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/greatsword_4.png-0ff8d2f6efee7f4c320e9ac2e52477b7.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/greatsword_4.png"
+source_md5="2f45592c9705dce6a8dbf6e45fb7484e"
+
+dest_files=[ "res://.import/greatsword_4.png-0ff8d2f6efee7f4c320e9ac2e52477b7.stex" ]
+dest_md5="66143a404f812a976fba5013287da35b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

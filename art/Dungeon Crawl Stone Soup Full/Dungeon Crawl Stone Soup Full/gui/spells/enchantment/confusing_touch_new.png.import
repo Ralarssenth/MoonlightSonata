@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/confusing_touch_new.png-b083c03da4fa3e1e2178b5c3a65e6131.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/enchantment/confusing_touch_new.png"
+source_md5="2388fa88ac1b4997351d2cd06357bcc5"
+
+dest_files=[ "res://.import/confusing_touch_new.png-b083c03da4fa3e1e2178b5c3a65e6131.stex" ]
+dest_md5="63a1768b2e117fa2fafdcaeba96e97cf"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

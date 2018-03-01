@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/urand_orange_crystal.png-3f5d888bba19dd25a7daafa0e9ab52d2.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/armor/artefact/urand_orange_crystal.png"
+source_md5="b55fb65150a6e4cf7b8fc7301e50b588"
+
+dest_files=[ "res://.import/urand_orange_crystal.png-3f5d888bba19dd25a7daafa0e9ab52d2.stex" ]
+dest_md5="473603c99a64bb541678419752fa69c8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

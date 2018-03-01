@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/purple_old.png-e02c1fafd7c2225f20c59ce40e6acd54.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/book/purple_old.png"
+source_md5="3bfbc87dcf1b732aa23ca04d25c9ca3c"
+
+dest_files=[ "res://.import/purple_old.png-e02c1fafd7c2225f20c59ce40e6acd54.stex" ]
+dest_md5="3cfb2fa1ad0079a125e2ba8690309eab"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

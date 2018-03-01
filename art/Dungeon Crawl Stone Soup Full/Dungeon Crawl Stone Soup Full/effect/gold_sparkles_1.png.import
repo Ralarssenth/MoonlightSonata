@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/gold_sparkles_1.png-6f58b030fff3e3ac12cb607fb31a508a.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/gold_sparkles_1.png"
+source_md5="f05107e6951ca3d6e87b94b944266826"
+
+dest_files=[ "res://.import/gold_sparkles_1.png-6f58b030fff3e3ac12cb607fb31a508a.stex" ]
+dest_md5="cb2801a2458229ee157b8b28515afb51"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

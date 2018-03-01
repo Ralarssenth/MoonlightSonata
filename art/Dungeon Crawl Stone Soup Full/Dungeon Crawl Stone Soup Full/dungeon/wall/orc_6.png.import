@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/orc_6.png-0f5586fa264cfb316dc641bf543c3701.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/wall/orc_6.png"
+source_md5="f1b0c32e78cfd6ca35d1e97f08f9b811"
+
+dest_files=[ "res://.import/orc_6.png-0f5586fa264cfb316dc641bf543c3701.stex" ]
+dest_md5="26cc6af012b19155e7d0636860600990"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

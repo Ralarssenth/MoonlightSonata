@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/mass_confusion_old.png-233534b244f9b32c7d35674a600a8a37.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/enchantment/mass_confusion_old.png"
+source_md5="1182e1b13ae3a3ab2a429f5876ea9ca3"
+
+dest_files=[ "res://.import/mass_confusion_old.png-233534b244f9b32c7d35674a600a8a37.stex" ]
+dest_md5="97619096af3139b34881257259e7c8fe"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

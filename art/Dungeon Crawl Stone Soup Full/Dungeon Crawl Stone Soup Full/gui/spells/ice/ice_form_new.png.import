@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ice_form_new.png-471f9534fbafa0af708338196b83af67.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/gui/spells/ice/ice_form_new.png"
+source_md5="84d7f941b29e0ed9a2bc2f3eacf27bc5"
+
+dest_files=[ "res://.import/ice_form_new.png-471f9534fbafa0af708338196b83af67.stex" ]
+dest_md5="688e86389fd545285cae8997a4f453d7"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

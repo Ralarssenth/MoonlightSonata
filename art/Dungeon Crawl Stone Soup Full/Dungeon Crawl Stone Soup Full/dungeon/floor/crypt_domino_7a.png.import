@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/crypt_domino_7a.png-33463b677879636c0df7c4b08616fe11.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/dungeon/floor/crypt_domino_7a.png"
+source_md5="2d1aa32b090959a6471201196e333095"
+
+dest_files=[ "res://.import/crypt_domino_7a.png-33463b677879636c0df7c4b08616fe11.stex" ]
+dest_md5="b1d0822827f6ac85dbd4fce02815b7ea"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/icicle_0.png-7cbbc0618c8b23220c53be4cca217765.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/effect/icicle_0.png"
+source_md5="004b63e1cf9007356854812f6496b04e"
+
+dest_files=[ "res://.import/icicle_0.png-7cbbc0618c8b23220c53be4cca217765.stex" ]
+dest_md5="02cc2d61265c8d9d3792fc46a7664142"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

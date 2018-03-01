@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/fire_elemental_old.png-357bfa68cec8c7210e2ac25f7a2cbb5f.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/monster/nonliving/fire_elemental_old.png"
+source_md5="97a33deb93d30a3ed1e5fd0e6aa0b376"
+
+dest_files=[ "res://.import/fire_elemental_old.png-357bfa68cec8c7210e2ac25f7a2cbb5f.stex" ]
+dest_md5="f7829c1ee2ffed2be096ee2e9ed20d9b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

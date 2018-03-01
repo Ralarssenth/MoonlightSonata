@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/light_blue.png-26231e960c66e08b43227d66d3ec1136.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/player/hand_right/misc/light_blue.png"
+source_md5="6897d9e99368d6f28b6730f8ea798e8b"
+
+dest_files=[ "res://.import/light_blue.png-26231e960c66e08b43227d66d3ec1136.stex" ]
+dest_md5="e41d417fc98657a9af6355e8de6c9136"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

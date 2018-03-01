@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/bow_1.png-2013f1b646fb4d2f2c97d3874c492c98.stex"
+
+[deps]
+
+source_file="res://art/Dungeon Crawl Stone Soup Full/Dungeon Crawl Stone Soup Full/item/weapon/ranged/bow_1.png"
+source_md5="6c3f2900671a0a35cf3f1b4b370652ef"
+
+dest_files=[ "res://.import/bow_1.png-2013f1b646fb4d2f2c97d3874c492c98.stex" ]
+dest_md5="fc6ab350f8a6d691d4d1933b52ad18c3"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
