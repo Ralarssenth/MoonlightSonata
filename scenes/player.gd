@@ -49,10 +49,12 @@ onready var health_area = get_node("canvas/health_area")
 onready var stamina_bar = $canvas/stamina_bar
 
 var t = 0
+var facing = "down"
 
 func _ready():
 	game_manager.initialize_player()
 	set_physics_process(true)
+	set_process_input(true)
 	can_move = false
 	
 func _on_spawn_timer_timeout():
@@ -61,13 +63,17 @@ func _on_spawn_timer_timeout():
 func _physics_process(delta):
 	update_healthbar()
 	do_sprint_update_stamina_bar()
-	do_move_animations()
 	if can_move == true:
 		do_move(delta)
+		do_move_animations()
 	t += delta
 	if t >= 2:
 		# take_damage(1)
 		t = 0
+
+func _input(event):
+	if event.is_action_pressed("player_attack"):
+		do_attack()
 
 func do_move(delta):
 	var input = Vector2(0, 0)
@@ -84,17 +90,18 @@ func do_move_animations():
 		sprite._set_playing(false)
 		sprite.set_frame(0)
 	elif vel.x > 0 and vel.y == 0:
-		sprite.set_animation("right")
-		sprite._set_playing(true)
+		facing = "right"
 	elif vel.x < 0 and vel.y == 0:
-		sprite.set_animation("left")
-		sprite._set_playing(true)
+		facing = "left"
 	elif vel.y < 0:
-		sprite.set_animation("up")
-		sprite._set_playing(true)
+		facing = "up"
 	elif vel.y > 0:
-		sprite.set_animation("down")
-		sprite._set_playing(true)
+		facing = "down"
+	if not sprinting:
+		sprite.set_animation(facing)
+	else:
+		sprite.set_animation(str("sprint_" + facing))
+	sprite._set_playing(true)
 
 func update_healthbar():
 	for child in health_area.get_children():
@@ -127,6 +134,13 @@ func do_sprint_update_stamina_bar():
 	stamina_bar.max_value = max_stamina
 	stamina_bar.value = current_stamina
 	update_player()
+	
+func do_attack():
+	if can_move:
+		can_move = false
+		var anim = str("attack_" + facing)
+		sprite.set_animation(anim)
+		sprite._set_playing(true)
 		
 func take_damage(dmg):
 	current_health = clamp(current_health, 0, current_health - dmg)
@@ -156,3 +170,7 @@ func load_defaults():
 	sprint_stamina_cost = default_stats.sprint_stamina_cost
 	stamina_recovery_rate = default_stats.stamina_recovery_rate
 	out_of_stamina = default_stats.out_of_stamina
+
+func _on_sprite_animation_finished():
+	sprite.set_animation(facing)
+	can_move = true
