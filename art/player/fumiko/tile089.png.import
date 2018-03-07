@@ -7,10 +7,10 @@ path="res://.import/tile089.png-0b17bdf61182af151a788bb66a1654ec.stex"
 [deps]
 
 source_file="res://art/player/fumiko/tile089.png"
-source_md5="b267b71f49f85b38d105747d69c0673d"
+source_md5="caf1271d3483ca6bc9778d5952e70198"
 
 dest_files=[ "res://.import/tile089.png-0b17bdf61182af151a788bb66a1654ec.stex" ]
-dest_md5="d194ba86cd1bcd87fad3a6b1ba5dbd17"
+dest_md5="4637403bc1346ae359e335454432206c"
 
 [params]
 

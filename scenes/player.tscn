@@ -1,4 +1,4 @@
-[gd_scene load_steps=42 format=2]
+[gd_scene load_steps=40 format=2]
 
 [ext_resource path="res://scenes/player.gd" type="Script" id=1]
 [ext_resource path="res://art/player/fumiko/tile052.png" type="Texture" id=2]
@@ -13,30 +13,28 @@
 [ext_resource path="res://art/player/fumiko/tile106.png" type="Texture" id=11]
 [ext_resource path="res://art/player/fumiko/tile105a.png" type="Texture" id=12]
 [ext_resource path="res://art/player/fumiko/tile104.png" type="Texture" id=13]
-[ext_resource path="res://art/player/fumiko/tile120.png" type="Texture" id=14]
-[ext_resource path="res://art/player/fumiko/tile121.png" type="Texture" id=15]
-[ext_resource path="res://art/player/fumiko/tile122.png" type="Texture" id=16]
-[ext_resource path="res://art/player/fumiko/tile123.png" type="Texture" id=17]
-[ext_resource path="res://art/player/fumiko/tile086.png" type="Texture" id=18]
-[ext_resource path="res://art/player/fumiko/tile087.png" type="Texture" id=19]
-[ext_resource path="res://art/player/fumiko/tile088.png" type="Texture" id=20]
-[ext_resource path="res://art/player/fumiko/tile089.png" type="Texture" id=21]
-[ext_resource path="res://art/player/fumiko/tile070.png" type="Texture" id=22]
-[ext_resource path="res://art/player/fumiko/tile069.png" type="Texture" id=23]
-[ext_resource path="res://art/player/fumiko/tile068.png" type="Texture" id=24]
-[ext_resource path="res://art/player/fumiko/tile035.png" type="Texture" id=25]
-[ext_resource path="res://art/player/fumiko/tile034.png" type="Texture" id=26]
-[ext_resource path="res://art/player/fumiko/tile036.png" type="Texture" id=27]
-[ext_resource path="res://art/player/fumiko/tile054.png" type="Texture" id=28]
-[ext_resource path="res://art/player/fumiko/tile055.png" type="Texture" id=29]
-[ext_resource path="res://art/player/fumiko/tile056.png" type="Texture" id=30]
-[ext_resource path="res://art/player/fumiko/tile039.png" type="Texture" id=31]
-[ext_resource path="res://art/player/fumiko/tile037.png" type="Texture" id=32]
-[ext_resource path="res://art/player/fumiko/tile020.png" type="Texture" id=33]
-[ext_resource path="res://art/player/fumiko/tile021.png" type="Texture" id=34]
-[ext_resource path="res://art/player/fumiko/tile022.png" type="Texture" id=35]
-[ext_resource path="res://art/player/fumiko/tile003.png" type="Texture" id=36]
-[ext_resource path="res://art/player/fumiko/tile005.png" type="Texture" id=37]
+[ext_resource path="res://art/player/fumiko/attackLeft0.png" type="Texture" id=14]
+[ext_resource path="res://art/player/fumiko/attackLeft1.png" type="Texture" id=15]
+[ext_resource path="res://art/player/fumiko/attackLeft2.png" type="Texture" id=16]
+[ext_resource path="res://art/player/fumiko/tile087.png" type="Texture" id=17]
+[ext_resource path="res://art/player/fumiko/tile088.png" type="Texture" id=18]
+[ext_resource path="res://art/player/fumiko/tile089.png" type="Texture" id=19]
+[ext_resource path="res://art/player/fumiko/tile070.png" type="Texture" id=20]
+[ext_resource path="res://art/player/fumiko/tile069.png" type="Texture" id=21]
+[ext_resource path="res://art/player/fumiko/tile068.png" type="Texture" id=22]
+[ext_resource path="res://art/player/fumiko/tile035.png" type="Texture" id=23]
+[ext_resource path="res://art/player/fumiko/tile034.png" type="Texture" id=24]
+[ext_resource path="res://art/player/fumiko/tile036.png" type="Texture" id=25]
+[ext_resource path="res://art/player/fumiko/tile054.png" type="Texture" id=26]
+[ext_resource path="res://art/player/fumiko/tile055.png" type="Texture" id=27]
+[ext_resource path="res://art/player/fumiko/tile056.png" type="Texture" id=28]
+[ext_resource path="res://art/player/fumiko/tile039.png" type="Texture" id=29]
+[ext_resource path="res://art/player/fumiko/tile037.png" type="Texture" id=30]
+[ext_resource path="res://art/player/fumiko/tile020.png" type="Texture" id=31]
+[ext_resource path="res://art/player/fumiko/tile021.png" type="Texture" id=32]
+[ext_resource path="res://art/player/fumiko/tile022.png" type="Texture" id=33]
+[ext_resource path="res://art/player/fumiko/tile003.png" type="Texture" id=34]
+[ext_resource path="res://art/player/fumiko/tile005.png" type="Texture" id=35]
 
 [sub_resource type="SpriteFrames" id=1]
 
@@ -61,42 +59,42 @@ animations = [ {
 "name": "attack_down",
 "speed": 12.0
 }, {
-"frames": [ ExtResource( 14 ), ExtResource( 15 ), ExtResource( 16 ), ExtResource( 17 ) ],
+"frames": [ ExtResource( 14 ), ExtResource( 15 ), ExtResource( 16 ) ],
 "loop": false,
 "name": "attack_left",
-"speed": 5.0
+"speed": 12.0
 }, {
-"frames": [ ExtResource( 18 ), ExtResource( 19 ), ExtResource( 20 ), ExtResource( 21 ) ],
+"frames": [ ExtResource( 17 ), ExtResource( 18 ), ExtResource( 19 ) ],
 "loop": false,
 "name": "attack_right",
-"speed": 5.0
+"speed": 12.0
 }, {
-"frames": [ ExtResource( 22 ), ExtResource( 23 ), ExtResource( 24 ) ],
+"frames": [ ExtResource( 20 ), ExtResource( 21 ), ExtResource( 22 ) ],
 "loop": false,
 "name": "attack_up",
 "speed": 12.0
 }, {
-"frames": [ ExtResource( 25 ), ExtResource( 26 ), ExtResource( 25 ), ExtResource( 27 ) ],
+"frames": [ ExtResource( 23 ), ExtResource( 24 ), ExtResource( 23 ), ExtResource( 25 ) ],
 "loop": true,
 "name": "down",
 "speed": 5.0
 }, {
-"frames": [ ExtResource( 28 ), ExtResource( 29 ), ExtResource( 30 ), ExtResource( 29 ) ],
+"frames": [ ExtResource( 26 ), ExtResource( 27 ), ExtResource( 28 ), ExtResource( 27 ) ],
 "loop": true,
 "name": "sprint_left",
 "speed": 5.0
 }, {
-"frames": [ ExtResource( 27 ), ExtResource( 31 ), ExtResource( 26 ), ExtResource( 32 ) ],
+"frames": [ ExtResource( 25 ), ExtResource( 29 ), ExtResource( 24 ), ExtResource( 30 ) ],
 "loop": true,
 "name": "sprint_down",
 "speed": 5.0
 }, {
-"frames": [ ExtResource( 33 ), ExtResource( 34 ), ExtResource( 35 ), ExtResource( 34 ) ],
+"frames": [ ExtResource( 31 ), ExtResource( 32 ), ExtResource( 33 ), ExtResource( 32 ) ],
 "loop": true,
 "name": "sprint_right",
 "speed": 5.0
 }, {
-"frames": [ ExtResource( 9 ), ExtResource( 36 ), ExtResource( 10 ), ExtResource( 37 ) ],
+"frames": [ ExtResource( 9 ), ExtResource( 34 ), ExtResource( 10 ), ExtResource( 35 ) ],
 "loop": true,
 "name": "sprint_up",
 "speed": 5.0
@@ -105,7 +103,7 @@ animations = [ {
 [sub_resource type="RectangleShape2D" id=2]
 
 custom_solver_bias = 0.0
-extents = Vector2( 4, 4 )
+extents = Vector2( 5, 8 )
 
 [sub_resource type="StyleBoxFlat" id=3]
 
@@ -166,7 +164,6 @@ anti_aliasing_size = 1
 [node name="player" type="KinematicBody2D" index="0"]
 
 position = Vector2( 469, 300.386 )
-scale = Vector2( 3, 3 )
 input_pickable = true
 collision_layer = 1
 collision_mask = 1
@@ -178,14 +175,12 @@ _sections_unfolded = [ "Transform" ]
 
 position = Vector2( 0, -2 )
 frames = SubResource( 1 )
-animation = "attack_up"
-frame = 2
-playing = true
+animation = "down"
 _sections_unfolded = [ "Transform" ]
 
 [node name="collision" type="CollisionShape2D" parent="." index="1"]
 
-position = Vector2( 0, 2 )
+position = Vector2( 0, 4 )
 shape = SubResource( 2 )
 _sections_unfolded = [ "Transform" ]
 
@@ -242,7 +237,7 @@ audio_bus_name = "Master"
 
 [node name="collision2" type="CollisionShape2D" parent="area" index="0"]
 
-position = Vector2( 0.35849, 2 )
+position = Vector2( 0.35849, 4 )
 shape = SubResource( 2 )
 _sections_unfolded = [ "Transform" ]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tile106.png-fff5347a67227a7f7266682274900a1c.stex"
+path="res://.import/attackLeft1.png-7948365c6fac3b01ad77cb38646d4754.stex"
 
 [deps]
 
-source_file="res://art/player/fumiko/tile106.png"
-source_md5="6712702fe31ca92049c1860b4a964152"
+source_file="res://art/player/fumiko/attackLeft1.png"
+source_md5="bcd87df53e8469270deab71f172d0c29"
 
-dest_files=[ "res://.import/tile106.png-fff5347a67227a7f7266682274900a1c.stex" ]
-dest_md5="82805102979edc2bf94ab3b1dc0e93ec"
+dest_files=[ "res://.import/attackLeft1.png-7948365c6fac3b01ad77cb38646d4754.stex" ]
+dest_md5="dd2a279d83337a5dacdea25c334333c3"
 
 [params]
 

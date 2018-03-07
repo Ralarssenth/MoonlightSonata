@@ -29,11 +29,11 @@ func move_camera():
 
 func _on_door0_area_entered( area ):
 	game_manager.load_new_scene("overworld")
-	game_manager.set_player_location("well0_door", Vector2(0, -48))
+	game_manager.set_player_location("well0_door", Vector2(0, -75))
 
 func _on_door1_area_entered( area ):
 	game_manager.load_new_scene("overworld")
-	game_manager.set_player_location("well1_door", Vector2(0, -48))
+	game_manager.set_player_location("well1_door", Vector2(0, -75))
 
 func _on_locked_door0_area_entered( area ):
 	var opening = get_node("locked_door0/animation")
